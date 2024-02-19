@@ -127,7 +127,7 @@ td {
 	</h2>
 
 	<h3>
-		Generated on Sun, 4 Feb 2024 02:20:32
+		Generated on Sun, 18 Feb 2024 02:18:27
 	</h3>
 
 	<h3>
@@ -156,7 +156,7 @@ td {
 					<div>Medium</div>
 				</td>
 				<td align="center">
-					<div>2</div>
+					<div>3</div>
 				</td>
 			</tr>
 			<tr>
@@ -164,7 +164,7 @@ td {
 					<div>Low</div>
 				</td>
 				<td align="center">
-					<div>3</div>
+					<div>5</div>
 				</td>
 			</tr>
 			<tr>
@@ -208,6 +208,16 @@ td {
 				<td align="center">1</td>
 			</tr>
 			<tr>
+				<td><a href="#90003">Sub Resource Integrity Attribute Missing</a></td>
+				<td align="center" class="risk-2">Medium</td>
+				<td align="center">3</td>
+			</tr>
+			<tr>
+				<td><a href="#10017">Cross-Domain JavaScript Source File Inclusion</a></td>
+				<td align="center" class="risk-1">Low</td>
+				<td align="center">3</td>
+			</tr>
+			<tr>
 				<td><a href="#10063">Permissions Policy Header Not Set</a></td>
 				<td align="center" class="risk-1">Low</td>
 				<td align="center">6</td>
@@ -218,6 +228,11 @@ td {
 				<td align="center">8</td>
 			</tr>
 			<tr>
+				<td><a href="#10096">Timestamp Disclosure - Unix</a></td>
+				<td align="center" class="risk-1">Low</td>
+				<td align="center">2</td>
+			</tr>
+			<tr>
 				<td><a href="#10021">X-Content-Type-Options Header Missing</a></td>
 				<td align="center" class="risk-1">Low</td>
 				<td align="center">6</td>
@@ -225,7 +240,7 @@ td {
 			<tr>
 				<td><a href="#10094">Base64 Disclosure</a></td>
 				<td align="center" class="risk-0">Informational</td>
-				<td align="center">9</td>
+				<td align="center">7</td>
 			</tr>
 			<tr>
 				<td><a href="#10027">Information Disclosure - Suspicious Comments</a></td>
@@ -527,6 +542,295 @@ td {
 		
 			<table class="results">
 				<tr height="24">
+					<th width="20%" class="risk-2"><a
+						id="90003"></a>
+						<div>Medium</div></th>
+					<th class="risk-2">Sub Resource Integrity Attribute Missing</th>
+				</tr>
+				<tr>
+					<td width="20%">Description</td>
+					<td width="80%">
+							<div>The integrity attribute is missing on a script or link tag served by an external server. The integrity tag prevents an attacker who have gained access to this server from injecting a malicious content. </div>
+							
+						</td>
+				</tr>
+				<TR vAlign="top">
+					<TD colspan="2"></TD>
+				</TR>
+				
+					<tr>
+						<td width="20%"
+							class="indent1">URL</td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/">https://tous-connectes.anct.gouv.fr/</a></td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Method</td>
+						<td width="80%">GET</td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Parameter</td>
+						<td width="80%"></td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Attack</td>
+						<td width="80%"></td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Evidence</td>
+						<td width="80%">&lt;script defer data-domain=&quot;tous-connectes.anct.gouv.fr&quot; src=&quot;https://plausible.io/js/script.js&quot;&gt;&lt;/script&gt;</td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Other Info</td>
+						<td width="80%"></td>
+					</tr>
+				
+					<tr>
+						<td width="20%"
+							class="indent1">URL</td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/robots.txt">https://tous-connectes.anct.gouv.fr/robots.txt</a></td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Method</td>
+						<td width="80%">GET</td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Parameter</td>
+						<td width="80%"></td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Attack</td>
+						<td width="80%"></td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Evidence</td>
+						<td width="80%">&lt;script defer data-domain=&quot;tous-connectes.anct.gouv.fr&quot; src=&quot;https://plausible.io/js/script.js&quot;&gt;&lt;/script&gt;</td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Other Info</td>
+						<td width="80%"></td>
+					</tr>
+				
+					<tr>
+						<td width="20%"
+							class="indent1">URL</td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/sitemap.xml">https://tous-connectes.anct.gouv.fr/sitemap.xml</a></td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Method</td>
+						<td width="80%">GET</td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Parameter</td>
+						<td width="80%"></td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Attack</td>
+						<td width="80%"></td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Evidence</td>
+						<td width="80%">&lt;script defer data-domain=&quot;tous-connectes.anct.gouv.fr&quot; src=&quot;https://plausible.io/js/script.js&quot;&gt;&lt;/script&gt;</td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Other Info</td>
+						<td width="80%"></td>
+					</tr>
+				
+				<tr>
+					<td width="20%">Instances</td>
+					<td width="80%">3</td>
+				</tr>
+				<tr>
+					<td width="20%">Solution</td>
+					<td width="80%">
+							<div>Provide a valid integrity attribute to the tag.</div>
+							
+						</td>
+				</tr>
+				<tr>
+					<td width="20%">Reference</td>
+					<td width="80%">
+							<a href="https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity">https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity</a>
+							
+						</td>
+				</tr>
+				<tr>
+					<td width="20%">CWE Id</td>
+					<td width="80%"><a
+						href="https://cwe.mitre.org/data/definitions/345.html">345</a></td>
+				</tr>
+				<tr>
+					<td width="20%">WASC Id</td>
+					<td width="80%">15</td>
+				</tr>
+				<tr>
+					<td width="20%">Plugin Id</td>
+					<td width="80%"><a
+						href="https://www.zaproxy.org/docs/alerts/90003/">90003</a></td>
+				</tr>
+			</table>
+			<div class="spacer"></div>
+		
+			<table class="results">
+				<tr height="24">
+					<th width="20%" class="risk-1"><a
+						id="10017"></a>
+						<div>Low</div></th>
+					<th class="risk-1">Cross-Domain JavaScript Source File Inclusion</th>
+				</tr>
+				<tr>
+					<td width="20%">Description</td>
+					<td width="80%">
+							<div>The page includes one or more script files from a third-party domain.</div>
+							
+						</td>
+				</tr>
+				<TR vAlign="top">
+					<TD colspan="2"></TD>
+				</TR>
+				
+					<tr>
+						<td width="20%"
+							class="indent1">URL</td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/">https://tous-connectes.anct.gouv.fr/</a></td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Method</td>
+						<td width="80%">GET</td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Parameter</td>
+						<td width="80%">https://plausible.io/js/script.js</td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Attack</td>
+						<td width="80%"></td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Evidence</td>
+						<td width="80%">&lt;script defer data-domain=&quot;tous-connectes.anct.gouv.fr&quot; src=&quot;https://plausible.io/js/script.js&quot;&gt;&lt;/script&gt;</td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Other Info</td>
+						<td width="80%"></td>
+					</tr>
+				
+					<tr>
+						<td width="20%"
+							class="indent1">URL</td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/robots.txt">https://tous-connectes.anct.gouv.fr/robots.txt</a></td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Method</td>
+						<td width="80%">GET</td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Parameter</td>
+						<td width="80%">https://plausible.io/js/script.js</td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Attack</td>
+						<td width="80%"></td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Evidence</td>
+						<td width="80%">&lt;script defer data-domain=&quot;tous-connectes.anct.gouv.fr&quot; src=&quot;https://plausible.io/js/script.js&quot;&gt;&lt;/script&gt;</td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Other Info</td>
+						<td width="80%"></td>
+					</tr>
+				
+					<tr>
+						<td width="20%"
+							class="indent1">URL</td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/sitemap.xml">https://tous-connectes.anct.gouv.fr/sitemap.xml</a></td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Method</td>
+						<td width="80%">GET</td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Parameter</td>
+						<td width="80%">https://plausible.io/js/script.js</td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Attack</td>
+						<td width="80%"></td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Evidence</td>
+						<td width="80%">&lt;script defer data-domain=&quot;tous-connectes.anct.gouv.fr&quot; src=&quot;https://plausible.io/js/script.js&quot;&gt;&lt;/script&gt;</td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Other Info</td>
+						<td width="80%"></td>
+					</tr>
+				
+				<tr>
+					<td width="20%">Instances</td>
+					<td width="80%">3</td>
+				</tr>
+				<tr>
+					<td width="20%">Solution</td>
+					<td width="80%">
+							<div>Ensure JavaScript source files are loaded from only trusted sources, and the sources can&#39;t be controlled by end users of the application.</div>
+							
+						</td>
+				</tr>
+				<tr>
+					<td width="20%">Reference</td>
+					<td width="80%"></td>
+				</tr>
+				<tr>
+					<td width="20%">CWE Id</td>
+					<td width="80%"><a
+						href="https://cwe.mitre.org/data/definitions/829.html">829</a></td>
+				</tr>
+				<tr>
+					<td width="20%">WASC Id</td>
+					<td width="80%">15</td>
+				</tr>
+				<tr>
+					<td width="20%">Plugin Id</td>
+					<td width="80%"><a
+						href="https://www.zaproxy.org/docs/alerts/10017/">10017</a></td>
+				</tr>
+			</table>
+			<div class="spacer"></div>
+		
+			<table class="results">
+				<tr height="24">
 					<th width="20%" class="risk-1"><a
 						id="10063"></a>
 						<div>Low</div></th>
@@ -577,7 +881,7 @@ td {
 					<tr>
 						<td width="20%"
 							class="indent1">URL</td>
-						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/main.eb03380ad41eeb8c.js">https://tous-connectes.anct.gouv.fr/main.eb03380ad41eeb8c.js</a></td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/main.165a4139fa8133eb.js">https://tous-connectes.anct.gouv.fr/main.165a4139fa8133eb.js</a></td>
 					</tr>
 					<tr>
 						<td width="20%"
@@ -670,7 +974,7 @@ td {
 					<tr>
 						<td width="20%"
 							class="indent1">URL</td>
-						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/runtime.c21256ddd16535d3.js">https://tous-connectes.anct.gouv.fr/runtime.c21256ddd16535d3.js</a></td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/runtime.4f70a78542c79f40.js">https://tous-connectes.anct.gouv.fr/runtime.4f70a78542c79f40.js</a></td>
 					</tr>
 					<tr>
 						<td width="20%"
@@ -859,7 +1163,7 @@ td {
 					<tr>
 						<td width="20%"
 							class="indent1">URL</td>
-						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/main.eb03380ad41eeb8c.js">https://tous-connectes.anct.gouv.fr/main.eb03380ad41eeb8c.js</a></td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/main.165a4139fa8133eb.js">https://tous-connectes.anct.gouv.fr/main.165a4139fa8133eb.js</a></td>
 					</tr>
 					<tr>
 						<td width="20%"
@@ -952,7 +1256,7 @@ td {
 					<tr>
 						<td width="20%"
 							class="indent1">URL</td>
-						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/runtime.c21256ddd16535d3.js">https://tous-connectes.anct.gouv.fr/runtime.c21256ddd16535d3.js</a></td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/runtime.4f70a78542c79f40.js">https://tous-connectes.anct.gouv.fr/runtime.4f70a78542c79f40.js</a></td>
 					</tr>
 					<tr>
 						<td width="20%"
@@ -1014,7 +1318,7 @@ td {
 					<tr>
 						<td width="20%"
 							class="indent1">URL</td>
-						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/styles.261e64abdd45494c.css">https://tous-connectes.anct.gouv.fr/styles.261e64abdd45494c.css</a></td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/styles.98fafeed1d3ecc4f.css">https://tous-connectes.anct.gouv.fr/styles.98fafeed1d3ecc4f.css</a></td>
 					</tr>
 					<tr>
 						<td width="20%"
@@ -1085,6 +1389,121 @@ td {
 					<td width="20%">Plugin Id</td>
 					<td width="80%"><a
 						href="https://www.zaproxy.org/docs/alerts/10035/">10035</a></td>
+				</tr>
+			</table>
+			<div class="spacer"></div>
+		
+			<table class="results">
+				<tr height="24">
+					<th width="20%" class="risk-1"><a
+						id="10096"></a>
+						<div>Low</div></th>
+					<th class="risk-1">Timestamp Disclosure - Unix</th>
+				</tr>
+				<tr>
+					<td width="20%">Description</td>
+					<td width="80%">
+							<div>A timestamp was disclosed by the application/web server - Unix</div>
+							
+						</td>
+				</tr>
+				<TR vAlign="top">
+					<TD colspan="2"></TD>
+				</TR>
+				
+					<tr>
+						<td width="20%"
+							class="indent1">URL</td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/main.165a4139fa8133eb.js">https://tous-connectes.anct.gouv.fr/main.165a4139fa8133eb.js</a></td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Method</td>
+						<td width="80%">GET</td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Parameter</td>
+						<td width="80%"></td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Attack</td>
+						<td width="80%"></td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Evidence</td>
+						<td width="80%">1431655765</td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Other Info</td>
+						<td width="80%">1431655765, which evaluates to: 2015-05-15 02:09:25</td>
+					</tr>
+				
+					<tr>
+						<td width="20%"
+							class="indent1">URL</td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/main.165a4139fa8133eb.js">https://tous-connectes.anct.gouv.fr/main.165a4139fa8133eb.js</a></td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Method</td>
+						<td width="80%">GET</td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Parameter</td>
+						<td width="80%"></td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Attack</td>
+						<td width="80%"></td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Evidence</td>
+						<td width="80%">1540483477</td>
+					</tr>
+					<tr>
+						<td width="20%"
+							class="indent2">Other Info</td>
+						<td width="80%">1540483477, which evaluates to: 2018-10-25 16:04:37</td>
+					</tr>
+				
+				<tr>
+					<td width="20%">Instances</td>
+					<td width="80%">2</td>
+				</tr>
+				<tr>
+					<td width="20%">Solution</td>
+					<td width="80%">
+							<div>Manually confirm that the timestamp data is not sensitive, and that the data cannot be aggregated to disclose exploitable patterns.</div>
+							
+						</td>
+				</tr>
+				<tr>
+					<td width="20%">Reference</td>
+					<td width="80%">
+							<a href="https://cwe.mitre.org/data/definitions/200.html">https://cwe.mitre.org/data/definitions/200.html</a>
+							
+						</td>
+				</tr>
+				<tr>
+					<td width="20%">CWE Id</td>
+					<td width="80%"><a
+						href="https://cwe.mitre.org/data/definitions/200.html">200</a></td>
+				</tr>
+				<tr>
+					<td width="20%">WASC Id</td>
+					<td width="80%">13</td>
+				</tr>
+				<tr>
+					<td width="20%">Plugin Id</td>
+					<td width="80%"><a
+						href="https://www.zaproxy.org/docs/alerts/10096/">10096</a></td>
 				</tr>
 			</table>
 			<div class="spacer"></div>
@@ -1174,7 +1593,7 @@ At &quot;High&quot; threshold this scan rule will not alert on client or server 
 					<tr>
 						<td width="20%"
 							class="indent1">URL</td>
-						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/main.eb03380ad41eeb8c.js">https://tous-connectes.anct.gouv.fr/main.eb03380ad41eeb8c.js</a></td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/main.165a4139fa8133eb.js">https://tous-connectes.anct.gouv.fr/main.165a4139fa8133eb.js</a></td>
 					</tr>
 					<tr>
 						<td width="20%"
@@ -1238,7 +1657,7 @@ At &quot;High&quot; threshold this scan rule will not alert on client or server 
 					<tr>
 						<td width="20%"
 							class="indent1">URL</td>
-						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/runtime.c21256ddd16535d3.js">https://tous-connectes.anct.gouv.fr/runtime.c21256ddd16535d3.js</a></td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/runtime.4f70a78542c79f40.js">https://tous-connectes.anct.gouv.fr/runtime.4f70a78542c79f40.js</a></td>
 					</tr>
 					<tr>
 						<td width="20%"
@@ -1270,7 +1689,7 @@ At &quot;High&quot; threshold this scan rule will not alert on client or server 
 					<tr>
 						<td width="20%"
 							class="indent1">URL</td>
-						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/styles.261e64abdd45494c.css">https://tous-connectes.anct.gouv.fr/styles.261e64abdd45494c.css</a></td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/styles.98fafeed1d3ecc4f.css">https://tous-connectes.anct.gouv.fr/styles.98fafeed1d3ecc4f.css</a></td>
 					</tr>
 					<tr>
 						<td width="20%"
@@ -1381,18 +1800,18 @@ At &quot;High&quot; threshold this scan rule will not alert on client or server 
 					<tr>
 						<td width="20%"
 							class="indent2">Evidence</td>
-						<td width="80%">f7fODK79iHxzhO1fNVq3U+5IcQ4DtuVAbZ3aOVdGP5sXahcm/+Q6ndD3f0gavJGTxKAeqfSaPDA=</td>
+						<td width="80%">S1C3iaXkZvuiKy7IFofoRksV3DeyD9QgL1FNSf5lkUDpD9lHbC4xbdxyhsufZmzwd0yMgCOxYKw=</td>
 					</tr>
 					<tr>
 						<td width="20%"
 							class="indent2">Other Info</td>
-						<td width="80%">�����|s��_5Z�S�Hq��@m��9WF?�j&amp;��:���H���Ġ���&lt;0</td>
+						<td width="80%">KP����f��+.���FK�7�� /QMI�e�@��Gl.1m�r�˟fl�wL��#�`�</td>
 					</tr>
 				
 					<tr>
 						<td width="20%"
 							class="indent1">URL</td>
-						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/">https://tous-connectes.anct.gouv.fr/</a></td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/main.165a4139fa8133eb.js">https://tous-connectes.anct.gouv.fr/main.165a4139fa8133eb.js</a></td>
 					</tr>
 					<tr>
 						<td width="20%"
@@ -1412,74 +1831,12 @@ At &quot;High&quot; threshold this scan rule will not alert on client or server 
 					<tr>
 						<td width="20%"
 							class="indent2">Evidence</td>
-						<td width="80%">3xrud/Mcazf3e1G/+KfFNTXF1II47LFxU6vD2/fzUcsuWE+VmO7uWMzZnJSZkehFngg1k/Iw8eM=</td>
+						<td width="80%">JvcO/yE1ML9NmmwRVhRaNBSlsg77C+D4QYXCpTwS8nHO/FephkoN9aS/r+tCBjH2NbCUwMAcB6I=</td>
 					</tr>
 					<tr>
 						<td width="20%"
 							class="indent2">Other Info</td>
-						<td width="80%">��w�k7�{Q����55�Ԃ8�qS�����Q�.XO����X�ٜ����E�5��0��</td>
-					</tr>
-				
-					<tr>
-						<td width="20%"
-							class="indent1">URL</td>
-						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/favicon.ico">https://tous-connectes.anct.gouv.fr/favicon.ico</a></td>
-					</tr>
-					<tr>
-						<td width="20%"
-							class="indent2">Method</td>
-						<td width="80%">GET</td>
-					</tr>
-					<tr>
-						<td width="20%"
-							class="indent2">Parameter</td>
-						<td width="80%"></td>
-					</tr>
-					<tr>
-						<td width="20%"
-							class="indent2">Attack</td>
-						<td width="80%"></td>
-					</tr>
-					<tr>
-						<td width="20%"
-							class="indent2">Evidence</td>
-						<td width="80%">+YLjll2/RFdXoJxw5+7qs2Sm0f7xntxD552sE2H6YkHc69YGRos3SKxXAaqKStOFPVjYginZUWU=</td>
-					</tr>
-					<tr>
-						<td width="20%"
-							class="indent2">Other Info</td>
-						<td width="80%">���]�DWW��p���d�����C睬a�bA���F�7H�W��JӅ=X؂)�Qe</td>
-					</tr>
-				
-					<tr>
-						<td width="20%"
-							class="indent1">URL</td>
-						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/main.eb03380ad41eeb8c.js">https://tous-connectes.anct.gouv.fr/main.eb03380ad41eeb8c.js</a></td>
-					</tr>
-					<tr>
-						<td width="20%"
-							class="indent2">Method</td>
-						<td width="80%">GET</td>
-					</tr>
-					<tr>
-						<td width="20%"
-							class="indent2">Parameter</td>
-						<td width="80%"></td>
-					</tr>
-					<tr>
-						<td width="20%"
-							class="indent2">Attack</td>
-						<td width="80%"></td>
-					</tr>
-					<tr>
-						<td width="20%"
-							class="indent2">Evidence</td>
-						<td width="80%">SaC6zxP8YyV3XLq3AHRraiyE2/W4dQGRViWjZyqXBtP5a5ACgaQ/lD/vKza5pjeE07xdvppCg5E=</td>
-					</tr>
-					<tr>
-						<td width="20%"
-							class="indent2">Other Info</td>
-						<td width="80%">I����c%w\�� tkj,����u�V%�g*���k���?�?�+6��7�Ӽ]��B��</td>
+						<td width="80%">&amp;��!50�M�lVZ4�����A�¥&lt;�q��W��J�����B1�5�����</td>
 					</tr>
 				
 					<tr>
@@ -1505,12 +1862,13 @@ At &quot;High&quot; threshold this scan rule will not alert on client or server 
 					<tr>
 						<td width="20%"
 							class="indent2">Evidence</td>
-						<td width="80%">5GHYM1O8iDm1YcCJBORFjcJ4X/imlTdrczxQwaIOfBHtpPqV5EfbQjIjYD2x360iYS8LadC8DKE=</td>
+						<td width="80%">Xejj4m+KxhIXmJohFXRvm7qbzrOCn81RKPvWgS4lfum8FjKgQkKd1wiLLeb043pOCtLf8JQI9q8=</td>
 					</tr>
 					<tr>
 						<td width="20%"
 							class="indent2">Other Info</td>
-						<td width="80%">�a�3S��9�a���E��x_���7ks&lt;P��|����G�B2#`=�߭&quot;a/iм�</td>
+						<td width="80%">]���o����!to���γ���Q(�ց.%~�2�BB���-���zN
+�����</td>
 					</tr>
 				
 					<tr>
@@ -1536,18 +1894,18 @@ At &quot;High&quot; threshold this scan rule will not alert on client or server 
 					<tr>
 						<td width="20%"
 							class="indent2">Evidence</td>
-						<td width="80%">Fash+Pz6ztojx4ouma4RfXtuC0Q9IyDI7GPAGy6VtwvfDSxj2EP3W6JPkX7+1HkRdfDThfx63+E=</td>
+						<td width="80%">ZqQNaatqqoAnzjX0LJZl40jlfSf9q7ldf2xcuzi7DAG9hbiLVI4ST3b5TBHxRdqYR2dDOoCLPzg=</td>
 					</tr>
 					<tr>
 						<td width="20%"
 							class="indent2">Other Info</td>
-						<td width="80%">�!�����#Ǌ.��}{nD=# ��c�.���,c�C�[�O�~��yu�Ӆ�z��</td>
+						<td width="80%">f�i�j��&#39;�5�,�e�H�}&#39;���]l\�8�����T�Ov�L�EژGgC:��?8</td>
 					</tr>
 				
 					<tr>
 						<td width="20%"
 							class="indent1">URL</td>
-						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/runtime.c21256ddd16535d3.js">https://tous-connectes.anct.gouv.fr/runtime.c21256ddd16535d3.js</a></td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/runtime.4f70a78542c79f40.js">https://tous-connectes.anct.gouv.fr/runtime.4f70a78542c79f40.js</a></td>
 					</tr>
 					<tr>
 						<td width="20%"
@@ -1567,12 +1925,13 @@ At &quot;High&quot; threshold this scan rule will not alert on client or server 
 					<tr>
 						<td width="20%"
 							class="indent2">Evidence</td>
-						<td width="80%">nFDIp3nICNQHxk74yHHTyUqKVbqHC3+FHIeyqvf6vVVOkQJh7L3xU4ytbxVYsW4N3Vfyb5U0cHQ=</td>
+						<td width="80%">qsz01igSyhKLYWJZYf0Y3178yFs3V8A6L0beBmF86hl7YeqCrQpQtjq75QuF1cvnjBTSqPKzQgk=</td>
 					</tr>
 					<tr>
 						<td width="20%"
 							class="indent2">Other Info</td>
-						<td width="80%">�Pȧy���N��q��J�U���������UN�a��S��oX�n�W�o�4pt</td>
+						<td width="80%">����(��abYa��^��[7W�:/F�a|�{aꂭ
+P�:������Ҩ�B	</td>
 					</tr>
 				
 					<tr>
@@ -1598,18 +1957,19 @@ At &quot;High&quot; threshold this scan rule will not alert on client or server 
 					<tr>
 						<td width="20%"
 							class="indent2">Evidence</td>
-						<td width="80%">uCodgNe2MB/uL1QdKs+KhC8c64ub0L3DVdh0mhdiE/drVlOEWLI4rk9Ux31F+qHpmeMYAzD8HvU=</td>
+						<td width="80%">hXOyg3sMHQZLBgwAavhYk9iRDh6bsitzKwSJiLAY6vQpa0C4uAtKOOTGQCMKRLDD8vNawnGMPgw=</td>
 					</tr>
 					<tr>
 						<td width="20%"
 							class="indent2">Other Info</td>
-						<td width="80%">�*�׶0�/T*ϊ�/닛н�U�t�b�kVS�X�8�OT�}E����0��</td>
+						<td width="80%">�s��{K j�X�ؑ��+s+�����)k@��J8��@#
+D����Z�q�&gt;</td>
 					</tr>
 				
 					<tr>
 						<td width="20%"
 							class="indent1">URL</td>
-						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/styles.261e64abdd45494c.css">https://tous-connectes.anct.gouv.fr/styles.261e64abdd45494c.css</a></td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/styles.98fafeed1d3ecc4f.css">https://tous-connectes.anct.gouv.fr/styles.98fafeed1d3ecc4f.css</a></td>
 					</tr>
 					<tr>
 						<td width="20%"
@@ -1629,17 +1989,17 @@ At &quot;High&quot; threshold this scan rule will not alert on client or server 
 					<tr>
 						<td width="20%"
 							class="indent2">Evidence</td>
-						<td width="80%">fZaqr5fk3gBhQ5wxvM5i4vJDGFhX5MnBkHx5x/+0KXcTDROvO6Pm8SFyOSzvGd3i0N49N6QYLfc=</td>
+						<td width="80%">sfyAqfN05wXH7DChAVT5BWIUqEkWJPLtHD4cX9rBUbv3t6jDNOhi1NEmrAHY8l1ivJBnk//AK3A=</td>
 					</tr>
 					<tr>
 						<td width="20%"
 							class="indent2">Other Info</td>
-						<td width="80%">}������ aC�1��b��CXW����|y���)w�;���!r9,�����=7�-�</td>
+						<td width="80%">�����t���0�T�b�I$��&gt;_��Q�����4�b��&amp;���]b��g���+p</td>
 					</tr>
 				
 				<tr>
 					<td width="20%">Instances</td>
-					<td width="80%">9</td>
+					<td width="80%">7</td>
 				</tr>
 				<tr>
 					<td width="20%">Solution</td>
@@ -1693,7 +2053,7 @@ At &quot;High&quot; threshold this scan rule will not alert on client or server 
 					<tr>
 						<td width="20%"
 							class="indent1">URL</td>
-						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/main.eb03380ad41eeb8c.js">https://tous-connectes.anct.gouv.fr/main.eb03380ad41eeb8c.js</a></td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/main.165a4139fa8133eb.js">https://tous-connectes.anct.gouv.fr/main.165a4139fa8133eb.js</a></td>
 					</tr>
 					<tr>
 						<td width="20%"
@@ -1718,7 +2078,7 @@ At &quot;High&quot; threshold this scan rule will not alert on client or server 
 					<tr>
 						<td width="20%"
 							class="indent2">Other Info</td>
-						<td width="80%">The following pattern was used: \bQUERY\b and was detected in the element starting with: &quot;&quot;use strict&quot;;(self.webpackChunkinfra_num_front=self.webpackChunkinfra_num_front||[]).push([[179],{1405:(pt,we,P)=&gt;{P.d(we,{y:()=&quot;, see evidence field for the suspicious comment/snippet.</td>
+						<td width="80%">The following pattern was used: \bQUERY\b and was detected in the element starting with: &quot;(self.webpackChunkinfra_num_front=self.webpackChunkinfra_num_front||[]).push([[179],{1405:(Ln,St,q)=&gt;{&quot;use strict&quot;;q.d(St,{y:()=&quot;, see evidence field for the suspicious comment/snippet.</td>
 					</tr>
 				
 				<tr>
@@ -1794,7 +2154,7 @@ At &quot;High&quot; threshold this scan rule will not alert on client or server 
 					<tr>
 						<td width="20%"
 							class="indent2">Evidence</td>
-						<td width="80%">&lt;script src=&quot;runtime.c21256ddd16535d3.js&quot; type=&quot;module&quot; crossorigin=&quot;anonymous&quot; integrity=&quot;sha384-v0buTyqiBxn0A6BmyCctAf1jxokoM6dB9PUYfnOI2ldCEtGsR77OKHuZ+p+lUgGX&quot;&gt;&lt;/script&gt;</td>
+						<td width="80%">&lt;script defer data-domain=&quot;tous-connectes.anct.gouv.fr&quot; src=&quot;https://plausible.io/js/script.js&quot;&gt;&lt;/script&gt;</td>
 					</tr>
 					<tr>
 						<td width="20%"
@@ -1825,7 +2185,7 @@ At &quot;High&quot; threshold this scan rule will not alert on client or server 
 					<tr>
 						<td width="20%"
 							class="indent2">Evidence</td>
-						<td width="80%">&lt;script src=&quot;runtime.c21256ddd16535d3.js&quot; type=&quot;module&quot; crossorigin=&quot;anonymous&quot; integrity=&quot;sha384-v0buTyqiBxn0A6BmyCctAf1jxokoM6dB9PUYfnOI2ldCEtGsR77OKHuZ+p+lUgGX&quot;&gt;&lt;/script&gt;</td>
+						<td width="80%">&lt;script defer data-domain=&quot;tous-connectes.anct.gouv.fr&quot; src=&quot;https://plausible.io/js/script.js&quot;&gt;&lt;/script&gt;</td>
 					</tr>
 					<tr>
 						<td width="20%"
@@ -1856,7 +2216,7 @@ At &quot;High&quot; threshold this scan rule will not alert on client or server 
 					<tr>
 						<td width="20%"
 							class="indent2">Evidence</td>
-						<td width="80%">&lt;script src=&quot;runtime.c21256ddd16535d3.js&quot; type=&quot;module&quot; crossorigin=&quot;anonymous&quot; integrity=&quot;sha384-v0buTyqiBxn0A6BmyCctAf1jxokoM6dB9PUYfnOI2ldCEtGsR77OKHuZ+p+lUgGX&quot;&gt;&lt;/script&gt;</td>
+						<td width="80%">&lt;script defer data-domain=&quot;tous-connectes.anct.gouv.fr&quot; src=&quot;https://plausible.io/js/script.js&quot;&gt;&lt;/script&gt;</td>
 					</tr>
 					<tr>
 						<td width="20%"
@@ -2068,7 +2428,7 @@ At &quot;High&quot; threshold this scan rule will not alert on client or server 
 					<tr>
 						<td width="20%"
 							class="indent1">URL</td>
-						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/runtime.c21256ddd16535d3.js">https://tous-connectes.anct.gouv.fr/runtime.c21256ddd16535d3.js</a></td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/runtime.4f70a78542c79f40.js">https://tous-connectes.anct.gouv.fr/runtime.4f70a78542c79f40.js</a></td>
 					</tr>
 					<tr>
 						<td width="20%"
@@ -2214,7 +2574,7 @@ At &quot;High&quot; threshold this scan rule will not alert on client or server 
 					<tr>
 						<td width="20%"
 							class="indent1">URL</td>
-						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/runtime.c21256ddd16535d3.js">https://tous-connectes.anct.gouv.fr/runtime.c21256ddd16535d3.js</a></td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/runtime.4f70a78542c79f40.js">https://tous-connectes.anct.gouv.fr/runtime.4f70a78542c79f40.js</a></td>
 					</tr>
 					<tr>
 						<td width="20%"
@@ -2360,7 +2720,7 @@ At &quot;High&quot; threshold this scan rule will not alert on client or server 
 					<tr>
 						<td width="20%"
 							class="indent1">URL</td>
-						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/runtime.c21256ddd16535d3.js">https://tous-connectes.anct.gouv.fr/runtime.c21256ddd16535d3.js</a></td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/runtime.4f70a78542c79f40.js">https://tous-connectes.anct.gouv.fr/runtime.4f70a78542c79f40.js</a></td>
 					</tr>
 					<tr>
 						<td width="20%"
@@ -2506,7 +2866,7 @@ At &quot;High&quot; threshold this scan rule will not alert on client or server 
 					<tr>
 						<td width="20%"
 							class="indent1">URL</td>
-						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/runtime.c21256ddd16535d3.js">https://tous-connectes.anct.gouv.fr/runtime.c21256ddd16535d3.js</a></td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/runtime.4f70a78542c79f40.js">https://tous-connectes.anct.gouv.fr/runtime.4f70a78542c79f40.js</a></td>
 					</tr>
 					<tr>
 						<td width="20%"
@@ -2652,7 +3012,7 @@ At &quot;High&quot; threshold this scan rule will not alert on client or server 
 					<tr>
 						<td width="20%"
 							class="indent1">URL</td>
-						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/main.eb03380ad41eeb8c.js">https://tous-connectes.anct.gouv.fr/main.eb03380ad41eeb8c.js</a></td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/main.165a4139fa8133eb.js">https://tous-connectes.anct.gouv.fr/main.165a4139fa8133eb.js</a></td>
 					</tr>
 					<tr>
 						<td width="20%"
@@ -2745,7 +3105,7 @@ At &quot;High&quot; threshold this scan rule will not alert on client or server 
 					<tr>
 						<td width="20%"
 							class="indent1">URL</td>
-						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/runtime.c21256ddd16535d3.js">https://tous-connectes.anct.gouv.fr/runtime.c21256ddd16535d3.js</a></td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/runtime.4f70a78542c79f40.js">https://tous-connectes.anct.gouv.fr/runtime.4f70a78542c79f40.js</a></td>
 					</tr>
 					<tr>
 						<td width="20%"
@@ -2807,7 +3167,7 @@ At &quot;High&quot; threshold this scan rule will not alert on client or server 
 					<tr>
 						<td width="20%"
 							class="indent1">URL</td>
-						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/styles.261e64abdd45494c.css">https://tous-connectes.anct.gouv.fr/styles.261e64abdd45494c.css</a></td>
+						<td width="80%"><a href="https://tous-connectes.anct.gouv.fr/styles.98fafeed1d3ecc4f.css">https://tous-connectes.anct.gouv.fr/styles.98fafeed1d3ecc4f.css</a></td>
 					</tr>
 					<tr>
 						<td width="20%"
