@@ -16,7 +16,7 @@ tools:
   lighthouse: true
   thirdparties: true
   nuclei: false
-  updownio: true
+  updownio: false
   dependabot: true
   codescan: true
   stats: false
