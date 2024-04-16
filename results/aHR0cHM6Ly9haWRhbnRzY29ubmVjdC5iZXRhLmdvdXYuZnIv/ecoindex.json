@@ -3,7 +3,7 @@
         "width": 1920,
         "height": 1080,
         "url": "https://aidantsconnect.beta.gouv.fr/",
-        "size": 809.967,
+        "size": 810.179,
         "nodes": 375,
         "requests": 47,
         "grade": "C",
@@ -11,7 +11,7 @@
         "ges": 1.6,
         "water": 2.4,
         "ecoindex_version": "5.4.2",
-        "date": "2024-04-14 00:52:41.233234",
+        "date": "2024-04-16 13:42:25.566994",
         "page_type": null
     }
 ]
