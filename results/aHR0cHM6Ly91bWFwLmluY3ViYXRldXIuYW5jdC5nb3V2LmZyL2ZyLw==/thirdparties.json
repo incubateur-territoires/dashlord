@@ -2,6 +2,22 @@
   "trackers": [
     {
       "type": "unknown",
+      "url": "https://data.geopf.fr/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=ORTHOIMAGERY.ORTHOPHOTOS&STYLE=normal&TILEMATRIXSET=PM&TILEMATRIX=18&TILEROW=89579&TILECOL=131164&FORMAT=image%2Fjpeg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://data.geopf.fr/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=ORTHOIMAGERY.ORTHOPHOTOS&STYLE=normal&TILEMATRIXSET=PM&TILEMATRIX=18&TILEROW=89579&TILECOL=131165&FORMAT=image%2Fjpeg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://data.geopf.fr/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=ORTHOIMAGERY.ORTHOPHOTOS&STYLE=normal&TILEMATRIXSET=PM&TILEMATRIX=18&TILEROW=89580&TILECOL=131164&FORMAT=image%2Fjpeg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://data.geopf.fr/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=ORTHOIMAGERY.ORTHOPHOTOS&STYLE=normal&TILEMATRIXSET=PM&TILEMATRIX=18&TILEROW=89580&TILECOL=131165&FORMAT=image%2Fjpeg"
+    },
+    {
+      "type": "unknown",
       "url": "https://data.geopf.fr/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2&STYLE=normal&TILEMATRIXSET=PM&TILEMATRIX=8&TILEROW=88&TILECOL=128&FORMAT=image%2Fpng"
     },
     {
@@ -20,7 +36,7 @@
   "cookies": [],
   "headers": {
     "content-language": "fr",
-    "content-length": "37472",
+    "content-length": "38170",
     "content-type": "text/html; charset=utf-8",
     "referrer-policy": "same-origin",
     "vary": "Cookie"
