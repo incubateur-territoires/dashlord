@@ -360,7 +360,7 @@
               "ip"           : "adresse.data.gouv.fr/146.59.188.210",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "36 >= 30 days"
+              "finding"      : "33 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -528,7 +528,7 @@
               "ip"           : "adresse.data.gouv.fr/146.59.188.210",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1713055740"
+              "finding"      : "1713274772"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -663,7 +663,7 @@
               "severity"     : "MEDIUM",
               "cve"          : "CVE-2013-3587",
               "cwe"          : "CWE-310",
-              "finding"      : "potentially VULNERABLE, gzip deflate HTTP compression detected  - only supplied '/' tested"
+              "finding"      : "potentially VULNERABLE, gzip HTTP compression detected  - only supplied '/' tested"
           }
 ,         {
               "id"           : "POODLE_SSL",
@@ -1091,6 +1091,6 @@
               "ip"           : "adresse.data.gouv.fr/146.59.188.210",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "102"
+              "finding"      : "73"
           }
 ]
