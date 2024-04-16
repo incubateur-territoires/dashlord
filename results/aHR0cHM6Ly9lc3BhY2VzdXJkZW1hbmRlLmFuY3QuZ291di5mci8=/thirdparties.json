@@ -29,7 +29,7 @@
     "accept-ranges": "none",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 14 Apr 2024 00:31:13 GMT",
+    "date": "Tue, 16 Apr 2024 13:20:52 GMT",
     "etag": "\"de0-V0mZtR9pnP66Z8FZKs75gXbrGiw\"",
     "referrer-policy": "no-referrer",
     "strict-transport-security": "max-age=31536000",
@@ -137,7 +137,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "172.253.122.95",
+      "ip": "142.250.190.10",
       "geoip": {
         "continent": {
           "code": "NA",
