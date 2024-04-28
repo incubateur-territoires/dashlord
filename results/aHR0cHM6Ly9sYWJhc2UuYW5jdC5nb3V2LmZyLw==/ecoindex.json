@@ -3,7 +3,7 @@
         "width": 1920,
         "height": 1080,
         "url": "https://labase.anct.gouv.fr/",
-        "size": 1191.266,
+        "size": 1191.431,
         "nodes": 433,
         "requests": 64,
         "grade": "C",
@@ -11,7 +11,7 @@
         "ges": 1.78,
         "water": 2.67,
         "ecoindex_version": "5.4.2",
-        "date": "2024-04-21 01:03:47.592801",
+        "date": "2024-04-28 01:07:31.308299",
         "page_type": null
     }
 ]
