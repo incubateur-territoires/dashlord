@@ -234,14 +234,14 @@
               "ip"           : "solutionsdelus.gouv.fr/51.159.9.204",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
               "ip"           : "solutionsdelus.gouv.fr/51.159.9.204",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "off by 0 seconds from your localtime"
+              "finding"      : "off by -1 seconds from your localtime"
           }
 ,         {
               "id"           : "certificate_compression",
@@ -374,7 +374,7 @@
               "ip"           : "solutionsdelus.gouv.fr/51.159.9.204",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "58 >= 30 days"
+              "finding"      : "51 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -535,7 +535,7 @@
               "ip"           : "solutionsdelus.gouv.fr/51.159.9.204",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1714266107"
+              "finding"      : "1714871061"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1149,6 +1149,6 @@
               "ip"           : "solutionsdelus.gouv.fr/51.159.9.204",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "82"
+              "finding"      : "139"
           }
 ]
