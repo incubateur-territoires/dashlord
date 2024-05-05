@@ -373,8 +373,8 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "labase.anct.gouv.fr/51.255.172.124",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "32 >= 30 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 30 days (25)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -387,7 +387,7 @@
               "id"           : "cert_notAfter",
               "ip"           : "labase.anct.gouv.fr/51.255.172.124",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2024-05-30 04:57"
           }
 ,         {
@@ -535,7 +535,7 @@
               "ip"           : "labase.anct.gouv.fr/51.255.172.124",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1714266693"
+              "finding"      : "1714871538"
           }
 ,         {
               "id"           : "HSTS",
@@ -1091,6 +1091,6 @@
               "ip"           : "labase.anct.gouv.fr/51.255.172.124",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "53"
+              "finding"      : "100"
           }
 ]
