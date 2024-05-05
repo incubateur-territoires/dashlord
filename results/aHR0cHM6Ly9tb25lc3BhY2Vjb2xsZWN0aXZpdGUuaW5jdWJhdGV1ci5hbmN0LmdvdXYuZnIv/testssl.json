@@ -269,7 +269,7 @@
               "ip"           : "monespacecollectivite.incubateur.anct.gouv.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "040A34BD6080C5B7F7532D647541C4463297"
+              "finding"      : "04DBBE197CF2A73DA1D322AC6E9347E619A8"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -283,21 +283,21 @@
               "ip"           : "monespacecollectivite.incubateur.anct.gouv.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "6E20A8DAD5F0E01CF832091AD1C8895134679D19"
+              "finding"      : "67DDC79229C92CE9E41EBFD9BAAEFD9BB455CC4E"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "monespacecollectivite.incubateur.anct.gouv.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "00E5B7C08F3D9B7B74C1F8BE47E52123B2951235DD5833EBD3DF4B908467DA05"
+              "finding"      : "2952762FEDD7EE6B2C10A750E88F93002ADE7CF1220C94208AC4D21107F77105"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "monespacecollectivite.incubateur.anct.gouv.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFKTCCBBGgAwIBAgISBAo0vWCAxbf3Uy1kdUHERjKXMA0GCSqGSIb3DQEBCwUAMDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJSMzAeFw0yNDAzMDQwODE1MDRaFw0yNDA2MDIwODE1MDNaMDgxNjA0BgNVBAMTLW1vbmVzcGFjZWNvbGxlY3Rpdml0ZS5pbmN1YmF0ZXVyLmFuY3QuZ291di5mcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMUB1luakqZPUgNg8dcsTV59Ciso7eJnGjfdu6zI9CO03VwpSJQRw3XDncAepY6ZIXIUA+4BF7VoZ2bnXHWER6dtJkvKnYTU8/lx2YjEyQOaFM5RJSoPt5pmhhDME0F+B52ZhZes8bBiFSdGpdhe2ANUWIptGNr4zWy66gAsjGFeDxUZrtG4EVy0nRlLIqN2QIzqvK97VbR83o56E4owiRazkcj81WLdjKSQsmojWnS2+LzlaH1YaGsIEqs6rdlwHNE1UYPphdvrTqQeU4sSXlsk4WftQ07Td3NpJiRD/kYQSdPdUxR6PAClxKxO7+Q/Pr2wayns6+idQX0FSbMatYsCAwEAAaOCAjEwggItMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUfYoIUeSwO4qcEKjIaczidpdbhlwwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wOAYDVR0RBDEwL4ItbW9uZXNwYWNlY29sbGVjdGl2aXRlLmluY3ViYXRldXIuYW5jdC5nb3V2LmZyMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBgYKKwYBBAHWeQIEAgSB9wSB9ADyAHcAO1N3dT4tuYBOizBbBv5AO2fYT8P0x70ADS1yb+H61BcAAAGOCL7KAAAABAMASDBGAiEAwbG7by16BnWg1yL8Y296/d9rb2bp35WyJMQmm8dYBMkCIQCXg5f2tGqOZ1iadRyeuus40QjbrfJUGp54BryczehHLgB3AHb/iD8KtvuVUcJhzPWHujS0pM27KdxoQgqf5mdMWjp0AAABjgi+yisAAAQDAEgwRgIhAL+r29tFO8mPzGxt6d+hH7QpwNz7mOO64PaqkrASXJiOAiEA0dQpDnE1LV/1G9Spn/lLikvApAUiL2ylu+ZxGvlalpYwDQYJKoZIhvcNAQELBQADggEBAKNR06Cw7vKTG/X3LvwBrUQ3aJg85TO6NK/Q88PvEhrNAHZKieKvdlOcLZZELPXPYaFPYUmI7uDyeNTAUBa1Ak3LrIJMipw/xjA1X5yra8FrGxDzk6evxRG/n0qDB3iW6gT+ZK3FNuDq2W+5NaEgv1Wpu5yt5kt4i8gJ0Af0miifO15k6ZRK+TMq1+Y8+I7n78gfH7gtlCWAwPVGGebD5XJoFlBNLIhMiJ70vzbQVT/O946UxYXvOLKHaf2envTLQWZZe/1S4qQr222Unr72oBKec8ZLsHofebliVKFPje6LixrufzCmJnfRWARoaQTMlRe2HRMQVLlEQOtOpMhcBas=\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFJjCCBA6gAwIBAgISBNu+GXzypz2h0yKsbpNH5hmoMA0GCSqGSIb3DQEBCwUAMDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJSMzAeFw0yNDA1MDQwNjM2NTNaFw0yNDA4MDIwNjM2NTJaMDgxNjA0BgNVBAMTLW1vbmVzcGFjZWNvbGxlY3Rpdml0ZS5pbmN1YmF0ZXVyLmFuY3QuZ291di5mcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMUB1luakqZPUgNg8dcsTV59Ciso7eJnGjfdu6zI9CO03VwpSJQRw3XDncAepY6ZIXIUA+4BF7VoZ2bnXHWER6dtJkvKnYTU8/lx2YjEyQOaFM5RJSoPt5pmhhDME0F+B52ZhZes8bBiFSdGpdhe2ANUWIptGNr4zWy66gAsjGFeDxUZrtG4EVy0nRlLIqN2QIzqvK97VbR83o56E4owiRazkcj81WLdjKSQsmojWnS2+LzlaH1YaGsIEqs6rdlwHNE1UYPphdvrTqQeU4sSXlsk4WftQ07Td3NpJiRD/kYQSdPdUxR6PAClxKxO7+Q/Pr2wayns6+idQX0FSbMatYsCAwEAAaOCAi4wggIqMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUfYoIUeSwO4qcEKjIaczidpdbhlwwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wOAYDVR0RBDEwL4ItbW9uZXNwYWNlY29sbGVjdGl2aXRlLmluY3ViYXRldXIuYW5jdC5nb3V2LmZyMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYA3+FW66oFr7WcD4ZxjajAMk6uVtlup/WlagHRwTu+UlwAAAGPQojR3QAABAMARzBFAiABo+BBY2y/0FEOkiqaBaUTYduJS7Dtyop5zSIqLBOy4gIhAIi0idCHQiIDFBaLQ/SGA80jP67vyYwDF+Mpsdu4VVB3AHUASLDja9qmRzQP5WoC+p0w6xxSActW3SyB2bu/qznYhHMAAAGPQojRGwAABAMARjBEAiB+dHE6nX/L+AvToO/kqpS7QdHi6AdKdIb115g+eHLxnwIgCEts1KpEcaaENnZcn55eP6GlVvmLXJ1xeoonTTDMz04wDQYJKoZIhvcNAQELBQADggEBAD4UINXClTiod49GjsVgv0PCyoXL6BiiDVylfL11TrTwxZoche1NkGxIazDQ01ps5mN24em8D9Z2Ph+OCTPYmf4lF6P8fTvM/bpX5hmpJWU06uVzoOsu0n5Uiqa+ZFFmTbwQlKxSk1IkB3+EVBKmklwR+DDns4+/6TWWGGUCv6r7WM2THpwyGxLEFuBBqFiouIwcQ3UoA1gcrqqtd0X2bgyedo8k21IUbqIYbNdXapGJVCvAU4QKXpRtf8zdbjAackBoOBYwVhqzdcrrgnN5GFsiX6Ci+CHQxSrFpYqoWGhtR3n2qPdyGFjDQS2JXx+tjBPshOW3OEOqzLKNtKT+am8=\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -346,21 +346,21 @@
               "ip"           : "monespacecollectivite.incubateur.anct.gouv.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "35 >= 30 days"
+              "finding"      : "89 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "monespacecollectivite.incubateur.anct.gouv.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-03-04 08:15"
+              "finding"      : "2024-05-04 06:36"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "monespacecollectivite.incubateur.anct.gouv.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2024-06-02 08:15"
+              "finding"      : "2024-08-02 06:36"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -507,7 +507,7 @@
               "ip"           : "monespacecollectivite.incubateur.anct.gouv.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1714265236"
+              "finding"      : "1714870155"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -708,7 +708,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=00E5B7C08F3D9B7B74C1F8BE47E52123B2951235DD5833EBD3DF4B908467DA05"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=2952762FEDD7EE6B2C10A750E88F93002ADE7CF1220C94208AC4D21107F77105"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -1084,6 +1084,6 @@
               "ip"           : "monespacecollectivite.incubateur.anct.gouv.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "51"
+              "finding"      : "50"
           }
 ]
