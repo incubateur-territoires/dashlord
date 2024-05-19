@@ -206,7 +206,7 @@
               "ip"           : "umap.incubateur.anct.gouv.fr/51.159.10.161",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -269,7 +269,7 @@
               "ip"           : "umap.incubateur.anct.gouv.fr/51.159.10.161",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "035EDCB01AA5DE87ECA885E716AC447AFEA0"
+              "finding"      : "04D9DB01D4FD13AA892A1EA8347BAD7BDC67"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -283,21 +283,21 @@
               "ip"           : "umap.incubateur.anct.gouv.fr/51.159.10.161",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "129E2D13291DDB9F0606EDBF73F2C2F198D788CC"
+              "finding"      : "81A3682D659FC075D05D1AC451BABF718A26D0FF"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "umap.incubateur.anct.gouv.fr/51.159.10.161",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "D40CA7F9ADA3396864103A82CCED09691AABF16D25C34D535639DF32291F8EF6"
+              "finding"      : "498694B63D2E6A3AAF7164A0E61958EDD56952A4C664CB7CFF36305A9BE40408"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "umap.incubateur.anct.gouv.fr/51.159.10.161",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFBTCCA+2gAwIBAgISA17csBql3ofsqIXnFqxEev6gMA0GCSqGSIb3DQEBCwUAMDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJSMzAeFw0yNDAzMTYwNjM0NTVaFw0yNDA2MTQwNjM0NTRaMCcxJTAjBgNVBAMTHHVtYXAuaW5jdWJhdGV1ci5hbmN0LmdvdXYuZnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDI6Ie35aLj7jJxQVhwQTVm4vzzRgAinV/EfG76qPXHrJhmzzrvGvhpIaD/8jdhxfbO6/s/WEeuLoNMcdOvZhdRmg2LjV+oVI14xLo77SzDzP+gR4CUDmtY/hDP7D1Vytav28+/6hYQIA1ynnB521sBWHXMMQgQWlWGZ0hS55EXaBY0c8AnmLm0om1op+ow4kDM+TyExb0xsd53NvaqMgKfdSCR7Y1N0jwkjpXT9xdgN72RnsGUYxBkHWlWrV6OVrH3nIqv4SHP7tzParN5JT4iDBC2ivBcdM5PsL0xvZoHmyaPagWHz6XEsO9Lccaou4YFUceLcsKMvvXsxjuIdClrAgMBAAGjggIeMIICGjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFHQ3kL9gvUKqNebFf4JU1jLfS/tXMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMCcGA1UdEQQgMB6CHHVtYXAuaW5jdWJhdGV1ci5hbmN0LmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdQBIsONr2qZHNA/lagL6nTDrHFIBy1bdLIHZu7+rOdiEcwAAAY5GL2WVAAAEAwBGMEQCIHPJWd6fvLeKOut3ZPQLs70wKMjMuMovSRxIsPu4H9maAiA287qYvNs0ChjyqL9XbwSzVPNnM1a28TAPLnrJwev5tAB3ADtTd3U+LbmAToswWwb+QDtn2E/D9Me9AA0tcm/h+tQXAAABjkYvZZsAAAQDAEgwRgIhALYR6UmHVvyuWfnblJQkHkT9ll3XoREq5nXDYIVKBFyiAiEA+NgcMgHNfvdkFFRfh0f+ijUg5Y4y9pGOx6JfhZQpX6UwDQYJKoZIhvcNAQELBQADggEBAFqPdPR9s3ii+F8bc618EAR2hAPQHW5XiWXaAa2Pec4qg8P3+dVZVzw0rd5DUf6WumpiuCqHVlhUY7/7Chcl7bJxTAr7/zIKpmb/fCz0r1j2pKiOwoUKSOKETzQAdbW2PWukg9zLEwqHdCfJh5X5FlfZZnaAcgPMheyDQlQzRXtFEdYKUhV0LanSfr59UmCcGumxG6hS2VjsOHqurHRacKEpvPPHGKU7Hqn+ztShzqFxHfMNVubt6kxGZ7OdDLDsfZ+9HqKcv76oDev1P+AQwcuQzH/iDE5hiwV/7nNV5LR960Ok+moaV6Ni0VZh1itMcFYg3lwIFr3kZ+UxHPh03hc=\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFBTCCA+2gAwIBAgISBNnbAdT9E6qJKh6oNHute9xnMA0GCSqGSIb3DQEBCwUAMDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJSMzAeFw0yNDA1MTUwNTM1MjJaFw0yNDA4MTMwNTM1MjFaMCcxJTAjBgNVBAMTHHVtYXAuaW5jdWJhdGV1ci5hbmN0LmdvdXYuZnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDI6Ie35aLj7jJxQVhwQTVm4vzzRgAinV/EfG76qPXHrJhmzzrvGvhpIaD/8jdhxfbO6/s/WEeuLoNMcdOvZhdRmg2LjV+oVI14xLo77SzDzP+gR4CUDmtY/hDP7D1Vytav28+/6hYQIA1ynnB521sBWHXMMQgQWlWGZ0hS55EXaBY0c8AnmLm0om1op+ow4kDM+TyExb0xsd53NvaqMgKfdSCR7Y1N0jwkjpXT9xdgN72RnsGUYxBkHWlWrV6OVrH3nIqv4SHP7tzParN5JT4iDBC2ivBcdM5PsL0xvZoHmyaPagWHz6XEsO9Lccaou4YFUceLcsKMvvXsxjuIdClrAgMBAAGjggIeMIICGjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFHQ3kL9gvUKqNebFf4JU1jLfS/tXMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMCcGA1UdEQQgMB6CHHVtYXAuaW5jdWJhdGV1ci5hbmN0LmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgDf4VbrqgWvtZwPhnGNqMAyTq5W2W6n9aVqAdHBO75SXAAAAY969nHjAAAEAwBHMEUCIQD7TJFSatwOBud56xWHq7unt9ElDGYn44WRiviboZRteQIgRHZKs6CzehMtqA5SsJ+1A+VVesCg1VFA+B2gwmyyttoAdgBIsONr2qZHNA/lagL6nTDrHFIBy1bdLIHZu7+rOdiEcwAAAY969nM8AAAEAwBHMEUCIBAGc0NXGHGltG9RO9+gl1NTk3/ub9pn+oMUkXl7v0z8AiEAorIXPP4/ycWwa4/5hoI0jeGHNpGHfiiy2TrZAXMxQLgwDQYJKoZIhvcNAQELBQADggEBAF9xYTEOGYG23a1d73m040VQWuO8EnV2wJIf0geCRX86znh7hQz89aoyCH1WeMkRyEYh8JroS9I4YqUxsTaOlW1c+zWwsaZZHyrKoIhuEmK0yvpAaqny1+BWm+qsMTJs0ii+siRBVIV4EgPIw5MC8i/umNpi1OhME+njAMfVObR+MkBZipM9moQG626nXZecTInAdmgH8jCdUKWCevixTzKGxJTM9Z77LAwLGAi0UOlfSd+0nmbfMl9XYytpylCkjoE8k+UEevzKnItmxDTlQAHooNy0NYT6rU1QEudMr33JDGPM5wCNsG6PNJywmAvMCbxEya6OZDuY43BoOQvqcdY=\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -346,21 +346,21 @@
               "ip"           : "umap.incubateur.anct.gouv.fr/51.159.10.161",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "33 >= 30 days"
+              "finding"      : "86 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "umap.incubateur.anct.gouv.fr/51.159.10.161",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-03-16 06:34"
+              "finding"      : "2024-05-15 05:35"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "umap.incubateur.anct.gouv.fr/51.159.10.161",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2024-06-14 06:34"
+              "finding"      : "2024-08-13 05:35"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -673,7 +673,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=D40CA7F9ADA3396864103A82CCED09691AABF16D25C34D535639DF32291F8EF6"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=498694B63D2E6A3AAF7164A0E61958EDD56952A4C664CB7CFF36305A9BE40408"
           }
 ,         {
               "id"           : "LOGJAM-common_primes",
@@ -1056,6 +1056,6 @@
               "ip"           : "umap.incubateur.anct.gouv.fr/51.159.10.161",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "136"
+              "finding"      : "71"
           }
 ]
