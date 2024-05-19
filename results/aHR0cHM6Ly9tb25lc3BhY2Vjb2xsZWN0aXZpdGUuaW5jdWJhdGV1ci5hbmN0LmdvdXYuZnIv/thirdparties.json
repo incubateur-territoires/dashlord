@@ -42,11 +42,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://stats.recoconseil.fr/matomo.php?action_name=Acc%C3%A9l%C3%A9rer%20les%20projets%20de%20votre%20collectivit%C3%A9%20-%20Mon%20Espace%20Collectivit%C3%A9&idsite=3&rec=1&r=199632&h=0&m=48&s=22&url=https%3A%2F%2Fmonespacecollectivite.incubateur.anct.gouv.fr%2F&_id=73644a9a39ddd4ac&_idn=1&send_image=0&_refts=0&pv_id=dBwN3e&pf_net=277&pf_srv=158&pf_tfr=129&pf_dm1=970&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+      "url": "https://stats.recoconseil.fr/matomo.php?action_name=Acc%C3%A9l%C3%A9rez%20les%20projets%20de%20votre%20territoire%20-%20Mon%20Espace%20Collectivit%C3%A9&idsite=3&rec=1&r=260341&h=0&m=45&s=6&url=https%3A%2F%2Fmonespacecollectivite.incubateur.anct.gouv.fr%2F&_id=f1dca490533fc60f&_idn=1&send_image=0&_refts=0&pv_id=eUYTep&pf_net=190&pf_srv=127&pf_tfr=86&pf_dm1=753&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     },
     {
       "type": "crisp",
-      "url": "https://client.crisp.chat/settings/website/f5da4914-7f10-4959-ae57-4c474c738cae/prelude/?callback=window.%24__CRISP_INSTANCE.__spool.website_handler&2024-4-12-0-48",
+      "url": "https://client.crisp.chat/settings/website/f5da4914-7f10-4959-ae57-4c474c738cae/prelude/?callback=window.%24__CRISP_INSTANCE.__spool.website_handler&2024-4-19-0-45",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
@@ -75,7 +75,7 @@
       "value": "1",
       "domain": "monespacecollectivite.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1715476702,
+      "expires": 1716081306,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -87,10 +87,10 @@
     },
     {
       "name": "_pk_id.3.29ea",
-      "value": "73644a9a39ddd4ac.1715474902.",
+      "value": "f1dca490533fc60f.1716079507.",
       "domain": "monespacecollectivite.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1749430102,
+      "expires": 1750034707,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -99,14 +99,30 @@
       "sameParty": false,
       "sourceScheme": "Secure",
       "sourcePort": 443
+    },
+    {
+      "name": "csrftoken",
+      "value": "fSHcyl33jxMM26u0kXykA9yPNg8QisVl",
+      "domain": "monespacecollectivite.incubateur.anct.gouv.fr",
+      "path": "/",
+      "expires": 1747529105.505772,
+      "size": 41,
+      "httpOnly": false,
+      "secure": true,
+      "session": false,
+      "sameSite": "None",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
     }
   ],
   "headers": {
-    "content-length": "11208",
+    "content-length": "20580",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 12 May 2024 00:48:20 GMT",
+    "date": "Sun, 19 May 2024 00:45:05 GMT",
     "referrer-policy": "same-origin",
+    "set-cookie": "csrftoken=fSHcyl33jxMM26u0kXykA9yPNg8QisVl; expires=Sun, 18 May 2025 00:45:05 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Cookie",
     "via": "2.0 alproxy",
@@ -172,7 +188,7 @@
     },
     {
       "hostname": "browser.sentry-cdn.com",
-      "ip": "151.101.194.217",
+      "ip": "151.101.130.217",
       "geoip": {
         "city": {
           "geoname_id": 5391959,
@@ -259,59 +275,8 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "146.75.93.229",
+      "ip": "104.18.186.31",
       "geoip": {
-        "city": {
-          "geoname_id": 5368361,
-          "names": {
-            "de": "Los Angeles",
-            "en": "Los Angeles",
-            "es": "Los Ángeles",
-            "fr": "Los Angeles",
-            "ja": "ロサンゼルス",
-            "pt-BR": "Los Angeles",
-            "ru": "Лос-Анджелес",
-            "zh-CN": "洛杉矶"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 34.0544,
-          "longitude": -118.244,
-          "metro_code": 803,
-          "time_zone": "America/Los_Angeles"
-        },
-        "postal": {
-          "code": "90012"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -325,28 +290,12 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
-            "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "client.crisp.chat",
-      "ip": "104.18.29.104",
+      "ip": "104.18.28.104",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
