@@ -346,7 +346,7 @@
               "ip"           : "tous-connectes.anct.gouv.fr/35.181.162.163",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "312 >= 60 days"
+              "finding"      : "305 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -584,14 +584,14 @@
               "ip"           : "tous-connectes.anct.gouv.fr/35.181.162.163",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-1 seconds from localtime"
+              "finding"      : "0 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "tous-connectes.anct.gouv.fr/35.181.162.163",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1716686587"
+              "finding"      : "1717291140"
           }
 ,         {
               "id"           : "HSTS",
@@ -1489,7 +1489,7 @@
               "ip"           : "tous-connectes.anct.gouv.fr/15.188.22.12",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "312 >= 60 days"
+              "finding"      : "305 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1734,7 +1734,7 @@
               "ip"           : "tous-connectes.anct.gouv.fr/15.188.22.12",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1716686662"
+              "finding"      : "1717291212"
           }
 ,         {
               "id"           : "HSTS",
@@ -2632,7 +2632,7 @@
               "ip"           : "tous-connectes.anct.gouv.fr/35.181.136.223",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "312 >= 60 days"
+              "finding"      : "305 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -2877,7 +2877,7 @@
               "ip"           : "tous-connectes.anct.gouv.fr/35.181.136.223",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1716686737"
+              "finding"      : "1717291283"
           }
 ,         {
               "id"           : "HSTS",
@@ -3433,6 +3433,6 @@
               "ip"           : "tous-connectes.anct.gouv.fr/35.181.136.223",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "228"
+              "finding"      : "219"
           }
 ]
