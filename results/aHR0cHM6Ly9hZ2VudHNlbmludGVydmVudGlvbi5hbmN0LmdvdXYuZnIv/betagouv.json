@@ -4,7 +4,7 @@
   "attributes": {
     "name": "Agents en intervention",
     "pitch": "Faciliter la gestion et le suivi des interventions techniques dans ma collectivité.",
-    "stats_url": "https://agentsenintervention.anct.gouv.fr/stats",
+    "stats_url": "https://agentsenintervention.anct.gouv.fr/statistiques",
     "link": "https://agentsenintervention.anct.gouv.fr",
     "repository": "https://gitlab.com/incubateur-territoires/startups/agents-intervention/agents-en-intervention",
     "contact": "servicesnumeriques@anct.beta.gouv.fr",
@@ -18,8 +18,8 @@
     ],
     "phases": [
       {
-        "name": "acceleration",
-        "start": "2022-09-05",
+        "name": "construction",
+        "start": "2023-04-03",
         "end": ""
       }
     ]
