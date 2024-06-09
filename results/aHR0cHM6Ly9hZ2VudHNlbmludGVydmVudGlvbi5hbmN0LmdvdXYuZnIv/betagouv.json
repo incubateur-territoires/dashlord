@@ -22,7 +22,14 @@
         "start": "2023-04-03",
         "end": ""
       }
-    ]
+    ],
+    "sponsors": [
+      "anct"
+    ],
+    "thematiques": [
+      "Collectivités"
+    ],
+    "accessibility_status": "partiellement conforme"
   },
   "relationships": {
     "incubator": {
