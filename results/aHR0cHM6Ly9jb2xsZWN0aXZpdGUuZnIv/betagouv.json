@@ -21,7 +21,15 @@
         "start": "2023-03-01",
         "end": "2024-12-31"
       }
-    ]
+    ],
+    "sponsors": [
+      "anct"
+    ],
+    "thematiques": [
+      "Collectivités"
+    ],
+    "dashlord_url": "https://dashlord.incubateur.net/tag/anct/",
+    "accessibility_status": "partiellement conforme"
   },
   "relationships": {
     "incubator": {

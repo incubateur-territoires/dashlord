@@ -6,7 +6,7 @@
       "value": "1",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1717290124,
+      "expires": 1717895022,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.6.88ba",
-      "value": "0916388b53da5764.1717288324.",
+      "value": "b440bc771fd66650.1717893223.",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1751243524,
+      "expires": 1751848423,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -34,7 +34,7 @@
   ],
   "headers": {
     "content-type": "text/html",
-    "date": "Sun, 02 Jun 2024 00:32:03 GMT",
+    "date": "Sun, 09 Jun 2024 00:33:41 GMT",
     "referrer-policy": "no-referrer",
     "strict-transport-security": "max-age=31536000",
     "x-frame-options": "SAMEORIGIN"
