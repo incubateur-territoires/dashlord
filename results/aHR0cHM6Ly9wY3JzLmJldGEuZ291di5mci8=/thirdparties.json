@@ -1,16 +1,47 @@
 {
   "trackers": [],
-  "cookies": [],
+  "cookies": [
+    {
+      "name": "_pk_ses.119.cb50",
+      "value": "1",
+      "domain": "pcrs.beta.gouv.fr",
+      "path": "/",
+      "expires": 1718502590,
+      "size": 17,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "_pk_id.119.cb50",
+      "value": "8cc24626021465c0.1718500791.",
+      "domain": "pcrs.beta.gouv.fr",
+      "path": "/",
+      "expires": 1752455991,
+      "size": 43,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    }
+  ],
   "headers": {
     "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 09 Jun 2024 01:20:04 GMT",
-    "etag": "\"sgdsbn36apjva\"",
+    "date": "Sun, 16 Jun 2024 01:19:50 GMT",
+    "etag": "\"fcovuxrjy0jva\"",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-powered-by": "Next.js",
-    "x-request-id": "4ca224a5-077a-48af-9ca4-4293be635513"
+    "x-request-id": "693a6ec8-2f26-46bf-b378-234510113394"
   },
   "endpoints": [
     {
