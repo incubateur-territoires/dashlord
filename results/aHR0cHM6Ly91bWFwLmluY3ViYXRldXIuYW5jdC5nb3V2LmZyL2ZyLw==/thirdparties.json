@@ -57,10 +57,41 @@
       "url": "https://c.tile.openstreetmap.fr/hot/9/256/187.png"
     }
   ],
-  "cookies": [],
+  "cookies": [
+    {
+      "name": "_pk_ses.35.8651",
+      "value": "1",
+      "domain": "umap.incubateur.anct.gouv.fr",
+      "path": "/",
+      "expires": 1718501124,
+      "size": 16,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "_pk_id.35.8651",
+      "value": "e2780fe396f61019.1718499325.",
+      "domain": "umap.incubateur.anct.gouv.fr",
+      "path": "/",
+      "expires": 1752454525,
+      "size": 42,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    }
+  ],
   "headers": {
     "content-language": "fr",
-    "content-length": "41955",
+    "content-length": "44417",
     "content-type": "text/html; charset=utf-8",
     "referrer-policy": "same-origin",
     "vary": "Cookie"
