@@ -3,7 +3,7 @@
         "width": 1920,
         "height": 1080,
         "url": "https://incubateur.anct.gouv.fr/",
-        "size": 6005.043,
+        "size": 6038.63,
         "nodes": 267,
         "requests": 35,
         "grade": "C",
@@ -11,7 +11,7 @@
         "ges": 1.66,
         "water": 2.49,
         "ecoindex_version": "5.4.2",
-        "date": "2024-06-16 00:32:43.942196",
+        "date": "2024-06-23 00:32:25.249034",
         "page_type": null
     }
 ]
