@@ -26,7 +26,7 @@
     },
     {
       "type": "crisp",
-      "url": "https://client.crisp.chat/static/javascripts/client.js?3654117",
+      "url": "https://client.crisp.chat/static/javascripts/client.js?222531f",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
@@ -34,15 +34,7 @@
     },
     {
       "type": "crisp",
-      "url": "https://client.crisp.chat/static/stylesheets/client_legacy.css?3654117",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/settings/website/f5da4914-7f10-4959-ae57-4c474c738cae/prelude/?callback=window.%24__CRISP_INSTANCE.__spool.website_handler&2024-5-16-0-52",
+      "url": "https://client.crisp.chat/static/stylesheets/client_legacy.css?222531f",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
@@ -50,11 +42,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://stats.recoconseil.fr/matomo.php?action_name=Acc%C3%A9l%C3%A9rez%20les%20projets%20de%20votre%20territoire%20-%20Mon%20Espace%20Collectivit%C3%A9&idsite=3&rec=1&r=728980&h=0&m=52&s=31&url=https%3A%2F%2Fmonespacecollectivite.incubateur.anct.gouv.fr%2F&_id=9974d701356ed335&_idn=1&send_image=0&_refts=0&pv_id=jYdGhA&pf_net=220&pf_srv=130&pf_tfr=102&pf_dm1=929&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+      "url": "https://stats.recoconseil.fr/matomo.php?action_name=Acc%C3%A9l%C3%A9rez%20les%20projets%20de%20votre%20territoire%20-%20Mon%20Espace%20Collectivit%C3%A9&idsite=3&rec=1&r=256484&h=0&m=51&s=39&url=https%3A%2F%2Fmonespacecollectivite.incubateur.anct.gouv.fr%2F&_id=1da222673c0dd877&_idn=1&send_image=0&_refts=0&pv_id=sCLEiA&pf_net=180&pf_srv=126&pf_tfr=81&pf_dm1=881&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     },
     {
       "type": "crisp",
-      "url": "https://client.crisp.chat/settings/website/f5da4914-7f10-4959-ae57-4c474c738cae/?callback=window.%24__CRISP_INSTANCE.__spool.website_handler&1716465174804",
+      "url": "https://client.crisp.chat/settings/website/f5da4914-7f10-4959-ae57-4c474c738cae/prelude/?callback=window.%24__CRISP_INSTANCE.__spool.website_prelude_handler&2024-5-23-0-51",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
@@ -62,7 +54,7 @@
     },
     {
       "type": "crisp",
-      "url": "https://client.crisp.chat/static/javascripts/locales/en.js?3654117",
+      "url": "https://client.crisp.chat/settings/website/f5da4914-7f10-4959-ae57-4c474c738cae/?callback=window.%24__CRISP_INSTANCE.__spool.website_settings_handler&1716465174804",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
@@ -70,7 +62,15 @@
     },
     {
       "type": "crisp",
-      "url": "https://image.crisp.chat/avatar/website/f5da4914-7f10-4959-ae57-4c474c738cae/240/?1716465174804",
+      "url": "https://client.crisp.chat/static/javascripts/locales/en.js?222531f",
+      "details": {
+        "id": "crisp",
+        "message": "Ensure your TOS notify the CRISP usage"
+      }
+    },
+    {
+      "type": "crisp",
+      "url": "https://image.crisp.chat/avatar/website/f5da4914-7f10-4959-ae57-4c474c738cae/120/?1716465174804",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
@@ -83,7 +83,7 @@
       "value": "1",
       "domain": "monespacecollectivite.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1718500951,
+      "expires": 1719105699,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -95,10 +95,10 @@
     },
     {
       "name": "_pk_id.3.29ea",
-      "value": "9974d701356ed335.1718499152.",
+      "value": "1da222673c0dd877.1719103900.",
       "domain": "monespacecollectivite.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1752454352,
+      "expires": 1753059100,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -110,10 +110,10 @@
     },
     {
       "name": "csrftoken",
-      "value": "Gn0WtxMJFZgcN4Pm1IxAvQyOlk5QImTu",
+      "value": "jiY6xRDNNIeuLhgHkhiLfvhFVsWtn5uE",
       "domain": "monespacecollectivite.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1749948750.508867,
+      "expires": 1750553498.708486,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -125,12 +125,12 @@
     }
   ],
   "headers": {
-    "content-length": "23039",
+    "content-length": "24258",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 16 Jun 2024 00:52:30 GMT",
+    "date": "Sun, 23 Jun 2024 00:51:38 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=Gn0WtxMJFZgcN4Pm1IxAvQyOlk5QImTu; expires=Sun, 15 Jun 2025 00:52:30 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
+    "set-cookie": "csrftoken=jiY6xRDNNIeuLhgHkhiLfvhFVsWtn5uE; expires=Sun, 22 Jun 2025 00:51:38 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Cookie",
     "via": "2.0 alproxy",
@@ -196,7 +196,7 @@
     },
     {
       "hostname": "browser.sentry-cdn.com",
-      "ip": "151.101.66.217",
+      "ip": "151.101.194.217",
       "geoip": {
         "city": {
           "geoname_id": 5391959,
@@ -283,7 +283,7 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.18.186.31",
+      "ip": "104.18.187.31",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -303,7 +303,7 @@
     },
     {
       "hostname": "client.crisp.chat",
-      "ip": "104.18.29.104",
+      "ip": "104.18.28.104",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
