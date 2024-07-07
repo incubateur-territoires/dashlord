@@ -1,61 +1,12 @@
 {
-  "trackers": [
-    {
-      "type": "jsdelivr",
-      "url": "https://cdn.jsdelivr.net/npm/@gouvfr-anct/cartographie-nationale@5.20.0/assets/fonts/lato/bold/lato-bold.woff2",
-      "details": {
-        "id": "jsdelivr",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "jsdelivr",
-      "url": "https://cdn.jsdelivr.net/npm/@gouvfr-anct/cartographie-nationale@5.20.0/assets/fonts/lato/regular/lato-regular.woff2",
-      "details": {
-        "id": "jsdelivr",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "jsdelivr",
-      "url": "https://cdn.jsdelivr.net/npm/@gouvfr-anct/cartographie-nationale@5.20.0/assets/fonts/lato/light/lato-light.woff2",
-      "details": {
-        "id": "jsdelivr",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "jsdelivr",
-      "url": "https://cdn.jsdelivr.net/npm/@gouvfr-anct/cartographie-nationale@5.20.0/assets/fonts/lato/bold/lato-bold.woff2",
-      "details": {
-        "id": "jsdelivr",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "jsdelivr",
-      "url": "https://cdn.jsdelivr.net/npm/@gouvfr-anct/cartographie-nationale@5.20.0/assets/fonts/lato/regular/lato-regular.woff2",
-      "details": {
-        "id": "jsdelivr",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "jsdelivr",
-      "url": "https://cdn.jsdelivr.net/npm/@gouvfr-anct/cartographie-nationale@5.20.0/assets/fonts/lato/light/lato-light.woff2",
-      "details": {
-        "id": "jsdelivr",
-        "message": "Host files locally"
-      }
-    }
-  ],
+  "trackers": [],
   "cookies": [
     {
       "name": "_pk_ses.147.204e",
       "value": "1",
       "domain": "www.conseiller-numerique.gouv.fr",
       "path": "/",
-      "expires": 1719711577,
+      "expires": 1720316783,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -67,10 +18,10 @@
     },
     {
       "name": "_pk_id.147.204e",
-      "value": "ac35bed007bf2fa2.1719709778.",
+      "value": "51cb8be5db346755.1720314983.",
       "domain": "www.conseiller-numerique.gouv.fr",
       "path": "/",
-      "expires": 1753664978,
+      "expires": 1754270184,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -82,162 +33,39 @@
     }
   ],
   "headers": {
-    "accept-ranges": "bytes",
+    "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "max-age=60, private, proxy-revalidate",
-    "connection": "Keep-Alive",
-    "content-encoding": "gzip",
-    "content-length": "945",
+    "cf-cache-status": "DYNAMIC",
+    "cf-ray": "89f3fd1f69057ee7-LAX",
+    "content-encoding": "br",
     "content-type": "text/html",
-    "date": "Sun, 30 Jun 2024 01:09:36 GMT",
-    "etag": "\"a6f-61beef2dc2668-gzip\"",
-    "keep-alive": "timeout=5, max=100",
-    "last-modified": "Fri, 28 Jun 2024 08:22:30 GMT",
-    "server": "Apache",
-    "sozu-id": "01J1KB1EF7V372G3R35WH2EZ89",
+    "date": "Sun, 07 Jul 2024 01:16:22 GMT",
+    "last-modified": "Thu, 04 Jul 2024 13:48:49 GMT",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=0mua%2FdFAE%2FYNp%2BxmmH2%2FRHpX9w9OSmeUwbcYKm50E22Kt%2BjM6J3EkwcXYsg7i4qabCcSPp%2F%2BB8sj5I1SE66WvHlsmIKh4VWaE0e34U9kprDCLV6iGIZeOCKmx3sa6jKbbetgf5bLMfh6j6Ys0r2CqHDzfw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "server": "cloudflare",
+    "sozu-id": "01J25C6W455N2EJXY1675KEFQF",
     "vary": "Accept-Encoding"
   },
   "endpoints": [
     {
       "hostname": "www.conseiller-numerique.gouv.fr",
-      "ip": "185.42.117.109",
+      "ip": "104.21.71.120",
       "geoip": {
-        "continent": {
-          "code": "EU",
-          "geoname_id": 6255148,
-          "names": {
-            "de": "Europa",
-            "en": "Europe",
-            "es": "Europa",
-            "fr": "Europe",
-            "ja": "ヨーロッパ",
-            "pt-BR": "Europa",
-            "ru": "Европа",
-            "zh-CN": "欧洲"
-          }
-        },
-        "country": {
-          "geoname_id": 3017382,
-          "is_in_european_union": true,
-          "iso_code": "FR",
-          "names": {
-            "de": "Frankreich",
-            "en": "France",
-            "es": "Francia",
-            "fr": "France",
-            "ja": "フランス共和国",
-            "pt-BR": "França",
-            "ru": "Франция",
-            "zh-CN": "法国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 500,
-          "latitude": 48.8582,
-          "longitude": 2.3387,
-          "time_zone": "Europe/Paris"
-        },
         "registered_country": {
-          "geoname_id": 3017382,
-          "is_in_european_union": true,
-          "iso_code": "FR",
+          "geoname_id": 6252001,
+          "iso_code": "US",
           "names": {
-            "de": "Frankreich",
-            "en": "France",
-            "es": "Francia",
-            "fr": "France",
-            "ja": "フランス共和国",
-            "pt-BR": "França",
-            "ru": "Франция",
-            "zh-CN": "法国"
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
           }
         }
-      }
-    },
-    {
-      "hostname": "cdn.jsdelivr.net",
-      "ip": "146.75.77.229",
-      "geoip": {
-        "city": {
-          "geoname_id": 4887398,
-          "names": {
-            "de": "Chicago",
-            "en": "Chicago",
-            "es": "Chicago",
-            "fr": "Chicago",
-            "ja": "シカゴ",
-            "pt-BR": "Chicago",
-            "ru": "Чикаго",
-            "zh-CN": "芝加哥"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 41.8719,
-          "longitude": -87.6589,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
-        },
-        "postal": {
-          "code": "60607"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
-            "names": {
-              "de": "Illinois",
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
-            }
-          }
-        ]
       }
     }
   ]
