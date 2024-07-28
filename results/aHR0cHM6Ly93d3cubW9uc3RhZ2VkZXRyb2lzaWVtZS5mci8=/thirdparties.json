@@ -12,11 +12,11 @@
   "cookies": [
     {
       "name": "_monstage_session",
-      "value": "zgM%2FgNAPW6WRpR1WL2L9Y%2BPnVg2UHJ8QUvFCyqWOOg8JVcWfo%2BKH31I8zraoOJ7C0II1WFg%2BNsA2QnC0mtnSYhbCwNo0thB8HqUBh2AuMHEZU56K20c4GP58Rn0C1mq3kqqn7CJGQ67GhcgQIksCW1NdH5w4gp%2BaOuWz1hHUJO0J7zHQpt%2BfG4CEi4OQ4dbEUlbwDQ2uIkcx0AxAevj2YloadZXBA9M11n2Z6oIA899zSVsCXffhEyIxQ5BfE%2F7PCP0Sf8L%2BqqAYvavMlnlEhFuv3%2FdQNerXrg%3D%3D--w1MGPlsaSMXBzwzm--bZirs%2B%2BnFoRApcQepSXoYA%3D%3D",
+      "value": "p1prJ8yJwOhtSCOOZJPwAHD9f3dYkmje6E%2BltJqZO5ICvOfM1Olq8MaipY0yarnifz4kF7Yapkk5H0883SRZpMHRQqYn3f2KtCPM%2B3PIx5d9HrIX8RTGQIeAdkM7h1kWmwG%2BJp%2BWTdiObtsWFAbFmAOKZnAOMWz%2F8WWqnubEt4QVR6XePXoi2CXy1pwvkRpI93HuN6Oca9EEUaWnKf7vPvFDspZd6lueG%2BvJi%2Bt3K%2Bcxgha8zNn5r7pdOJ8ENxBY4y%2FtFEZYA9i9%2BBrwhGNvWbbMgil9q8BN9w%3D%3D--YiQS2f27tE1SWGlO--uktt5XMPhemf6UPps92dBA%3D%3D",
       "domain": "www.monstagedetroisieme.fr",
       "path": "/",
       "expires": -1,
-      "size": 383,
+      "size": 381,
       "httpOnly": true,
       "secure": true,
       "session": true,
@@ -32,26 +32,26 @@
     "content-encoding": "gzip",
     "content-length": "5829",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 21 Jul 2024 01:38:58 GMT",
-    "etag": "W/\"f6e383192d23acff5b8a2d2ee84ce686\"",
+    "date": "Sun, 28 Jul 2024 01:41:30 GMT",
+    "etag": "W/\"b0d0cabd20c18c5fd8c4a47668212486\"",
     "link": "</packs/css/application-1b36d1b4.css>; rel=preload; as=style; nopush",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "set-cookie": "_monstage_session=zgM%2FgNAPW6WRpR1WL2L9Y%2BPnVg2UHJ8QUvFCyqWOOg8JVcWfo%2BKH31I8zraoOJ7C0II1WFg%2BNsA2QnC0mtnSYhbCwNo0thB8HqUBh2AuMHEZU56K20c4GP58Rn0C1mq3kqqn7CJGQ67GhcgQIksCW1NdH5w4gp%2BaOuWz1hHUJO0J7zHQpt%2BfG4CEi4OQ4dbEUlbwDQ2uIkcx0AxAevj2YloadZXBA9M11n2Z6oIA899zSVsCXffhEyIxQ5BfE%2F7PCP0Sf8L%2BqqAYvavMlnlEhFuv3%2FdQNerXrg%3D%3D--w1MGPlsaSMXBzwzm--bZirs%2B%2BnFoRApcQepSXoYA%3D%3D; path=/; secure; HttpOnly; SameSite=Lax",
-    "sozu-id": "01J39F2AM50SYX00G4SDQ1XB42",
+    "set-cookie": "_monstage_session=p1prJ8yJwOhtSCOOZJPwAHD9f3dYkmje6E%2BltJqZO5ICvOfM1Olq8MaipY0yarnifz4kF7Yapkk5H0883SRZpMHRQqYn3f2KtCPM%2B3PIx5d9HrIX8RTGQIeAdkM7h1kWmwG%2BJp%2BWTdiObtsWFAbFmAOKZnAOMWz%2F8WWqnubEt4QVR6XePXoi2CXy1pwvkRpI93HuN6Oca9EEUaWnKf7vPvFDspZd6lueG%2BvJi%2Bt3K%2Bcxgha8zNn5r7pdOJ8ENxBY4y%2FtFEZYA9i9%2BBrwhGNvWbbMgil9q8BN9w%3D%3D--YiQS2f27tE1SWGlO--uktt5XMPhemf6UPps92dBA%3D%3D; path=/; secure; HttpOnly; SameSite=Lax",
+    "sozu-id": "01J3VFZZJ9B7ZHNDX2AC5HZN23",
     "strict-transport-security": "max-age=63072000; includeSubDomains",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-download-options": "noopen",
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "713c2295-935c-44da-b155-53ecbbd9dfd8",
-    "x-runtime": "0.014724",
+    "x-request-id": "8d5e18df-8076-4d44-9558-2119be64c1c6",
+    "x-runtime": "0.014702",
     "x-xss-protection": "0"
   },
   "endpoints": [
     {
       "hostname": "www.monstagedetroisieme.fr",
-      "ip": "91.208.207.215",
+      "ip": "91.208.207.220",
       "geoip": {
         "continent": {
           "code": "EU",
