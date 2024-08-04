@@ -185,7 +185,7 @@
               "ip"           : "solutionsdelus.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "valid for 7200 seconds only (<daily)"
+              "finding"      : "valid for 7199 seconds only (<daily)"
           }
 ,         {
               "id"           : "SSL_sessionID_support",
@@ -199,14 +199,14 @@
               "ip"           : "solutionsdelus.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
               "ip"           : "solutionsdelus.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -346,7 +346,7 @@
               "ip"           : "solutionsdelus.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "67 >= 30 days"
+              "finding"      : "60 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -500,14 +500,14 @@
               "ip"           : "solutionsdelus.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "solutionsdelus.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1722129526"
+              "finding"      : "1722734052"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1098,6 +1098,6 @@
               "ip"           : "solutionsdelus.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "99"
+              "finding"      : "56"
           }
 ]
