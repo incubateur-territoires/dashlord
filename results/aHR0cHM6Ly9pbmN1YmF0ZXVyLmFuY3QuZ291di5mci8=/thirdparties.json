@@ -1,52 +1,11 @@
 {
-  "trackers": [
-    {
-      "type": "unknown",
-      "url": "https://incubateur-territoires.github.io/feedback-widget/widget.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://incubateur-territoires.github.io/feedback-widget/images/mobile.svg"
-    }
-  ],
-  "cookies": [
-    {
-      "name": "_pk_ses.80.d889",
-      "value": "1",
-      "domain": "incubateur.anct.gouv.fr",
-      "path": "/",
-      "expires": 1722128704,
-      "size": 16,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
-      "name": "_pk_id.80.d889",
-      "value": "02cae8750e90b69e.1722126904.",
-      "domain": "incubateur.anct.gouv.fr",
-      "path": "/",
-      "expires": 1756082104,
-      "size": 42,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    }
-  ],
+  "trackers": [],
+  "cookies": [],
   "headers": {
-    "accept-ranges": "none",
+    "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 28 Jul 2024 00:35:03 GMT",
-    "etag": "\"138fc8-PlXmc9n+Di+n6D0rinziYfcWAvA\"",
+    "date": "Sun, 04 Aug 2024 00:34:37 GMT",
     "referrer-policy": "no-referrer",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
@@ -146,76 +105,6 @@
               "en": "Paris",
               "es": "Paris",
               "fr": "Paris"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "hostname": "incubateur-territoires.github.io",
-      "ip": "185.199.108.153",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 34.0544,
-          "longitude": -118.244,
-          "time_zone": "America/Los_Angeles"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
-            "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
             }
           }
         ]
