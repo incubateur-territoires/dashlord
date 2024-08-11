@@ -10,7 +10,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.by.wonderpush.com/config/webkeys/4309edb33d4adbe7da4d89ecdd80f30786f87602b15541bb88b4fce933286ea1?_=1722735776932"
+      "url": "https://cdn.by.wonderpush.com/config/webkeys/4309edb33d4adbe7da4d89ecdd80f30786f87602b15541bb88b4fce933286ea1?_=1723340963045"
     },
     {
       "type": "unknown",
@@ -25,7 +25,7 @@
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Sun, 04 Aug 2024 01:42:36 GMT",
+    "date": "Sun, 11 Aug 2024 01:49:23 GMT",
     "etag": "\"8sqfa95pzf1kxf\"",
     "origin-agent-cluster": "?1",
     "referrer-policy": "no-referrer",
@@ -35,7 +35,7 @@
     "x-content-type-options": "nosniff",
     "x-dns-prefetch-control": "off",
     "x-download-options": "noopen",
-    "x-envoy-upstream-service-time": "229",
+    "x-envoy-upstream-service-time": "230",
     "x-frame-options": "SAMEORIGIN",
     "x-nextjs-cache": "HIT",
     "x-permitted-cross-domain-policies": "none",
@@ -142,7 +142,7 @@
     },
     {
       "hostname": "cdn.by.wonderpush.com",
-      "ip": "104.18.19.183",
+      "ip": "104.18.18.183",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
