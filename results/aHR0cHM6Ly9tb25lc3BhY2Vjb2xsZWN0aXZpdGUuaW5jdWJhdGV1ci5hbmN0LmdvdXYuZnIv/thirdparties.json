@@ -25,56 +25,8 @@
       "url": "https://stats.recoconseil.fr/matomo.js"
     },
     {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/static/javascripts/client.js?76ab9f1",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/static/stylesheets/client_legacy.css?76ab9f1",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/settings/website/f5da4914-7f10-4959-ae57-4c474c738cae/prelude/?callback=window.%24__CRISP_INSTANCE.__spool.website_prelude_handler&2024-7-11-0-59",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
       "type": "unknown",
-      "url": "https://stats.recoconseil.fr/matomo.php?action_name=Acc%C3%A9l%C3%A9rez%20les%20projets%20de%20votre%20territoire%20-%20Mon%20Espace%20Collectivit%C3%A9&idsite=3&rec=1&r=569643&h=0&m=59&s=57&url=https%3A%2F%2Fmonespacecollectivite.incubateur.anct.gouv.fr%2F&_id=2c9482c966cd0fd1&_idn=1&send_image=0&_refts=0&pv_id=SalSyz&pf_net=319&pf_srv=182&pf_tfr=151&pf_dm1=1272&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/settings/website/f5da4914-7f10-4959-ae57-4c474c738cae/?callback=window.%24__CRISP_INSTANCE.__spool.website_settings_handler&1722785754017",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/static/javascripts/locales/en.js?76ab9f1",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://image.crisp.chat/avatar/website/f5da4914-7f10-4959-ae57-4c474c738cae/120/?1722785754017",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
+      "url": "https://stats.recoconseil.fr/matomo.php?action_name=Acc%C3%A9l%C3%A9rez%20les%20projets%20de%20votre%20territoire%20-%20Mon%20Espace%20Collectivit%C3%A9&idsite=3&rec=1&r=260907&h=0&m=58&s=58&url=https%3A%2F%2Fmonespacecollectivite.incubateur.anct.gouv.fr%2F&_id=e4ace347641e8e1f&_idn=1&send_image=0&_refts=0&pv_id=bEd03r&pf_net=234&pf_srv=135&pf_tfr=102&pf_dm1=885&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     }
   ],
   "cookies": [
@@ -83,7 +35,7 @@
       "value": "1",
       "domain": "monespacecollectivite.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1723339797,
+      "expires": 1723944538,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -95,10 +47,10 @@
     },
     {
       "name": "_pk_id.3.29ea",
-      "value": "2c9482c966cd0fd1.1723337997.",
+      "value": "e4ace347641e8e1f.1723942739.",
       "domain": "monespacecollectivite.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1757293197,
+      "expires": 1757897939,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -110,10 +62,10 @@
     },
     {
       "name": "csrftoken",
-      "value": "LiGEYdEcSVMWsBXtl7cnsgEoenn9YXLj",
+      "value": "PEI33sk7DroNt2Q0PuaRxX8u4uMt9gZW",
       "domain": "monespacecollectivite.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1754787595.003248,
+      "expires": 1755392337.431386,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -128,9 +80,9 @@
     "content-length": "24366",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 11 Aug 2024 00:59:54 GMT",
+    "date": "Sun, 18 Aug 2024 00:58:57 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=LiGEYdEcSVMWsBXtl7cnsgEoenn9YXLj; expires=Sun, 10 Aug 2025 00:59:54 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
+    "set-cookie": "csrftoken=PEI33sk7DroNt2Q0PuaRxX8u4uMt9gZW; expires=Sun, 17 Aug 2025 00:58:57 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Cookie",
     "via": "2.0 alproxy",
@@ -196,7 +148,7 @@
     },
     {
       "hostname": "browser.sentry-cdn.com",
-      "ip": "151.101.66.217",
+      "ip": "151.101.130.217",
       "geoip": {
         "city": {
           "geoname_id": 5391959,
@@ -283,58 +235,8 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "151.101.201.229",
+      "ip": "104.18.187.31",
       "geoip": {
-        "city": {
-          "geoname_id": 5380748,
-          "names": {
-            "de": "Palo Alto",
-            "en": "Palo Alto",
-            "es": "Palo Alto",
-            "fr": "Palo Alto",
-            "ja": "パロアルト",
-            "pt-BR": "Palo Alto",
-            "ru": "Пало Альто"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 37.4433,
-          "longitude": -122.141,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
-        },
-        "postal": {
-          "code": "94302"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -348,23 +250,7 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
-            "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
-            }
-          }
-        ]
+        }
       }
     },
     {
@@ -439,26 +325,6 @@
             "pt-BR": "França",
             "ru": "Франция",
             "zh-CN": "法国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "image.crisp.chat",
-      "ip": "104.18.28.104",
-      "geoip": {
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
           }
         }
       }
