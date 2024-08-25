@@ -6,11 +6,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.by.wonderpush.com/sdk/1.1.33.37/wonderpush.min.js"
+      "url": "https://cdn.by.wonderpush.com/sdk/1.1.34.0/wonderpush.min.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.by.wonderpush.com/config/webkeys/4309edb33d4adbe7da4d89ecdd80f30786f87602b15541bb88b4fce933286ea1?_=1723945685957"
+      "url": "https://cdn.by.wonderpush.com/config/webkeys/4309edb33d4adbe7da4d89ecdd80f30786f87602b15541bb88b4fce933286ea1?_=1724550386806"
     },
     {
       "type": "unknown",
@@ -25,8 +25,8 @@
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Sun, 18 Aug 2024 01:47:52 GMT",
-    "etag": "\"8sqfa95pzf1kxf\"",
+    "date": "Sun, 25 Aug 2024 01:46:19 GMT",
+    "etag": "\"6qd841geg01kxf\"",
     "origin-agent-cluster": "?1",
     "referrer-policy": "no-referrer",
     "server": "envoy",
@@ -35,7 +35,7 @@
     "x-content-type-options": "nosniff",
     "x-dns-prefetch-control": "off",
     "x-download-options": "noopen",
-    "x-envoy-upstream-service-time": "226",
+    "x-envoy-upstream-service-time": "244",
     "x-frame-options": "SAMEORIGIN",
     "x-nextjs-cache": "HIT",
     "x-permitted-cross-domain-policies": "none",
@@ -142,7 +142,7 @@
     },
     {
       "hostname": "cdn.by.wonderpush.com",
-      "ip": "104.18.18.183",
+      "ip": "104.18.19.183",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
