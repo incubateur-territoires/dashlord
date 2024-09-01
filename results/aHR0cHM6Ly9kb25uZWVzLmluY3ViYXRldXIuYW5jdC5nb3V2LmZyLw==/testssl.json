@@ -339,7 +339,7 @@
               "ip"           : "donnees.incubateur.anct.gouv.fr/51.159.153.132",
               "port"         : "443",
               "severity"     : "MEDIUM",
-              "finding"      : "expires < 30 days (24)"
+              "finding"      : "expires < 30 days (17)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -500,7 +500,7 @@
               "ip"           : "donnees.incubateur.anct.gouv.fr/51.159.153.132",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1724547415"
+              "finding"      : "1725152495"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1063,6 +1063,6 @@
               "ip"           : "donnees.incubateur.anct.gouv.fr/51.159.153.132",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "56"
+              "finding"      : "54"
           }
 ]
