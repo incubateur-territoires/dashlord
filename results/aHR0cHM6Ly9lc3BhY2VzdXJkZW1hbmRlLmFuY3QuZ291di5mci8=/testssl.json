@@ -346,7 +346,7 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/51.158.59.9",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "86 >= 30 days"
+              "finding"      : "79 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,7 +507,7 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/51.158.59.9",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1725756123"
+              "finding"      : "1726361036"
           }
 ,         {
               "id"           : "HSTS_time",
