@@ -26,11 +26,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://sentry.anct.cloud-ed.fr/api/10/envelope/?sentry_key=1617453a3c8412511a677cb699a44f5c&sentry_version=7&sentry_client=sentry.javascript.astro%2F8.27.0"
-    },
-    {
-      "type": "unknown",
-      "url": "https://sentry.anct.cloud-ed.fr/api/10/envelope/?sentry_key=1617453a3c8412511a677cb699a44f5c&sentry_version=7&sentry_client=sentry.javascript.astro%2F8.27.0"
+      "url": "https://sentry.anct.cloud-ed.fr/api/10/envelope/?sentry_key=1617453a3c8412511a677cb699a44f5c&sentry_version=7&sentry_client=sentry.javascript.astro%2F8.30.0"
     }
   ],
   "cookies": [
@@ -39,7 +35,7 @@
       "value": "1",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1725757649,
+      "expires": 1726362531,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -51,10 +47,10 @@
     },
     {
       "name": "_pk_id.118.88ba",
-      "value": "e4b4f350e60df8d0.1725755850.",
+      "value": "c46fb8eaea845638.1726360731.",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1759711050,
+      "expires": 1760315931,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -67,7 +63,7 @@
   ],
   "headers": {
     "content-type": "text/html",
-    "date": "Sun, 08 Sep 2024 00:37:28 GMT",
+    "date": "Sun, 15 Sep 2024 00:38:49 GMT",
     "referrer-policy": "no-referrer",
     "strict-transport-security": "max-age=31536000",
     "x-frame-options": "SAMEORIGIN"
