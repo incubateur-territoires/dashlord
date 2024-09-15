@@ -374,7 +374,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "84 >= 60 days"
+              "finding"      : "77 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#1>",
@@ -675,7 +675,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "84 >= 60 days"
+              "finding"      : "77 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#2>",
@@ -885,7 +885,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1725758527"
+              "finding"      : "1726363444"
           }
 ,         {
               "id"           : "HSTS",
@@ -1834,7 +1834,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "84 >= 60 days"
+              "finding"      : "77 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#1>",
@@ -2135,7 +2135,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "84 >= 60 days"
+              "finding"      : "77 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#2>",
@@ -2345,7 +2345,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1725758587"
+              "finding"      : "1726363501"
           }
 ,         {
               "id"           : "HSTS",
@@ -2924,6 +2924,6 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "122"
+              "finding"      : "118"
           }
 ]
