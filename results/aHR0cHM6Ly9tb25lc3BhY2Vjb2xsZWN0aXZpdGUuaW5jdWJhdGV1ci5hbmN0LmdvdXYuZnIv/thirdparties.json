@@ -22,7 +22,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://stats.recoconseil.fr/matomo.php?action_name=Acc%C3%A9l%C3%A9rez%20les%20projets%20de%20votre%20territoire%20-%20Mon%20Espace%20Collectivit%C3%A9&idsite=3&rec=1&r=057801&h=1&m=2&s=37&url=https%3A%2F%2Fmonespacecollectivite.incubateur.anct.gouv.fr%2F&_id=f751657ec1069472&_idn=1&send_image=0&_refts=0&pv_id=NAJwVX&pf_net=181&pf_srv=126&pf_tfr=82&pf_dm1=929&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+      "url": "https://stats.recoconseil.fr/matomo.php?action_name=Acc%C3%A9l%C3%A9rez%20les%20projets%20de%20votre%20territoire%20-%20Mon%20Espace%20Collectivit%C3%A9&idsite=3&rec=1&r=918892&h=1&m=2&s=42&url=https%3A%2F%2Fmonespacecollectivite.incubateur.anct.gouv.fr%2F&_id=e771ae07089bba3d&_idn=1&send_image=0&_refts=0&pv_id=XTFejS&pf_net=220&pf_srv=165&pf_tfr=103&pf_dm1=1091&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     }
   ],
   "cookies": [
@@ -31,7 +31,7 @@
       "value": "1",
       "domain": "monespacecollectivite.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1726363957,
+      "expires": 1726968762,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -43,10 +43,10 @@
     },
     {
       "name": "_pk_id.3.29ea",
-      "value": "f751657ec1069472.1726362158.",
+      "value": "e771ae07089bba3d.1726966962.",
       "domain": "monespacecollectivite.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1760317358,
+      "expires": 1760922162,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -58,10 +58,10 @@
     },
     {
       "name": "csrftoken",
-      "value": "hGPJBYQBhCXUtYMo2BUTYxxZyrgupRnV",
+      "value": "qMH52zgGkwujjUo34CENlSnmM6dLFccA",
       "domain": "monespacecollectivite.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1757811756.416152,
+      "expires": 1758416560.612897,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -73,12 +73,12 @@
     }
   ],
   "headers": {
-    "content-length": "24217",
+    "content-length": "25006",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 15 Sep 2024 01:02:36 GMT",
+    "date": "Sun, 22 Sep 2024 01:02:40 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=hGPJBYQBhCXUtYMo2BUTYxxZyrgupRnV; expires=Sun, 14 Sep 2025 01:02:36 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
+    "set-cookie": "csrftoken=qMH52zgGkwujjUo34CENlSnmM6dLFccA; expires=Sun, 21 Sep 2025 01:02:40 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Cookie",
     "via": "2.0 alproxy",
@@ -144,59 +144,8 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "146.75.37.229",
+      "ip": "104.18.186.31",
       "geoip": {
-        "city": {
-          "geoname_id": 4744870,
-          "names": {
-            "de": "Ashburn",
-            "en": "Ashburn",
-            "es": "Ashburn",
-            "fr": "Ashburn",
-            "ja": "アッシュバーン",
-            "pt-BR": "Ashburn",
-            "ru": "Ашберн",
-            "zh-CN": "阿什本"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 39.0469,
-          "longitude": -77.4903,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "20149"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -210,23 +159,7 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
-            "names": {
-              "de": "Virginia",
-              "en": "Virginia",
-              "es": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
-            }
-          }
-        ]
+        }
       }
     },
     {
