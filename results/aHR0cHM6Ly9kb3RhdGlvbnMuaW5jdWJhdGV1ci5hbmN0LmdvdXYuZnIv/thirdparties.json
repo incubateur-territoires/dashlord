@@ -37,11 +37,11 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 15 Sep 2024 00:56:42 GMT",
+    "date": "Sun, 22 Sep 2024 00:59:16 GMT",
     "etag": "\"onywqj55lh1nr\"",
     "vary": "Accept-Encoding",
     "x-powered-by": "Next.js",
-    "x-request-id": "830824ad-a53d-401d-95eb-46927816b02c"
+    "x-request-id": "dc881238-f3f3-4627-b5f0-2bacb96ca014"
   },
   "endpoints": [
     {
@@ -102,59 +102,8 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "146.75.77.229",
+      "ip": "104.18.187.31",
       "geoip": {
-        "city": {
-          "geoname_id": 4887398,
-          "names": {
-            "de": "Chicago",
-            "en": "Chicago",
-            "es": "Chicago",
-            "fr": "Chicago",
-            "ja": "シカゴ",
-            "pt-BR": "Chicago",
-            "ru": "Чикаго",
-            "zh-CN": "芝加哥"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 41.8874,
-          "longitude": -87.6318,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
-        },
-        "postal": {
-          "code": "60602"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -168,28 +117,12 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
-            "names": {
-              "de": "Illinois",
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "dotations-locales-back.osc-fr1.scalingo.io",
-      "ip": "109.232.233.130",
+      "ip": "148.253.75.120",
       "geoip": {
         "continent": {
           "code": "EU",
