@@ -10,7 +10,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.by.wonderpush.com/config/webkeys/4309edb33d4adbe7da4d89ecdd80f30786f87602b15541bb88b4fce933286ea1?_=1727574506871"
+      "url": "https://cdn.by.wonderpush.com/config/webkeys/4309edb33d4adbe7da4d89ecdd80f30786f87602b15541bb88b4fce933286ea1?_=1728179614543"
     },
     {
       "type": "unknown",
@@ -23,7 +23,7 @@
       "value": "1",
       "domain": "agentsenintervention.anct.gouv.fr",
       "path": "/",
-      "expires": 1727576306,
+      "expires": 1728181413,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -35,10 +35,10 @@
     },
     {
       "name": "_pk_id.16.a926",
-      "value": "2b563053e8fcd2dc.1727574506.",
+      "value": "4cccb93ae65055ad.1728179613.",
       "domain": "agentsenintervention.anct.gouv.fr",
       "path": "/",
-      "expires": 1761529706,
+      "expires": 1762134813,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -56,8 +56,8 @@
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Sun, 29 Sep 2024 01:48:19 GMT",
-    "etag": "\"e5finonjfm1l3r\"",
+    "date": "Sun, 06 Oct 2024 01:53:31 GMT",
+    "etag": "\"iawkqprvqt1l3r\"",
     "origin-agent-cluster": "?1",
     "referrer-policy": "no-referrer",
     "server": "envoy",
@@ -66,7 +66,7 @@
     "x-content-type-options": "nosniff",
     "x-dns-prefetch-control": "off",
     "x-download-options": "noopen",
-    "x-envoy-upstream-service-time": "236",
+    "x-envoy-upstream-service-time": "223",
     "x-frame-options": "SAMEORIGIN",
     "x-nextjs-cache": "HIT",
     "x-permitted-cross-domain-policies": "none",
@@ -173,7 +173,7 @@
     },
     {
       "hostname": "cdn.by.wonderpush.com",
-      "ip": "104.18.18.183",
+      "ip": "104.18.19.183",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -193,7 +193,7 @@
     },
     {
       "hostname": "measurements-api.wonderpush.com",
-      "ip": "216.239.34.21",
+      "ip": "216.239.38.21",
       "geoip": {
         "continent": {
           "code": "NA",
