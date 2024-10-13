@@ -1,6 +1,14 @@
 {
   "trackers": [
     {
+      "type": "crisp",
+      "url": "https://client.crisp.chat/l.js",
+      "details": {
+        "id": "crisp",
+        "message": "Ensure your TOS notify the CRISP usage"
+      }
+    },
+    {
       "type": "unknown",
       "url": "https://betagouv-matomo.osc-secnum-fr1.scalingo.io/piwik.js"
     },
@@ -12,11 +20,11 @@
   "cookies": [
     {
       "name": "_monstage_session",
-      "value": "oW3pVpIt2Ria%2B7cp8SXBsVzhuE6bEo%2BP7qFM%2FwhPlmbEECrUqqUhEDy4BxPCaAtdGkVqJFP220djrEJsvemxUVDxtQTBrARi8te31tzovgVVzE1Y1nBJLU0Tz3oKRKKr1%2F79KpHuyfvUs8997b%2FcIRO0TpYYgnqr4p5CGwsoCKc7rNs%2BU%2B2ytC63MpeL1qyS1HQEGSTs28EvN4AnOEFM9xQPNlDXApfAIfpCcCfu42HOtHZltz4c9bI23dLVlzYB4fcATATj0aV%2BQIsefk7wKVqYJLE4%2Bf0Tmg%3D%3D--7roovwtUI27CzTU7--i6biahk9aODStV0CyijeQg%3D%3D",
+      "value": "A%2Bptgo4ISny7%2F%2BCGum0UPZ40iGs6puC0GI5cs3mEv4y6h%2B3a4AFSGSrYgR4NX6Vc1EjVyOKZ9sBZnh8J6p8ZkcpYOz6dAz8wZWRJLlWTJSxdEBN1Yi0W4NEGzAzTnEAokG5jlGjZPykFORbLUIsTLz%2F2r4j3lmudHyuw5%2Bob0U7vbdrKgjzE%2B87gF9DlDTOpYOhYwvXT5%2FIOouGNIt82%2F058A1QZCWXOT%2FaWIa%2BE1LHrUyLmCgCvK90lw5%2FmYf9fpgOYRo74H2rWaXqDb%2BUv6QkwEMg6DC71Zg%3D%3D--L4bDhze0mFOhRD1y--3oiG25emDhkNsGjAznkzLg%3D%3D",
       "domain": "www.monstagedetroisieme.fr",
       "path": "/",
       "expires": -1,
-      "size": 379,
+      "size": 387,
       "httpOnly": true,
       "secure": true,
       "session": true,
@@ -30,28 +38,28 @@
     "cache-control": "max-age=0, private, must-revalidate",
     "connection": "keep-alive",
     "content-encoding": "gzip",
-    "content-length": "5840",
+    "content-length": "5987",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 06 Oct 2024 01:43:05 GMT",
-    "etag": "W/\"62e86a2787f389107a24b6e06a607a72\"",
+    "date": "Sun, 13 Oct 2024 01:43:00 GMT",
+    "etag": "W/\"8bb3eb0e4bf5e768b324ee4d7b1bf4f0\"",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "set-cookie": "_monstage_session=oW3pVpIt2Ria%2B7cp8SXBsVzhuE6bEo%2BP7qFM%2FwhPlmbEECrUqqUhEDy4BxPCaAtdGkVqJFP220djrEJsvemxUVDxtQTBrARi8te31tzovgVVzE1Y1nBJLU0Tz3oKRKKr1%2F79KpHuyfvUs8997b%2FcIRO0TpYYgnqr4p5CGwsoCKc7rNs%2BU%2B2ytC63MpeL1qyS1HQEGSTs28EvN4AnOEFM9xQPNlDXApfAIfpCcCfu42HOtHZltz4c9bI23dLVlzYB4fcATATj0aV%2BQIsefk7wKVqYJLE4%2Bf0Tmg%3D%3D--7roovwtUI27CzTU7--i6biahk9aODStV0CyijeQg%3D%3D; path=/; secure; HttpOnly; SameSite=Lax",
-    "sozu-id": "01J9FQX5X8FWE453VYFP8CAW51",
+    "set-cookie": "_monstage_session=A%2Bptgo4ISny7%2F%2BCGum0UPZ40iGs6puC0GI5cs3mEv4y6h%2B3a4AFSGSrYgR4NX6Vc1EjVyOKZ9sBZnh8J6p8ZkcpYOz6dAz8wZWRJLlWTJSxdEBN1Yi0W4NEGzAzTnEAokG5jlGjZPykFORbLUIsTLz%2F2r4j3lmudHyuw5%2Bob0U7vbdrKgjzE%2B87gF9DlDTOpYOhYwvXT5%2FIOouGNIt82%2F058A1QZCWXOT%2FaWIa%2BE1LHrUyLmCgCvK90lw5%2FmYf9fpgOYRo74H2rWaXqDb%2BUv6QkwEMg6DC71Zg%3D%3D--L4bDhze0mFOhRD1y--3oiG25emDhkNsGjAznkzLg%3D%3D; path=/; secure; HttpOnly; SameSite=Lax",
+    "sozu-id": "01JA1RP2AF87MF179B1ZP0NKRJ",
     "strict-transport-security": "max-age=63072000; includeSubDomains",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-download-options": "noopen",
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "d80cc474-78f6-4b7d-ae17-d21339994533",
-    "x-runtime": "0.021271",
+    "x-request-id": "97705ab4-fd37-40f7-8fa8-34da9943a0da",
+    "x-runtime": "0.014433",
     "x-xss-protection": "0",
     "link": "</packs/css/application-1b36d1b4.css>; rel=preload; as=style; nopush"
   },
   "endpoints": [
     {
       "hostname": "www.monstagedetroisieme.fr",
-      "ip": "91.208.207.218",
+      "ip": "91.208.207.222",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -106,8 +114,28 @@
       }
     },
     {
+      "hostname": "client.crisp.chat",
+      "ip": "104.18.29.104",
+      "geoip": {
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
       "hostname": "betagouv-matomo.osc-secnum-fr1.scalingo.io",
-      "ip": "80.247.13.145",
+      "ip": "148.253.96.193",
       "geoip": {
         "continent": {
           "code": "EU",
