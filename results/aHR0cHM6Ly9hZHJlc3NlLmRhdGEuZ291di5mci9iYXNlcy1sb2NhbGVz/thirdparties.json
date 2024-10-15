@@ -42,11 +42,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://596808a16dec4fc39413bf34b0a70240.apm.eu-west-1.aws.cloud.es.io/intake/v2/rum/events"
-    },
-    {
-      "type": "unknown",
-      "url": "https://api-lannuaire.service-public.fr/api/explore/v2.1/catalog/datasets/api-lannuaire-administration/records?select=plage_ouverture,nom,telephone,adresse_courriel&where=code_insee_commune=%2267495%22%20and%20pivot%20LIKE%20%22mairie%22"
+      "url": "https://api-lannuaire.service-public.fr/api/explore/v2.1/catalog/datasets/api-lannuaire-administration/records?select=plage_ouverture,nom,telephone,adresse_courriel&where=code_insee_commune=%2227115%22%20and%20pivot%20LIKE%20%22mairie%22"
     }
   ],
   "cookies": [
@@ -55,7 +51,7 @@
       "value": "1",
       "domain": "adresse.data.gouv.fr",
       "path": "/",
-      "expires": 1728782218,
+      "expires": 1729021049,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -67,10 +63,10 @@
     },
     {
       "name": "_pk_id.13.592e",
-      "value": "397b4513d18e27f9.1728780419.",
+      "value": "c4d6a82a205edb26.1729019249.",
       "domain": "adresse.data.gouv.fr",
       "path": "/",
-      "expires": 1762735619,
+      "expires": 1762974449,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -85,8 +81,8 @@
     "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 13 Oct 2024 00:46:57 GMT",
-    "etag": "\"14xi44ie2ngopg\"",
+    "date": "Tue, 15 Oct 2024 19:07:27 GMT",
+    "etag": "\"erpqebejpoopg\"",
     "server": "nginx/1.24.0",
     "strict-transport-security": "max-age=15768000",
     "vary": "Accept-Encoding",
@@ -191,7 +187,7 @@
     },
     {
       "hostname": "assets.brevo.com",
-      "ip": "104.18.37.40",
+      "ip": "172.64.150.216",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -211,7 +207,7 @@
     },
     {
       "hostname": "596808a16dec4fc39413bf34b0a70240.apm.eu-west-1.aws.cloud.es.io",
-      "ip": "34.253.3.7",
+      "ip": "63.33.254.192",
       "geoip": {
         "city": {
           "geoname_id": 2964574,
@@ -294,7 +290,7 @@
     },
     {
       "hostname": "api-lannuaire.service-public.fr",
-      "ip": "109.232.232.161",
+      "ip": "5.104.97.33",
       "geoip": {
         "continent": {
           "code": "EU",
