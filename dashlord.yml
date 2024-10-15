@@ -93,6 +93,9 @@ urls:
   - url: https://www.monstagedetroisieme.fr/
     repositories:
       - https://github.com/betagouv/monstage
+  - url: https://grist.incubateur.anct.gouv.fr/o/docs/
+    repositories:
+      - https://github.com/gristlabs/grist-core
   - url: https://aplus.beta.gouv.fr/
     betaId: aplus
     repositories:
