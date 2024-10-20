@@ -4,11 +4,11 @@
   "headers": {
     "access-control-allow-origin": "*",
     "content-encoding": "gzip",
-    "content-security-policy": "base-uri 'none'; font-src 'self' https: data:; form-action 'self'; frame-ancestors 'self'; img-src 'self' data:; object-src 'none'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; script-src 'self' https: 'unsafe-inline' 'strict-dynamic' 'nonce-9VvzSCvI3U9A3zgah9EaLw=='; upgrade-insecure-requests; connect-src 'self' https://api-adresse.data.gouv.fr https://geo.api.gouv.fr https://matomo.dev.incubateur.anct.gouv.fr https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.net;",
+    "content-security-policy": "base-uri 'none'; font-src 'self' https: data:; form-action 'self'; frame-ancestors 'self'; img-src 'self' data:; object-src 'none'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; script-src 'self' https: 'unsafe-inline' 'strict-dynamic' 'nonce-P+M7qznF2WzN1zcFxRdIwg=='; upgrade-insecure-requests; connect-src 'self' https://api-adresse.data.gouv.fr https://geo.api.gouv.fr https://matomo.dev.incubateur.anct.gouv.fr https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.net;",
     "content-type": "text/html;charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Tue, 15 Oct 2024 19:51:34 GMT",
+    "date": "Sun, 20 Oct 2024 01:29:38 GMT",
     "origin-agent-cluster": "?1",
     "permissions-policy": "camera=(), display-capture=(), fullscreen=(), geolocation=(), microphone=()",
     "referrer-policy": "no-referrer",
@@ -19,7 +19,7 @@
     "x-download-options": "noopen",
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "b08478f6-22ae-4362-9062-3209aa917122",
+    "x-request-id": "e8ac60b7-1d30-4f0b-927b-d61df4fd7d77",
     "x-xss-protection": "0"
   },
   "endpoints": [
