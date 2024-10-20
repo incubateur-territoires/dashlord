@@ -6,7 +6,7 @@
       "value": "1",
       "domain": "pcrs.beta.gouv.fr",
       "path": "/",
-      "expires": 1729024031,
+      "expires": 1729390007,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.119.cb50",
-      "value": "b9322f5dcd905dc5.1729022232.",
+      "value": "3e3e10de723e46ae.1729388207.",
       "domain": "pcrs.beta.gouv.fr",
       "path": "/",
-      "expires": 1762977432,
+      "expires": 1763343407,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -36,12 +36,12 @@
     "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Tue, 15 Oct 2024 19:57:10 GMT",
+    "date": "Sun, 20 Oct 2024 01:36:46 GMT",
     "etag": "\"jfx8hddshmjva\"",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-powered-by": "Next.js",
-    "x-request-id": "883d4e4e-7f11-4785-9be1-ff36e2a2c71a"
+    "x-request-id": "2822ce65-bb3c-4018-91d2-3a137e314a53"
   },
   "endpoints": [
     {
