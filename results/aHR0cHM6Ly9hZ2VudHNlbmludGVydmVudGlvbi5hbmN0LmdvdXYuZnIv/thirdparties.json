@@ -6,11 +6,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.by.wonderpush.com/sdk/1.1.35.0/wonderpush.min.js"
+      "url": "https://cdn.by.wonderpush.com/sdk/1.1.35.1/wonderpush.min.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.by.wonderpush.com/config/webkeys/4309edb33d4adbe7da4d89ecdd80f30786f87602b15541bb88b4fce933286ea1?_=1729994141321"
+      "url": "https://cdn.by.wonderpush.com/config/webkeys/4309edb33d4adbe7da4d89ecdd80f30786f87602b15541bb88b4fce933286ea1?_=1730599152214"
     },
     {
       "type": "unknown",
@@ -23,7 +23,7 @@
       "value": "1",
       "domain": "agentsenintervention.anct.gouv.fr",
       "path": "/",
-      "expires": 1729995939,
+      "expires": 1730600950,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -35,10 +35,10 @@
     },
     {
       "name": "_pk_id.16.a926",
-      "value": "d5ebea9c6171ffdb.1729994139.",
+      "value": "83c0db9681a4cb31.1730599150.",
       "domain": "agentsenintervention.anct.gouv.fr",
       "path": "/",
-      "expires": 1763949339,
+      "expires": 1764554350,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -56,8 +56,8 @@
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Sun, 27 Oct 2024 01:55:38 GMT",
-    "etag": "\"188mefq5hbx1l3r\"",
+    "date": "Sun, 03 Nov 2024 01:59:07 GMT",
+    "etag": "\"zx6eeexw6c1l3v\"",
     "origin-agent-cluster": "?1",
     "referrer-policy": "no-referrer",
     "server": "envoy",
@@ -66,7 +66,7 @@
     "x-content-type-options": "nosniff",
     "x-dns-prefetch-control": "off",
     "x-download-options": "noopen",
-    "x-envoy-upstream-service-time": "232",
+    "x-envoy-upstream-service-time": "231",
     "x-frame-options": "SAMEORIGIN",
     "x-nextjs-cache": "HIT",
     "x-permitted-cross-domain-policies": "none",
@@ -193,19 +193,8 @@
     },
     {
       "hostname": "measurements-api.wonderpush.com",
-      "ip": "216.239.36.21",
+      "ip": "216.239.34.21",
       "geoip": {
-        "city": {
-          "geoname_id": 5375480,
-          "names": {
-            "de": "Mountain View",
-            "en": "Mountain View",
-            "fr": "Mountain View",
-            "ja": "マウンテンビュー",
-            "ru": "Маунтин-Вью",
-            "zh-CN": "芒廷维尤"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -235,14 +224,10 @@
           }
         },
         "location": {
-          "accuracy_radius": 20,
-          "latitude": 37.3891,
-          "longitude": -122.0867,
-          "metro_code": 807,
+          "accuracy_radius": 1000,
+          "latitude": 34.0544,
+          "longitude": -118.244,
           "time_zone": "America/Los_Angeles"
-        },
-        "postal": {
-          "code": "94035"
         },
         "registered_country": {
           "geoname_id": 6252001,
