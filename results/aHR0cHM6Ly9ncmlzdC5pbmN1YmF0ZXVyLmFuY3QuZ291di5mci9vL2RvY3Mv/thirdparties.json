@@ -6,7 +6,7 @@
       "value": "1",
       "domain": "grist.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1730600217,
+      "expires": 1731204952,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.109.b3ed",
-      "value": "27345e7b20b9902a.1730598417.",
+      "value": "10855beb272270a7.1731203152.",
       "domain": "grist.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1764553617,
+      "expires": 1765158352,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -33,11 +33,11 @@
     },
     {
       "name": "grist_core",
-      "value": "s%3Ag-89d7d3c6f2edb1964ff1ad4af8d8484cecba427c383741772b4ad8678443c60b.LfS65NjMjoCUoecB0rsjN0nxqrHHQgDqGLwuqRcimNM",
+      "value": "s%3Ag-a94165ec822deb51b7673737d51786f5f14877c718c16b25392ed499c796e47c.AOi7FmlswKSmV%2FpReVFljrnpHpAS4S2C6LGwu%2B4Wj9Y",
       "domain": "grist.incubateur.anct.gouv.fr",
       "path": "/",
       "expires": -1,
-      "size": 124,
+      "size": 128,
       "httpOnly": true,
       "secure": false,
       "session": true,
@@ -51,9 +51,9 @@
     "content-language": "en-US",
     "content-length": "5574",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 03 Nov 2024 01:46:55 GMT",
-    "etag": "W/\"15c6-Zs989s3GRCRZ/NZ07W34fxmmars\"",
-    "set-cookie": "grist_core=s%3Ag-89d7d3c6f2edb1964ff1ad4af8d8484cecba427c383741772b4ad8678443c60b.LfS65NjMjoCUoecB0rsjN0nxqrHHQgDqGLwuqRcimNM; Path=/; HttpOnly; SameSite=Lax",
+    "date": "Sun, 10 Nov 2024 01:45:50 GMT",
+    "etag": "W/\"15c6-k/vjaLI5yYER8p7HuG4ZsGBfWoI\"",
+    "set-cookie": "grist_core=s%3Ag-a94165ec822deb51b7673737d51786f5f14877c718c16b25392ed499c796e47c.AOi7FmlswKSmV%2FpReVFljrnpHpAS4S2C6LGwu%2B4Wj9Y; Path=/; HttpOnly; SameSite=Lax",
     "x-powered-by": "Express",
     "x-robots-tag": "none"
   },
@@ -105,7 +105,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 200,
+          "accuracy_radius": 500,
           "latitude": 48.8323,
           "longitude": 2.4075,
           "time_zone": "Europe/Paris"
