@@ -6,7 +6,7 @@
       "value": "1",
       "domain": ".aplus.beta.gouv.fr",
       "path": "/",
-      "expires": 1730600685,
+      "expires": 1731205227,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.111.c207",
-      "value": "0b2780ae3d377a06.1730598885.",
+      "value": "c981f848a449c860.1731203428.",
       "domain": ".aplus.beta.gouv.fr",
       "path": "/",
-      "expires": 1764554085,
+      "expires": 1765158628,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -33,10 +33,10 @@
     },
     {
       "name": "PLAY_SESSION",
-      "value": "eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7ImNzcmZUb2tlbiI6IjQwZGZmMmRlNjA2OGE2NTMyZWQzNmMzZjIxMjJmNmRiMmUxYjZmNWUtMTczMDU5ODg4Mjc4OS0wM2FkZWE4MTJlMDViNzU3M2JjOWQ5NjMifSwiZXhwIjoxNzMzMTkwODgyLCJuYmYiOjE3MzA1OTg4ODIsImlhdCI6MTczMDU5ODg4Mn0.vqqC97706PNBAB3qIW8nCqpNj3WacmaAo5uxRZWqW90",
+      "value": "eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7ImNzcmZUb2tlbiI6IjQzZjE2OTY3NGRhNTY0ZDdiYjUzZTIyNTU2ZjYyOGM4MTIyODgwYjMtMTczMTIwMzQyNjQyMi03YmUzM2Q0ZWE4NzA1OGIwMDgzYzUwY2YifSwiZXhwIjoxNzMzNzk1NDI2LCJuYmYiOjE3MzEyMDM0MjYsImlhdCI6MTczMTIwMzQyNn0.9D7BFJFqvd-XbBIDTo2Lomv3dycIaO44JK9cgGRknuY",
       "domain": "aplus.beta.gouv.fr",
       "path": "/",
-      "expires": 1733190882.868612,
+      "expires": 1733795426.493282,
       "size": 284,
       "httpOnly": true,
       "secure": true,
@@ -48,12 +48,12 @@
     }
   ],
   "headers": {
-    "content-length": "20088",
+    "content-length": "20195",
     "content-security-policy": "base-uri 'none'; img-src 'self' data: stats.beta.gouv.fr; frame-src 'self' blob: *.aplus.beta.gouv.fr https://www.dailymotion.com; form-action 'self'; style-src 'self' 'unsafe-inline' stats.beta.gouv.fr; script-src 'self' stats.beta.gouv.fr; connect-src 'self' https://stats.beta.gouv.fr; object-src 'none'; default-src 'none'; font-src 'self'; frame-ancestors 'self'",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 03 Nov 2024 01:54:42 GMT",
+    "date": "Sun, 10 Nov 2024 01:50:26 GMT",
     "referrer-policy": "origin-when-cross-origin, strict-origin-when-cross-origin",
-    "set-cookie": "PLAY_SESSION=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7ImNzcmZUb2tlbiI6IjQwZGZmMmRlNjA2OGE2NTMyZWQzNmMzZjIxMjJmNmRiMmUxYjZmNWUtMTczMDU5ODg4Mjc4OS0wM2FkZWE4MTJlMDViNzU3M2JjOWQ5NjMifSwiZXhwIjoxNzMzMTkwODgyLCJuYmYiOjE3MzA1OTg4ODIsImlhdCI6MTczMDU5ODg4Mn0.vqqC97706PNBAB3qIW8nCqpNj3WacmaAo5uxRZWqW90; Max-Age=2592000; Expires=Tue, 03 Dec 2024 01:54:42 GMT; SameSite=Lax; Path=/; Secure; HTTPOnly",
+    "set-cookie": "PLAY_SESSION=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7ImNzcmZUb2tlbiI6IjQzZjE2OTY3NGRhNTY0ZDdiYjUzZTIyNTU2ZjYyOGM4MTIyODgwYjMtMTczMTIwMzQyNjQyMi03YmUzM2Q0ZWE4NzA1OGIwMDgzYzUwY2YifSwiZXhwIjoxNzMzNzk1NDI2LCJuYmYiOjE3MzEyMDM0MjYsImlhdCI6MTczMTIwMzQyNn0.9D7BFJFqvd-XbBIDTo2Lomv3dycIaO44JK9cgGRknuY; Max-Age=2592000; Expires=Tue, 10 Dec 2024 01:50:26 GMT; SameSite=Lax; Path=/; Secure; HTTPOnly",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
@@ -65,19 +65,6 @@
       "hostname": "aplus.beta.gouv.fr",
       "ip": "162.19.110.237",
       "geoip": {
-        "city": {
-          "geoname_id": 2988507,
-          "names": {
-            "de": "Paris",
-            "en": "Paris",
-            "es": "París",
-            "fr": "Paris",
-            "ja": "パリ",
-            "pt-BR": "Paris",
-            "ru": "Париж",
-            "zh-CN": "巴黎"
-          }
-        },
         "continent": {
           "code": "EU",
           "geoname_id": 6255148,
@@ -108,13 +95,10 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 48.8323,
-          "longitude": 2.4075,
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
           "time_zone": "Europe/Paris"
-        },
-        "postal": {
-          "code": "75003"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -130,33 +114,7 @@
             "ru": "Франция",
             "zh-CN": "法国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 3012874,
-            "iso_code": "IDF",
-            "names": {
-              "de": "Île-de-France",
-              "en": "Île-de-France",
-              "es": "Isla de Francia",
-              "fr": "Île-de-France",
-              "ja": "イル・ド・フランス",
-              "pt-BR": "Ilha de França",
-              "ru": "Иль-де-Франс",
-              "zh-CN": "法兰西岛"
-            }
-          },
-          {
-            "geoname_id": 2968815,
-            "iso_code": "75",
-            "names": {
-              "de": "Paris",
-              "en": "Paris",
-              "es": "Paris",
-              "fr": "Paris"
-            }
-          }
-        ]
+        }
       }
     }
   ]
