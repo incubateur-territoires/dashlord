@@ -6,12 +6,12 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self' https://matomo.incubateur.anct.gouv.fr https://*.adform.net https://sentry.incubateur.net https://*.adnxs.com https://*.googletagmanager.com https://*.doubleclick.net https://*.licdn.com https://*.linkedin.com https://*.seadform.net https://*.google.com https://*.google.fr; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://matomo.incubateur.anct.gouv.fr https://*.adform.net https://*.adnxs.com https://*.googletagmanager.com https://*.doubleclick.net https://*.licdn.com https://*.linkedin.com https://*.seadform.net https://*.google.com https://*.google.fr; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; img-src 'self' data: https://*.adnxs.com https://*.googletagmanager.com https://*.doubleclick.net https://*.licdn.com https://*.linkedin.com https://*.seadform.net https://*.google.com https://*.google.fr; frame-src https://www.youtube-nocookie.com/ https://matomo.incubateur.anct.gouv.fr https://*.adform.net https://*.adnxs.com https://*.googletagmanager.com https://*.doubleclick.net https://*.licdn.com https://*.linkedin.com https://*.seadform.net https://*.google.com https://*.google.fr; object-src 'none'; connect-src 'self' https://solutionsdelus-documents-main.s3.fr-par.scw.cloud https://matomo.incubateur.anct.gouv.fr https://*.adform.net https://sentry.incubateur.net https://openmaptiles.geo.data.gouv.fr https://openmaptiles.github.io https://aides-territoires.beta.gouv.fr https://*.adnxs.com https://*.googletagmanager.com https://*.doubleclick.net https://*.licdn.com https://*.linkedin.com https://*.seadform.net https://*.google.com https://*.google.fr; worker-src 'self' blob:; font-src 'self' https: data:; frame-ancestors 'self' https://matomo.incubateur.anct.gouv.fr https://*.adform.net https://*.adnxs.com https://*.googletagmanager.com https://*.doubleclick.net https://*.licdn.com https://*.linkedin.com https://*.seadform.net https://*.google.com https://*.google.fr; form-action 'self'; base-uri 'self'; upgrade-insecure-requests;",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 03 Nov 2024 01:05:12 GMT",
+    "date": "Sun, 10 Nov 2024 01:06:17 GMT",
     "server": "envoy",
     "strict-transport-security": "max-age=63072000",
     "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url, Accept-Encoding",
     "x-content-type-options": "nosniff",
-    "x-envoy-upstream-service-time": "206",
+    "x-envoy-upstream-service-time": "450",
     "x-frame-options": "DENY",
     "x-powered-by": "Next.js",
     "x-xss-protection": "1; mode=block"
@@ -22,15 +22,16 @@
       "ip": "195.154.73.190",
       "geoip": {
         "city": {
-          "geoname_id": 3012621,
+          "geoname_id": 2988507,
           "names": {
-            "de": "Ivry-sur-Seine",
-            "en": "Ivry-sur-Seine",
-            "es": "Ivry sobre Sena",
-            "fr": "Ivry-sur-Seine",
-            "ja": "イヴリー＝シュル＝セーヌ",
-            "ru": "Иври-сюр-Сен",
-            "zh-CN": "塞纳河畔伊夫里"
+            "de": "Paris",
+            "en": "Paris",
+            "es": "París",
+            "fr": "Paris",
+            "ja": "パリ",
+            "pt-BR": "Paris",
+            "ru": "Париж",
+            "zh-CN": "巴黎"
           }
         },
         "continent": {
@@ -63,13 +64,13 @@
           }
         },
         "location": {
-          "accuracy_radius": 20,
-          "latitude": 48.8138,
-          "longitude": 2.3873,
+          "accuracy_radius": 500,
+          "latitude": 48.8323,
+          "longitude": 2.4075,
           "time_zone": "Europe/Paris"
         },
         "postal": {
-          "code": "94200"
+          "code": "75016"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -102,17 +103,13 @@
             }
           },
           {
-            "geoname_id": 2971090,
-            "iso_code": "94",
+            "geoname_id": 2968815,
+            "iso_code": "75",
             "names": {
-              "de": "Val-de-Marne",
-              "en": "Val-de-Marne",
-              "es": "Valle de Marne",
-              "fr": "Val-de-Marne",
-              "ja": "ヴァル＝ド＝マルヌ県",
-              "pt-BR": "Val-de-Marne",
-              "ru": "Валь-де-Марн",
-              "zh-CN": "马恩河谷省"
+              "de": "Paris",
+              "en": "Paris",
+              "es": "Paris",
+              "fr": "Paris"
             }
           }
         ]
