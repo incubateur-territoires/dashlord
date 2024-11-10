@@ -3,15 +3,15 @@
         "width": 1920,
         "height": 1080,
         "url": "https://www.conseiller-numerique.gouv.fr/",
-        "size": 720.123,
+        "size": 720.084,
         "nodes": 329,
-        "requests": 36,
+        "requests": 37,
         "grade": "B",
         "score": 74.0,
         "ges": 1.52,
         "water": 2.28,
         "ecoindex_version": "5.4.2",
-        "date": "2024-11-03 01:21:47.482287",
+        "date": "2024-11-10 01:23:05.640812",
         "page_type": "website"
     }
 ]
