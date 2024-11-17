@@ -4,11 +4,11 @@
   "headers": {
     "access-control-allow-origin": "*",
     "content-encoding": "gzip",
-    "content-security-policy": "base-uri 'none'; font-src 'self' https: data:; form-action 'self'; frame-ancestors 'self'; img-src 'self' data:; object-src 'none'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; script-src 'self' https: 'unsafe-inline' 'strict-dynamic' 'nonce-uDomm1Tu2OjVG2/H6nqe4g=='; upgrade-insecure-requests; connect-src 'self' https://api-adresse.data.gouv.fr https://geo.api.gouv.fr https://matomo.dev.incubateur.anct.gouv.fr https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.net https://conversations-widget.brevo.com/;",
+    "content-security-policy": "base-uri 'none'; font-src 'self' https: data:; form-action 'self'; frame-ancestors 'self'; img-src 'self' data:; object-src 'none'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; script-src 'self' https: 'unsafe-inline' 'strict-dynamic' 'nonce-JPjKntIRsWZiwxVVWk6+dw=='; upgrade-insecure-requests; connect-src 'self' https://api-adresse.data.gouv.fr https://geo.api.gouv.fr https://matomo.dev.incubateur.anct.gouv.fr https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.net https://conversations-widget.brevo.com/;",
     "content-type": "text/html;charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Sun, 10 Nov 2024 01:31:11 GMT",
+    "date": "Sun, 17 Nov 2024 01:32:17 GMT",
     "origin-agent-cluster": "?1",
     "permissions-policy": "camera=(), display-capture=(), fullscreen=(), geolocation=(), microphone=()",
     "referrer-policy": "no-referrer",
@@ -19,7 +19,7 @@
     "x-download-options": "noopen",
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "7b9264f9-e1cf-481f-810f-a6d96d5b93d1",
+    "x-request-id": "0dcf743f-c9fd-47e0-97ea-e0ee525ae8b2",
     "x-xss-protection": "0"
   },
   "endpoints": [
