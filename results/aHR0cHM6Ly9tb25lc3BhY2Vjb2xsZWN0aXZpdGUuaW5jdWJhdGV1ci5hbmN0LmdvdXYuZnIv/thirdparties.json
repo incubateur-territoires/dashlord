@@ -22,7 +22,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://stats.recoconseil.fr/matomo.php?action_name=Acc%C3%A9l%C3%A9rez%20les%20projets%20de%20votre%20territoire%20-%20Mon%20Espace%20Collectivit%C3%A9&idsite=3&rec=1&r=091443&h=1&m=4&s=1&url=https%3A%2F%2Fmonespacecollectivite.incubateur.anct.gouv.fr%2F&_id=ab0eb781cc0c3750&_idn=1&send_image=0&_refts=0&pv_id=b19I9F&pf_net=181&pf_srv=127&pf_tfr=81&pf_dm1=887&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+      "url": "https://stats.recoconseil.fr/matomo.php?action_name=Acc%C3%A9l%C3%A9rez%20les%20projets%20de%20votre%20territoire%20-%20Mon%20Espace%20Collectivit%C3%A9&idsite=3&rec=1&r=511323&h=1&m=6&s=13&url=https%3A%2F%2Fmonespacecollectivite.incubateur.anct.gouv.fr%2F&_id=f4168e63fecc2d5a&_idn=1&send_image=0&_refts=0&pv_id=0QAwfu&pf_net=321&pf_srv=199&pf_tfr=153&pf_dm1=1684&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     }
   ],
   "cookies": [
@@ -31,7 +31,7 @@
       "value": "1",
       "domain": "monespacecollectivite.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1731202441,
+      "expires": 1731807373,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -43,10 +43,10 @@
     },
     {
       "name": "_pk_id.3.29ea",
-      "value": "ab0eb781cc0c3750.1731200642.",
+      "value": "f4168e63fecc2d5a.1731805574.",
       "domain": "monespacecollectivite.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1765155842,
+      "expires": 1765760774,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -58,10 +58,10 @@
     },
     {
       "name": "csrftoken",
-      "value": "xCv1cHC9b19KpzMVQRyt10O59LoY9r5f",
+      "value": "4lp3dqWtkbequTnzKwP0vbW9JjWOJgjo",
       "domain": "monespacecollectivite.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1762650240.489735,
+      "expires": 1763255171.747169,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -73,12 +73,12 @@
     }
   ],
   "headers": {
-    "content-length": "26314",
+    "content-length": "26455",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 10 Nov 2024 01:04:00 GMT",
+    "date": "Sun, 17 Nov 2024 01:06:11 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=xCv1cHC9b19KpzMVQRyt10O59LoY9r5f; expires=Sun, 09 Nov 2025 01:04:00 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
+    "set-cookie": "csrftoken=4lp3dqWtkbequTnzKwP0vbW9JjWOJgjo; expires=Sun, 16 Nov 2025 01:06:11 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Cookie",
     "via": "2.0 alproxy",
@@ -144,8 +144,58 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.18.187.31",
+      "ip": "151.101.201.229",
       "geoip": {
+        "city": {
+          "geoname_id": 5380748,
+          "names": {
+            "de": "Palo Alto",
+            "en": "Palo Alto",
+            "es": "Palo Alto",
+            "fr": "Palo Alto",
+            "ja": "パロアルト",
+            "pt-BR": "Palo Alto",
+            "ru": "Пало Альто"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 20,
+          "latitude": 37.4433,
+          "longitude": -122.141,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
+        },
+        "postal": {
+          "code": "94302"
+        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -159,7 +209,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5332921,
+            "iso_code": "CA",
+            "names": {
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
+            }
+          }
+        ]
       }
     },
     {
