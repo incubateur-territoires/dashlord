@@ -199,7 +199,7 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
@@ -346,7 +346,7 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "71 >= 30 days"
+              "finding"      : "64 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -500,35 +500,21 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-5 seconds from localtime"
+              "finding"      : "0 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1731809056"
+              "finding"      : "1732413958"
           }
 ,         {
-              "id"           : "HSTS_time",
+              "id"           : "HSTS",
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "180 days (=15552000 seconds) > 15552000 seconds"
-          }
-,         {
-              "id"           : "HSTS_subdomains",
-              "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "includes subdomains"
-          }
-,         {
-              "id"           : "HSTS_preload",
-              "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "domain is NOT marked for preloading"
+              "severity"     : "LOW",
+              "finding"      : "not offered"
           }
 ,         {
               "id"           : "HPKP",
@@ -549,7 +535,7 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "No application banner found"
+              "finding"      : "x-powered-by: PHP/8.3.14"
           }
 ,         {
               "id"           : "cookie_count",
@@ -563,7 +549,7 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "SAMEORIGIN"
+              "finding"      : "DENY"
           }
 ,         {
               "id"           : "X-Content-Type-Options",
@@ -577,28 +563,35 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "default-src 'self' https://cdn.by.wonderpush.com https://matomo.incubateur.anct.gouv.fr/;base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';img-src 'self' data: https://agents-intervention-prod-uploads.s3.fr-par.scw.cloud/ https://agents-intervention-preprod-uploads.s3.fr-par.scw.cloud https://agents-intervention-dev-uploads.s3.fr-par.scw.cloud/ https://aie-prod.s3.fr-par.scw.cloud/ https://aie-preprod.s3.fr-par.scw.cloud/ https://aie-dev.s3.fr-par.scw.cloud/ https://dev-aei.cellar-c2.services.clever-cloud.com/ https://*.jawg.io/ https://cdn.by.wonderpush.com;object-src 'none';script-src 'self' 'unsafe-inline' https://cdn.by.wonderpush.com https://matomo.incubateur.anct.gouv.fr/ ;script-src-attr 'none';connect-src 'self' https://api-adresse.data.gouv.fr/ *.wonderpush.com https://matomo.incubateur.anct.gouv.fr/ https://agentsenintervention.anct.gouv.fr/api;style-src 'self' https: 'unsafe-inline';frame-src 'self' *.wonderpush.com; worker-src 'self' *.wonderpush.com;upgrade-insecure-requests"
+              "finding"      : "default-src 'self' https://cdn.by.wonderpush.com https://matomo.incubateur.anct.gouv.fr/; base-uri 'self'; connect-src 'self' https://api-adresse.data.gouv.fr/ *.wonderpush.com https://matomo.incubateur.anct.gouv.fr/ *.sentry.io; font-src 'self' data:; img-src 'self' https://cdn.by.wonderpush.com https://agents-intervention-prod-uploads.s3.fr-par.scw.cloud/ https://agents-intervention-preprod-uploads.s3.fr-par.scw.cloud https://agents-intervention-dev-uploads.s3.fr-par.scw.cloud/ *.jawg.io data:; media-src 'self' https://agents-intervention-prod-uploads.s3.fr-par.scw.cloud; script-src 'self' 'unsafe-inline' https://cdn.by.wonderpush.com https://matomo.incubateur.anct.gouv.fr/ https://browser.sentry-cdn.com https://sentry.anct.cloud-ed.fr; style-src 'self' 'unsafe-inline' https://cdn.by.wonderpush.com data:; upgrade-insecure-requests; report-uri https://sentry.anct.cloud-ed.fr/api/2/security/?sentry_key=96751d8c404824fa5c2b032bc7f75236; worker-src 'self' *.wonderpush.com"
+          }
+,         {
+              "id"           : "X-Content-Security-Policy",
+              "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "default-src 'self' https://cdn.by.wonderpush.com https://matomo.incubateur.anct.gouv.fr/; base-uri 'self'; connect-src 'self' https://api-adresse.data.gouv.fr/ *.wonderpush.com https://matomo.incubateur.anct.gouv.fr/ *.sentry.io; font-src 'self' data:; img-src 'self' https://cdn.by.wonderpush.com https://agents-intervention-prod-uploads.s3.fr-par.scw.cloud/ https://agents-intervention-preprod-uploads.s3.fr-par.scw.cloud https://agents-intervention-dev-uploads.s3.fr-par.scw.cloud/ *.jawg.io data:; media-src 'self' https://agents-intervention-prod-uploads.s3.fr-par.scw.cloud; script-src 'self' 'unsafe-inline' https://cdn.by.wonderpush.com https://matomo.incubateur.anct.gouv.fr/ https://browser.sentry-cdn.com https://sentry.anct.cloud-ed.fr; style-src 'self' 'unsafe-inline' https://cdn.by.wonderpush.com data:; upgrade-insecure-requests; report-uri https://sentry.anct.cloud-ed.fr/api/2/security/?sentry_key=96751d8c404824fa5c2b032bc7f75236; worker-src 'self' *.wonderpush.com"
           }
 ,         {
               "id"           : "X-XSS-Protection",
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0"
+              "finding"      : "1; mode=block"
           }
 ,         {
               "id"           : "Referrer-Policy",
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "no-referrer"
+              "finding"      : "no-referrer, strict-origin-when-cross-origin"
           }
 ,         {
               "id"           : "Cache-Control",
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "s-maxage=31536000, stale-while-revalidate"
+              "finding"      : "max-age=0, must-revalidate, private"
           }
 ,         {
               "id"           : "banner_reverseproxy",
@@ -677,7 +670,7 @@
               "severity"     : "MEDIUM",
               "cve"          : "CVE-2013-3587",
               "cwe"          : "CWE-310",
-              "finding"      : "potentially VULNERABLE, gzip deflate HTTP compression detected  - only supplied '/' tested"
+              "finding"      : "potentially VULNERABLE, gzip HTTP compression detected  - only supplied '/' tested"
           }
 ,         {
               "id"           : "POODLE_SSL",
@@ -1098,13 +1091,20 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "A+"
+              "finding"      : "A"
+          }
+,         {
+              "id"           : "grade_cap_reason_1",
+              "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "Grade capped to A. HSTS is not offered"
           }
 ,         {
               "id"           : "scanTime",
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "109"
+              "finding"      : "96"
           }
 ]
