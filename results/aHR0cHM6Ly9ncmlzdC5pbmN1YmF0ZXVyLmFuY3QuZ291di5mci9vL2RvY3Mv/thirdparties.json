@@ -6,7 +6,7 @@
       "value": "1",
       "domain": "grist.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1732414920,
+      "expires": 1732792689,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.109.b3ed",
-      "value": "4514b7b960563638.1732413121.",
+      "value": "d6de394ed0ec01f4.1732790889.",
       "domain": "grist.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1766368321,
+      "expires": 1766746089,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -33,11 +33,11 @@
     },
     {
       "name": "grist_core",
-      "value": "s%3Ag-1021d9a075db842e76359fecdc32e4077322af98ded955ed43389b6fe07864a1.ySnxwLIMt9Hb3pd4R2r5VsxqJfgw9Yd3Np4p%2Bfzytl0",
+      "value": "s%3Ag-2e19d2c45028f21fe8feff68b30be622a45ccf167c6569ff43fadc52db8daca5.ioexpc4iLW5c7Zq17jJuMGS5hEf24oBmTRiU1aB8r4g",
       "domain": "grist.incubateur.anct.gouv.fr",
       "path": "/",
       "expires": -1,
-      "size": 126,
+      "size": 124,
       "httpOnly": true,
       "secure": false,
       "session": true,
@@ -48,33 +48,21 @@
     }
   ],
   "headers": {
+    "content-encoding": "br",
     "content-language": "en-US",
-    "content-length": "5582",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 24 Nov 2024 01:51:59 GMT",
-    "etag": "W/\"15ce-veuMVSloovhVWNgJiljIisk/ehI\"",
-    "set-cookie": "grist_core=s%3Ag-1021d9a075db842e76359fecdc32e4077322af98ded955ed43389b6fe07864a1.ySnxwLIMt9Hb3pd4R2r5VsxqJfgw9Yd3Np4p%2Bfzytl0; Path=/; HttpOnly; SameSite=Lax",
-    "x-powered-by": "Express",
-    "x-robots-tag": "none"
+    "date": "Thu, 28 Nov 2024 10:48:08 GMT",
+    "etag": "W/\"15d9-jhkkAoVS+4UdqPIdNgLj5EaqixU\"",
+    "set-cookie": "grist_core=s%3Ag-2e19d2c45028f21fe8feff68b30be622a45ccf167c6569ff43fadc52db8daca5.ioexpc4iLW5c7Zq17jJuMGS5hEf24oBmTRiU1aB8r4g; Path=/; HttpOnly; SameSite=Lax",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "vary": "Accept-Encoding",
+    "x-powered-by": "Express"
   },
   "endpoints": [
     {
       "hostname": "grist.incubateur.anct.gouv.fr",
-      "ip": "51.159.10.161",
+      "ip": "142.44.53.109",
       "geoip": {
-        "city": {
-          "geoname_id": 2988507,
-          "names": {
-            "de": "Paris",
-            "en": "Paris",
-            "es": "París",
-            "fr": "Paris",
-            "ja": "パリ",
-            "pt-BR": "Paris",
-            "ru": "Париж",
-            "zh-CN": "巴黎"
-          }
-        },
         "continent": {
           "code": "EU",
           "geoname_id": 6255148,
@@ -106,12 +94,9 @@
         },
         "location": {
           "accuracy_radius": 500,
-          "latitude": 48.8323,
-          "longitude": 2.4075,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
           "time_zone": "Europe/Paris"
-        },
-        "postal": {
-          "code": "75001"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -127,33 +112,7 @@
             "ru": "Франция",
             "zh-CN": "法国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 3012874,
-            "iso_code": "IDF",
-            "names": {
-              "de": "Île-de-France",
-              "en": "Île-de-France",
-              "es": "Isla de Francia",
-              "fr": "Île-de-France",
-              "ja": "イル・ド・フランス",
-              "pt-BR": "Ilha de França",
-              "ru": "Иль-де-Франс",
-              "zh-CN": "法兰西岛"
-            }
-          },
-          {
-            "geoname_id": 2968815,
-            "iso_code": "75",
-            "names": {
-              "de": "Paris",
-              "en": "Paris",
-              "es": "Paris",
-              "fr": "Paris"
-            }
-          }
-        ]
+        }
       }
     }
   ]
