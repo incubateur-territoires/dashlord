@@ -1,0 +1,50 @@
+{
+  "id": "les.bases",
+  "type": "startup",
+  "attributes": {
+    "name": "Les Bases",
+    "pitch": "Faciliter le partage de ressources & de communs pour les acteurs de l'inclusion numérique",
+    "stats_url": "https://lesbases.anct.gouv.fr/statistiques",
+    "link": "https://lesbases.anct.gouv.fr/",
+    "repository": "https://github.com/inclusion-numerique/la-base",
+    "contact": "thibault.rouveyrol@beta.gouv.fr",
+    "content_url_encoded_markdown": "%23%23%20Contexte%0A%0A31%2C5%25%20des%2018%20ans%20et%20plus%20r%C3%A9sidant%20en%20France%20m%C3%A9tropolitaine%20peuvent%20%C3%AAtre%20consid%C3%A9r%C3%A9s%20comme%20%C3%A9loign%C3%A9s%20du%20num%C3%A9rique%20%28Source%20%3A%20%5BRapport%20sur%20l%E2%80%99%C3%A9tat%20de%20la%20soci%C3%A9t%C3%A9%20num%C3%A9rique%20fran%C3%A7aise%5D%28https%3A%2F%2Flabo.societenumerique.gouv.fr%2Ffr%2Farticles%2Fla-soci%25C3%25A9t%25C3%25A9-num%25C3%25A9rique-fran%25C3%25A7aise-d%25C3%25A9finir-et-mesurer-l%25C3%25A9loignement-num%25C3%25A9rique%2F%29%29.%0A%0AAutour%20de%20ce%20constat%2C%20de%20nombreux%20m%C3%A9tiers%20ont%20%C3%A9merg%C3%A9%20afin%20d%27accompagner%2C%20former%20et%20aider%20les%20%C3%A9loign%C3%A9s%20du%20num%C3%A9rique%20%28m%C3%A9diateurs%2C%20m%C3%A9diatrices%2C%20conseillers%20et%20conseill%C3%A8res%20num%C3%A9riques%2C%20associations%2C%0Aentreprises%2C%20collectivit%C3%A9s%20territoriales%2C%20agences%0Apubliques%E2%80%A6%29.%0A%0A%0A%23%23%20Probl%C3%A8me%0A%0AIl%20n%E2%80%99existe%20pas%20aujourd%E2%80%99hui%20d%E2%80%99espace%20partag%C3%A9%20%28ou%20plusieurs%2C%20mais%20non-exhaustifs%2C%20ou%20parfois%20peu%20maintenus%29%20r%C3%A9pertoriant%20les%20dispositifs%20et%20ressources%20de%20l%E2%80%99inclusion%20num%C3%A9rique.%20Or%2C%20les%20professionnels%20de%20la%20m%C3%A9diation%20num%C3%A9rique%2C%20les%20acteurs%20locaux%20et%20les%20collectivit%C3%A9s%20territoriales%20ont%20besoin%20d%E2%80%99un%20lieu%20d%C3%A9di%C3%A9%20au%20recensement%20d%E2%80%99outils%2C%20de%20pratiques%2C%20de%20partage%20des%20connaissance%20autour%20de%20l%E2%80%99inclusion%20num%C3%A9rique%20aujourd%27hui%20diss%C3%A9min%C3%A9s%20sur%20internet.%0A%0A%23%23%20Solution%0A%0AProposer%20une%20plateforme%20collaborative%2C%20ouverte%20%C3%A0%20tous%2C%20et%20d%C3%A9di%C3%A9es%20aux%20professionnels%20de%20la%20m%C3%A9diation%20num%C3%A9rique%2C%20aux%20acteurs%20locaux%20et%20aux%20collectivit%C3%A9s%20territoriales%20qui%20souhaitent%20partager%2C%20recenser%2C%20ou%20trouver%20des%20ressources%20autour%20de%20l%27inclusion%20num%C3%A9rique.%0A%0A%23%23%20Statut%20actuel%0A%0AUne%20%5Benqu%C3%AAte%20initiale%5D%28https%3A%2F%2Fhackmd.io%2F%40sonum%2Fdocumentation%29%20a%20%C3%A9t%C3%A9%20men%C3%A9e%20en%202021%20aupr%C3%A8s%20des%20diff%C3%A9rents%20acteurs%20pour%20recueillir%20leurs%20besoins%2C%20puis%20co-construire%20Les%20Bases.%0A%0AAu%20printemps%202022%2C%20une%20premi%C3%A8re%20version%20a%20%C3%A9t%C3%A9%20mise%20en%20ligne%2C%20et%20a%20permis%20de%20confronter%20la%20plateforme%20a%20la%20r%C3%A9alit%C3%A9%20de%20l%27usage.%0A%0AD%C3%A9but%202023%2C%20une%20nouvelle%20enqu%C3%AAte%20aupr%C3%A8s%20des%20utilisateurs%20a%20initi%C3%A9%20une%20V2%20de%20l%27outil%2C%20d%C3%A9ploy%C3%A9%20depuis%20f%C3%A9vrier%202024%0A",
+    "events": [],
+    "phases": [
+      {
+        "name": "investigation",
+        "start": "2021-09-01",
+        "end": ""
+      },
+      {
+        "name": "construction",
+        "start": "2022-02-01",
+        "end": ""
+      },
+      {
+        "name": "transfer",
+        "start": "2023-02-01",
+        "end": ""
+      },
+      {
+        "name": "acceleration",
+        "start": "2023-05-01",
+        "end": ""
+      }
+    ],
+    "sponsors": [
+      "anct"
+    ],
+    "thematiques": [],
+    "dashlord_url": "https://dashlord.inclusion-numerique.incubateur.anct.gouv.fr/url/lesbases-anct-gouv-fr/",
+    "accessibility_status": "non conforme"
+  },
+  "relationships": {
+    "incubator": {
+      "data": {
+        "type": "incubator",
+        "id": "anct"
+      }
+    }
+  }
+}
