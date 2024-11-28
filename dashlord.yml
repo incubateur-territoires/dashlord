@@ -73,11 +73,14 @@ urls:
   - url: https://www.conseiller-numerique.gouv.fr/
     repositories:
       - https://github.com/anct-cnum/site-vitrine
-  - url: https://labase.anct.gouv.fr/
+  - url: https://lesbases.anct.gouv.fr/
+    betaId: les.bases
     repositories:
-      - https://github.com/SocieteNumerique/Site
-      - https://github.com/SocieteNumerique/La-Base-backend
-      - https://github.com/SocieteNumerique/La-Base-frontend
+      - https://github.com/inclusion-numerique/la-base
+  - url: https://coop-numerique.anct.gouv.fr/
+    betaId: suite.d.outils.des.mediateurs.numeriques
+    repositories:
+      - https://github.com/inclusion-numerique/coop-mediation-numerique
   - url: https://monsuivisocial.incubateur.anct.gouv.fr/
     repositories:
       - https://gitlab.com/incubateur-territoires/startups/monsuivisocial/monsuivisocial-v2
