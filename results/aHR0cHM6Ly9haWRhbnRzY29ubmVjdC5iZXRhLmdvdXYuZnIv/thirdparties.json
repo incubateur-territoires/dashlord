@@ -67,7 +67,7 @@
       "value": "1",
       "domain": "aidantsconnect.beta.gouv.fr",
       "path": "/",
-      "expires": 1732413009,
+      "expires": 1732790500,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -79,10 +79,10 @@
     },
     {
       "name": "_pk_id.98.2d29",
-      "value": "ee31792fa5bab5a8.1732411210.",
+      "value": "bd1acc540af28b65.1732788700.",
       "domain": "aidantsconnect.beta.gouv.fr",
       "path": "/",
-      "expires": 1766366410,
+      "expires": 1766743900,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -95,21 +95,21 @@
   ],
   "headers": {
     "content-encoding": "gzip",
-    "content-security-policy": "style-src-attr 'unsafe-hashes' 'sha256-I/4Jcdrg5KNFrU0X4p2nNmjeGh9aI+9ac0cUllI5SwY=' 'sha256-vYd+FsML43MBXhP+pXOhW9h0Cdq43hkCe4Im/yyvhss='; object-src 'none'; img-src 'self' data: https://www.service-public.fr/resources/v-5cf79a7acf/web/css/img/png/; default-src 'self'; style-src 'self' https://unpkg.com/easymde/dist/easymde.min.css; connect-src 'self' https://stats.beta.gouv.fr/matomo.php https://stats.beta.gouv.fr/piwik.php https://api.sarbacane.com/v1/forms/contacts/upsert https://api-adresse.data.gouv.fr/search/; frame-src https://www.youtube.com/embed/hATrqHG4zYQ https://www.youtube-nocookie.com/embed/hATrqHG4zYQ http://www.youtube.com/embed/hATrqHG4zYQ http://www.youtube-nocookie.com/embed/hATrqHG4zYQ https://www.youtube.com/embed/WTHj_kQXnzs https://www.youtube-nocookie.com/embed/WTHj_kQXnzs http://www.youtube.com/embed/WTHj_kQXnzs http://www.youtube-nocookie.com/embed/WTHj_kQXnzs https://www.youtube.com/embed/ihsm-36I-fE https://www.youtube-nocookie.com/embed/ihsm-36I-fE http://www.youtube.com/embed/ihsm-36I-fE http://www.youtube-nocookie.com/embed/ihsm-36I-fE https://www.youtube.com/embed/AJGo6bydQss https://www.youtube-nocookie.com/embed/AJGo6bydQss http://www.youtube.com/embed/AJGo6bydQss http://www.youtube-nocookie.com/embed/AJGo6bydQss; script-src 'self' https://unpkg.com/stimulus@3.2.2/dist/stimulus.umd.js https://unpkg.com/stimulus@3.2.2/dist/stimulus.js https://unpkg.com/easymde/dist/easymde.min.js https://forms.sbc29.com/form.js https://unpkg.com/tarteaucitronjs@1.15.0/tarteaucitron.js https://unpkg.com/tarteaucitronjs@1.15.0/lang/tarteaucitron.fr.js https://unpkg.com/tarteaucitronjs@1.15.0/tarteaucitron.services.js https://cdn.jsdelivr.net/npm/chart.js@3.7.1/dist/chart.min.js https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-datalabels/2.0.0/chartjs-plugin-datalabels.min.js https://code.jquery.com/jquery-3.6.1.js https://code.jquery.com/ui/1.13.1/jquery-ui.js https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.7/dist/autoComplete.min.js https://stats.beta.gouv.fr/matomo.js https://stats.beta.gouv.fr/piwik.js 'nonce-T2NXngbVaf0faYBOcYm9eA=='",
+    "content-security-policy": "style-src-attr 'unsafe-hashes' 'sha256-I/4Jcdrg5KNFrU0X4p2nNmjeGh9aI+9ac0cUllI5SwY=' 'sha256-vYd+FsML43MBXhP+pXOhW9h0Cdq43hkCe4Im/yyvhss='; object-src 'none'; img-src 'self' data: https://www.service-public.fr/resources/v-5cf79a7acf/web/css/img/png/; default-src 'self'; style-src 'self' https://unpkg.com/easymde/dist/easymde.min.css; connect-src 'self' https://stats.beta.gouv.fr/matomo.php https://stats.beta.gouv.fr/piwik.php https://api.sarbacane.com/v1/forms/contacts/upsert https://api-adresse.data.gouv.fr/search/; frame-src https://www.youtube.com/embed/hATrqHG4zYQ https://www.youtube-nocookie.com/embed/hATrqHG4zYQ http://www.youtube.com/embed/hATrqHG4zYQ http://www.youtube-nocookie.com/embed/hATrqHG4zYQ https://www.youtube.com/embed/WTHj_kQXnzs https://www.youtube-nocookie.com/embed/WTHj_kQXnzs http://www.youtube.com/embed/WTHj_kQXnzs http://www.youtube-nocookie.com/embed/WTHj_kQXnzs https://www.youtube.com/embed/ihsm-36I-fE https://www.youtube-nocookie.com/embed/ihsm-36I-fE http://www.youtube.com/embed/ihsm-36I-fE http://www.youtube-nocookie.com/embed/ihsm-36I-fE https://www.youtube.com/embed/AJGo6bydQss https://www.youtube-nocookie.com/embed/AJGo6bydQss http://www.youtube.com/embed/AJGo6bydQss http://www.youtube-nocookie.com/embed/AJGo6bydQss; script-src 'self' https://unpkg.com/stimulus@3.2.2/dist/stimulus.umd.js https://unpkg.com/stimulus@3.2.2/dist/stimulus.js https://unpkg.com/easymde/dist/easymde.min.js https://forms.sbc29.com/form.js https://unpkg.com/tarteaucitronjs@1.15.0/tarteaucitron.js https://unpkg.com/tarteaucitronjs@1.15.0/lang/tarteaucitron.fr.js https://unpkg.com/tarteaucitronjs@1.15.0/tarteaucitron.services.js https://cdn.jsdelivr.net/npm/chart.js@3.7.1/dist/chart.min.js https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-datalabels/2.0.0/chartjs-plugin-datalabels.min.js https://code.jquery.com/jquery-3.6.1.js https://code.jquery.com/ui/1.13.1/jquery-ui.js https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.7/dist/autoComplete.min.js https://stats.beta.gouv.fr/matomo.js https://stats.beta.gouv.fr/piwik.js 'nonce-8ZC8pvqhdLaSbKS1q6WgNw=='",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 24 Nov 2024 01:20:08 GMT",
+    "date": "Thu, 28 Nov 2024 10:11:38 GMT",
     "referrer-policy": "strict-origin",
     "strict-transport-security": "max-age=60",
     "vary": "Cookie",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "bc0e8277-fd4a-4484-9a4e-6866ca3c1088"
+    "x-request-id": "0fcc0c7e-2035-4795-a8dd-331b6399b28b"
   },
   "endpoints": [
     {
       "hostname": "aidantsconnect.beta.gouv.fr",
-      "ip": "80.247.13.145",
+      "ip": "148.253.96.193",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -165,7 +165,7 @@
     },
     {
       "hostname": "unpkg.com",
-      "ip": "104.17.247.203",
+      "ip": "104.17.245.203",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -185,8 +185,19 @@
     },
     {
       "hostname": "forms.sbc29.com",
-      "ip": "185.75.141.218",
+      "ip": "217.74.111.254",
       "geoip": {
+        "city": {
+          "geoname_id": 2985034,
+          "names": {
+            "de": "Puteaux",
+            "en": "Puteaux",
+            "fr": "Puteaux",
+            "ja": "ピュトー",
+            "ru": "Пюто",
+            "zh-CN": "皮托"
+          }
+        },
         "continent": {
           "code": "EU",
           "geoname_id": 6255148,
@@ -217,10 +228,13 @@
           }
         },
         "location": {
-          "accuracy_radius": 500,
-          "latitude": 48.8582,
-          "longitude": 2.3387,
+          "accuracy_radius": 200,
+          "latitude": 48.88,
+          "longitude": 2.2454,
           "time_zone": "Europe/Paris"
+        },
+        "postal": {
+          "code": "92800"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -236,7 +250,37 @@
             "ru": "Франция",
             "zh-CN": "法国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 3012874,
+            "iso_code": "IDF",
+            "names": {
+              "de": "Île-de-France",
+              "en": "Île-de-France",
+              "es": "Isla de Francia",
+              "fr": "Île-de-France",
+              "ja": "イル・ド・フランス",
+              "pt-BR": "Ilha de França",
+              "ru": "Иль-де-Франс",
+              "zh-CN": "法兰西岛"
+            }
+          },
+          {
+            "geoname_id": 3013657,
+            "iso_code": "92",
+            "names": {
+              "de": "Hauts-de-Seine",
+              "en": "Hauts-de-Seine",
+              "es": "Altos de Sena",
+              "fr": "Hauts-de-Seine",
+              "ja": "オー＝ド＝セーヌ県",
+              "pt-BR": "Altos do Sena",
+              "ru": "О-де-Сен",
+              "zh-CN": "上塞纳省"
+            }
+          }
+        ]
       }
     }
   ]
