@@ -346,7 +346,7 @@
               "ip"           : "tous-connectes.anct.gouv.fr/148.253.96.193",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "45 >= 30 days"
+              "finding"      : "38 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,7 +507,7 @@
               "ip"           : "tous-connectes.anct.gouv.fr/148.253.96.193",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1733018372"
+              "finding"      : "1733622852"
           }
 ,         {
               "id"           : "HSTS",
@@ -1405,7 +1405,7 @@
               "ip"           : "tous-connectes.anct.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "45 >= 30 days"
+              "finding"      : "38 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1559,14 +1559,14 @@
               "ip"           : "tous-connectes.anct.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "tous-connectes.anct.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1733018475"
+              "finding"      : "1733622909"
           }
 ,         {
               "id"           : "HSTS",
@@ -2464,7 +2464,7 @@
               "ip"           : "tous-connectes.anct.gouv.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "45 >= 30 days"
+              "finding"      : "38 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -2625,7 +2625,7 @@
               "ip"           : "tous-connectes.anct.gouv.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1733018578"
+              "finding"      : "1733622968"
           }
 ,         {
               "id"           : "HSTS",
@@ -3383,7 +3383,7 @@
               "ip"           : "tous-connectes.anct.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -3523,7 +3523,7 @@
               "ip"           : "tous-connectes.anct.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "45 >= 30 days"
+              "finding"      : "38 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -3677,14 +3677,14 @@
               "ip"           : "tous-connectes.anct.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "tous-connectes.anct.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1733018681"
+              "finding"      : "1733623028"
           }
 ,         {
               "id"           : "HSTS",
@@ -4240,6 +4240,6 @@
               "ip"           : "tous-connectes.anct.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "415"
+              "finding"      : "237"
           }
 ]

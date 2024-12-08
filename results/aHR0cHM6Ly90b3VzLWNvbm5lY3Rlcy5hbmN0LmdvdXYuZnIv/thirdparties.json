@@ -27,7 +27,7 @@
     },
     {
       "name": "__Host-next-auth.csrf-token",
-      "value": "061a2d7c624387ea864b4ce41e1422dce90e7595abff0c84bcb18d472b6a63db%7C7b392ca9e714641a3da556b08e29c94464c6eb0870a9ca46f2a01a18d376216d",
+      "value": "cc07ea2bed9e88437a796a936571b1b31bdc464db1f47330c1a67bd70ce93989%7C89046c8b2e21a9a66597a0759ebace7f2fd799d3e0d715cbe6e8df8b340d555f",
       "domain": "tous-connectes.anct.gouv.fr",
       "path": "/",
       "expires": -1,
@@ -45,12 +45,12 @@
     "cache-control": "s-maxage=31536000, stale-while-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 01 Dec 2024 01:53:37 GMT",
+    "date": "Sun, 08 Dec 2024 01:49:23 GMT",
     "etag": "\"lexpa4rw0m2b63\"",
     "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
     "x-nextjs-cache": "HIT",
     "x-powered-by": "Next.js",
-    "x-request-id": "5475dd56-223a-4a14-903d-5dafad67d508"
+    "x-request-id": "0102ca12-545e-4ce1-a443-10d911d574fc"
   },
   "endpoints": [
     {
