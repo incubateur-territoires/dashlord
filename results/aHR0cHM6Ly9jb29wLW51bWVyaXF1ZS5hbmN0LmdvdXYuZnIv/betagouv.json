@@ -5,6 +5,9 @@
     "name": "La coop de la médiation numérique",
     "pitch": "Faciliter l'accompagnement des éloignées du numérique.",
     "stats_url": "",
+    "budget_url": "https://coop-numerique.anct.gouv.fr/budget",
+    "link": "https://coop-numerique.anct.gouv.fr/",
+    "repository": "https://github.com/inclusion-numerique/coop-mediation-numerique",
     "contact": "coop-numerique@anct.gouv.fr",
     "content_url_encoded_markdown": "%23%23%20Contexte%0A%0ALes%20%C3%A9tudes%20estiment%20qu%E2%80%991%20fran%C3%A7ais%20sur%203%20est%20%C3%A9loign%C3%A9%20du%20num%C3%A9rique.%20Cette%20situation%20entra%C3%AEne%20l%E2%80%99exclusion%20de%20certains%20publics%20dans%20un%20contexte%20de%20num%C3%A9risation%20des%20activit%C3%A9s%20de%20la%20vie%20quotidienne.%20%0A%0ALa%20m%C3%A9diation%20num%C3%A9rique%20vise%20%C3%A0%20redonner%20du%20pouvoir%20d%E2%80%99agir%20aux%20citoyens%20et%20citoyennes%20gr%C3%A2ce%20%C3%A0%20l%E2%80%99appropriation%20des%20outils%20num%C3%A9riques.%0A%0A%23%23%20Probl%C3%A8me%0A%0AM%C3%A9tier%20peu%20reconnu%2C%20%C3%A0%20la%20crois%C3%A9e%20des%20technologies%20et%20du%20social%2C%20un%20besoin%20de%20valorisation%20de%20leur%20activit%C3%A9%2C%20de%20formation%2C%20de%20partage%20d%E2%80%99exp%C3%A9rience%20et%20de%20ressources%20%28notamment%20p%C3%A9dagogique%20et%20de%20veille%20sur%20les%20enjeux%20du%20num%C3%A9rique%29%20s%E2%80%99est%20fait%20ressentir.%0A%0A%23%23%20Solution%0A%0AUne%20suite%20d%E2%80%99outils%20interconnect%C3%A9s%20les%20uns%20aux%20autres%20permettant%20d%E2%80%99accompagner%20au%20mieux%20les%20m%C3%A9diateurs%20num%C3%A9riques%20dans%20leur%20m%C3%A9tier.%20Cette%20suite%20permettra%2C%20selon%20leur%20profil%2C%20de%20%3A%0A-%20valoriser%20leur%20m%C3%A9tier%20gr%C3%A2ce%20%C3%A0%20des%20statistiques%20sur%20leurs%20accompagnements%20aliment%C3%A9es%20par%20un%20compte%20rendu%20d%E2%80%99activit%C3%A9%0A-%20se%20former%20et%20faire%20de%20la%20veille%20sur%20les%20enjeux%20du%20num%C3%A9rique%20pour%20valoriser%20leurs%20comp%C3%A9tences%0A-%20acc%C3%A9der%20%C3%A0%20une%20ressourcerie%20du%20num%C3%A9rique%20d%27int%C3%A9r%C3%AAt%20g%C3%A9n%C3%A9ral%0A-%20se%20mettre%20en%20lien%20avec%20leur%20communaut%C3%A9%20%0A%0A%0A%23%23%20Strat%C3%A9gie%0A%0ANous%20terminons%20actuellement%20la%20phase%20d%E2%80%99investigation%20aupr%C3%A8s%20des%20usagers%20%28m%C3%A9diateurs%2C%20conseillers%20num%C3%A9riques%2C%20coordinateurs%29%20pour%20entrer%20dans%20une%20phase%20d%E2%80%99exp%C3%A9rimentation%20%2F%20construction.%0A%0ADans%20un%20premier%20temps%20pour%20d%C3%A9velopperons%20un%20MVP%20%28produit%20minimum%20viable%29%20avec%20les%20fonctionnalit%C3%A9s%20%22de%20base%22%20%28compte%20rendu%20d%27activit%C3%A9%2C%20statistiques%2C%20ressourcerie%2C%20formations%20cibl%C3%A9es%20selon%20profil%29.%0ANous%20agr%C3%A9menterons%20la%20plateforme%20au%20fur%20et%20%C3%A0%20mesure%20en%20faisant%20des%20liens%20avec%20d%27autres%20produits%20utiles%20aux%20usagers%20gr%C3%A2ce%20%C3%A0%20une%20interconnexion%20des%20services.",
     "events": [],
@@ -28,6 +31,7 @@
       "Inclusion numérique",
       "Social"
     ],
+    "dashlord_url": "https://dashlord.incubateur.anct.gouv.fr/url/coop-numerique-anct-gouv-fr/",
     "accessibility_status": "non conforme"
   },
   "relationships": {
