@@ -3,7 +3,7 @@
   "type": "startup",
   "attributes": {
     "name": "Espace sur Demande",
-    "pitch": "Faciliter la mise à disposition et la location des espaces publics des collectivités auprès des citoyens.",
+    "pitch": "Rendre accessible les espaces publics auprès du grand public",
     "stats_url": "https://espacesurdemande.anct.gouv.fr/statistiques",
     "link": "https://espacesurdemande.anct.gouv.fr/?mtm_campaign=annuaire-se-beta&mtm_source=web&mtm_medium=beta-gouv",
     "repository": "https://gitlab.com/incubateur-territoires/startups/espace-sur-demande/application",
