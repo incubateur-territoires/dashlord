@@ -35,7 +35,9 @@
     "sponsors": [
       "anct"
     ],
-    "thematiques": [],
+    "thematiques": [
+      "Inclusion numérique"
+    ],
     "dashlord_url": "https://dashlord.inclusion-numerique.incubateur.anct.gouv.fr/url/lesbases-anct-gouv-fr/",
     "accessibility_status": "non conforme"
   },
