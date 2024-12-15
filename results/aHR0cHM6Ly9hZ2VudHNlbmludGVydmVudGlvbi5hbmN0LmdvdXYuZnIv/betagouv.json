@@ -29,6 +29,8 @@
     "thematiques": [
       "Collectivités"
     ],
+    "analyse_risques": "true",
+    "dashlord_url": "https://dashlord.incubateur.anct.gouv.fr/",
     "accessibility_status": "partiellement conforme"
   },
   "relationships": {
