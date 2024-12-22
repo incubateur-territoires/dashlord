@@ -3,7 +3,7 @@
         "width": 1920,
         "height": 1080,
         "url": "https://espacesurdemande.anct.gouv.fr/",
-        "size": 3514.133,
+        "size": 3517.265,
         "nodes": 461,
         "requests": 78,
         "grade": "D",
@@ -11,7 +11,7 @@
         "ges": 1.98,
         "water": 2.97,
         "ecoindex_version": "5.4.2",
-        "date": "2024-12-15 00:43:04.832165",
+        "date": "2024-12-22 00:39:50.504629",
         "page_type": null
     }
 ]
