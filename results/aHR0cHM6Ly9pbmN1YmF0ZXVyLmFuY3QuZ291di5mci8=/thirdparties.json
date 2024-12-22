@@ -15,7 +15,7 @@
       "value": "1",
       "domain": "incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1734225214,
+      "expires": 1734829819,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -27,10 +27,10 @@
     },
     {
       "name": "_pk_id.80.d889",
-      "value": "8648b64b1bdc8544.1734223414.",
+      "value": "df2be2fec1998956.1734828019.",
       "domain": "incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1768178614,
+      "expires": 1768783219,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -45,7 +45,7 @@
     "accept-ranges": "none",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 15 Dec 2024 00:43:32 GMT",
+    "date": "Sun, 22 Dec 2024 00:40:18 GMT",
     "etag": "\"1390b4-tzCceL2i/DgpBvYZxVBdl23MhaM\"",
     "referrer-policy": "no-referrer",
     "strict-transport-security": "max-age=31536000",
@@ -153,21 +153,8 @@
     },
     {
       "hostname": "incubateur-territoires.github.io",
-      "ip": "185.199.109.153",
+      "ip": "185.199.111.153",
       "geoip": {
-        "city": {
-          "geoname_id": 5391959,
-          "names": {
-            "de": "San Francisco",
-            "en": "San Francisco",
-            "es": "San Francisco",
-            "fr": "San Francisco",
-            "ja": "サンフランシスコ",
-            "pt-BR": "São Francisco",
-            "ru": "Сан-Франциско",
-            "zh-CN": "旧金山"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -197,14 +184,10 @@
           }
         },
         "location": {
-          "accuracy_radius": 20,
-          "latitude": 37.7642,
-          "longitude": -122.3993,
-          "metro_code": 807,
+          "accuracy_radius": 1000,
+          "latitude": 34.046,
+          "longitude": -118.2297,
           "time_zone": "America/Los_Angeles"
-        },
-        "postal": {
-          "code": "94107"
         },
         "registered_country": {
           "geoname_id": 6252001,
