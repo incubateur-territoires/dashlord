@@ -55,7 +55,7 @@
       "value": "1",
       "domain": "cartographie.societenumerique.gouv.fr",
       "path": "/",
-      "expires": 1734227643,
+      "expires": 1734832506,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -67,10 +67,10 @@
     },
     {
       "name": "_pk_id.277.9ac4",
-      "value": "5a23d42e7c0c01c8.1734225843.",
+      "value": "2f80a62e44b5b42f.1734830706.",
       "domain": "cartographie.societenumerique.gouv.fr",
       "path": "/",
-      "expires": 1768181043,
+      "expires": 1768785906,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -82,11 +82,11 @@
     }
   ],
   "headers": {
-    "age": "4260",
+    "age": "879",
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self' data: https://*.gouv.fr https://openmaptiles.github.io ; font-src 'self' https://cdn.jsdelivr.net; img-src 'self' data: https://*.gouv.fr; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.gouv.fr blob:; style-src 'self' 'unsafe-inline';",
     "content-type": "text/html",
-    "date": "Sun, 15 Dec 2024 00:13:03 GMT",
+    "date": "Sun, 22 Dec 2024 01:10:27 GMT",
     "etag": "W/\"8751acb0225766f6b06ce0104e0cd447\"",
     "last-modified": "Fri, 11 Oct 2024 07:39:28 GMT",
     "permissions-policy": "accelerometer=(), camera=(), geolocation=(self), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
@@ -94,9 +94,9 @@
     "server": "AmazonS3",
     "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
     "vary": "accept-encoding",
-    "via": "1.1 cec64af9ab0d314d94f9ff7781e72798.cloudfront.net (CloudFront)",
-    "x-amz-cf-id": "d5lLJ1nc7YFDCWjnH6cvky5TdFlTzxAfIwpT7pFPe1iYdGvRF7YCWA==",
-    "x-amz-cf-pop": "SFO53-P5",
+    "via": "1.1 6d352ebde2f59c6bd22213f2b54e5616.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "RxcgdW2_Yu_7mWdIjhglLePmMQ1LPhP2XWU-uQygnbUaU1Owkz8QBw==",
+    "x-amz-cf-pop": "IAD61-P6",
     "x-amz-server-side-encryption": "AES256",
     "x-cache": "Error from cloudfront",
     "x-content-type-options": "nosniff",
@@ -106,7 +106,7 @@
   "endpoints": [
     {
       "hostname": "cartographie.societenumerique.gouv.fr",
-      "ip": "18.238.192.108",
+      "ip": "3.167.69.20",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -160,7 +160,7 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.18.186.31",
+      "ip": "104.18.187.31",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
