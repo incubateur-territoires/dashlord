@@ -374,7 +374,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (38)"
+              "finding"      : "expires < 60 days (31)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#1>",
@@ -675,7 +675,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (38)"
+              "finding"      : "expires < 60 days (31)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#2>",
@@ -885,7 +885,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1734830958"
+              "finding"      : "1735435819"
           }
 ,         {
               "id"           : "HSTS",
@@ -906,7 +906,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "cloudflareserver-timing: cfL4;desc='?proto=TCP&rtt=1758&min_rtt=1606&rtt_var=548&sent=5&recv=6&lost=0&retrans=0&sent_bytes=3027&recv_bytes=759&delivery_rate=1778331&cwnd=252&unsent_bytes=0&cid=3c44382a1814c2a5&ts=457&x=0'"
+              "finding"      : "cloudflareserver-timing: cfL4;desc='?proto=TCP&rtt=1798&min_rtt=1540&rtt_var=854&sent=5&recv=6&lost=0&retrans=0&sent_bytes=3026&recv_bytes=759&delivery_rate=933943&cwnd=252&unsent_bytes=0&cid=c276274e558fa8db&ts=174&x=0'"
           }
 ,         {
               "id"           : "banner_application",
@@ -1834,7 +1834,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (38)"
+              "finding"      : "expires < 60 days (31)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#1>",
@@ -2135,7 +2135,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (38)"
+              "finding"      : "expires < 60 days (31)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#2>",
@@ -2345,7 +2345,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1734831019"
+              "finding"      : "1735435879"
           }
 ,         {
               "id"           : "HSTS",
@@ -2366,7 +2366,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "cloudflareserver-timing: cfL4;desc='?proto=TCP&rtt=1922&min_rtt=1901&rtt_var=564&sent=5&recv=6&lost=0&retrans=0&sent_bytes=3026&recv_bytes=759&delivery_rate=1502367&cwnd=252&unsent_bytes=0&cid=aa44ecd9d15a9649&ts=451&x=0'"
+              "finding"      : "cloudflareserver-timing: cfL4;desc='?proto=TCP&rtt=1731&min_rtt=1627&rtt_var=508&sent=5&recv=7&lost=0&retrans=0&sent_bytes=3025&recv_bytes=759&delivery_rate=1369127&cwnd=252&unsent_bytes=0&cid=a8a22c054c349902&ts=466&x=0'"
           }
 ,         {
               "id"           : "banner_application",
@@ -2924,6 +2924,6 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "122"
+              "finding"      : "123"
           }
 ]
