@@ -27,14 +27,14 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self' https://cdn.by.wonderpush.com https://matomo.incubateur.anct.gouv.fr/; base-uri 'self'; connect-src 'self' https://api-adresse.data.gouv.fr/ *.wonderpush.com https://matomo.incubateur.anct.gouv.fr/ *.sentry.io; font-src 'self' data:; img-src 'self' https://cdn.by.wonderpush.com https://agents-intervention-prod-uploads.s3.fr-par.scw.cloud/ https://agents-intervention-preprod-uploads.s3.fr-par.scw.cloud https://agents-intervention-dev-uploads.s3.fr-par.scw.cloud/ *.jawg.io data:; media-src 'self' https://agents-intervention-prod-uploads.s3.fr-par.scw.cloud; script-src 'self' 'unsafe-inline' https://cdn.by.wonderpush.com https://matomo.incubateur.anct.gouv.fr/ https://browser.sentry-cdn.com https://sentry.anct.cloud-ed.fr; style-src 'self' 'unsafe-inline' https://cdn.by.wonderpush.com data:; upgrade-insecure-requests; report-uri https://sentry.anct.cloud-ed.fr/api/2/security/?sentry_key=96751d8c404824fa5c2b032bc7f75236; worker-src 'self' *.wonderpush.com",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 22 Dec 2024 02:01:15 GMT",
-    "expires": "Sun, 22 Dec 2024 02:01:15 GMT",
+    "date": "Sun, 29 Dec 2024 02:04:09 GMT",
+    "expires": "Sun, 29 Dec 2024 02:04:09 GMT",
     "referrer-policy": "no-referrer, strict-origin-when-cross-origin",
     "server": "envoy",
     "vary": "Accept-Encoding",
     "x-content-security-policy": "default-src 'self' https://cdn.by.wonderpush.com https://matomo.incubateur.anct.gouv.fr/; base-uri 'self'; connect-src 'self' https://api-adresse.data.gouv.fr/ *.wonderpush.com https://matomo.incubateur.anct.gouv.fr/ *.sentry.io; font-src 'self' data:; img-src 'self' https://cdn.by.wonderpush.com https://agents-intervention-prod-uploads.s3.fr-par.scw.cloud/ https://agents-intervention-preprod-uploads.s3.fr-par.scw.cloud https://agents-intervention-dev-uploads.s3.fr-par.scw.cloud/ *.jawg.io data:; media-src 'self' https://agents-intervention-prod-uploads.s3.fr-par.scw.cloud; script-src 'self' 'unsafe-inline' https://cdn.by.wonderpush.com https://matomo.incubateur.anct.gouv.fr/ https://browser.sentry-cdn.com https://sentry.anct.cloud-ed.fr; style-src 'self' 'unsafe-inline' https://cdn.by.wonderpush.com data:; upgrade-insecure-requests; report-uri https://sentry.anct.cloud-ed.fr/api/2/security/?sentry_key=96751d8c404824fa5c2b032bc7f75236; worker-src 'self' *.wonderpush.com",
     "x-content-type-options": "nosniff",
-    "x-envoy-upstream-service-time": "330",
+    "x-envoy-upstream-service-time": "545",
     "x-frame-options": "DENY",
     "x-powered-by": "PHP/8.3.14",
     "x-xss-protection": "1; mode=block"
@@ -257,7 +257,7 @@
     },
     {
       "hostname": "agents-intervention-prod-uploads.s3.fr-par.scw.cloud",
-      "ip": "51.159.62.19",
+      "ip": "51.159.62.20",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
@@ -355,7 +355,7 @@
     },
     {
       "hostname": "measurements-api.wonderpush.com",
-      "ip": "216.239.34.21",
+      "ip": "216.239.38.21",
       "geoip": {
         "continent": {
           "code": "NA",
