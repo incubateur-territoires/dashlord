@@ -3,7 +3,7 @@
         "width": 1920,
         "height": 1080,
         "url": "https://rdv.anct.gouv.fr/",
-        "size": 1157.59,
+        "size": 1155.474,
         "nodes": 425,
         "requests": 41,
         "grade": "C",
@@ -11,7 +11,7 @@
         "ges": 1.66,
         "water": 2.49,
         "ecoindex_version": "5.4.2",
-        "date": "2025-01-19 01:42:45.678663",
+        "date": "2025-01-26 01:36:47.166576",
         "page_type": null
     }
 ]
