@@ -328,6 +328,13 @@
               "finding"      : "Ok via SAN and CN (SNI mandatory)"
           }
 ,         {
+              "id"           : "cert_trust_wildcard",
+              "ip"           : "solutionsdelus.gouv.fr/195.154.73.190",
+              "port"         : "443",
+              "severity"     : "LOW",
+              "finding"      : "trust is via wildcard"
+          }
+,         {
               "id"           : "cert_chain_of_trust",
               "ip"           : "solutionsdelus.gouv.fr/195.154.73.190",
               "port"         : "443",
@@ -346,7 +353,7 @@
               "ip"           : "solutionsdelus.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "72 >= 30 days"
+              "finding"      : "65 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -500,14 +507,14 @@
               "ip"           : "solutionsdelus.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-1 seconds from localtime"
+              "finding"      : "0 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "solutionsdelus.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1737249743"
+              "finding"      : "1737854278"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1098,6 +1105,6 @@
               "ip"           : "solutionsdelus.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "95"
+              "finding"      : "105"
           }
 ]
