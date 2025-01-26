@@ -199,7 +199,7 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
@@ -328,6 +328,13 @@
               "finding"      : "Ok via SAN and CN (SNI mandatory)"
           }
 ,         {
+              "id"           : "cert_trust_wildcard",
+              "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
+              "port"         : "443",
+              "severity"     : "LOW",
+              "finding"      : "trust is via wildcard"
+          }
+,         {
               "id"           : "cert_chain_of_trust",
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
@@ -346,7 +353,7 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "68 >= 30 days"
+              "finding"      : "61 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -500,14 +507,14 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1737252708"
+              "finding"      : "1737857081"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -583,7 +590,7 @@
               "id"           : "X-Content-Security-Policy",
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "INFO",
               "finding"      : "default-src 'self' https://cdn.by.wonderpush.com https://matomo.incubateur.anct.gouv.fr/; base-uri 'self'; connect-src 'self' https://api-adresse.data.gouv.fr/ *.wonderpush.com https://matomo.incubateur.anct.gouv.fr/ *.sentry.io https://recherche-entreprises.api.gouv.fr/ https://nominatim.openstreetmap.org; font-src 'self' data:; img-src 'self' https://cdn.by.wonderpush.com https://agents-intervention-prod-uploads.s3.fr-par.scw.cloud/ https://agents-intervention-preprod-uploads.s3.fr-par.scw.cloud https://agents-intervention-dev-uploads.s3.fr-par.scw.cloud/ *.jawg.io data:; media-src 'self' https://agents-intervention-prod-uploads.s3.fr-par.scw.cloud; script-src 'self' https://cdn.by.wonderpush.com https://matomo.incubateur.anct.gouv.fr/ https://browser.sentry-cdn.com https://sentry.anct.cloud-ed.fr 'unsafe-inline' 'sha512-zBcr2lo8w+SDdO7LZwmHK1hX5SYbg18COmlM3wFfLVjmBflq5K/YjjDBTaDx0KKb9yH1PTE3bhfThZsv4Vmr1g==' 'sha512-z4PhNX7vuL3xVChQ1m2AB9Yg5AULVxXcg/SpIdNs6c5H0NE8XYXysP+DGNKHfuwvY7kxvUdBeoGlODJ6+SfaPg==' 'sha512-UnxRZWSy6+dxkQleH3r2swru1F5T9lud3dUzWAVOrqgJcFnLzup4QJ+M1NerDRIXeusBA2FnWzh27O5EvBklJg=='; style-src 'self' https://cdn.by.wonderpush.com data:; upgrade-insecure-requests; report-uri https://sentry.anct.cloud-ed.fr/api/2/security/?sentry_key=96751d8c404824fa5c2b032bc7f75236; worker-src 'self' *.wonderpush.com"
           }
 ,         {
@@ -1112,6 +1119,6 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "63"
+              "finding"      : "106"
           }
 ]
