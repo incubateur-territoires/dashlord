@@ -353,7 +353,7 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "61 >= 30 days"
+              "finding"      : "54 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,14 +507,14 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-1 seconds from localtime"
+              "finding"      : "-3 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1737857081"
+              "finding"      : "1738461035"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -556,7 +556,7 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "x-powered-by: PHP/8.4.1"
+              "finding"      : "x-powered-by: PHP/8.4.3"
           }
 ,         {
               "id"           : "cookie_count",
@@ -1119,6 +1119,6 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "106"
+              "finding"      : "94"
           }
 ]
