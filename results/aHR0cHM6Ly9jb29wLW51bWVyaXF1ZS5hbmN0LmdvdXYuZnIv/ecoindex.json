@@ -3,15 +3,15 @@
         "width": 1920,
         "height": 1080,
         "url": "https://coop-numerique.anct.gouv.fr/",
-        "size": 1120.806,
+        "size": 1078.915,
         "nodes": 400,
-        "requests": 69,
+        "requests": 68,
         "grade": "C",
         "score": 62.0,
         "ges": 1.76,
         "water": 2.64,
         "ecoindex_version": "5.4.2",
-        "date": "2025-01-26 01:28:19.537678",
+        "date": "2025-02-02 01:21:27.122899",
         "page_type": null
     }
 ]
