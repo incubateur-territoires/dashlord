@@ -353,7 +353,7 @@
               "ip"           : "collectivite.fr/148.253.96.193",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "61 >= 30 days"
+              "finding"      : "54 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -514,7 +514,7 @@
               "ip"           : "collectivite.fr/148.253.96.193",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1738457439"
+              "finding"      : "1739062347"
           }
 ,         {
               "id"           : "HSTS",
@@ -1419,7 +1419,7 @@
               "ip"           : "collectivite.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "61 >= 30 days"
+              "finding"      : "54 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1573,14 +1573,14 @@
               "ip"           : "collectivite.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "collectivite.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1738457491"
+              "finding"      : "1739062444"
           }
 ,         {
               "id"           : "HSTS",
@@ -2485,7 +2485,7 @@
               "ip"           : "collectivite.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "61 >= 30 days"
+              "finding"      : "54 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -2646,7 +2646,7 @@
               "ip"           : "collectivite.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1738457542"
+              "finding"      : "1739062541"
           }
 ,         {
               "id"           : "HSTS",
@@ -3551,7 +3551,7 @@
               "ip"           : "collectivite.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "61 >= 30 days"
+              "finding"      : "54 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -3705,14 +3705,14 @@
               "ip"           : "collectivite.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "collectivite.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1738457594"
+              "finding"      : "1739062638"
           }
 ,         {
               "id"           : "HSTS",
@@ -4268,6 +4268,6 @@
               "ip"           : "collectivite.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "215"
+              "finding"      : "395"
           }
 ]
