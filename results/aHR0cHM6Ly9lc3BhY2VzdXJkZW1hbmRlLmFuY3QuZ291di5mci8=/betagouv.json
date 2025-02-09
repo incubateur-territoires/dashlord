@@ -30,7 +30,7 @@
     ],
     "analyse_risques": "true",
     "dashlord_url": "https://dashlord.incubateur.anct.gouv.fr/url/espacesurdemande-anct-gouv-fr/",
-    "accessibility_status": "partiellement conforme"
+    "accessibility_status": "non conforme"
   },
   "relationships": {
     "incubator": {
