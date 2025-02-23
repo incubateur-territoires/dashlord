@@ -206,7 +206,7 @@
               "ip"           : "coop-numerique.anct.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -269,7 +269,7 @@
               "ip"           : "coop-numerique.anct.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "04CBBF4164C5D0CEC170A6937BA7B4EA6E7C"
+              "finding"      : "04873FB43B01D012DB778618D20F71C5BFD4"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -283,21 +283,21 @@
               "ip"           : "coop-numerique.anct.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "5A9650118990FF9D47989F3959EC11E6FDDA0B1B"
+              "finding"      : "A46161A66423FDB1FC327C5FA4B8F14C58FA4698"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "coop-numerique.anct.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "C0B8E0B98BA10F1F6F0F822AF535881E24314BFB9C47E5CD766E10F827D57973"
+              "finding"      : "3540EC5B1DB3AEB3357832318907B142D42F46B99998EDE716EDE23609BCC7EE"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "coop-numerique.anct.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFBjCCA+6gAwIBAgISBMu/QWTF0M7BcKaTe6e06m58MA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjQxMjE5MDU0NTUxWhcNMjUwMzE5MDU0NTUwWjAmMSQwIgYDVQQDExtjb29wLW51bWVyaXF1ZS5hbmN0LmdvdXYuZnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC1HG5cCqaIuyF1mnwIbemqSB30poJzYtGh7clDymP/IAS59gTCDVqpgNbrRL8I6RYmfHSkamUtnxMVpnowKnb1i2u7TWN82izEWJQzIo3CsmVkZC9D7ggiP0tgIPKhRTRYCPRQ+DXhSrRWfAXXL8XxSEDPyIB/s4RqOdVxrQv8S4YS1CE3ILcpF+gXrw4AJKghtNIZpC1+jpgqP24WqY1FCu+TAMqhn7T29KWAjGfO3mrfiWlS5AuizF+xESm1XEJrkUk9mzE/i9cVVkRUwWEdXhJ39cF1LMDocvPJAkBEQ8XlNCtVB2aXLlkkFZcC31herNPBxPOsojaVxPi+GfibAgMBAAGjggIfMIICGzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFDhPt2Rm4w58aSbEUemDIq0PEXYLMB8GA1UdIwQYMBaAFMXPRqTq9MPAemyVxC2wXpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3IxMS5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxlbmNyLm9yZy8wJgYDVR0RBB8wHYIbY29vcC1udW1lcmlxdWUuYW5jdC5nb3V2LmZyMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAouMK5EXvva2bfjjtR2d3U9eCW4SU1yteGyzEuVCkR+cAAAGT3akDFQAABAMARzBFAiBZqs4Gnb0p4yqgoiMXIz3CwUNAHhsZliTPEhjMijevhwIhAMXLJIH2IQQjaZIF3PYO8AYXvfnHDYyr7fX6irlz60jGAHYA4JKz/AwdyOdoNh/eYbmWTQpSeBmKctZyxLBNpW1vVAQAAAGT3akDagAABAMARzBFAiEAljTbpSaXPco8QYty32oHFPEoGEfa4wtmZhCAArC3tDUCICuPRRm4y+Fw40GSiiUO7/UDevk/J9KO/WZT9lc4AunrMA0GCSqGSIb3DQEBCwUAA4IBAQBpW55P80sP6Om8hSB27yvtLjy0iAmov7ayRyFgkeHMNfttatcVT5QJJHK6C3e9LkSj7/Ye5pFWzZyff+R+KaRVje3c9KfT9oTXTKNwvs1ngLVJhggkOsMK8Y3i7kGPo1c0tPPz/EiCOtWVlmqMhR6o0duRHAF4N2QzB9fXhw+TajlGts3xYW9TdjlTO7uKEA57WZVXf8rGfss87NVsjxRgKpZWK57HporCnwdnTomD0hcwy75FuzTPRWJMAETyqEOuCv9LlCl6A3+OGYFsh3TzZh4072SqqQlpc+DSFZzc3Tm/zdb9N22G/RUonZN3OJDX0nSVzdoKsVKYI1EqUZaY\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFBzCCA++gAwIBAgISBIc/tDsB0BLbd4YY0g9xxb/UMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjUwMjE3MDQ0NzQ2WhcNMjUwNTE4MDQ0NzQ1WjAmMSQwIgYDVQQDExtjb29wLW51bWVyaXF1ZS5hbmN0LmdvdXYuZnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC1HG5cCqaIuyF1mnwIbemqSB30poJzYtGh7clDymP/IAS59gTCDVqpgNbrRL8I6RYmfHSkamUtnxMVpnowKnb1i2u7TWN82izEWJQzIo3CsmVkZC9D7ggiP0tgIPKhRTRYCPRQ+DXhSrRWfAXXL8XxSEDPyIB/s4RqOdVxrQv8S4YS1CE3ILcpF+gXrw4AJKghtNIZpC1+jpgqP24WqY1FCu+TAMqhn7T29KWAjGfO3mrfiWlS5AuizF+xESm1XEJrkUk9mzE/i9cVVkRUwWEdXhJ39cF1LMDocvPJAkBEQ8XlNCtVB2aXLlkkFZcC31herNPBxPOsojaVxPi+GfibAgMBAAGjggIgMIICHDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFDhPt2Rm4w58aSbEUemDIq0PEXYLMB8GA1UdIwQYMBaAFMXPRqTq9MPAemyVxC2wXpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3IxMS5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxlbmNyLm9yZy8wJgYDVR0RBB8wHYIbY29vcC1udW1lcmlxdWUuYW5jdC5nb3V2LmZyMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYAzPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAAAAGVEnFm4QAABAMARzBFAiEAvjqPnytoCRixp8mTGskfsGrlAaCFn+XRUuwVFbR81YcCIEaBXyxZZeT+9BvsqwxMBTzl/tukmYTr1J6dVpab0t+kAHcAouMK5EXvva2bfjjtR2d3U9eCW4SU1yteGyzEuVCkR+cAAAGVEnFm6QAABAMASDBGAiEAqZNQ9EGDxXdD9ol7HENY2/Lu8+0hMVJgyrt7QP6e89QCIQCbFWEhni9AaV3TwYQbKVab5xKMsvCNPxj4MxXDYAEU6jANBgkqhkiG9w0BAQsFAAOCAQEAnNODHobwNSNBY8ztP933wSu4o9l7JQff5Z+C+Ccbm6nSugVqYzmmfP/m33UwZHxbxKryFzqiMck4UnLCttaulvdJm3zVguaRNYgCnaNzBdkR2NMtdQCBKzjMEUd3rvlImLqnBfbbijE2m2ThuGKsC03RtkUYBH8HNRn3sGPbVVgJMd5OcBXcoU7CZOZqvohCGu0dX2avMeMXEph9NOY0aAWttaDOOcCoaQobjInTH3vNbAUrImDi7q7VYeGAASmB/8Y3JWyV0JKBFWD5O00rOhCPw57YBbuVVKp1CjP9A+h4U3ozBi/OomyWaemH28u2FBxyEDJ8kPo3LcpMBXrGfQ==\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -353,21 +353,21 @@
               "ip"           : "coop-numerique.anct.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "31 >= 30 days"
+              "finding"      : "84 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "coop-numerique.anct.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-12-19 05:45"
+              "finding"      : "2025-02-17 04:47"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "coop-numerique.anct.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2025-03-19 05:45"
+              "finding"      : "2025-05-18 04:47"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -507,14 +507,14 @@
               "ip"           : "coop-numerique.anct.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "+1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "coop-numerique.anct.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1739669329"
+              "finding"      : "1740274021"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -729,7 +729,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=C0B8E0B98BA10F1F6F0F822AF535881E24314BFB9C47E5CD766E10F827D57973"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=3540EC5B1DB3AEB3357832318907B142D42F46B99998EDE716EDE23609BCC7EE"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -1105,6 +1105,6 @@
               "ip"           : "coop-numerique.anct.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "93"
+              "finding"      : "58"
           }
 ]
