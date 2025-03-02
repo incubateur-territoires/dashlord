@@ -1,0 +1,135 @@
+{
+  "scan": {
+    "algorithmVersion": 4,
+    "grade": "B",
+    "error": null,
+    "score": 75,
+    "statusCode": 200,
+    "testsFailed": 1,
+    "testsPassed": 9,
+    "testsQuantity": 10,
+    "responseHeaders": {
+      "date": "Sun, 02 Mar 2025 01:48:01 GMT",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "5981",
+      "connection": "close",
+      "x-frame-options": "SAMEORIGIN",
+      "x-xss-protection": "0",
+      "x-content-type-options": "nosniff",
+      "x-download-options": "noopen",
+      "x-permitted-cross-domain-policies": "none",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "link": "</packs/css/application-1b36d1b4.css>; rel=preload; as=style; nopush",
+      "vary": "Accept-Encoding",
+      "etag": "W/\"3abb22a2b8c1d3e79f9a70d67a4cde04\"",
+      "cache-control": "max-age=0, private, must-revalidate",
+      "set-cookie": [
+        "_monstage_session=gKvUtaC0xZZrs3igb3D4vULNfW26ntE%2FMzmOtI%2Fw9uPVI0dHP8SxEomxm9MvzqN5QgblD6EjPReBn1OP%2Fyd0Z9ggvmJGp%2BdIRwehQLtwJGQP88%2BMa1p5NJUiJJPQG1ecSQoYoxiUWpW4ZOX0EQvBSrLN%2FvYpkn%2FnoXDb19jLqMlSBi4OUznWdSgpxXWVU5Nb3ds%2F5BvRj%2Fk5CSLAtA8SBMUeqDKUHtATjS3UyhL%2F%2FFOEwic97YvyD%2BfhgxCCZK3eR2Rv0IjOQ%2BxVH%2F1wMToXKX3gW6g4NXsSfw%3D%3D--wiZ7f14X%2F3PjAHcg--w0LX0vwAmnfnBuqXb%2Bhceg%3D%3D; path=/; secure; HttpOnly; SameSite=Lax"
+      ],
+      "x-request-id": "df3021e1-dcba-4322-8c49-a0270282b6f6",
+      "x-runtime": "0.013822",
+      "strict-transport-security": "max-age=63072000; includeSubDomains",
+      "sozu-id": "01JNA8KWVDSAHN0QVX2V03E59K"
+    }
+  },
+  "tests": {
+    "content-security-policy": {
+      "expectation": "csp-implemented-with-no-unsafe",
+      "pass": false,
+      "result": "csp-not-implemented",
+      "scoreModifier": -25,
+      "data": null,
+      "http": false,
+      "meta": false,
+      "policy": null,
+      "numPolicies": 0
+    },
+    "cookies": {
+      "expectation": "cookies-secure-with-httponly-sessions",
+      "pass": true,
+      "result": "cookies-secure-with-httponly-sessions-and-samesite",
+      "scoreModifier": 5,
+      "data": {
+        "_monstage_session": {
+          "domain": "www.monstagedetroisieme.fr",
+          "httponly": true,
+          "path": "/",
+          "port": null,
+          "samesite": "lax",
+          "secure": true
+        }
+      },
+      "sameSite": true
+    },
+    "cross-origin-resource-sharing": {
+      "expectation": "cross-origin-resource-sharing-not-implemented",
+      "pass": true,
+      "result": "cross-origin-resource-sharing-not-implemented",
+      "scoreModifier": 0,
+      "data": null
+    },
+    "redirection": {
+      "expectation": "redirection-to-https",
+      "pass": true,
+      "result": "redirection-to-https",
+      "scoreModifier": 0,
+      "destination": "https://www.monstagedetroisieme.fr/",
+      "redirects": true,
+      "route": [
+        "http://www.monstagedetroisieme.fr/",
+        "https://www.monstagedetroisieme.fr/"
+      ],
+      "statusCode": 200
+    },
+    "referrer-policy": {
+      "expectation": "referrer-policy-private",
+      "pass": true,
+      "result": "referrer-policy-private",
+      "scoreModifier": 5,
+      "data": "strict-origin-when-cross-origin",
+      "http": true,
+      "meta": false
+    },
+    "strict-transport-security": {
+      "expectation": "hsts-implemented-max-age-at-least-six-months",
+      "pass": true,
+      "result": "hsts-implemented-max-age-at-least-six-months",
+      "scoreModifier": 0,
+      "data": "max-age=63072000; includeSubDomains",
+      "includeSubDomains": true,
+      "maxAge": 63072000,
+      "preload": false,
+      "preloaded": false
+    },
+    "subresource-integrity": {
+      "expectation": "sri-implemented-and-external-scripts-loaded-securely",
+      "pass": true,
+      "result": "sri-not-implemented-but-all-scripts-loaded-from-secure-origin",
+      "scoreModifier": 0,
+      "data": {}
+    },
+    "x-content-type-options": {
+      "expectation": "x-content-type-options-nosniff",
+      "pass": true,
+      "result": "x-content-type-options-nosniff",
+      "scoreModifier": 0,
+      "data": "nosniff"
+    },
+    "x-frame-options": {
+      "expectation": "x-frame-options-sameorigin-or-deny",
+      "pass": true,
+      "result": "x-frame-options-sameorigin-or-deny",
+      "scoreModifier": 0,
+      "data": "SAMEORIGIN"
+    },
+    "cross-origin-resource-policy": {
+      "expectation": "corp-implemented-with-same-site",
+      "pass": true,
+      "result": "corp-not-implemented",
+      "scoreModifier": 0,
+      "data": null,
+      "http": false,
+      "meta": false
+    }
+  }
+}
