@@ -9,9 +9,9 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 02 Mar 2025 01:48:01 GMT",
+      "date": "Sat, 15 Mar 2025 07:02:57 GMT",
       "content-type": "text/html; charset=utf-8",
-      "content-length": "5981",
+      "content-length": "5985",
       "connection": "close",
       "x-frame-options": "SAMEORIGIN",
       "x-xss-protection": "0",
@@ -21,15 +21,15 @@
       "referrer-policy": "strict-origin-when-cross-origin",
       "link": "</packs/css/application-1b36d1b4.css>; rel=preload; as=style; nopush",
       "vary": "Accept-Encoding",
-      "etag": "W/\"3abb22a2b8c1d3e79f9a70d67a4cde04\"",
+      "etag": "W/\"d354b97e5bee6a317126d9a4d31ac97e\"",
       "cache-control": "max-age=0, private, must-revalidate",
       "set-cookie": [
-        "_monstage_session=gKvUtaC0xZZrs3igb3D4vULNfW26ntE%2FMzmOtI%2Fw9uPVI0dHP8SxEomxm9MvzqN5QgblD6EjPReBn1OP%2Fyd0Z9ggvmJGp%2BdIRwehQLtwJGQP88%2BMa1p5NJUiJJPQG1ecSQoYoxiUWpW4ZOX0EQvBSrLN%2FvYpkn%2FnoXDb19jLqMlSBi4OUznWdSgpxXWVU5Nb3ds%2F5BvRj%2Fk5CSLAtA8SBMUeqDKUHtATjS3UyhL%2F%2FFOEwic97YvyD%2BfhgxCCZK3eR2Rv0IjOQ%2BxVH%2F1wMToXKX3gW6g4NXsSfw%3D%3D--wiZ7f14X%2F3PjAHcg--w0LX0vwAmnfnBuqXb%2Bhceg%3D%3D; path=/; secure; HttpOnly; SameSite=Lax"
+        "_monstage_session=%2Fd4qjscKJgEaDUvQOCP84xUL8jLiCrttXya73AgLTxIKNnJHz%2FuN32vo76FkIdjp7X8vezz5JeQmARRSvQTnQgYh9%2FZuh0ctkUDSFELIAv3W6rAjkA%2F31JsFStyJgARhOdZdZHBnF%2BJ8stfVGznDj6ZgEivakiR%2Fpt%2FcO2boaaZsQjSvvMcqw20tehs4tMOBR110zMZjT9e70DgFwTJev%2F5ldWwndr8HAHmeggAdNMsNYNCbaS3qN%2Fy%2BfmohJZTX%2BllaCHfunT1YcUuM0FqntvWDRw%2FZr5j4ow%3D%3D--kQ4ouBWIuyKllo6Z--CKoEY2CgYnr0vDwhWnhNAw%3D%3D; path=/; secure; HttpOnly; SameSite=Lax"
       ],
-      "x-request-id": "df3021e1-dcba-4322-8c49-a0270282b6f6",
-      "x-runtime": "0.013822",
+      "x-request-id": "43014c7b-c727-4315-92fe-f989a659577e",
+      "x-runtime": "0.016472",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
-      "sozu-id": "01JNA8KWVDSAHN0QVX2V03E59K"
+      "sozu-id": "01JPC9SWYA8BG7RC9G07826GKN"
     }
   },
   "tests": {
