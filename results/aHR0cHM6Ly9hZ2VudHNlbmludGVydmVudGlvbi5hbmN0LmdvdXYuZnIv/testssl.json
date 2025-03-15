@@ -178,14 +178,14 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "'renegotiation info/#65281' 'EC point formats/#11' 'session ticket/#35' 'key share/#51' 'supported versions/#43' 'extended master secret/#23' 'application layer protocol negotiation/#16'"
+              "finding"      : "'EC point formats/#11' 'application layer protocol negotiation/#16' 'extended master secret/#23' 'session ticket/#35' 'supported versions/#43' 'key share/#51' 'renegotiation info/#65281'"
           }
 ,         {
               "id"           : "TLS_session_ticket",
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "valid for 7200 seconds only (<daily)"
+              "finding"      : "valid for 7199 seconds only (<daily)"
           }
 ,         {
               "id"           : "SSL_sessionID_support",
@@ -353,7 +353,7 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "86 >= 30 days"
+              "finding"      : "73 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,14 +507,14 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-4 seconds from localtime"
+              "finding"      : "-3 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1740880503"
+              "finding"      : "1742022744"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1119,6 +1119,6 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "67"
+              "finding"      : "111"
           }
 ]
