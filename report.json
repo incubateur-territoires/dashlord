@@ -9666,7 +9666,7 @@
     },
     "summary": {
       "httpGrade": "F",
-      "testsslExpireSoon": false,
+      "testsslExpireSoon": true,
       "testsslExpireDate": "2025-04-04T17:28:00.000Z",
       "testsslGrade": "A",
       "cookiesGrade": null,
@@ -12329,7 +12329,7 @@
     },
     "summary": {
       "httpGrade": "C",
-      "testsslExpireSoon": false,
+      "testsslExpireSoon": true,
       "testsslExpireDate": "2025-04-13T07:28:00.000Z",
       "testsslGrade": "A+",
       "cookiesGrade": null,
@@ -19874,7 +19874,7 @@
     "summary": {
       "404": "A+",
       "httpGrade": "C",
-      "testsslExpireSoon": false,
+      "testsslExpireSoon": true,
       "testsslExpireDate": "2025-04-10T21:55:00.000Z",
       "testsslGrade": "A+",
       "cookiesGrade": null,
@@ -25584,7 +25584,7 @@
     "summary": {
       "404": "A+",
       "httpGrade": "F",
-      "testsslExpireSoon": false,
+      "testsslExpireSoon": true,
       "testsslExpireDate": "2025-04-03T15:54:00.000Z",
       "testsslGrade": "A",
       "cookiesGrade": null,
@@ -30935,7 +30935,7 @@
     },
     "summary": {
       "httpGrade": "C",
-      "testsslExpireSoon": false,
+      "testsslExpireSoon": true,
       "testsslExpireDate": "2025-04-01T10:29:00.000Z",
       "testsslGrade": "A+",
       "cookiesGrade": null,
@@ -32626,7 +32626,7 @@
     "summary": {
       "404": "A+",
       "httpGrade": "D",
-      "testsslExpireSoon": false,
+      "testsslExpireSoon": true,
       "testsslExpireDate": "2025-04-10T01:41:00.000Z",
       "testsslGrade": "A",
       "cookiesGrade": null,
@@ -57739,7 +57739,7 @@
     },
     "summary": {
       "httpGrade": "B+",
-      "testsslExpireSoon": false,
+      "testsslExpireSoon": true,
       "testsslExpireDate": "2025-04-08T10:51:00.000Z",
       "testsslGrade": "A+",
       "cookiesGrade": null,
@@ -76265,7 +76265,7 @@
     "summary": {
       "404": "A+",
       "httpGrade": "C",
-      "testsslExpireSoon": false,
+      "testsslExpireSoon": true,
       "testsslExpireDate": "2025-04-03T14:35:00.000Z",
       "testsslGrade": "A+",
       "cookiesGrade": null,
