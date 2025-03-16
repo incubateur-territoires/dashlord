@@ -19,13 +19,13 @@
 <span style="font-weight:bold;">#####################################################################</span>
 
   Using <i>OpenSSL 1.0.2-bad (Sep 1 2022)</i>  [~183 ciphers]
-  on fv-az1337-304:/home/testssl/bin/openssl.Linux.x86_64
+  on fv-az1333-211:/home/testssl/bin/openssl.Linux.x86_64
 
 <span style="font-weight:bold;">Testing all IPv4 addresses (port 443): </span>185.21.194.105 148.253.96.193 80.247.13.145 80.247.12.255
 -----------------------------------------------------
-<span style="color:white;background-color:black;"> Start 2025-03-15 06:36:07        --&gt;&gt; 185.21.194.105:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Start 2025-03-16 01:17:42        --&gt;&gt; 185.21.194.105:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
 
- Further IP addresses:   80.247.13.145 148.253.96.193 80.247.12.255 
+ Further IP addresses:   80.247.12.255 80.247.13.145 148.253.96.193 
  rDNS (185.21.194.105):  ows-185-21-194-105.cloudgouv-eu-west-1.compute.outscale.com.
  Service detected:       HTTP
 
@@ -106,7 +106,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                               https://search.censys.io/search?resource=hosts&amp;virtual_hosts=INCLUDE&amp;q=E7EF54AAE86A0CFB8C5D687BE39DD9DBB19964A48F4BBAB0CE419CD0BA68822D
 <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
 <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">49 &gt;= 30 days</span> (2025-02-03 01:07 --&gt; 2025-05-04 01:07)
+<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">48 &gt;= 30 days</span> (2025-02-03 01:07 --&gt; 2025-05-04 01:07)
 <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
 <span style="font-weight:bold;"> Certificate Revocation List  </span>--
 <span style="font-weight:bold;"> OCSP URI                     </span>http://r11.o.lencr.org
@@ -158,7 +158,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                                 ttps://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/autoComplete.min.js 
                                 ttps://stats.beta.gouv.fr/matomo.js
                                 https://stats.beta.gouv.fr/piwik.js
-                                &apos;nonce-3pKpfh5KnBgxAjqsIEsSmQ==&apos;; frame-src
+                                &apos;nonce-R52J2vyf7DZB5BinvlaBDw==&apos;; frame-src
                                 https://www.youtube.com/embed/hATrqHG4zYQ
                                 https://www.youtube-nocookie.com/embed/hATrqHG4zYQ 
                                 ttp://www.youtube.com/embed/hATrqHG4zYQ
@@ -177,7 +177,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                                 http://www.youtube-nocookie.com/embed/AJGo6bydQss; 
                                 tyle-src &apos;self&apos;
                                 https://unpkg.com/easymde/dist/easymde.min.css
-                                &apos;nonce-3pKpfh5KnBgxAjqsIEsSmQ==&apos;
+                                &apos;nonce-R52J2vyf7DZB5BinvlaBDw==&apos;
                               Cross-Origin-Opener-Policy: same-origin
                               Referrer-Policy: strict-origin
 <span style="font-weight:bold;"> Reverse Proxy banner         </span>--
@@ -187,7 +187,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 
 <span style="font-weight:bold;"> Heartbleed</span> (CVE-2014-0160)                <span style="color:#008817;font-weight:bold;">not vulnerable (OK)</span>, no heartbeat extension
 <span style="font-weight:bold;"> CCS</span> (CVE-2014-0224)                       <span style="color:#008817;font-weight:bold;">not vulnerable (OK)</span>
-<span style="font-weight:bold;"> Ticketbleed</span> (CVE-2016-9244), experiment.  <span style="color:#008817;font-weight:bold;">not vulnerable (OK)</span>
+<span style="font-weight:bold;"> Ticketbleed</span> (CVE-2016-9244), experiment.  <span style="color:#008817;font-weight:bold;">not vulnerable (OK)</span>, reply empty
 <span style="font-weight:bold;"> ROBOT                                     </span><span style="color:#008817;font-weight:bold;">Server does not support any cipher suites that use RSA key transport</span>
 <span style="font-weight:bold;"> Secure Renegotiation (RFC 5746)           </span><span style="color:#008817;font-weight:bold;">supported (OK)</span>
 <span style="font-weight:bold;"> Secure Client-Initiated Renegotiation     </span><span style="color:#008817;">not vulnerable (OK)</span>
@@ -260,12 +260,12 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Overall Grade                </span><span style="color:#008817;font-weight:bold;">A</span>
 <span style="font-weight:bold;"> Grade cap reasons            </span>Grade capped to A. HSTS max-age is too short
 
-<span style="color:white;background-color:black;"> Done 2025-03-15 06:37:02 [  59s] --&gt;&gt; 185.21.194.105:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Done 2025-03-16 01:18:55 [  77s] --&gt;&gt; 185.21.194.105:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
 
 -----------------------------------------------------
-<span style="color:white;background-color:black;"> Start 2025-03-15 06:37:02        --&gt;&gt; 148.253.96.193:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Start 2025-03-16 01:18:56        --&gt;&gt; 148.253.96.193:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
 
- Further IP addresses:   80.247.13.145 185.21.194.105 80.247.12.255 
+ Further IP addresses:   80.247.12.255 185.21.194.105 80.247.13.145 
  rDNS (148.253.96.193):  ows-148-253-96-193.cloudgouv-eu-west-1.compute.outscale.com.
  Service detected:       HTTP
 
@@ -346,7 +346,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                               https://search.censys.io/search?resource=hosts&amp;virtual_hosts=INCLUDE&amp;q=E7EF54AAE86A0CFB8C5D687BE39DD9DBB19964A48F4BBAB0CE419CD0BA68822D
 <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
 <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">49 &gt;= 30 days</span> (2025-02-03 01:07 --&gt; 2025-05-04 01:07)
+<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">48 &gt;= 30 days</span> (2025-02-03 01:07 --&gt; 2025-05-04 01:07)
 <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
 <span style="font-weight:bold;"> Certificate Revocation List  </span>--
 <span style="font-weight:bold;"> OCSP URI                     </span>http://r11.o.lencr.org
@@ -398,7 +398,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                                 ttps://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/autoComplete.min.js 
                                 ttps://stats.beta.gouv.fr/matomo.js
                                 https://stats.beta.gouv.fr/piwik.js
-                                &apos;nonce-Z4VeeSk5SfSfFU7tWTrNYw==&apos;; frame-src
+                                &apos;nonce-QVsHfIPobykKNQDhK6KxpQ==&apos;; frame-src
                                 https://www.youtube.com/embed/hATrqHG4zYQ
                                 https://www.youtube-nocookie.com/embed/hATrqHG4zYQ 
                                 ttp://www.youtube.com/embed/hATrqHG4zYQ
@@ -417,7 +417,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                                 http://www.youtube-nocookie.com/embed/AJGo6bydQss; 
                                 tyle-src &apos;self&apos;
                                 https://unpkg.com/easymde/dist/easymde.min.css
-                                &apos;nonce-Z4VeeSk5SfSfFU7tWTrNYw==&apos;
+                                &apos;nonce-QVsHfIPobykKNQDhK6KxpQ==&apos;
                               Cross-Origin-Opener-Policy: same-origin
                               Referrer-Policy: strict-origin
 <span style="font-weight:bold;"> Reverse Proxy banner         </span>--
@@ -500,12 +500,12 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Overall Grade                </span><span style="color:#008817;font-weight:bold;">A</span>
 <span style="font-weight:bold;"> Grade cap reasons            </span>Grade capped to A. HSTS max-age is too short
 
-<span style="color:white;background-color:black;"> Done 2025-03-15 06:37:54 [ 111s] --&gt;&gt; 148.253.96.193:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Done 2025-03-16 01:19:56 [ 138s] --&gt;&gt; 148.253.96.193:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
 
 -----------------------------------------------------
-<span style="color:white;background-color:black;"> Start 2025-03-15 06:37:54        --&gt;&gt; 80.247.13.145:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Start 2025-03-16 01:19:56        --&gt;&gt; 80.247.13.145:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
 
- Further IP addresses:   148.253.96.193 185.21.194.105 80.247.12.255 
+ Further IP addresses:   80.247.12.255 185.21.194.105 148.253.96.193 
  rDNS (80.247.13.145):   ows-80-247-13-145.cloudgouv-eu-west-1.compute.outscale.com.
  Service detected:       HTTP
 
@@ -586,7 +586,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                               https://search.censys.io/search?resource=hosts&amp;virtual_hosts=INCLUDE&amp;q=E7EF54AAE86A0CFB8C5D687BE39DD9DBB19964A48F4BBAB0CE419CD0BA68822D
 <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
 <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">49 &gt;= 30 days</span> (2025-02-03 01:07 --&gt; 2025-05-04 01:07)
+<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">48 &gt;= 30 days</span> (2025-02-03 01:07 --&gt; 2025-05-04 01:07)
 <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
 <span style="font-weight:bold;"> Certificate Revocation List  </span>--
 <span style="font-weight:bold;"> OCSP URI                     </span>http://r11.o.lencr.org
@@ -638,7 +638,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                                 ttps://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/autoComplete.min.js 
                                 ttps://stats.beta.gouv.fr/matomo.js
                                 https://stats.beta.gouv.fr/piwik.js
-                                &apos;nonce-gL+6+JtRe9wpp2rzp86ChA==&apos;; frame-src
+                                &apos;nonce-1/0VckXA1Fd5gZ2ygukakQ==&apos;; frame-src
                                 https://www.youtube.com/embed/hATrqHG4zYQ
                                 https://www.youtube-nocookie.com/embed/hATrqHG4zYQ 
                                 ttp://www.youtube.com/embed/hATrqHG4zYQ
@@ -657,7 +657,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                                 http://www.youtube-nocookie.com/embed/AJGo6bydQss; 
                                 tyle-src &apos;self&apos;
                                 https://unpkg.com/easymde/dist/easymde.min.css
-                                &apos;nonce-gL+6+JtRe9wpp2rzp86ChA==&apos;
+                                &apos;nonce-1/0VckXA1Fd5gZ2ygukakQ==&apos;
                               Cross-Origin-Opener-Policy: same-origin
                               Referrer-Policy: strict-origin
 <span style="font-weight:bold;"> Reverse Proxy banner         </span>--
@@ -740,12 +740,12 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Overall Grade                </span><span style="color:#008817;font-weight:bold;">A</span>
 <span style="font-weight:bold;"> Grade cap reasons            </span>Grade capped to A. HSTS max-age is too short
 
-<span style="color:white;background-color:black;"> Done 2025-03-15 06:38:46 [ 163s] --&gt;&gt; 80.247.13.145:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Done 2025-03-16 01:20:54 [ 196s] --&gt;&gt; 80.247.13.145:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
 
 -----------------------------------------------------
-<span style="color:white;background-color:black;"> Start 2025-03-15 06:38:46        --&gt;&gt; 80.247.12.255:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Start 2025-03-16 01:20:55        --&gt;&gt; 80.247.12.255:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
 
- Further IP addresses:   80.247.13.145 148.253.96.193 185.21.194.105 
+ Further IP addresses:   185.21.194.105 80.247.13.145 148.253.96.193 
  rDNS (80.247.12.255):   ows-80-247-12-255.cloudgouv-eu-west-1.compute.outscale.com.
  Service detected:       HTTP
 
@@ -826,7 +826,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                               https://search.censys.io/search?resource=hosts&amp;virtual_hosts=INCLUDE&amp;q=E7EF54AAE86A0CFB8C5D687BE39DD9DBB19964A48F4BBAB0CE419CD0BA68822D
 <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
 <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">49 &gt;= 30 days</span> (2025-02-03 01:07 --&gt; 2025-05-04 01:07)
+<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">48 &gt;= 30 days</span> (2025-02-03 01:07 --&gt; 2025-05-04 01:07)
 <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
 <span style="font-weight:bold;"> Certificate Revocation List  </span>--
 <span style="font-weight:bold;"> OCSP URI                     </span>http://r11.o.lencr.org
@@ -843,7 +843,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="text-decoration:underline;font-weight:bold;"> Testing HTTP header response @ &quot;/&quot; </span>
 
 <span style="font-weight:bold;"> HTTP Status Code           </span>  200 OK
-<span style="font-weight:bold;"> HTTP clock skew              </span>0 sec from localtime
+<span style="font-weight:bold;"> HTTP clock skew              </span>-1 sec from localtime
 <span style="font-weight:bold;"> Strict Transport Security    </span><span style="color:#c05600;">60 s = 0 days is too short ( &gt;= 15552000 seconds recommended)</span><span style="color:#168092;">, just this domain</span>
 <span style="font-weight:bold;"> Public Key Pinning           </span>--
 <span style="font-weight:bold;"> Server banner                </span>(no &quot;Server&quot; line in header, interesting!)
@@ -878,7 +878,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                                 ttps://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/autoComplete.min.js 
                                 ttps://stats.beta.gouv.fr/matomo.js
                                 https://stats.beta.gouv.fr/piwik.js
-                                &apos;nonce-SFKSxBF5xtm2RswGoMHy7g==&apos;; frame-src
+                                &apos;nonce-VNSXUpFDhUznZbDvypOoNQ==&apos;; frame-src
                                 https://www.youtube.com/embed/hATrqHG4zYQ
                                 https://www.youtube-nocookie.com/embed/hATrqHG4zYQ 
                                 ttp://www.youtube.com/embed/hATrqHG4zYQ
@@ -897,7 +897,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                                 http://www.youtube-nocookie.com/embed/AJGo6bydQss; 
                                 tyle-src &apos;self&apos;
                                 https://unpkg.com/easymde/dist/easymde.min.css
-                                &apos;nonce-SFKSxBF5xtm2RswGoMHy7g==&apos;
+                                &apos;nonce-VNSXUpFDhUznZbDvypOoNQ==&apos;
                               Cross-Origin-Opener-Policy: same-origin
                               Referrer-Policy: strict-origin
 <span style="font-weight:bold;"> Reverse Proxy banner         </span>--
@@ -980,7 +980,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Overall Grade                </span><span style="color:#008817;font-weight:bold;">A</span>
 <span style="font-weight:bold;"> Grade cap reasons            </span>Grade capped to A. HSTS max-age is too short
 
-<span style="color:white;background-color:black;"> Done 2025-03-15 06:39:38 [ 215s] --&gt;&gt; 80.247.12.255:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Done 2025-03-16 01:21:54 [ 256s] --&gt;&gt; 80.247.12.255:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
 
 -----------------------------------------------------
 <span style="font-weight:bold;">Done testing now all IP addresses (on port 443): </span>185.21.194.105 148.253.96.193 80.247.13.145 80.247.12.255
