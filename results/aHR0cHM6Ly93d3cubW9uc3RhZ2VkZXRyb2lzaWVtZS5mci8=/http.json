@@ -9,9 +9,9 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sat, 15 Mar 2025 07:02:57 GMT",
+      "date": "Sun, 16 Mar 2025 01:44:23 GMT",
       "content-type": "text/html; charset=utf-8",
-      "content-length": "5985",
+      "content-length": "5982",
       "connection": "close",
       "x-frame-options": "SAMEORIGIN",
       "x-xss-protection": "0",
@@ -21,15 +21,15 @@
       "referrer-policy": "strict-origin-when-cross-origin",
       "link": "</packs/css/application-1b36d1b4.css>; rel=preload; as=style; nopush",
       "vary": "Accept-Encoding",
-      "etag": "W/\"d354b97e5bee6a317126d9a4d31ac97e\"",
+      "etag": "W/\"40862590465295529930dbcfb8ab48ff\"",
       "cache-control": "max-age=0, private, must-revalidate",
       "set-cookie": [
-        "_monstage_session=%2Fd4qjscKJgEaDUvQOCP84xUL8jLiCrttXya73AgLTxIKNnJHz%2FuN32vo76FkIdjp7X8vezz5JeQmARRSvQTnQgYh9%2FZuh0ctkUDSFELIAv3W6rAjkA%2F31JsFStyJgARhOdZdZHBnF%2BJ8stfVGznDj6ZgEivakiR%2Fpt%2FcO2boaaZsQjSvvMcqw20tehs4tMOBR110zMZjT9e70DgFwTJev%2F5ldWwndr8HAHmeggAdNMsNYNCbaS3qN%2Fy%2BfmohJZTX%2BllaCHfunT1YcUuM0FqntvWDRw%2FZr5j4ow%3D%3D--kQ4ouBWIuyKllo6Z--CKoEY2CgYnr0vDwhWnhNAw%3D%3D; path=/; secure; HttpOnly; SameSite=Lax"
+        "_monstage_session=DuZ%2BPwLRHS3oUIU1Kfts5rX9yVMyUKznJPmKxVvaYL0T82LEVPlJx%2FNVaJkK1rXZFsCmxGSiY7FqkrQ9mEXvk5pdyQaX8gNrUOHETm3uTRESqrYFBF37fV9F%2FnjYmdNYT9nDL2miWVWnrlXVERX2SNPOLT5CxGwZFS25q%2FwJ7q2qFepmAH3n0t4bmQvHfJS7A3CCaYQZsmP9mVcJqHOQK4pmTrN7MiCjB0xfEg1GLuUOiYv7CBYb%2B5F%2FWNszHxUrCeikaUWcqJDswWGQCtaVCl8%2BOr9vssTCdg%3D%3D--d0y%2Bw%2FmnkdCTJ%2F0f--OMB%2BveiXvW2JwL%2BFS0BI4w%3D%3D; path=/; secure; HttpOnly; SameSite=Lax"
       ],
-      "x-request-id": "43014c7b-c727-4315-92fe-f989a659577e",
-      "x-runtime": "0.016472",
+      "x-request-id": "80890ed9-a5fc-4849-a375-ac357ed92410",
+      "x-runtime": "0.018201",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
-      "sozu-id": "01JPC9SWYA8BG7RC9G07826GKN"
+      "sozu-id": "01JPE9Z9APM9B5ZCWPPSXWBED8"
     }
   },
   "tests": {
