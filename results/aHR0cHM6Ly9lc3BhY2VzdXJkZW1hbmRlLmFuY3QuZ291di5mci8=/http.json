@@ -10,12 +10,12 @@
     "testsQuantity": 10,
     "responseHeaders": {
       "content-type": "text/html;charset=utf-8",
-      "date": "Sat, 15 Mar 2025 06:03:49 GMT",
+      "date": "Sun, 16 Mar 2025 00:44:00 GMT",
       "server": "envoy",
       "vary": "Accept-Encoding,Accept-Encoding",
       "x-powered-by": "Nuxt",
       "x-robots-tag": "index, follow",
-      "x-envoy-upstream-service-time": "14",
+      "x-envoy-upstream-service-time": "10",
       "connection": "close",
       "transfer-encoding": "chunked"
     }
