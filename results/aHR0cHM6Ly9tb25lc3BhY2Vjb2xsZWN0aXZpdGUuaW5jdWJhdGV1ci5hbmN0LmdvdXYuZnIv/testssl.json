@@ -353,7 +353,7 @@
               "ip"           : "monespacecollectivite.incubateur.anct.gouv.fr/185.31.40.26",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "76 >= 30 days"
+              "finding"      : "75 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,14 +507,14 @@
               "ip"           : "monespacecollectivite.incubateur.anct.gouv.fr/185.31.40.26",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-1 seconds from localtime"
+              "finding"      : "0 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "monespacecollectivite.incubateur.anct.gouv.fr/185.31.40.26",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1742020222"
+              "finding"      : "1742087561"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1112,6 +1112,6 @@
               "ip"           : "monespacecollectivite.incubateur.anct.gouv.fr/185.31.40.26",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "93"
+              "finding"      : "56"
           }
 ]
