@@ -107,3 +107,7 @@ urls:
     betaId: agents.en.intervention
     repositories:
       - https://gitlab.com/incubateur-territoires/startups/agents-intervention/agents-en-intervention
+  - url: https://suiteterritoriale.anct.gouv.fr/
+    betaId: suite.territoriale
+    repositories:
+      - https://github.com/suitenumerique/st-home
