@@ -9,9 +9,9 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 16 Mar 2025 01:44:23 GMT",
+      "date": "Sun, 23 Mar 2025 01:46:29 GMT",
       "content-type": "text/html; charset=utf-8",
-      "content-length": "5982",
+      "content-length": "5980",
       "connection": "close",
       "x-frame-options": "SAMEORIGIN",
       "x-xss-protection": "0",
@@ -21,15 +21,15 @@
       "referrer-policy": "strict-origin-when-cross-origin",
       "link": "</packs/css/application-1b36d1b4.css>; rel=preload; as=style; nopush",
       "vary": "Accept-Encoding",
-      "etag": "W/\"40862590465295529930dbcfb8ab48ff\"",
+      "etag": "W/\"047d20b794e46a34364999004915baae\"",
       "cache-control": "max-age=0, private, must-revalidate",
       "set-cookie": [
-        "_monstage_session=DuZ%2BPwLRHS3oUIU1Kfts5rX9yVMyUKznJPmKxVvaYL0T82LEVPlJx%2FNVaJkK1rXZFsCmxGSiY7FqkrQ9mEXvk5pdyQaX8gNrUOHETm3uTRESqrYFBF37fV9F%2FnjYmdNYT9nDL2miWVWnrlXVERX2SNPOLT5CxGwZFS25q%2FwJ7q2qFepmAH3n0t4bmQvHfJS7A3CCaYQZsmP9mVcJqHOQK4pmTrN7MiCjB0xfEg1GLuUOiYv7CBYb%2B5F%2FWNszHxUrCeikaUWcqJDswWGQCtaVCl8%2BOr9vssTCdg%3D%3D--d0y%2Bw%2FmnkdCTJ%2F0f--OMB%2BveiXvW2JwL%2BFS0BI4w%3D%3D; path=/; secure; HttpOnly; SameSite=Lax"
+        "_monstage_session=zJiH2naEyBYuwPJQnH33bJ5%2FnOIr9LGWfGe1CZAOmmSzJxTWzU9MT7x0gZno3zC72kFieiKxogM3Sna6%2BFduQK2Aja%2Fnes1OFC9gwpxwbV9l%2BOdlwqkMQYr4ZpKiq3LdsoSHUscHnQmdPVVgaUThHrKynO6uwbaJJsowFBlGThULAcbE6qlgTI1tCP%2F4RKgZzTFJouq2Wn1%2B4j0T6qcGNv8%2BE%2BxZ1MMWZJX9v%2FwNAQHti1QdRenCcWlxr%2Be%2BE%2FyRUBC0L6NS2mCpFmfcJs4znjOT6hO9%2B0VXkg%3D%3D--qlINzUqF2wDl1aPR--cHk5jOwd%2BFGzXQkYEqSrsg%3D%3D; path=/; secure; HttpOnly; SameSite=Lax"
       ],
-      "x-request-id": "80890ed9-a5fc-4849-a375-ac357ed92410",
-      "x-runtime": "0.018201",
+      "x-request-id": "1fa9eff5-1f81-4b05-b5e8-20404ea5b331",
+      "x-runtime": "0.012356",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
-      "sozu-id": "01JPE9Z9APM9B5ZCWPPSXWBED8"
+      "sozu-id": "01JQ0AW61J1X0JSRBVPAJYRQ6D"
     }
   },
   "tests": {
