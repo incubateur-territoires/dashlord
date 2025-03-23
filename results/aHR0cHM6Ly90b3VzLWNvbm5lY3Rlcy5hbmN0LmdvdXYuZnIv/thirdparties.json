@@ -1,6 +1,210 @@
 {
-  "trackers": null,
-  "cookies": null,
-  "headers": null,
-  "endpoints": null
+  "trackers": [
+    {
+      "type": "unknown",
+      "url": "https://sentry.anct.cloud-ed.fr/api/7/envelope/?sentry_key=78a1b78e61aeaae9211b3d50ee2f71fa&sentry_version=7&sentry_client=sentry.javascript.nextjs%2F8.35.0"
+    },
+    {
+      "type": "unknown",
+      "url": "https://sentry.anct.cloud-ed.fr/api/7/envelope/?sentry_key=78a1b78e61aeaae9211b3d50ee2f71fa&sentry_version=7&sentry_client=sentry.javascript.nextjs%2F8.35.0"
+    }
+  ],
+  "cookies": [
+    {
+      "name": "__Secure-next-auth.callback-url",
+      "value": "https%3A%2F%2Ftous-connectes.anct.gouv.fr%2Ftelephonie-mobile%2Fcarte",
+      "domain": "tous-connectes.anct.gouv.fr",
+      "path": "/",
+      "expires": -1,
+      "size": 100,
+      "httpOnly": true,
+      "secure": true,
+      "session": true,
+      "sameSite": "Lax",
+      "priority": "Medium",
+      "sameParty": false,
+      "sourceScheme": "Secure"
+    },
+    {
+      "name": "__Host-next-auth.csrf-token",
+      "value": "770b8ced46d660a1ecaf40a345340c11a0856faaa3ade46ad6f8e2e27ecc44c9%7C2bb53bd2a60b66a431be02b82a237680096590262c97c979f56094f08eda9d09",
+      "domain": "tous-connectes.anct.gouv.fr",
+      "path": "/",
+      "expires": -1,
+      "size": 158,
+      "httpOnly": true,
+      "secure": true,
+      "session": true,
+      "sameSite": "Lax",
+      "priority": "Medium",
+      "sameParty": false,
+      "sourceScheme": "Secure"
+    }
+  ],
+  "headers": {
+    "cache-control": "s-maxage=31536000, stale-while-revalidate",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Sun, 23 Mar 2025 01:39:16 GMT",
+    "etag": "\"dkv7qeg5mb2fv0\"",
+    "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
+    "x-nextjs-cache": "HIT",
+    "x-powered-by": "Next.js",
+    "x-request-id": "d83e02b5-1fa6-4fce-acee-2e4592706eb0"
+  },
+  "endpoints": [
+    {
+      "hostname": "tous-connectes.anct.gouv.fr",
+      "ip": "148.253.96.193",
+      "geoip": {
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "sentry.anct.cloud-ed.fr",
+      "ip": "154.41.70.33",
+      "geoip": {
+        "city": {
+          "geoname_id": 2972191,
+          "names": {
+            "de": "Tours",
+            "en": "Tours",
+            "es": "Tours",
+            "fr": "Tours",
+            "ja": "トゥール",
+            "pt-BR": "Tours",
+            "ru": "Тур",
+            "zh-CN": "图尔"
+          }
+        },
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 20,
+          "latitude": 47.3983,
+          "longitude": 0.7037,
+          "time_zone": "Europe/Paris"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 3027939,
+            "iso_code": "CVL",
+            "names": {
+              "de": "Centre-Val de Loire",
+              "en": "Centre-Val de Loire",
+              "es": "Centro-Valle de Loira",
+              "fr": "Centre-Val de Loire",
+              "ja": "サントル＝ヴァル・ド・ロワール地域圏",
+              "pt-BR": "Centro",
+              "ru": "Центр — Долина Луары"
+            }
+          },
+          {
+            "geoname_id": 3012804,
+            "iso_code": "37",
+            "names": {
+              "de": "Indre-et-Loire",
+              "en": "Indre-et-Loire",
+              "es": "Indre y Loira",
+              "fr": "Indre-et-Loire",
+              "ja": "アンドル＝エ＝ロワール県",
+              "pt-BR": "Indre-et-Loire",
+              "ru": "Эндр и Луара",
+              "zh-CN": "安德尔-卢瓦尔省"
+            }
+          }
+        ]
+      }
+    }
+  ]
 }
