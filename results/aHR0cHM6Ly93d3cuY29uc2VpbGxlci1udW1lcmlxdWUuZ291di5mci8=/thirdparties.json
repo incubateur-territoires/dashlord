@@ -1,6 +1,109 @@
 {
-  "trackers": null,
-  "cookies": null,
-  "headers": null,
-  "endpoints": null
+  "trackers": [
+    {
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/api.js",
+      "details": {
+        "id": "cloudflare",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/b/708f7a809116/api.js",
+      "details": {
+        "id": "cloudflare",
+        "message": "Host files locally"
+      }
+    }
+  ],
+  "cookies": [
+    {
+      "name": "_pk_ses.147.204e",
+      "value": "1",
+      "domain": "www.conseiller-numerique.gouv.fr",
+      "path": "/",
+      "expires": 1742694665,
+      "size": 17,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "priority": "Medium",
+      "sameParty": false,
+      "sourceScheme": "Secure"
+    },
+    {
+      "name": "_pk_id.147.204e",
+      "value": "517e6a0e059fe908.1742692865.",
+      "domain": "www.conseiller-numerique.gouv.fr",
+      "path": "/",
+      "expires": 1776648065,
+      "size": 43,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "priority": "Medium",
+      "sameParty": false,
+      "sourceScheme": "Secure"
+    }
+  ],
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cache-control": "max-age=60, private, proxy-revalidate",
+    "cf-cache-status": "DYNAMIC",
+    "cf-ray": "924a1c210e13c5c2-IAD",
+    "content-encoding": "zstd",
+    "content-type": "text/html",
+    "date": "Sun, 23 Mar 2025 01:21:04 GMT",
+    "last-modified": "Thu, 06 Mar 2025 15:23:26 GMT",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=gwExpacjSjUdOMDPfmJEHRUTmM9oMK1OFZOfPuGaanBxcSodcoCQ4MWEsWHkfU%2FQE1HfyhZLX51CbTYnNAS8cfwTDJsOvGH95m2yxPj%2BAgXgJL8vBI%2BQ3ByaCpEg8nqeXtT9K3V8tShM7ubcbRpDVXDWfw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "server": "cloudflare",
+    "sozu-id": "01JQ09DM9S0MQMP666N9ZKRENH",
+    "vary": "Accept-Encoding"
+  },
+  "endpoints": [
+    {
+      "hostname": "www.conseiller-numerique.gouv.fr",
+      "ip": "104.21.16.1",
+      "geoip": {
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "challenges.cloudflare.com",
+      "ip": "104.18.95.41",
+      "geoip": {
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    }
+  ]
 }
