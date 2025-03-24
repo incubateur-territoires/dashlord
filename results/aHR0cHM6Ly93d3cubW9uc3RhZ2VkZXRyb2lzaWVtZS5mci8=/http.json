@@ -9,9 +9,9 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 23 Mar 2025 01:46:29 GMT",
+      "date": "Mon, 24 Mar 2025 09:48:05 GMT",
       "content-type": "text/html; charset=utf-8",
-      "content-length": "5980",
+      "content-length": "5983",
       "connection": "close",
       "x-frame-options": "SAMEORIGIN",
       "x-xss-protection": "0",
@@ -21,15 +21,15 @@
       "referrer-policy": "strict-origin-when-cross-origin",
       "link": "</packs/css/application-1b36d1b4.css>; rel=preload; as=style; nopush",
       "vary": "Accept-Encoding",
-      "etag": "W/\"047d20b794e46a34364999004915baae\"",
+      "etag": "W/\"b64f80589a9210b6aad57ed4b5302ec2\"",
       "cache-control": "max-age=0, private, must-revalidate",
       "set-cookie": [
-        "_monstage_session=zJiH2naEyBYuwPJQnH33bJ5%2FnOIr9LGWfGe1CZAOmmSzJxTWzU9MT7x0gZno3zC72kFieiKxogM3Sna6%2BFduQK2Aja%2Fnes1OFC9gwpxwbV9l%2BOdlwqkMQYr4ZpKiq3LdsoSHUscHnQmdPVVgaUThHrKynO6uwbaJJsowFBlGThULAcbE6qlgTI1tCP%2F4RKgZzTFJouq2Wn1%2B4j0T6qcGNv8%2BE%2BxZ1MMWZJX9v%2FwNAQHti1QdRenCcWlxr%2Be%2BE%2FyRUBC0L6NS2mCpFmfcJs4znjOT6hO9%2B0VXkg%3D%3D--qlINzUqF2wDl1aPR--cHk5jOwd%2BFGzXQkYEqSrsg%3D%3D; path=/; secure; HttpOnly; SameSite=Lax"
+        "_monstage_session=aOZ70DcxJ3uu1iRnt3MyR5qpeJNMVh5aBFZs2bVgKkdpw7V7LlVdvwMnpHNWDXrj5obOaFZ1MUztJaW1kgEyWvbLhzRiw9BrtuQVgeSwGZZRpoPQ5ObcQspTvNhEPCPFSq%2BtX9VorW9K7nZKEYfbswxg33KycqeKIW%2BZOPyVBVajwUo2BUXSdNSB%2F1Nr4K%2F8jl5rKPgc1ZEheTPD%2FxijrtwffIngDxEiOtEsY%2FRvZsJtpi%2FAHA0EuJHNwLZxYsm%2F%2FwYF5wBfo1vIc40RgVrPyhdoxVAgrpIObQ%3D%3D--MGd8tMLV98E2hNUo--GlkXnmPeHHFuJNQDM6bBHA%3D%3D; path=/; secure; HttpOnly; SameSite=Lax"
       ],
-      "x-request-id": "1fa9eff5-1f81-4b05-b5e8-20404ea5b331",
-      "x-runtime": "0.012356",
+      "x-request-id": "25bd4b66-ce61-4f4a-ae57-f2c98a9ede5a",
+      "x-runtime": "0.017409",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
-      "sozu-id": "01JQ0AW61J1X0JSRBVPAJYRQ6D"
+      "sozu-id": "01JQ3RTQGA26BEEYBC2KGZBHRQ"
     }
   },
   "tests": {
