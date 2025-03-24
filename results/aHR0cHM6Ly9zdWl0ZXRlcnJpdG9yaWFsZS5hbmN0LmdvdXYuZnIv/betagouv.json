@@ -1,0 +1,40 @@
+{
+  "id": "suite.territoriale",
+  "type": "startup",
+  "attributes": {
+    "name": "Suite territoriale",
+    "pitch": "Mettre à disposition des collectivités territoriales une plateforme sécurisée de services mutualisés ",
+    "stats_url": "",
+    "link": "https://suiteterritoriale.anct.gouv.fr/",
+    "contact": "lasuiteterritoriale@anct.gouv.fr",
+    "content_url_encoded_markdown": "%23%23%20Contexte%0A%0ADans%20le%20cadre%20du%20Plan%20France%202030%2C%20et%20plus%20particuli%C3%A8rement%20son%20volet%20%22Ma%C3%AEtriser%20les%20technologies%20num%C3%A9riques%20souveraines%20et%20s%C3%BBres%22%2C%20l%27Agence%20nationale%20de%20la%20s%C3%A9curit%C3%A9%20des%20syst%C3%A8mes%20d%27information%20%28ANSSI%29%20a%20pour%20objectif%20de%20%2A%2Apoursuivre%20la%20s%C3%A9curisation%20des%20syst%C3%A8mes%20num%C3%A9riques%20des%20collectivit%C3%A9s%20territoriales%2A%2A.%20%0A%0AL%27Agence%20nationale%20de%20la%20coh%C3%A9sion%20des%20territoires%20%28ANCT%29%2C%20%2Avia%2A%20son%20Incubateur%20des%20Territoires%2C%20a%20pour%20objet%20la%20%2A%2Aconstruction%20de%20services%20publics%20num%C3%A9riques%20par%2C%20pour%20et%20avec%20les%20collectivit%C3%A9s%20territoriales%2A%2A%2C%20en%20particulier%20celles%20ne%20disposant%20pas%20ou%20peu%20des%20ressources%20n%C3%A9cessaires%20%C3%A0%20la%20r%C3%A9alisation%20de%20leurs%20projets.%20%0A%0A%23%23%20Probl%C3%A8me%0A%0AUn%20rapport%20d%27information%20du%20S%C3%A9nat%20%5B%2ALes%20collectivit%C3%A9s%20territoriales%20face%20au%20d%C3%A9fi%20de%20la%20cybers%C3%A9curit%C3%A9%2A%5D%28https%3A%2F%2Fwww.senat.fr%2Frap%2Fr21-283%2Fr21-283_mono.html%29%20%C3%A9tablit%20que%20%3A%20%0A%2A%20%2A%2Ale%20recours%20grandissant%20au%20t%C3%A9l%C3%A9travail%20dans%20la%20fonction%20publique%20territoriale%20et%20des%20services%20num%C3%A9riques%20parfois%20inadapt%C3%A9s%2A%2A%20accentuent%20l%27ampleur%20des%20menaces%20num%C3%A9riques%20%3B%20%0A%2A%20%2A%2ALa%20fr%C3%A9quence%20croissante%20des%20cyberattaques%20sur%20des%20administrations%20a%20de%20lourdes%20cons%C3%A9quences%2A%2A%20%28dysfonctionnement%20des%20services%20publics%20locaux%2C%20perte%20irr%C3%A9m%C3%A9diable%20de%20donn%C3%A9es%2C%20paiement%20de%20ran%C3%A7ons...%29%20%3B%0A%2A%20%2A%2ALes%20%22petites%20collectivit%C3%A9s%22%20sont%20identifi%C3%A9es%20comme%20des%20cibles%20privil%C3%A9gi%C3%A9es%20et%20particuli%C3%A8rement%20vuln%C3%A9rables%2A%2A%20face%20aux%20cyberattaques.%0A%0APar%20ailleurs%2C%20la%20%2A%5BSynth%C3%A8se%202023%20de%20la%20menace%20ciblant%20les%20collectivit%C3%A9s%20territoriales%5D%28https%3A%2F%2Fwww.cert.ssi.gouv.fr%2Fuploads%2FCERTFR-2023-CTI-008.pdf%29%2A%20de%20l%27ANSSI%20d%C3%A9nombre%20%2A%2Aune%20moyenne%20de%2010%20incidents%20cyber%20affectant%20les%20collectivit%C3%A9s%20territoriales%20chaque%20mois.%2A%2A%0A%0A%2A%2ALes%20plus%20petites%20collectivit%C3%A9s%20territoriales%20ne%20disposent%20pas%20de%20services%20num%C3%A9riques%20de%20base%20s%C3%A9curis%C3%A9s%20%20%28nom%20de%20domaine%2C%20email%2C%20stockage...%29%20et%20font%20appel%20%C3%A0%20des%20services%20sans%20garantie%20suffisante%20en%20mati%C3%A8re%20de%20cybers%C3%A9curit%C3%A9%20et%20de%20RGPD.%2A%2A%0A%0AL%27association%20D%C3%A9clic%20qui%20f%C3%A9d%C3%A8re%20les%20Op%C3%A9rateurs%20Publics%20de%20Services%20Num%C3%A9riques%20%28OPSN%29%20estime%20par%20exemple%20qu%27environ%20%2A%2A60%25%20des%20collectivit%C3%A9s%20utilisent%20des%20adresses%20mails%20ne%20disposant%20pas%20de%20nom%20de%20domaine%20institutionnel%20s%C3%A9curis%C3%A9%2A%2A.%20%0A%0A%23%23%20Solution%0A%0AAfin%20d%27am%C3%A9liorer%2C%20%C3%A0%20meilleur%20co%C3%BBt%2C%20la%20s%C3%A9curit%C3%A9%20et%20la%20souverainet%C3%A9%20num%C3%A9rique%20nationale%2C%20ANSSI%20et%20ANCT%20sont%20partenaires%20depuis%20d%C3%A9cembre%202023%20dans%20%2A%2Ale%20d%C3%A9veloppement%20d%27une%20plateforme%20s%C3%A9curis%C3%A9e%20au%20profit%20des%20collectivit%C3%A9s%20territoriales%20comprenant%20notamment%20%3A%2A%2A%0A%2A%20Un%20nom%20de%20domaine%20%3B%20%0A%2A%20Un%20serveur%20mail%20%3B%20%0A%2A%20Un%20espace%20de%20stockage%20minimal.%20%0A%0ALa%20plateforme%20pourra%20%C3%A9galement%20utiliser%20et%20mettre%20%C3%A0%20disposition%20des%20collectivit%C3%A9s%20%2A%2Ales%20briques%20techniques%20et%20services%20num%C3%A9riques%20d%C3%A9j%C3%A0%20existants%2C%20d%C3%A9velopp%C3%A9s%20en%20%2Aopen%20source%2A%20par%20des%20acteurs%20%C3%A9tatiques%2A%2A%20%28DINUM%2C%20ANCT%2C%20ANSSI%29%20%2A%2Aou%20territoriaux%2A%2A%20%28Op%C3%A9rateurs%20Publics%20de%20Services%20Num%C3%A9riques%29.%20%0A%0A%23%23%20Strat%C3%A9gie%0A%0ADans%20une%20logique%20de%20mutualisation%2C%20ce%20projet%20contribue%20%C3%A0%20%3A%0A-%20la%20%2A%2Ad%C3%A9clinaison%20territoriale%20de%20%5Bla%20Suite%20num%C3%A9rique%5D%28https%3A%2F%2Fbeta.gouv.fr%2Fstartups%2Fsuite-numerique.html%29%2A%2A%20en%20cours%20de%20d%C3%A9veloppement%20par%20l%27Op%C3%A9rateur%20de%20produits%20interminist%C3%A9riels%20de%20la%20DINUM%20%3B%0A-%20%2A%2Al%27augmentation%20des%20services%20oeuvrant%20%C3%A0%20la%20s%C3%A9curisation%20des%20collectivit%C3%A9s%20territoriales%2A%2A%20en%20proposant%20sur%20cette%20m%C3%AAme%20plateforme%20des%20services%20s%C3%A9curis%C3%A9s%20issus%20de%20l%27ANSSI%2C%20de%20l%27ANCT%20ou%20des%20Op%C3%A9rateurs%20Publics%20de%20Services%20num%C3%A9riques.%20%20%20%0A%0A%2A%2ALa%20Suite%20num%C3%A9rique%20vise%20%C3%A0%20connecter%20l%27ensemble%20des%20intervenants%20de%20la%20sph%C3%A8re%20publique%2A%2A%20%28de%20l%27%C3%89tat%2C%20territoriale%20et%20hospitali%C3%A8re%29%20par%20un%20unique%20bouton%20d%27authentification%20permettant%20d%27acc%C3%A9der%20%C3%A0%20un%20ensemble%20de%20communs%20num%C3%A9riques%2C%20libres%20et%20interop%C3%A9rables.%20La%20Suite%20permet%20ainsi%20une%20action%20plus%20simple%2C%20plus%20efficace%20et%20plus%20souveraine.%20%0A%0A%2A%2AEn%20mobilisant%20un%20groupe%20de%20collectivit%C3%A9s%20territoriales%20pilotes%2A%2A%2C%20l%27ANCT%20et%20l%27ANSSI%20se%20proposent%20d%27adapter%20cette%20Suite%20et%20les%20produits%20qui%20la%20composent%20aux%20besoins%20sp%C3%A9cifiques%20des%20collectivit%C3%A9s%20territoriales.%20%0A%0A%2A%2APar%20ailleurs%2C%20les%20partenaires%20sont%20%C3%A9galement%20en%20%C3%A9troite%20collaboration%20avec%20les%20op%C3%A9rateurs%20de%20mutualisation%20%28OPSN%20notamment%29%2A%2A%20et%20les%20associations%20d%27%C3%A9lus%20pour%20accompagner%20les%20services%20num%C3%A9riques%20d%C3%A9j%C3%A0%20d%C3%A9velopp%C3%A9s%20et%20utilis%C3%A9s%20%C3%A0%20l%27%C3%A9chelle%20locale%20dans%20une%20d%C3%A9marche%20d%27homologation%2C%20et%20ainsi%20envisager%20leur%20int%C3%A9gration%20%C3%A0%20la%20plateforme.%20%0A%0A",
+    "events": [],
+    "phases": [
+      {
+        "name": "investigation",
+        "start": "2023-12-07",
+        "end": ""
+      },
+      {
+        "name": "construction",
+        "start": "2024-05-29",
+        "end": ""
+      }
+    ],
+    "sponsors": [
+      "anct",
+      "anssi",
+      "dinum"
+    ],
+    "thematiques": [],
+    "accessibility_status": "non conforme"
+  },
+  "relationships": {
+    "incubator": {
+      "data": {
+        "type": "incubator",
+        "id": "anct"
+      }
+    }
+  }
+}
