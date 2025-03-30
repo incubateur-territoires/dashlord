@@ -2,11 +2,11 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://sentry.anct.cloud-ed.fr/api/7/envelope/?sentry_key=78a1b78e61aeaae9211b3d50ee2f71fa&sentry_version=7&sentry_client=sentry.javascript.nextjs%2F8.35.0"
+      "url": "https://sentry.anct.cloud-ed.fr/api/7/envelope/?sentry_version=7&sentry_key=78a1b78e61aeaae9211b3d50ee2f71fa&sentry_client=sentry.javascript.nextjs%2F8.55.0"
     },
     {
       "type": "unknown",
-      "url": "https://sentry.anct.cloud-ed.fr/api/7/envelope/?sentry_key=78a1b78e61aeaae9211b3d50ee2f71fa&sentry_version=7&sentry_client=sentry.javascript.nextjs%2F8.35.0"
+      "url": "https://sentry.anct.cloud-ed.fr/api/7/envelope/?sentry_version=7&sentry_key=78a1b78e61aeaae9211b3d50ee2f71fa&sentry_client=sentry.javascript.nextjs%2F8.55.0"
     }
   ],
   "cookies": [
@@ -27,7 +27,7 @@
     },
     {
       "name": "__Host-next-auth.csrf-token",
-      "value": "a486850a286deb1e58bdac12a8eb777a55a385db50bb85433baea5dbbba597c3%7Cf252d329db9e98665d96826afec9dbf99d98cf6c10c6aa3972a66cb4d43217e4",
+      "value": "e7236046aaff95c2ca14eacd4342917bfbc82240137100a80252fe7d5ee6f539%7Ca7ba8bc114a8af2fdb1a6b8ac41228d7c8be16d63283417317e80af7a1bc553e",
       "domain": "tous-connectes.anct.gouv.fr",
       "path": "/",
       "expires": -1,
@@ -45,12 +45,12 @@
     "cache-control": "s-maxage=31536000, stale-while-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Mon, 24 Mar 2025 09:39:53 GMT",
-    "etag": "\"dkv7qeg5mb2fv0\"",
+    "date": "Sun, 30 Mar 2025 01:43:03 GMT",
+    "etag": "\"7oz1g89srj2gzm\"",
     "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
     "x-nextjs-cache": "HIT",
     "x-powered-by": "Next.js",
-    "x-request-id": "1cb7d98d-1cfc-4faa-aba4-92463dd4709c"
+    "x-request-id": "486dfbe9-8a37-4a88-b32f-35d367d4c382"
   },
   "endpoints": [
     {
