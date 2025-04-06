@@ -199,14 +199,14 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -269,7 +269,7 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "04E1C9FA335210BBD86CAB1FB207000B3A21"
+              "finding"      : "0642ABDC0FA4688641BCCFE8BB9F0741EE7C"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -283,21 +283,21 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "735FD68F91EAE578DF329DE5BE0AB8161DE6EFB2"
+              "finding"      : "B133C90D8EB7130C7121B3B130EF5416A85A0835"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "D8789BB4CF67E1C97D954AD7711BCE30250221B90E0CE7DC18F93F56146C253C"
+              "finding"      : "1DFB0BF00E1418AA7852398D874D1FEB628F342F7FE2C1C9B4D2FB5F24B8197A"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFCjCCA/KgAwIBAgISBOHJ+jNSELvYbKsfsgcACzohMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTAwHhcNMjUwMjAxMDYxMTMyWhcNMjUwNTAyMDYxMTMxWjAoMSYwJAYDVQQDEx1lc3BhY2VzdXJkZW1hbmRlLmFuY3QuZ291di5mcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAL5nWs6G7tc0pj+VTUe5rxj/dSGLHG0hdYgh0gLVIvBLErkNgxYmWhHo69mzSj78enN37v4riqt/uZiFwCWNZZX0bTSNiSwhFDeE3V/MdJ8ZWukhd2U+BWuU2DFqN0rfdY25Rfv7/M/tW41sgccMi/AFrm7VH8cfeOuyqGhvNjzikviUB4vxZuwKFBcs39jT4EfiYnHtQ6WBHPvYq7bvElIJ8BVHnwGU8kV02lfYB1o2n2Y+8G7XJYQ+ANPEnNLrNHQMAJjpdFDOLCCQJfa8eL5dZobO1NmKJ4+zp0tBq4uFmCwrxWjt3nWNj5VHfFuupgEyvrDmQALZRP/li073gC8CAwEAAaOCAiEwggIdMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUDwzi0EI4x6C97mSNGcRJ51VY044wHwYDVR0jBBgwFoAUu7zDR6XkvKnGw6RyDBCNojXhyOgwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRwOi8vcjEwLm8ubGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjEwLmkubGVuY3Iub3JnLzAoBgNVHREEITAfgh1lc3BhY2VzdXJkZW1hbmRlLmFuY3QuZ291di5mcjATBgNVHSAEDDAKMAgGBmeBDAECATCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB1AE51oydcmhDDOFts1N8/Uusd8OCOG41pwLH6ZLFimjnfAAABlMBYWBQAAAQDAEYwRAIgQL897nTCRJzRxLPz2HbyRQDwIqOdeU625lv/am28/HICIHMvlHmRlN8S1wuaitqj15am0nu1TYzl+bo1eWJjgcenAHcA4JKz/AwdyOdoNh/eYbmWTQpSeBmKctZyxLBNpW1vVAQAAAGUwFhYvAAABAMASDBGAiEAg1o4KGiEtjcEQVzjMtJtxfoHSikszB1Oov/tCotB2lsCIQCBZy3uA5lNbj+POB8zBxj/PJX8WcWSNkQdUTyjKACNljANBgkqhkiG9w0BAQsFAAOCAQEAoQp1o99v84hswE2dSKGxhPhSDPicyyepuKMLkLk+CG7yhuWYWT8QefxsuMdPdQ//qpszgDbJNrBzloBGq3JFdnyIB5dIUw66ggxjr7ROQ/LRJxXBhog3LjyDYH1uhEsSqoBkOfFD8UC8RCYeBhtG1M4AIObOPf7Vh9TakYr2clwK/8FH+t4zObhPBDhIJ8XC9qHhb/4uvwmfu3rOXZ3bFapaQjE4fLp5MIMlSw87wyiC1A6CuiTGObnBUEwNpYAqCiGXdyJtyLsB6Q+NdwxEdc78OE4FFAm+37sAMsJFuRUkTNVYv7K9/mPCppgnA5Pr+GV/5BTB6tbMjeJKp/QIVg==\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFPDCCBCSgAwIBAgISBkKr3A+kaIZBvM/ou58HQe58MA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTAwHhcNMjUwNDAyMDUxMzM4WhcNMjUwNzAxMDUxMzM3WjAoMSYwJAYDVQQDEx1lc3BhY2VzdXJkZW1hbmRlLmFuY3QuZ291di5mcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAL5nWs6G7tc0pj+VTUe5rxj/dSGLHG0hdYgh0gLVIvBLErkNgxYmWhHo69mzSj78enN37v4riqt/uZiFwCWNZZX0bTSNiSwhFDeE3V/MdJ8ZWukhd2U+BWuU2DFqN0rfdY25Rfv7/M/tW41sgccMi/AFrm7VH8cfeOuyqGhvNjzikviUB4vxZuwKFBcs39jT4EfiYnHtQ6WBHPvYq7bvElIJ8BVHnwGU8kV02lfYB1o2n2Y+8G7XJYQ+ANPEnNLrNHQMAJjpdFDOLCCQJfa8eL5dZobO1NmKJ4+zp0tBq4uFmCwrxWjt3nWNj5VHfFuupgEyvrDmQALZRP/li073gC8CAwEAAaOCAlMwggJPMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUDwzi0EI4x6C97mSNGcRJ51VY044wHwYDVR0jBBgwFoAUu7zDR6XkvKnGw6RyDBCNojXhyOgwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRwOi8vcjEwLm8ubGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjEwLmkubGVuY3Iub3JnLzAoBgNVHREEITAfgh1lc3BhY2VzdXJkZW1hbmRlLmFuY3QuZ291di5mcjATBgNVHSAEDDAKMAgGBmeBDAECATAvBgNVHR8EKDAmMCSgIqAghh5odHRwOi8vcjEwLmMubGVuY3Iub3JnLzEyNS5jcmwwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgB9WR4S4XgqexxhZ3xe/fjQh1wUoE6VnrkDL9kOjC55uAAAAZX1IOafAAAEAwBHMEUCIQCZh0gH4/G9ZuipRc/CiSE0GW0mvX4b2XKqmxr4+IQn4QIgUmYbtSgD6yebP8KVrSeULI2Rfo9vdj8uDryG4VePoGgAdwDM+w9qhXEJZf6Vm1PO6bJ8IumFXA2XjbapflTA/kwNsAAAAZX1IObHAAAEAwBIMEYCIQDHvYwtTjRylP/lGGrtGccGEZGvF3g60MQkmTMd6bWoygIhALj+CyTLqmQX1ViyUtgc9HUQvFSOweVDSwCgRjxiMpNjMA0GCSqGSIb3DQEBCwUAA4IBAQC7uprXXHCFokMxXhxFnkAIQI/iPlJliahAq7mOhf1/y6NsBWGUYtdBe5xLbpD4wFtWFUCnseyQrAQ7vswscppXFOeJtqNeSTzizjtJwNoUzb3/+heys1LKBV4cZWjbVt67Ji0bECxen84zwJqBxoHZAVzYhXL6coS4ytdUyqVFntA3tZ0nyO+djS2BV5sP+K5BHwTCvv0JUFfq9IUn4tN0RDK8nkd+B7+Kc5Z1V0GmAJyYnWa3zVdI0UfB2QbhmcsrRYZFm/c37pglIZr0CJYMlu5mfIBtujVfWZBVr3tWyCIMwitFND/COFFcZCb7nXceebca0ApxYUKM1WU3w212\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -353,21 +353,21 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "33 >= 30 days"
+              "finding"      : "86 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2025-02-01 06:11"
+              "finding"      : "2025-04-02 05:13"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2025-05-02 06:11"
+              "finding"      : "2025-07-01 05:13"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -388,7 +388,7 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "--"
+              "finding"      : "http://r10.c.lencr.org/125.crl"
           }
 ,         {
               "id"           : "cert_ocspURL",
@@ -514,7 +514,7 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1743295555"
+              "finding"      : "1743900312"
           }
 ,         {
               "id"           : "HSTS",
@@ -687,7 +687,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=D8789BB4CF67E1C97D954AD7711BCE30250221B90E0CE7DC18F93F56146C253C"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=1DFB0BF00E1418AA7852398D874D1FEB628F342F7FE2C1C9B4D2FB5F24B8197A"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -1070,6 +1070,6 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "60"
+              "finding"      : "57"
           }
 ]
