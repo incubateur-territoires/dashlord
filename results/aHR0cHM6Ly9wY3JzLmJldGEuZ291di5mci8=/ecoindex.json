@@ -3,7 +3,7 @@
         "width": 1920,
         "height": 1080,
         "url": "https://pcrs.beta.gouv.fr/",
-        "size": 4374.637,
+        "size": 4408.334,
         "nodes": 236,
         "requests": 55,
         "grade": "C",
@@ -11,7 +11,7 @@
         "ges": 1.72,
         "water": 2.58,
         "ecoindex_version": "5.4.2",
-        "date": "2025-03-24 09:38:45.646241",
+        "date": "2025-04-06 01:40:47.114998",
         "page_type": "website"
     }
 ]
