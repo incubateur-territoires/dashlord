@@ -9,9 +9,9 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 30 Mar 2025 01:50:00 GMT",
+      "date": "Sun, 06 Apr 2025 01:50:08 GMT",
       "content-type": "text/html; charset=utf-8",
-      "content-length": "5985",
+      "content-length": "5982",
       "connection": "close",
       "x-frame-options": "SAMEORIGIN",
       "x-xss-protection": "0",
@@ -21,15 +21,15 @@
       "referrer-policy": "strict-origin-when-cross-origin",
       "link": "</packs/css/application-1b36d1b4.css>; rel=preload; as=style; nopush",
       "vary": "Accept-Encoding",
-      "etag": "W/\"fd294898a91a04c84ba6e95796b6a3a9\"",
+      "etag": "W/\"e0707c11505ce1a0bfe92256fce5aa54\"",
       "cache-control": "max-age=0, private, must-revalidate",
       "set-cookie": [
-        "_monstage_session=HOZ%2B6rp4Ia9wJnjo3nzanh5mNBQFSyRUGTnk7coSsGvUOHLgtWk%2BloeI3j8h8Hk5O8qQF7kZ09PUpYt8zbfW%2BcvaxR1L1IH8KEDxpMo4Q3DBocc2D7aqSes9guDyG6RRQqohtUYmJLGzTt%2Bp%2FbC%2BH4ghNfEBa%2BnH6SAX0KQQNeLDkThFDbQh9HKr8OnXv40ciqRwoJzBWokXKhZCVTaPIKG0S6TpKqf2qgTq4Aclo1HMTfV0w4WJEu%2B%2BbnJ31F3jThT6OIKMZTBZ%2B%2F1rypCa6gm4CsvTwPU%2FhA%3D%3D--L1i5jSxRpZuM72Uj--xjguIosyxRCF2mqF51Xv%2Fw%3D%3D; path=/; secure; HttpOnly; SameSite=Lax"
+        "_monstage_session=mCGDElZHj2tU%2FD53OwiV6giFC2fMdK8Gg700mEZxrWKKl7niFmFPfPMX82udjwfpoK0pIj0TJGR2nXoHhiRn93xPoKOIMiyOpjISIyRDXeUfWVGnW9azNq5O5XLY%2Bpw857H7xWBzbs5ghzvzc8QKwJ5%2B5okHU4EpJ2lzK%2FYLucV%2Bf%2F5x05%2B6WCzVSbrWsdjm3fw%2BfCCL1Rm3VeDbM4WduDLOQh5MHpHrtPi%2FzVGCttcWHnQivoV8e1uy6bSpz91XV2jbSL90V87whggso7LghujIzpP7d0gv1Q%3D%3D--LNXkQbFd%2F9Dboi6r--ac%2FYwQYwMNoT0uidjh5MzA%3D%3D; path=/; secure; HttpOnly; SameSite=Lax"
       ],
-      "x-request-id": "f08e3e75-f16c-4475-8ee3-acc687dae6aa",
-      "x-runtime": "0.007615",
+      "x-request-id": "5d2db037-a8aa-480a-bb0d-4e5ad276d4b9",
+      "x-runtime": "0.012389",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
-      "sozu-id": "01JQJBVMB3WW0H9SS04MA4680E"
+      "sozu-id": "01JR4CMXB2Q0ZB9KKQ110Y32KX"
     }
   },
   "tests": {
