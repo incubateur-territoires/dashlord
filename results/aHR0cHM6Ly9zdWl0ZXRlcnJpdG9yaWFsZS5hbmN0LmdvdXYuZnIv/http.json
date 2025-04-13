@@ -9,13 +9,13 @@
     "testsPassed": 8,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 06 Apr 2025 02:03:58 GMT",
+      "date": "Sun, 13 Apr 2025 03:26:26 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "5b8f9022-7b09-4d48-a752-c77ca14d4025",
+      "x-request-id": "ca21188f-6add-49b4-9bd8-74c04b71b079",
       "cross-origin-opener-policy": "same-origin",
-      "etag": "\"hcxa1jjdw763c2\"",
+      "etag": "\"ysl3476q6z63m0\"",
       "vary": "Accept-Encoding",
       "strict-transport-security": "max-age=31536000"
     }
@@ -33,6 +33,7 @@
         ],
         "img-src": [
           "'self'",
+          "*.cartocdn.com",
           "*.gouv.fr",
           "data:"
         ],
@@ -43,8 +44,7 @@
         ],
         "connect-src": [
           "'self'",
-          "*.gouv.fr",
-          "https://sentry.incubateur.net"
+          "*.gouv.fr"
         ],
         "frame-src": [
           "'self'",
