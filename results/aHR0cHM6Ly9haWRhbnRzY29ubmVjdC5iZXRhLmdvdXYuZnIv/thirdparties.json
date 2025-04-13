@@ -51,7 +51,7 @@
       "value": "1",
       "domain": "aidantsconnect.beta.gouv.fr",
       "path": "/",
-      "expires": 1743903979,
+      "expires": 1744513915,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -63,10 +63,10 @@
     },
     {
       "name": "_pk_id.98.2d29",
-      "value": "a2b9f8c1dda4246c.1743902179.",
+      "value": "512d14c651db9ca4.1744512116.",
       "domain": "aidantsconnect.beta.gouv.fr",
       "path": "/",
-      "expires": 1777857379,
+      "expires": 1778467316,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -79,16 +79,16 @@
   ],
   "headers": {
     "content-encoding": "gzip",
-    "content-security-policy": "object-src 'none'; style-src-attr 'unsafe-hashes' 'sha256-I/4Jcdrg5KNFrU0X4p2nNmjeGh9aI+9ac0cUllI5SwY=' 'sha256-vYd+FsML43MBXhP+pXOhW9h0Cdq43hkCe4Im/yyvhss='; img-src 'self' data: https://www.service-public.fr/resources/v-5cf79a7acf/web/css/img/png/; frame-src https://www.youtube.com/embed/hATrqHG4zYQ https://www.youtube-nocookie.com/embed/hATrqHG4zYQ http://www.youtube.com/embed/hATrqHG4zYQ http://www.youtube-nocookie.com/embed/hATrqHG4zYQ https://www.youtube.com/embed/WTHj_kQXnzs https://www.youtube-nocookie.com/embed/WTHj_kQXnzs http://www.youtube.com/embed/WTHj_kQXnzs http://www.youtube-nocookie.com/embed/WTHj_kQXnzs https://www.youtube.com/embed/ihsm-36I-fE https://www.youtube-nocookie.com/embed/ihsm-36I-fE http://www.youtube.com/embed/ihsm-36I-fE http://www.youtube-nocookie.com/embed/ihsm-36I-fE https://www.youtube.com/embed/AJGo6bydQss https://www.youtube-nocookie.com/embed/AJGo6bydQss http://www.youtube.com/embed/AJGo6bydQss http://www.youtube-nocookie.com/embed/AJGo6bydQss; style-src 'self' https://unpkg.com/easymde/dist/easymde.min.css 'nonce-gMi0P0qLIkz+niZbPmVIfw=='; default-src 'self'; connect-src 'self' https://stats.beta.gouv.fr/matomo.php https://stats.beta.gouv.fr/piwik.php https://api.sarbacane.com/v1/forms/contacts/upsert https://api-adresse.data.gouv.fr/search/; script-src 'self' https://unpkg.com/stimulus@3.2.2/dist/stimulus.js https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.min.js https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0 https://unpkg.com/easymde/dist/easymde.min.js https://forms.sbc29.com/form.js https://unpkg.com/tarteaucitronjs@1.15.0/tarteaucitron.js https://unpkg.com/tarteaucitronjs@1.15.0/lang/tarteaucitron.fr.js https://unpkg.com/tarteaucitronjs@1.15.0/tarteaucitron.services.js https://code.jquery.com/jquery-3.6.1.js https://code.jquery.com/ui/1.13.1/jquery-ui.js https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/autoComplete.min.js https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/autoComplete.min.js https://stats.beta.gouv.fr/matomo.js https://stats.beta.gouv.fr/piwik.js 'nonce-gMi0P0qLIkz+niZbPmVIfw=='",
+    "content-security-policy": "object-src 'none'; script-src 'self' https://unpkg.com/stimulus@3.2.2/dist/stimulus.js https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.min.js https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0 https://unpkg.com/easymde/dist/easymde.min.js https://forms.sbc29.com/form.js https://unpkg.com/tarteaucitronjs@1.15.0/tarteaucitron.js https://unpkg.com/tarteaucitronjs@1.15.0/lang/tarteaucitron.fr.js https://unpkg.com/tarteaucitronjs@1.15.0/tarteaucitron.services.js https://code.jquery.com/jquery-3.6.1.js https://code.jquery.com/ui/1.13.1/jquery-ui.js https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/autoComplete.min.js https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/autoComplete.min.js https://stats.beta.gouv.fr/matomo.js https://stats.beta.gouv.fr/piwik.js 'nonce-GRLfmStT5OduOmtGMG9D6w=='; img-src 'self' data: https://www.service-public.fr/resources/v-5cf79a7acf/web/css/img/png/; connect-src 'self' https://stats.beta.gouv.fr/matomo.php https://stats.beta.gouv.fr/piwik.php https://api.sarbacane.com/v1/forms/contacts/upsert https://api-adresse.data.gouv.fr/search/; style-src-attr 'unsafe-hashes' 'sha256-I/4Jcdrg5KNFrU0X4p2nNmjeGh9aI+9ac0cUllI5SwY=' 'sha256-vYd+FsML43MBXhP+pXOhW9h0Cdq43hkCe4Im/yyvhss='; default-src 'self'; frame-src https://www.youtube.com/embed/hATrqHG4zYQ https://www.youtube-nocookie.com/embed/hATrqHG4zYQ http://www.youtube.com/embed/hATrqHG4zYQ http://www.youtube-nocookie.com/embed/hATrqHG4zYQ https://www.youtube.com/embed/WTHj_kQXnzs https://www.youtube-nocookie.com/embed/WTHj_kQXnzs http://www.youtube.com/embed/WTHj_kQXnzs http://www.youtube-nocookie.com/embed/WTHj_kQXnzs https://www.youtube.com/embed/ihsm-36I-fE https://www.youtube-nocookie.com/embed/ihsm-36I-fE http://www.youtube.com/embed/ihsm-36I-fE http://www.youtube-nocookie.com/embed/ihsm-36I-fE https://www.youtube.com/embed/AJGo6bydQss https://www.youtube-nocookie.com/embed/AJGo6bydQss http://www.youtube.com/embed/AJGo6bydQss http://www.youtube-nocookie.com/embed/AJGo6bydQss; style-src 'self' https://unpkg.com/easymde/dist/easymde.min.css 'nonce-GRLfmStT5OduOmtGMG9D6w=='",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 06 Apr 2025 01:16:18 GMT",
+    "date": "Sun, 13 Apr 2025 02:41:54 GMT",
     "referrer-policy": "strict-origin",
     "strict-transport-security": "max-age=60",
     "vary": "Cookie",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "2c4a2113-3cce-4d24-8817-341ba44bf5b7"
+    "x-request-id": "bca3388a-b799-40d2-b97e-88a20ec7f6b4"
   },
   "endpoints": [
     {
@@ -149,7 +149,7 @@
     },
     {
       "hostname": "unpkg.com",
-      "ip": "104.17.245.203",
+      "ip": "104.17.247.203",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
