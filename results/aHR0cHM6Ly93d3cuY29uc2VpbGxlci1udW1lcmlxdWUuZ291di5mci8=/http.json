@@ -9,21 +9,21 @@
     "testsPassed": 5,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 06 Apr 2025 01:27:52 GMT",
+      "date": "Sun, 13 Apr 2025 02:46:25 GMT",
       "content-type": "text/html",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "last-modified": "Wed, 02 Apr 2025 16:32:46 GMT",
+      "last-modified": "Wed, 09 Apr 2025 13:54:25 GMT",
       "vary": "Accept-Encoding",
       "cache-control": "max-age=60, private, proxy-revalidate",
-      "sozu-id": "01JR4BC4Q0FWGC90H8XJEKT19C",
+      "sozu-id": "01JRPGN060KEMZMYF7DXZHZDRR",
       "cf-cache-status": "DYNAMIC",
-      "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=YJigD0YL6t5FmGRfjOGTLhmk56EDXKGCxajm7AuBoUuffARfb7jicrmMennk4EEZFTPZ%2FkchFgbaC%2B92iZS54PPq9vSxbbxzHecyUkcRtyvx8xxvqbQi9fbk6RIuKhwJeL2CBfVC1q7SupDmEYwHQjjVUg%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+      "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=d%2BeMKk%2FG3GqiafdKkg2c1wxWDAnoKkpNV3fv1Eta36dPbcHztq7IelPf8tf8exPV0o0K31UsxlC5Hy26yFX7Rkj6r%2BXN7Ar73O2jToS3omDfel%2FgSdnmdrzYDapj%2Fcv1KlpBCGLWL012OhVROmNa5g8soA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
       "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
       "server": "cloudflare",
-      "cf-ray": "92bd81564d178b10-PDX",
+      "cf-ray": "92f7a206cd613922-IAD",
       "alt-svc": "h3=\":443\"; ma=86400",
-      "server-timing": "cfL4;desc=\"?proto=TCP&rtt=36065&min_rtt=35757&rtt_var=13629&sent=4&recv=5&lost=0&retrans=0&sent_bytes=2853&recv_bytes=814&delivery_rate=79872&cwnd=251&unsent_bytes=0&cid=2a856aa4bdc1e725&ts=533&x=0\""
+      "server-timing": "cfL4;desc=\"?proto=TCP&rtt=2075&min_rtt=2045&rtt_var=788&sent=4&recv=5&lost=0&retrans=0&sent_bytes=2853&recv_bytes=814&delivery_rate=1396577&cwnd=251&unsent_bytes=0&cid=56ac85c61772c7ee&ts=265&x=0\""
     }
   },
   "tests": {
