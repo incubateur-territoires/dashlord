@@ -206,7 +206,7 @@
               "ip"           : "solutionsdelus.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -353,7 +353,7 @@
               "ip"           : "solutionsdelus.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "55 >= 30 days"
+              "finding"      : "48 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -514,7 +514,7 @@
               "ip"           : "solutionsdelus.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1743902465"
+              "finding"      : "1744512128"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1017,6 +1017,13 @@
               "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
           }
 ,         {
+              "id"           : "clientsimulation-openssl_350",
+              "ip"           : "solutionsdelus.gouv.fr/195.154.73.190",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
+          }
+,         {
               "id"           : "clientsimulation-apple_mail_16_0",
               "ip"           : "solutionsdelus.gouv.fr/195.154.73.190",
               "port"         : "443",
@@ -1105,6 +1112,6 @@
               "ip"           : "solutionsdelus.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "104"
+              "finding"      : "58"
           }
 ]
