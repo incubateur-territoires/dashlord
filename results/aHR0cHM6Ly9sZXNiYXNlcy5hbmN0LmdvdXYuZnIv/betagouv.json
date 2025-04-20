@@ -5,6 +5,7 @@
     "name": "Les Bases du numérique d'intérêt général",
     "pitch": "Faciliter le partage de ressources & de communs pour les acteurs de l'inclusion numérique",
     "stats_url": "https://lesbases.anct.gouv.fr/statistiques",
+    "budget_url": "https://lesbases.anct.gouv.fr/budget",
     "link": "https://lesbases.anct.gouv.fr/",
     "repository": "https://github.com/inclusion-numerique/la-base",
     "contact": "lesbases@anct.gouv.fr",
@@ -19,11 +20,6 @@
       {
         "name": "construction",
         "start": "2022-02-01",
-        "end": ""
-      },
-      {
-        "name": "transfer",
-        "start": "2023-02-01",
         "end": ""
       },
       {
