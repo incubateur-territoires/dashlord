@@ -3,15 +3,15 @@
         "width": 1920,
         "height": 1080,
         "url": "https://umap.incubateur.anct.gouv.fr/fr/",
-        "size": 14518.012,
+        "size": 14558.038,
         "nodes": 984,
-        "requests": 209,
+        "requests": 210,
         "grade": "F",
         "score": 18.0,
         "ges": 2.64,
         "water": 3.96,
         "ecoindex_version": "5.4.2",
-        "date": "2025-04-13 02:35:30.580224",
+        "date": "2025-04-20 01:11:40.077082",
         "page_type": null
     }
 ]
