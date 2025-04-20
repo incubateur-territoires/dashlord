@@ -9,11 +9,11 @@
     "testsPassed": 7,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 13 Apr 2025 03:08:19 GMT",
+      "date": "Sun, 20 Apr 2025 01:42:36 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "6c67467e-8401-4f9a-9b7a-e087133b78e5",
+      "x-request-id": "1f3e4ce2-f6a8-48dd-9511-ca6f10e517db",
       "x-powered-by": "Next.js",
       "etag": "\"lt1g0lqmthj7m\"",
       "vary": "Accept-Encoding",
