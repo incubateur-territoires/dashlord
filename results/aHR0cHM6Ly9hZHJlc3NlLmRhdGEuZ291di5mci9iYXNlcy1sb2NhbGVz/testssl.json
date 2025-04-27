@@ -353,7 +353,7 @@
               "ip"           : "adresse.data.gouv.fr/37.59.31.19",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "53 >= 30 days"
+              "finding"      : "46 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -514,7 +514,7 @@
               "ip"           : "adresse.data.gouv.fr/37.59.31.19",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1745110963"
+              "finding"      : "1745715757"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1070,6 +1070,6 @@
               "ip"           : "adresse.data.gouv.fr/37.59.31.19",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "93"
+              "finding"      : "90"
           }
 ]
