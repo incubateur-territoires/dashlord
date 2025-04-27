@@ -353,7 +353,7 @@
               "ip"           : "monsuivisocial.incubateur.anct.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "60 >= 30 days"
+              "finding"      : "53 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -514,7 +514,7 @@
               "ip"           : "monsuivisocial.incubateur.anct.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1745112983"
+              "finding"      : "1745717799"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -584,7 +584,7 @@
               "ip"           : "monsuivisocial.incubateur.anct.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "base-uri 'none'; font-src 'self' https: data:; form-action 'self'; frame-ancestors 'self'; img-src 'self' data:; object-src 'none'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; script-src 'self' https: 'unsafe-inline' 'strict-dynamic' 'nonce-IWH6K/pWJAwbngNq/KeWad+u'; upgrade-insecure-requests; connect-src 'self' https://api-adresse.data.gouv.fr https://geo.api.gouv.fr https://matomo.dev.incubateur.anct.gouv.fr https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.net https://conversations-widget.brevo.com/;"
+              "finding"      : "base-uri 'none'; font-src 'self' https: data:; form-action 'self'; frame-ancestors 'self'; img-src 'self' data:; object-src 'none'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; script-src 'self' https: 'unsafe-inline' 'strict-dynamic' 'nonce-a9IFvgyNu56Mua2vknKzNZg7'; upgrade-insecure-requests; connect-src 'self' https://api-adresse.data.gouv.fr https://geo.api.gouv.fr https://matomo.dev.incubateur.anct.gouv.fr https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.net https://conversations-widget.brevo.com/;"
           }
 ,         {
               "id"           : "Permissions-Policy",
@@ -1328,7 +1328,7 @@
               "ip"           : "monsuivisocial.incubateur.anct.gouv.fr/148.253.96.193",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
@@ -1482,7 +1482,7 @@
               "ip"           : "monsuivisocial.incubateur.anct.gouv.fr/148.253.96.193",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "60 >= 30 days"
+              "finding"      : "53 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1643,7 +1643,7 @@
               "ip"           : "monsuivisocial.incubateur.anct.gouv.fr/148.253.96.193",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1745113036"
+              "finding"      : "1745717903"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1713,7 +1713,7 @@
               "ip"           : "monsuivisocial.incubateur.anct.gouv.fr/148.253.96.193",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "base-uri 'none'; font-src 'self' https: data:; form-action 'self'; frame-ancestors 'self'; img-src 'self' data:; object-src 'none'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; script-src 'self' https: 'unsafe-inline' 'strict-dynamic' 'nonce-aDVkfgs/QII2gvgAzi1jKO8i'; upgrade-insecure-requests; connect-src 'self' https://api-adresse.data.gouv.fr https://geo.api.gouv.fr https://matomo.dev.incubateur.anct.gouv.fr https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.net https://conversations-widget.brevo.com/;"
+              "finding"      : "base-uri 'none'; font-src 'self' https: data:; form-action 'self'; frame-ancestors 'self'; img-src 'self' data:; object-src 'none'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; script-src 'self' https: 'unsafe-inline' 'strict-dynamic' 'nonce-bzn9WJo0Gq56RfHAKVbo5YYA'; upgrade-insecure-requests; connect-src 'self' https://api-adresse.data.gouv.fr https://geo.api.gouv.fr https://matomo.dev.incubateur.anct.gouv.fr https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.net https://conversations-widget.brevo.com/;"
           }
 ,         {
               "id"           : "Permissions-Policy",
@@ -2457,7 +2457,7 @@
               "ip"           : "monsuivisocial.incubateur.anct.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
@@ -2611,7 +2611,7 @@
               "ip"           : "monsuivisocial.incubateur.anct.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "60 >= 30 days"
+              "finding"      : "53 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -2772,7 +2772,7 @@
               "ip"           : "monsuivisocial.incubateur.anct.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1745113089"
+              "finding"      : "1745718006"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -2842,7 +2842,7 @@
               "ip"           : "monsuivisocial.incubateur.anct.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "base-uri 'none'; font-src 'self' https: data:; form-action 'self'; frame-ancestors 'self'; img-src 'self' data:; object-src 'none'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; script-src 'self' https: 'unsafe-inline' 'strict-dynamic' 'nonce-tKPf1UXessR2ecszJ4OKSD97'; upgrade-insecure-requests; connect-src 'self' https://api-adresse.data.gouv.fr https://geo.api.gouv.fr https://matomo.dev.incubateur.anct.gouv.fr https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.net https://conversations-widget.brevo.com/;"
+              "finding"      : "base-uri 'none'; font-src 'self' https: data:; form-action 'self'; frame-ancestors 'self'; img-src 'self' data:; object-src 'none'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; script-src 'self' https: 'unsafe-inline' 'strict-dynamic' 'nonce-1GD8VzbEr+zPYOyBriStAgFv'; upgrade-insecure-requests; connect-src 'self' https://api-adresse.data.gouv.fr https://geo.api.gouv.fr https://matomo.dev.incubateur.anct.gouv.fr https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.net https://conversations-widget.brevo.com/;"
           }
 ,         {
               "id"           : "Permissions-Policy",
@@ -3740,7 +3740,7 @@
               "ip"           : "monsuivisocial.incubateur.anct.gouv.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "60 >= 30 days"
+              "finding"      : "53 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -3901,7 +3901,7 @@
               "ip"           : "monsuivisocial.incubateur.anct.gouv.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1745113143"
+              "finding"      : "1745718108"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -3971,7 +3971,7 @@
               "ip"           : "monsuivisocial.incubateur.anct.gouv.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "base-uri 'none'; font-src 'self' https: data:; form-action 'self'; frame-ancestors 'self'; img-src 'self' data:; object-src 'none'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; script-src 'self' https: 'unsafe-inline' 'strict-dynamic' 'nonce-51c9ihdlB+wnrRqN9pNHpA3o'; upgrade-insecure-requests; connect-src 'self' https://api-adresse.data.gouv.fr https://geo.api.gouv.fr https://matomo.dev.incubateur.anct.gouv.fr https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.net https://conversations-widget.brevo.com/;"
+              "finding"      : "base-uri 'none'; font-src 'self' https: data:; form-action 'self'; frame-ancestors 'self'; img-src 'self' data:; object-src 'none'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; script-src 'self' https: 'unsafe-inline' 'strict-dynamic' 'nonce-fZ8b2Fc4WxLgN9+CEUsPK/Xx'; upgrade-insecure-requests; connect-src 'self' https://api-adresse.data.gouv.fr https://geo.api.gouv.fr https://matomo.dev.incubateur.anct.gouv.fr https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.net https://conversations-widget.brevo.com/;"
           }
 ,         {
               "id"           : "Permissions-Policy",
@@ -4520,6 +4520,6 @@
               "ip"           : "monsuivisocial.incubateur.anct.gouv.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "217"
+              "finding"      : "416"
           }
 ]
