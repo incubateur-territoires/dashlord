@@ -9,16 +9,16 @@
     "testsPassed": 5,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 20 Apr 2025 01:44:00 GMT",
+      "date": "Sun, 27 Apr 2025 01:47:25 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "a28a6649-ab18-4fe7-84f2-35f611b9bb90",
+      "x-request-id": "f4c25d27-a67e-48a6-81a9-969122b2457b",
       "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
       "x-nextjs-cache": "HIT",
       "x-powered-by": "Next.js",
       "cache-control": "s-maxage=31536000, stale-while-revalidate",
-      "etag": "\"7oz1g89srj2gzm\""
+      "etag": "\"9l2lu4yczb2gzm\""
     }
   },
   "tests": {

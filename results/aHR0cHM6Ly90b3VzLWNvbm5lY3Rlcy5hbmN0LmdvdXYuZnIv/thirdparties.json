@@ -7,6 +7,10 @@
     {
       "type": "unknown",
       "url": "https://sentry.anct.cloud-ed.fr/api/7/envelope/?sentry_version=7&sentry_key=78a1b78e61aeaae9211b3d50ee2f71fa&sentry_client=sentry.javascript.nextjs%2F8.55.0"
+    },
+    {
+      "type": "unknown",
+      "url": "https://sentry.anct.cloud-ed.fr/api/7/envelope/?sentry_version=7&sentry_key=78a1b78e61aeaae9211b3d50ee2f71fa&sentry_client=sentry.javascript.nextjs%2F8.55.0"
     }
   ],
   "cookies": [
@@ -27,7 +31,7 @@
     },
     {
       "name": "__Host-next-auth.csrf-token",
-      "value": "72c360a3b917376809dd8aefaf5889f6424b376b55b93eed24e2a1a5779ee719%7Cc99cb412e3e579fa1e3ef37a50525455c72ec728398172c429edae1ec40a0972",
+      "value": "680008a0c8eacc27ce57b7b9db63beb07264459d69f3ddd37d15487507728644%7C9a879ec8c832f580021435447eb0fe54820df0ff9fa8974b231e130e6459488b",
       "domain": "tous-connectes.anct.gouv.fr",
       "path": "/",
       "expires": -1,
@@ -45,12 +49,12 @@
     "cache-control": "s-maxage=31536000, stale-while-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 20 Apr 2025 01:41:19 GMT",
-    "etag": "\"7oz1g89srj2gzm\"",
+    "date": "Sun, 27 Apr 2025 01:44:19 GMT",
+    "etag": "\"9l2lu4yczb2gzm\"",
     "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
     "x-nextjs-cache": "HIT",
     "x-powered-by": "Next.js",
-    "x-request-id": "c4114203-e076-4f29-b5ea-9d6943219ead"
+    "x-request-id": "6574e90d-9592-458f-a30b-655c2f1326a7"
   },
   "endpoints": [
     {
