@@ -9,9 +9,9 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 20 Apr 2025 01:50:46 GMT",
+      "date": "Sun, 27 Apr 2025 01:47:22 GMT",
       "content-type": "text/html; charset=utf-8",
-      "content-length": "5978",
+      "content-length": "5984",
       "connection": "close",
       "x-frame-options": "SAMEORIGIN",
       "x-xss-protection": "0",
@@ -21,15 +21,15 @@
       "referrer-policy": "strict-origin-when-cross-origin",
       "link": "</packs/css/application-1b36d1b4.css>; rel=preload; as=style; nopush",
       "vary": "Accept-Encoding",
-      "etag": "W/\"7a6ba9d5e1d9bc706a1cc8753cc1b0b5\"",
+      "etag": "W/\"62c16db2efc4a0017ff7887261f39305\"",
       "cache-control": "max-age=0, private, must-revalidate",
       "set-cookie": [
-        "_monstage_session=DWFxLGQvtbWu66iH%2FGAFipQGeisr4AYsam4F1GU0bjfvvGYoWqkmkaGVextaum6O9T8%2F83DBHwB5LEqukWcEXdDgWddWj0K21P4NtSPtNP1rgF8J%2FkiDX5SumUvIJqRwZlQNi9jNkX0lM0%2Bs3eWt8RIZu1NGXgjRYD9nZxtfh7%2BNA%2Bzm%2BwKtU65Jp9UnUW0isATU%2Fx%2B9nnDjuRmjoqkvKvafkqEdfqiDkaaJRTsZNZbDQXOmR1OYreefqwO9iyVRwW0sxQFY%2FS7p5yVTumnNjeDE5B%2Bl9xAHcw%3D%3D--eQy3%2FHOQrFH9G0iY--gyNMWyDrtU6lp4tuxQRU%2Bg%3D%3D; path=/; secure; HttpOnly; SameSite=Lax"
+        "_monstage_session=OpCRjBoKrL9JBoiH0wjpDPQTIcOvHJDBTEXp%2FXfRgJsnG%2BoDECAvSj1YcLK%2Blzy3iKW8OpVY0S0gxXzK1w1MV3RCSSq9xhg%2Bu4K5t4QddyVvftZZowdgu4NHF7sIxeFeQiFjHHmzEYwwlFQRwYj6J9iGlNkXK%2Fsv%2Bb%2Beo%2F4nrO651sz8QzzeqES50qyuqVs7DY35RTSrR6Z%2FXWqBSc9FryFairw1G5rYps%2BHAgHdNcIF0e3fX5dPQX46hnWarm45dFKjigBNUTRRlFRLzhMwgxthTCB9JIy%2BrA%3D%3D--c9TPZivgbAMEi1xu--m8379EIfGl4bdKsg34LKJA%3D%3D; path=/; secure; HttpOnly; SameSite=Lax"
       ],
-      "x-request-id": "3b652583-1c3b-481a-bca8-8b6659edad17",
-      "x-runtime": "0.007307",
+      "x-request-id": "18ae55a2-eb1f-490e-af3e-920b0a991b56",
+      "x-runtime": "0.007219",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
-      "sozu-id": "01JS8E84B4V91JVQYW96QHN7JB"
+      "sozu-id": "01JSTETYSEY0B8RWCMAFVC6KJY"
     }
   },
   "tests": {
