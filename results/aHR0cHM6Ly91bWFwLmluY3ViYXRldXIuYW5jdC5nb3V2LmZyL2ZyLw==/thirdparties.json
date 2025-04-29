@@ -18,11 +18,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://overpass-api.de/api/interpreter?data=[out:json][timeout:25];area(id:3612915832)-%3E.searchArea;nwr[%22healthcare:speciality%22=%22osteopathy%22](area.searchArea);out%20geom;"
+      "url": "https://overpass-api.de/api/interpreter?data=[out:json][timeout:25];area(id:3612915832)-%3E.searchArea;nwr[%22healthcare:speciality%22=%22hypnosis%22](area.searchArea);out%20geom;"
     },
     {
       "type": "unknown",
-      "url": "https://overpass-api.de/api/interpreter?data=[out:json][timeout:25];area(id:3612915832)-%3E.searchArea;nwr[%22healthcare:speciality%22=%22hypnosis%22](area.searchArea);out%20geom;"
+      "url": "https://overpass-api.de/api/interpreter?data=[out:json][timeout:25];area(id:3612915832)-%3E.searchArea;nwr[%22healthcare:speciality%22=%22osteopathy%22](area.searchArea);out%20geom;"
     },
     {
       "type": "unknown",
@@ -39,7 +39,7 @@
       "value": "1",
       "domain": "umap.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1745717941,
+      "expires": 1745928977,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -51,10 +51,10 @@
     },
     {
       "name": "_pk_id.35.8651",
-      "value": "b8b4a8a313367871.1745716141.",
+      "value": "b9fc87abdb867e36.1745927178.",
       "domain": "umap.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1779671341,
+      "expires": 1779882378,
       "size": 42,
       "httpOnly": false,
       "secure": false,
