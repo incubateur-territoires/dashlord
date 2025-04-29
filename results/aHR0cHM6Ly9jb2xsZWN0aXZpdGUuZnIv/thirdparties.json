@@ -35,7 +35,7 @@
       "value": "1",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1745716437,
+      "expires": 1745927263,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -47,10 +47,10 @@
     },
     {
       "name": "_pk_id.118.88ba",
-      "value": "99503a728d586468.1745714637.",
+      "value": "fa956f7c714723ee.1745925463.",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1779669837,
+      "expires": 1779880663,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -64,14 +64,14 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 27 Apr 2025 00:43:55 GMT",
+    "date": "Tue, 29 Apr 2025 11:17:42 GMT",
     "x-frame-options": "DENY",
-    "x-request-id": "a21728be-9bfa-4b5e-8c03-de06d5aede95"
+    "x-request-id": "4c695d49-dcc2-4ae3-9b8c-1c447199560b"
   },
   "endpoints": [
     {
       "hostname": "collectivite.fr",
-      "ip": "185.21.194.105",
+      "ip": "148.253.96.193",
       "geoip": {
         "continent": {
           "code": "EU",
