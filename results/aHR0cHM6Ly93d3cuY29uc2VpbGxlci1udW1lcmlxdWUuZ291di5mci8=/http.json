@@ -9,17 +9,17 @@
     "testsPassed": 5,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 27 Apr 2025 01:24:12 GMT",
+      "date": "Tue, 29 Apr 2025 11:58:26 GMT",
       "content-type": "text/html",
       "transfer-encoding": "chunked",
       "connection": "close",
       "server": "cloudflare",
-      "last-modified": "Thu, 17 Apr 2025 07:27:10 GMT",
+      "last-modified": "Mon, 28 Apr 2025 14:02:00 GMT",
       "cf-cache-status": "DYNAMIC",
       "vary": "Accept-Encoding",
       "cache-control": "max-age=60, private, proxy-revalidate",
-      "sozu-id": "01JSTDGH2246REESJH42NGSYMN",
-      "cf-ray": "936a84d8fa3f6169-ORD",
+      "sozu-id": "01JT0PDWKDH6GQ2Z1S0EWW2SYX",
+      "cf-ray": "937ea0a618e1c9a7-IAD",
       "alt-svc": "h3=\":443\"; ma=86400"
     }
   },
