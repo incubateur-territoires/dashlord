@@ -19,9 +19,9 @@
 <span style="font-weight:bold;">#####################################################################</span>
 
   Using <i>OpenSSL 1.0.2-bad (Mar 28 2025)</i>  [~183 ciphers]
-  on fv-az1694-941:/home/testssl/bin/openssl.Linux.x86_64
+  on fv-az1979-498:/home/testssl/bin/openssl.Linux.x86_64
 
-<span style="color:white;background-color:black;"> Start 2025-04-27 00:47:55        --&gt;&gt; 51.159.10.161:443 (incubateur.anct.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Start 2025-04-29 11:21:27        --&gt;&gt; 51.159.10.161:443 (incubateur.anct.gouv.fr) &lt;&lt;--</span>
 
  rDNS (51.159.10.161):   51-159-10-161.lb.fr-par.scw.cloud.
  Service detected:       HTTP
@@ -104,17 +104,17 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Server key size              </span>RSA 2048 bits (exponent is 65537)
 <span style="font-weight:bold;"> Server key usage             </span>Digital Signature, Key Encipherment
 <span style="font-weight:bold;"> Server extended key usage    </span>TLS Web Server Authentication, TLS Web Client Authentication
-<span style="font-weight:bold;"> Serial                       </span>04D7B9931ADFE657C73E6D190BED98C3F814 (OK: length 18)
-<span style="font-weight:bold;"> Fingerprints                 </span>SHA1 4A6056B4BE23BEE83F05648929696F0AC6C0E849
-                              SHA256 A5AAB616718E584381160F12699CF0D37FF3E4E4442E5C70AF6628674FDD5755
+<span style="font-weight:bold;"> Serial                       </span>069D71BCCABFA52A735D1D92994919E7A71E (OK: length 18)
+<span style="font-weight:bold;"> Fingerprints                 </span>SHA1 61373C1561688F38DAD815B06E848FDC5C6F0A2F
+                              SHA256 1730A484F3139D7381D7AA877AF1C01497A4BDF6C512877CA13D78E8F88B54D9
 <span style="font-weight:bold;"> Common Name (CN)             </span><i>incubateur.anct.gouv.fr </i> (CN in response to request w/o SNI: <i>haproxy.gateway </i>)
 <span style="font-weight:bold;"> subjectAltName (SAN)         </span><i>incubateur.anct.gouv.fr </i>
 <span style="font-weight:bold;"> Trust (hostname)             </span><span style="color:#008817;">Ok via SAN and CN</span> (SNI mandatory)
 <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
 <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">32 &gt;= 30 days</span> (2025-02-28 01:54 --&gt; 2025-05-29 01:54)
+<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">89 &gt;= 30 days</span> (2025-04-29 00:56 --&gt; 2025-07-28 00:56)
 <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
-<span style="font-weight:bold;"> Certificate Revocation List  </span>--
+<span style="font-weight:bold;"> Certificate Revocation List  </span>http://r11.c.lencr.org/31.crl
 <span style="font-weight:bold;"> OCSP URI                     </span>http://r11.o.lencr.org
 <span style="font-weight:bold;"> OCSP stapling                </span><span style="color:#a86437;">not offered</span>
 <span style="font-weight:bold;"> OCSP must staple extension   </span>--
@@ -157,7 +157,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> FREAK</span> (CVE-2015-0204)                     <span style="color:#008817;font-weight:bold;">not vulnerable (OK)</span>
 <span style="font-weight:bold;"> DROWN</span> (CVE-2016-0800, CVE-2016-0703)      <span style="color:#008817;font-weight:bold;">not vulnerable on this host and port (OK)</span>
                                            make sure you don&apos;t use this certificate elsewhere with SSLv2 enabled services, see
-                                           <a href="https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=A5AAB616718E584381160F12699CF0D37FF3E4E4442E5C70AF6628674FDD5755" style="color:black;text-decoration:none;">https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=A5AAB616718E584381160F12699CF0D37FF3E4E4442E5C70AF6628674FDD5755</a>
+                                           <a href="https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=1730A484F3139D7381D7AA877AF1C01497A4BDF6C512877CA13D78E8F88B54D9" style="color:black;text-decoration:none;">https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=1730A484F3139D7381D7AA877AF1C01497A4BDF6C512877CA13D78E8F88B54D9</a>
 <span style="font-weight:bold;"> LOGJAM</span> (CVE-2015-4000), experimental      common prime with 2048 bits detected: <i>RFC7919/ffdhe2048</i> (<span style="color:#008817;">2048 bits</span>),
                                            but no DH EXPORT ciphers
 <span style="font-weight:bold;"> BEAST</span> (CVE-2011-3389)                     <span style="color:#008817;">not vulnerable (OK)</span>, no SSL3 or TLS1
@@ -216,7 +216,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Final Score                  </span>81
 <span style="font-weight:bold;"> Overall Grade                </span><span style="color:#008817;font-weight:bold;">A+</span>
 
-<span style="color:white;background-color:black;"> Done 2025-04-27 00:50:19 [ 147s] --&gt;&gt; 51.159.10.161:443 (incubateur.anct.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Done 2025-04-29 11:23:51 [ 146s] --&gt;&gt; 51.159.10.161:443 (incubateur.anct.gouv.fr) &lt;&lt;--</span>
 
 
 </pre>
