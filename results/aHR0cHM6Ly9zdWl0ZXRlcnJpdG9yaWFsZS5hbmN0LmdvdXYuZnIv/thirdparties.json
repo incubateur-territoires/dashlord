@@ -1,15 +1,46 @@
 {
   "trackers": [],
-  "cookies": [],
+  "cookies": [
+    {
+      "name": "_pk_ses.18.3071",
+      "value": "1",
+      "domain": "suiteterritoriale.anct.gouv.fr",
+      "path": "/",
+      "expires": 1745931788,
+      "size": 16,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "priority": "Medium",
+      "sameParty": false,
+      "sourceScheme": "Secure"
+    },
+    {
+      "name": "_pk_id.18.3071",
+      "value": "bad8566cc3dff8cb.1745929988.",
+      "domain": "suiteterritoriale.anct.gouv.fr",
+      "path": "/",
+      "expires": 1779885188,
+      "size": 42,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "priority": "Medium",
+      "sameParty": false,
+      "sourceScheme": "Secure"
+    }
+  ],
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 27 Apr 2025 01:58:52 GMT",
-    "etag": "\"144y9ivjnkd63m0\"",
+    "date": "Tue, 29 Apr 2025 12:33:06 GMT",
+    "etag": "\"eyrbq4udip63m0\"",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
-    "x-request-id": "43dd0702-eb1e-4ef7-a285-e42a0e5d25c8"
+    "x-request-id": "472498d6-4b7f-4066-a8d2-0e5c953fa5bd"
   },
   "endpoints": [
     {
