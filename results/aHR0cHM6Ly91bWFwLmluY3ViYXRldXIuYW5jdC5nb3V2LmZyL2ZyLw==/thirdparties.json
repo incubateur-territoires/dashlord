@@ -26,11 +26,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://www.sig.sarzeau.fr/Symbole/osteopathe.JPG"
+      "url": "https://www.sig.sarzeau.fr/Symbole/physiotherapist.JPG"
     },
     {
       "type": "unknown",
-      "url": "https://www.sig.sarzeau.fr/Symbole/physiotherapist.JPG"
+      "url": "https://www.sig.sarzeau.fr/Symbole/osteopathe.JPG"
     }
   ],
   "cookies": [
@@ -39,7 +39,7 @@
       "value": "1",
       "domain": "umap.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1745928977,
+      "expires": 1746322928,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -51,10 +51,10 @@
     },
     {
       "name": "_pk_id.35.8651",
-      "value": "b9fc87abdb867e36.1745927178.",
+      "value": "fbb50b3504a702f9.1746321129.",
       "domain": "umap.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1779882378,
+      "expires": 1780276329,
       "size": 42,
       "httpOnly": false,
       "secure": false,
