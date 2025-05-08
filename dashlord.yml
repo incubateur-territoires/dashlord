@@ -111,3 +111,7 @@ urls:
     betaId: suite.territoriale
     repositories:
       - https://github.com/suitenumerique/st-home
+  - url: https://monespacecollectivite.anct.gouv.fr/
+    betaId: mon.espace.collectivite
+    repositories:
+      - https://gitlab.com/incubateur-territoires/startups/mon-espace-collectivite/mon-espace-collectivite
