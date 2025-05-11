@@ -55,7 +55,7 @@
       "value": "1",
       "domain": "cartographie.societenumerique.gouv.fr",
       "path": "/",
-      "expires": 1746323530,
+      "expires": 1746928300,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -67,10 +67,10 @@
     },
     {
       "name": "_pk_id.277.9ac4",
-      "value": "ff6ae041fe84012c.1746321731.",
+      "value": "db8b1b9d7e50dd53.1746926501.",
       "domain": "cartographie.societenumerique.gouv.fr",
       "path": "/",
-      "expires": 1780276931,
+      "expires": 1780881701,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -82,21 +82,21 @@
     }
   ],
   "headers": {
-    "age": "466",
+    "age": "962",
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self' data: https://*.gouv.fr https://openmaptiles.github.io ; font-src 'self' https://cdn.jsdelivr.net; img-src 'self' data: https://*.gouv.fr; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.gouv.fr blob:; style-src 'self' 'unsafe-inline';",
     "content-type": "text/html",
-    "date": "Sun, 04 May 2025 01:14:24 GMT",
-    "etag": "W/\"e181629807d0ce61ef1683ce8423f157\"",
-    "last-modified": "Thu, 17 Apr 2025 22:51:27 GMT",
+    "date": "Sun, 11 May 2025 01:05:39 GMT",
+    "etag": "W/\"81379ebabf8c12c2317adc7387f844c7\"",
+    "last-modified": "Wed, 07 May 2025 14:21:41 GMT",
     "permissions-policy": "accelerometer=(), camera=(), geolocation=(self), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
     "referrer-policy": "same-origin",
     "server": "AmazonS3",
     "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
     "vary": "accept-encoding",
-    "via": "1.1 e95a2739c3391d00668b8e26553ec43e.cloudfront.net (CloudFront)",
-    "x-amz-cf-id": "ROFDcjlxZ8XWQxHD7X5-d3l1_vs9bGo0iT-lGRcF47orjrUSXzsY7g==",
-    "x-amz-cf-pop": "LAX53-P2",
+    "via": "1.1 43f27522b495b3528b34cc370e352bba.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "yAA61Ytc0yro_2qalyptokFOC0mg7feUaojcZyGoM7dRSFBVU9fc8Q==",
+    "x-amz-cf-pop": "IAD61-P6",
     "x-amz-server-side-encryption": "AES256",
     "x-cache": "Error from cloudfront",
     "x-content-type-options": "nosniff",
@@ -106,7 +106,7 @@
   "endpoints": [
     {
       "hostname": "cartographie.societenumerique.gouv.fr",
-      "ip": "13.33.21.8",
+      "ip": "18.164.96.58",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -160,7 +160,7 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.16.175.226",
+      "ip": "104.16.174.226",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
