@@ -14,7 +14,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://stats.recoconseil.fr/matomo.php?action_name=Accompagnement%20multith%C3%A9matiques%20-%20Mon%20Espace%20Collectivit%C3%A9&idsite=3&rec=1&r=730455&h=1&m=6&s=21&url=https%3A%2F%2Fmonespacecollectivite.incubateur.anct.gouv.fr%2F&_id=f68527f0678eb8ba&_idn=1&send_image=0&_refts=0&pv_id=f7DCsE&pf_net=393&pf_srv=260&pf_tfr=91&pf_dm1=964&uadata=%7B%22formFactors%22%3A%5B%22Desktop%22%5D%2C%22fullVersionList%22%3A%5B%7B%22brand%22%3A%22Not.A%2FBrand%22%2C%22version%22%3A%2299.0.0.0%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22136.0.7103.49%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22Linux%22%2C%22platformVersion%22%3A%226.11.0%22%7D&pdf=1&qt=0&realp=0&wma=0&fla=0&java=0&ag=0&cookie=1&res=800x600"
+      "url": "https://browser.sentry-cdn.com/7.120.3/bundle.tracing.replay.min.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://stats.recoconseil.fr/matomo.php?action_name=Accompagnement%20multith%C3%A9matiques%20-%20Mon%20Espace%20Collectivit%C3%A9&idsite=3&rec=1&r=421850&h=1&m=7&s=26&url=https%3A%2F%2Fmonespacecollectivite.incubateur.anct.gouv.fr%2F&_id=5641567c2b2d18f7&_idn=1&send_image=0&_refts=0&pv_id=u8ia0C&pf_net=362&pf_srv=192&pf_tfr=83&pf_dm1=903&uadata=%7B%22formFactors%22%3A%5B%22Desktop%22%5D%2C%22fullVersionList%22%3A%5B%7B%22brand%22%3A%22Not.A%2FBrand%22%2C%22version%22%3A%2299.0.0.0%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22136.0.7103.92%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22Linux%22%2C%22platformVersion%22%3A%226.11.0%22%7D&pdf=1&qt=0&realp=0&wma=0&fla=0&java=0&ag=0&cookie=1&res=800x600"
     }
   ],
   "cookies": [
@@ -23,7 +27,7 @@
       "value": "1",
       "domain": "monespacecollectivite.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1746322581,
+      "expires": 1746927446,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -35,10 +39,10 @@
     },
     {
       "name": "_pk_id.3.29ea",
-      "value": "f68527f0678eb8ba.1746320782.",
+      "value": "5641567c2b2d18f7.1746925646.",
       "domain": "monespacecollectivite.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1780275982,
+      "expires": 1780880846,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -50,10 +54,10 @@
     },
     {
       "name": "csrftoken",
-      "value": "GH0ma4BYG9xzoGiD2bJ2vhW5HT2aXFqT",
+      "value": "u6KcVCBtCnRTt6SyJ5dzzbwEFd5iWOKt",
       "domain": "monespacecollectivite.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1777770380.787392,
+      "expires": 1778375245.000074,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -65,12 +69,12 @@
     }
   ],
   "headers": {
-    "content-length": "27115",
+    "content-length": "26992",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 04 May 2025 01:06:20 GMT",
+    "date": "Sun, 11 May 2025 01:07:24 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=GH0ma4BYG9xzoGiD2bJ2vhW5HT2aXFqT; expires=Sun, 03 May 2026 01:06:20 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
+    "set-cookie": "csrftoken=u6KcVCBtCnRTt6SyJ5dzzbwEFd5iWOKt; expires=Sun, 10 May 2026 01:07:24 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Cookie",
     "via": "2.0 alproxy",
@@ -208,6 +212,93 @@
             "zh-CN": "法国"
           }
         }
+      }
+    },
+    {
+      "hostname": "browser.sentry-cdn.com",
+      "ip": "151.101.194.217",
+      "geoip": {
+        "city": {
+          "geoname_id": 5391959,
+          "names": {
+            "de": "San Francisco",
+            "en": "San Francisco",
+            "es": "San Francisco",
+            "fr": "San Francisco",
+            "ja": "サンフランシスコ",
+            "pt-BR": "São Francisco",
+            "ru": "Сан-Франциско",
+            "zh-CN": "旧金山"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.7642,
+          "longitude": -122.3993,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
+        },
+        "postal": {
+          "code": "94107"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5332921,
+            "iso_code": "CA",
+            "names": {
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
+            }
+          }
+        ]
       }
     }
   ]
