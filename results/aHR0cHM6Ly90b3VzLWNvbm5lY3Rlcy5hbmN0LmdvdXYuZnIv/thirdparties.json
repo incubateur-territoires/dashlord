@@ -27,7 +27,7 @@
     },
     {
       "name": "__Host-next-auth.csrf-token",
-      "value": "3e1b7f1d6b46d3e37f07c8ccd6d6d1d0f599b0ca2b15d8f9e76649e09baa4208%7C9d3fab82f4a46f070d2249472d1f1ef684490c73134dd491543910f1b1138845",
+      "value": "9476cdcd99d6b01eebbb57c96414a82e2e9bc26f45a9a3c07ed44761d78265bf%7C4dca2a8fb7a1771f054096f8dad103e9d3974c7d7ef7b4ba782fafed593949cd",
       "domain": "tous-connectes.anct.gouv.fr",
       "path": "/",
       "expires": -1,
@@ -45,12 +45,12 @@
     "cache-control": "s-maxage=31536000, stale-while-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 04 May 2025 01:45:59 GMT",
-    "etag": "\"9l2lu4yczb2gzm\"",
+    "date": "Sun, 11 May 2025 01:47:14 GMT",
+    "etag": "\"6csmpu2rjk2iam\"",
     "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
     "x-nextjs-cache": "HIT",
     "x-powered-by": "Next.js",
-    "x-request-id": "6792f697-976f-4e39-a8c0-c7e48a7f8337"
+    "x-request-id": "2096fc0a-4f41-4d71-bd1d-44cd3282c6ff"
   },
   "endpoints": [
     {
