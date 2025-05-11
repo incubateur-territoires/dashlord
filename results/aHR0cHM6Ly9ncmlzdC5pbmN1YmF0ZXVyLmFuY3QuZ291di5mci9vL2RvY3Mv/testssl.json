@@ -346,7 +346,7 @@
               "ip"           : "grist.incubateur.anct.gouv.fr/142.44.53.109",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "52 >= 30 days"
+              "finding"      : "45 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,7 +507,7 @@
               "ip"           : "grist.incubateur.anct.gouv.fr/142.44.53.109",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1746323619"
+              "finding"      : "1746928452"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -807,6 +807,13 @@
               "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
           }
 ,         {
+              "id"           : "clientsimulation-android_15",
+              "ip"           : "grist.incubateur.anct.gouv.fr/142.44.53.109",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
+          }
+,         {
               "id"           : "clientsimulation-chrome_101_win10",
               "ip"           : "grist.incubateur.anct.gouv.fr/142.44.53.109",
               "port"         : "443",
@@ -1077,6 +1084,6 @@
               "ip"           : "grist.incubateur.anct.gouv.fr/142.44.53.109",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "54"
+              "finding"      : "49"
           }
 ]
