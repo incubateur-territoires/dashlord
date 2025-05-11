@@ -4,7 +4,7 @@
   "attributes": {
     "name": "L'Annuaire des collectivités",
     "pitch": "Offrir une page web à chaque commune de France",
-    "stats_url": "https://collectivite.fr//stats",
+    "stats_url": "https://collectivite.fr/stats",
     "link": "https://collectivite.fr/",
     "repository": "https://gitlab.com/incubateur-territoires/startups/annuaire-des-collectivites",
     "contact": "contact@collectivite.fr",
@@ -34,6 +34,7 @@
     "thematiques": [
       "Collectivités"
     ],
+    "analyse_risques": "true",
     "dashlord_url": "https://dashlord.incubateur.net/tag/anct/",
     "accessibility_status": "partiellement conforme"
   },
