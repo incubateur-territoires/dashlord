@@ -9,11 +9,11 @@
     "testsPassed": 10,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 11 May 2025 01:36:52 GMT",
+      "date": "Wed, 14 May 2025 08:29:13 GMT",
       "content-type": "text/html;charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "75152591-43e7-40dd-80d9-3534b0a33cf1",
+      "x-request-id": "c0112f45-dc7c-454a-96fd-21192379b773",
       "referrer-policy": "no-referrer",
       "strict-transport-security": "max-age=15552000; includeSubDomains;",
       "x-content-type-options": "nosniff",
@@ -25,7 +25,7 @@
       "access-control-allow-origin": "*",
       "cross-origin-resource-policy": "same-origin",
       "cross-origin-opener-policy": "same-origin",
-      "content-security-policy": "base-uri 'none'; font-src 'self' https: data:; form-action 'self'; frame-ancestors 'self'; img-src 'self' data:; object-src 'none'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; script-src 'self' https: 'unsafe-inline' 'strict-dynamic' 'nonce-SSWiU0DP1x4Q/pwE+mMdn9LQ'; upgrade-insecure-requests; connect-src 'self' https://api-adresse.data.gouv.fr https://geo.api.gouv.fr https://matomo.dev.incubateur.anct.gouv.fr https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.net https://conversations-widget.brevo.com/;",
+      "content-security-policy": "base-uri 'none'; font-src 'self' https: data:; form-action 'self'; frame-ancestors 'self'; img-src 'self' data:; object-src 'none'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; script-src 'self' https: 'unsafe-inline' 'strict-dynamic' 'nonce-x8Z6845nI/lxIY3HdvAVKgEL'; upgrade-insecure-requests; connect-src 'self' https://api-adresse.data.gouv.fr https://geo.api.gouv.fr https://matomo.dev.incubateur.anct.gouv.fr https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.net https://conversations-widget.brevo.com/;",
       "origin-agent-cluster": "?1",
       "x-dns-prefetch-control": "off",
       "permissions-policy": "camera=(), display-capture=(), fullscreen=(), geolocation=(), microphone=()"
@@ -68,7 +68,7 @@
           "https:"
         ],
         "script-src": [
-          "'nonce-sswiu0dp1x4q/pwe+mmdn9lq'",
+          "'nonce-x8z6845ni/lxiy3hdvavkgel'",
           "'strict-dynamic'"
         ],
         "upgrade-insecure-requests": [
