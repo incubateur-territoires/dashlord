@@ -27,10 +27,6 @@
     {
       "type": "unknown",
       "url": "https://sentry.anct.cloud-ed.fr/api/10/envelope/?sentry_key=1617453a3c8412511a677cb699a44f5c&sentry_version=7&sentry_client=sentry.javascript.astro%2F8.34.0"
-    },
-    {
-      "type": "unknown",
-      "url": "https://sentry.anct.cloud-ed.fr/api/10/envelope/?sentry_key=1617453a3c8412511a677cb699a44f5c&sentry_version=7&sentry_client=sentry.javascript.astro%2F8.34.0"
     }
   ],
   "cookies": [
@@ -39,7 +35,7 @@
       "value": "1",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1746926111,
+      "expires": 1747210175,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -51,10 +47,10 @@
     },
     {
       "name": "_pk_id.118.88ba",
-      "value": "d720b652bc1a3bca.1746924312.",
+      "value": "b83856c15c9e834c.1747208375.",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1780879512,
+      "expires": 1781163575,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -68,14 +64,14 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 11 May 2025 00:45:09 GMT",
+    "date": "Wed, 14 May 2025 07:39:34 GMT",
     "x-frame-options": "DENY",
-    "x-request-id": "8a8bb304-481e-4030-9f16-7277265f04da"
+    "x-request-id": "3ba113a8-9899-4822-882d-4d2744384587"
   },
   "endpoints": [
     {
       "hostname": "collectivite.fr",
-      "ip": "80.247.12.255",
+      "ip": "185.21.194.105",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -131,7 +127,7 @@
     },
     {
       "hostname": "annuaire-des-collectivites-production-storage.s3.fr-par.scw.cloud",
-      "ip": "51.159.62.19",
+      "ip": "51.159.62.18",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
