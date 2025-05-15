@@ -115,3 +115,7 @@ urls:
     betaId: mon.espace.collectivite
     repositories:
       - https://gitlab.com/incubateur-territoires/startups/mon-espace-collectivite/mon-espace-collectivite
+  - url: https://aides-territoires.beta.gouv.fr/
+    betaId: aides.territoires
+    repositories:
+      - https://gitlab.com/incubateur-territoires/startups/mon-espace-collectivite/aides-territoires
