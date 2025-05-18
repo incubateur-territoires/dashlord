@@ -9,9 +9,9 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Wed, 14 May 2025 08:45:19 GMT",
+      "date": "Sun, 18 May 2025 01:54:27 GMT",
       "content-type": "text/html; charset=utf-8",
-      "content-length": "5984",
+      "content-length": "5983",
       "connection": "close",
       "x-frame-options": "SAMEORIGIN",
       "x-xss-protection": "0",
@@ -21,15 +21,15 @@
       "referrer-policy": "strict-origin-when-cross-origin",
       "link": "</packs/css/application-1b36d1b4.css>; rel=preload; as=style; nopush",
       "vary": "Accept-Encoding",
-      "etag": "W/\"4917d2001934144d0c39fec26192debd\"",
+      "etag": "W/\"ff4df10bf86cabc3a2ad5217c1f91d6c\"",
       "cache-control": "max-age=0, private, must-revalidate",
       "set-cookie": [
-        "_monstage_session=gIl9fZdhuzrItZrVBxFzQT3JuvYN57Sib4bJ4HKHUfdpgYSZwM%2FlJbFQvgMxfZlG%2FzgK4LZ3ZWxjyfXhABt4qdDZIkXpwfbWQltl5k%2FXwMgthtiw87KprtOD7njgcCYWvS8acL6Hlj%2BkE6JUhoRlxVJxpmfPUichFhd7N1QerrYI78vvRSktO0PWpta%2FwAp0uKWBWR%2F3mFgjlmAg1QjvZcWklB%2BwP7P51ui3deVxQD7K5IiAtgCxmpz0PbOephfeDV6ZvXhbmlK0UUgjHZGRDZA76Gb1dd5Syw%3D%3D--tDDso%2FUtFc0RU5cN--i5uMVhSORyGVzrmPEoDNbA%3D%3D; path=/; secure; HttpOnly; SameSite=Lax"
+        "_monstage_session=YeYw70E%2FR03hHH1sm4tmkLgKKfklWFpAMIQ4jNjXKVPR90hDw4dQqOENMmIS4ay0TCWAsnaTGQdlzd727wltDMqArV6xAgd5v3fyul%2BrTOYOwPN7u2I3YRa7sflazb19iDyho30TEV%2B99rE7T93jnrR8E11YPNWR1b4EfOvYAOgxXMhORVZfHDWvbtC%2BFYPxS818mnnEnSNt4N5Fsa0Sbrc3mOBiBsmimxYmlJptaUx70%2F9zYRi0u1Jnx%2FFr1uqCeSsnEnIRDYxenM9quOGGp06qdkgx04QmxA%3D%3D--GeuNrDz4v513j1FZ--qTZMFA92u595Lk3qTpnYNA%3D%3D; path=/; secure; HttpOnly; SameSite=Lax"
       ],
-      "x-request-id": "a403fb66-ad6f-493c-ad16-498d91e63d25",
-      "x-runtime": "0.007378",
+      "x-request-id": "688bba57-47fe-4a14-93fd-2ca0d9322ebe",
+      "x-runtime": "0.006778",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
-      "sozu-id": "01JV6ZGES4P7Y5E20S69E5QZ10"
+      "sozu-id": "01JVGHK00RM120NFR0G3YGY07Z"
     }
   },
   "tests": {
