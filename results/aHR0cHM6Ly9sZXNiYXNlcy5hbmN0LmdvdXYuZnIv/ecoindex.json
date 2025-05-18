@@ -3,15 +3,15 @@
         "width": 1920,
         "height": 1080,
         "url": "https://lesbases.anct.gouv.fr/",
-        "size": 1975.445,
-        "nodes": 611,
-        "requests": 76,
-        "grade": "D",
-        "score": 48.0,
-        "ges": 2.04,
-        "water": 3.06,
+        "size": 2305.28,
+        "nodes": 605,
+        "requests": 123,
+        "grade": "E",
+        "score": 40.0,
+        "ges": 2.2,
+        "water": 3.3,
         "ecoindex_version": "5.4.2",
-        "date": "2025-05-14 08:21:33.329771",
+        "date": "2025-05-18 01:33:04.057077",
         "page_type": null
     }
 ]
