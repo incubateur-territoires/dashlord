@@ -10,16 +10,17 @@
     "testsQuantity": 10,
     "responseHeaders": {
       "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
-      "content-security-policy": "default-src 'self' https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.net; script-src 'self' https://matomo.incubateur.anct.gouv.fr 'unsafe-inline' 'unsafe-eval'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; img-src 'self' data: *; frame-src https://www.youtube-nocookie.com/; object-src 'none'; connect-src 'self' https://coop-mediation-numerique-uploads-main.s3.fr-par.scw.cloud https://auth.agentconnect.gouv.fr https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.net https://openmaptiles.geo.data.gouv.fr https://openmaptiles.github.io https://aides-territoires.beta.gouv.fr https://recherche-entreprises.api.gouv.fr https://api-adresse.data.gouv.fr https://dev.coop-mediation-numerique.incubateur.anct.gouv.fr https://coop-numerique.anct.gouv.fr; worker-src 'self' blob:; font-src 'self' https: data:; frame-ancestors 'self' https://matomo.incubateur.anct.gouv.fr; form-action 'self'; base-uri 'self'; upgrade-insecure-requests true;",
+      "content-security-policy": "default-src 'self' https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.net; script-src 'self' https://matomo.incubateur.anct.gouv.fr https://cdn.jsdelivr.net/npm/@scalar/api-reference 'unsafe-inline' 'unsafe-eval'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; img-src 'self' data: *; frame-src https://www.youtube-nocookie.com/; object-src 'none'; connect-src 'self' https://coop-mediation-numerique-uploads-main.s3.fr-par.scw.cloud https://auth.agentconnect.gouv.fr https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.net https://openmaptiles.geo.data.gouv.fr https://openmaptiles.github.io https://aides-territoires.beta.gouv.fr https://recherche-entreprises.api.gouv.fr https://api-adresse.data.gouv.fr https://dev.coop-mediation-numerique.incubateur.anct.gouv.fr https://coop-numerique.anct.gouv.fr; worker-src 'self' blob:; font-src 'self' https: data:; frame-ancestors 'self' https://matomo.incubateur.anct.gouv.fr; form-action 'self'; base-uri 'self'; upgrade-insecure-requests true;",
       "content-type": "text/html; charset=utf-8",
-      "date": "Sun, 18 May 2025 01:39:41 GMT",
+      "date": "Sun, 25 May 2025 01:36:36 GMT",
+      "link": "</dsfr/fonts/Marianne-Regular.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </dsfr/fonts/Marianne-Bold.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </dsfr/fonts/Marianne-Medium.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </images/logo-anct.svg>; rel=preload; as=\"image\"",
       "strict-transport-security": "max-age=63072000",
-      "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
+      "vary": "Accept-Encoding",
       "x-content-type-options": "nosniff",
       "x-frame-options": "DENY",
       "x-powered-by": "Next.js",
       "x-xss-protection": "1; mode=block",
-      "x-envoy-upstream-service-time": "102",
+      "x-envoy-upstream-service-time": "131",
       "server": "envoy",
       "connection": "close",
       "transfer-encoding": "chunked"
@@ -41,6 +42,7 @@
           "'self'",
           "'unsafe-eval'",
           "'unsafe-inline'",
+          "https://cdn.jsdelivr.net/npm/@scalar/api-reference",
           "https://matomo.incubateur.anct.gouv.fr"
         ],
         "script-src-attr": [
