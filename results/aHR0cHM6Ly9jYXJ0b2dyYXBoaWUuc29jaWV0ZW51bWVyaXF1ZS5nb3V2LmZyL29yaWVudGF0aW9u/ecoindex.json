@@ -3,15 +3,15 @@
         "width": 1920,
         "height": 1080,
         "url": "https://cartographie.societenumerique.gouv.fr/orientation",
-        "size": 15075.892,
+        "size": 1590.02,
         "nodes": 248,
         "requests": 24,
-        "grade": "C",
-        "score": 69.0,
-        "ges": 1.62,
-        "water": 2.43,
+        "grade": "B",
+        "score": 76.0,
+        "ges": 1.48,
+        "water": 2.22,
         "ecoindex_version": "5.4.2",
-        "date": "2025-05-18 01:22:28.951571",
+        "date": "2025-05-25 01:22:28.462912",
         "page_type": null
     }
 ]
