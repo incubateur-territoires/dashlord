@@ -4,7 +4,7 @@
   "attributes": {
     "name": "La coop de la médiation numérique",
     "pitch": "Faciliter l'accompagnement des éloignées du numérique.",
-    "stats_url": "",
+    "stats_url": "https://coop-numerique.anct.gouv.fr/statistiques",
     "budget_url": "https://coop-numerique.anct.gouv.fr/budget",
     "link": "https://coop-numerique.anct.gouv.fr/",
     "repository": "https://github.com/inclusion-numerique/coop-mediation-numerique",
