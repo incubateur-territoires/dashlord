@@ -9,11 +9,11 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 25 May 2025 01:51:50 GMT",
+      "date": "Sun, 01 Jun 2025 01:58:19 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "4a2a57a3-aba2-432f-a245-617d0bb9cc4b",
+      "x-request-id": "e6c3313f-6d58-4c84-a2d1-fea62a5381a8",
       "content-security-policy": "default-src 'self'; frame-src 'self' https://tube.numerique.gouv.fr; frame-ancestors 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' blob:; worker-src 'self' blob:; connect-src *; img-src * blob: data:; style-src 'self' 'unsafe-inline'; font-src 'self' data:; form-action 'self'; base-uri 'self'",
       "referrer-policy": "strict-origin-when-cross-origin",
       "x-content-type-options": "nosniff",
