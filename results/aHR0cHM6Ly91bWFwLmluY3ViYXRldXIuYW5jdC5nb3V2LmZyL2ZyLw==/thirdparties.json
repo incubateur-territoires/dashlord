@@ -18,11 +18,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://overpass-api.de/api/interpreter?data=[out:json][timeout:25];area(id:3612915832)-%3E.searchArea;nwr[%22healthcare:speciality%22=%22hypnosis%22](area.searchArea);out%20geom;"
+      "url": "https://overpass-api.de/api/interpreter?data=[out:json][timeout:25];area(id:3612915832)-%3E.searchArea;nwr[%22healthcare:speciality%22=%22osteopathy%22](area.searchArea);out%20geom;"
     },
     {
       "type": "unknown",
-      "url": "https://overpass-api.de/api/interpreter?data=[out:json][timeout:25];area(id:3612915832)-%3E.searchArea;nwr[%22healthcare:speciality%22=%22osteopathy%22](area.searchArea);out%20geom;"
+      "url": "https://overpass-api.de/api/interpreter?data=[out:json][timeout:25];area(id:3612915832)-%3E.searchArea;nwr[%22healthcare:speciality%22=%22hypnosis%22](area.searchArea);out%20geom;"
     },
     {
       "type": "unknown",
@@ -39,7 +39,7 @@
       "value": "1",
       "domain": "umap.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1748742597,
+      "expires": 1749212970,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -51,10 +51,10 @@
     },
     {
       "name": "_pk_id.35.8651",
-      "value": "57c177149a620cd4.1748740798.",
+      "value": "dafb29a9c8301e95.1749211170.",
       "domain": "umap.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1782695998,
+      "expires": 1783166370,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -66,30 +66,18 @@
     }
   ],
   "headers": {
+    "content-encoding": "br",
     "content-language": "fr",
-    "content-length": "86953",
     "content-type": "text/html; charset=utf-8",
-    "referrer-policy": "same-origin",
-    "vary": "Cookie"
+    "date": "Fri, 06 Jun 2025 11:59:28 GMT",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "vary": "Accept-Encoding\nCookie"
   },
   "endpoints": [
     {
       "hostname": "umap.incubateur.anct.gouv.fr",
-      "ip": "51.159.10.161",
+      "ip": "142.44.53.109",
       "geoip": {
-        "city": {
-          "geoname_id": 2988507,
-          "names": {
-            "de": "Paris",
-            "en": "Paris",
-            "es": "París",
-            "fr": "Paris",
-            "ja": "パリ",
-            "pt-BR": "Paris",
-            "ru": "Париж",
-            "zh-CN": "巴黎"
-          }
-        },
         "continent": {
           "code": "EU",
           "geoname_id": 6255148,
@@ -121,12 +109,9 @@
         },
         "location": {
           "accuracy_radius": 500,
-          "latitude": 48.8558,
-          "longitude": 2.3494,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
           "time_zone": "Europe/Paris"
-        },
-        "postal": {
-          "code": "75001"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -142,33 +127,7 @@
             "ru": "Франция",
             "zh-CN": "法国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 3012874,
-            "iso_code": "IDF",
-            "names": {
-              "de": "Île-de-France",
-              "en": "Île-de-France",
-              "es": "Isla de Francia",
-              "fr": "Île-de-France",
-              "ja": "イル・ド・フランス",
-              "pt-BR": "Ilha de França",
-              "ru": "Иль-де-Франс",
-              "zh-CN": "法兰西岛"
-            }
-          },
-          {
-            "geoname_id": 2968815,
-            "iso_code": "75",
-            "names": {
-              "de": "Paris",
-              "en": "Paris",
-              "es": "Paris",
-              "fr": "Paris"
-            }
-          }
-        ]
+        }
       }
     },
     {

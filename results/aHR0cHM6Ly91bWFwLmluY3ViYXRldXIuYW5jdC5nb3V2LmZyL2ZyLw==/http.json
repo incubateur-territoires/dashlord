@@ -1,20 +1,21 @@
 {
   "scan": {
     "algorithmVersion": 4,
-    "grade": "D",
+    "grade": "C",
     "error": null,
-    "score": 30,
+    "score": 50,
     "statusCode": 200,
-    "testsFailed": 4,
-    "testsPassed": 6,
+    "testsFailed": 3,
+    "testsPassed": 7,
     "testsQuantity": 10,
     "responseHeaders": {
+      "date": "Fri, 06 Jun 2025 12:04:43 GMT",
       "content-type": "text/html; charset=utf-8",
-      "content-length": "86953",
+      "transfer-encoding": "chunked",
+      "connection": "close",
+      "vary": "Accept-Encoding, Cookie",
       "content-language": "fr",
-      "vary": "Cookie",
-      "referrer-policy": "same-origin",
-      "connection": "close"
+      "strict-transport-security": "max-age=31536000; includeSubDomains"
     }
   },
   "tests": {
@@ -53,6 +54,7 @@
       "redirects": true,
       "route": [
         "http://umap.incubateur.anct.gouv.fr/fr/",
+        "https://umap.incubateur.anct.gouv.fr/fr",
         "https://umap.incubateur.anct.gouv.fr/fr/"
       ],
       "statusCode": 200
@@ -60,20 +62,20 @@
     "referrer-policy": {
       "expectation": "referrer-policy-private",
       "pass": true,
-      "result": "referrer-policy-private",
-      "scoreModifier": 5,
-      "data": "same-origin",
-      "http": true,
+      "result": "referrer-policy-not-implemented",
+      "scoreModifier": 0,
+      "data": null,
+      "http": false,
       "meta": false
     },
     "strict-transport-security": {
       "expectation": "hsts-implemented-max-age-at-least-six-months",
-      "pass": false,
-      "result": "hsts-not-implemented",
-      "scoreModifier": -20,
-      "data": null,
-      "includeSubDomains": false,
-      "maxAge": null,
+      "pass": true,
+      "result": "hsts-implemented-max-age-at-least-six-months",
+      "scoreModifier": 0,
+      "data": "max-age=31536000; includeSubDomains",
+      "includeSubDomains": true,
+      "maxAge": 31536000,
       "preload": false,
       "preloaded": false
     },
