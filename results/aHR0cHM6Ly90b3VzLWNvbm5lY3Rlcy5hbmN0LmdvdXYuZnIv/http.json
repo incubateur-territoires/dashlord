@@ -9,12 +9,12 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 01 Jun 2025 01:58:19 GMT",
+      "date": "Fri, 06 Jun 2025 12:33:06 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "e6c3313f-6d58-4c84-a2d1-fea62a5381a8",
-      "content-security-policy": "default-src 'self'; frame-src 'self' https://tube.numerique.gouv.fr; frame-ancestors 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' blob:; worker-src 'self' blob:; connect-src *; img-src * blob: data:; style-src 'self' 'unsafe-inline'; font-src 'self' data:; form-action 'self'; base-uri 'self'",
+      "x-request-id": "b395e109-2d5a-474f-a698-9d1f84078aac",
+      "content-security-policy": "default-src 'self'; frame-src 'self' https://tube.numerique.gouv.fr https://toutes-tous-connectes-metabase.osc-secnum-fr1.scalingo.io; frame-ancestors 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' blob: https://matomo.incubateur.anct.gouv.fr; worker-src 'self' blob:; connect-src *; img-src * blob: data:; style-src 'self' 'unsafe-inline'; font-src 'self' data:; form-action 'self'; base-uri 'self'",
       "referrer-policy": "strict-origin-when-cross-origin",
       "x-content-type-options": "nosniff",
       "x-frame-options": "SAMEORIGIN",
@@ -22,7 +22,7 @@
       "x-nextjs-cache": "HIT",
       "x-powered-by": "Next.js",
       "cache-control": "s-maxage=31536000, stale-while-revalidate",
-      "etag": "\"lewj7ucdp72iam\"",
+      "etag": "\"12e919edtpb2iam\"",
       "strict-transport-security": "max-age=31536000"
     }
   },
@@ -38,6 +38,7 @@
         ],
         "frame-src": [
           "'self'",
+          "https://toutes-tous-connectes-metabase.osc-secnum-fr1.scalingo.io",
           "https://tube.numerique.gouv.fr"
         ],
         "frame-ancestors": [
@@ -47,7 +48,8 @@
           "'self'",
           "'unsafe-eval'",
           "'unsafe-inline'",
-          "blob:"
+          "blob:",
+          "https://matomo.incubateur.anct.gouv.fr"
         ],
         "worker-src": [
           "'self'",

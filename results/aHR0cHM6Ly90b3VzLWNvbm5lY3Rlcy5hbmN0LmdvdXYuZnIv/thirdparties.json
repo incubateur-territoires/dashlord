@@ -9,14 +9,45 @@
       "url": "https://sentry.anct.cloud-ed.fr/api/7/envelope/?sentry_version=7&sentry_key=78a1b78e61aeaae9211b3d50ee2f71fa&sentry_client=sentry.javascript.nextjs%2F8.55.0"
     }
   ],
-  "cookies": [],
+  "cookies": [
+    {
+      "name": "__Secure-next-auth.callback-url",
+      "value": "https%3A%2F%2Ftous-connectes.anct.gouv.fr%2Ftelephonie-mobile%2Fcarte",
+      "domain": "tous-connectes.anct.gouv.fr",
+      "path": "/",
+      "expires": -1,
+      "size": 100,
+      "httpOnly": true,
+      "secure": true,
+      "session": true,
+      "sameSite": "Lax",
+      "priority": "Medium",
+      "sameParty": false,
+      "sourceScheme": "Secure"
+    },
+    {
+      "name": "__Host-next-auth.csrf-token",
+      "value": "d0fed63eea92bf6c56a7a9fd14bad318b009319228abe35b4d9a369fa2bdc224%7Ca41bfd6d5d6fba78e329599bc7d31438b749a0f28290caaba1558d24dc9e9f7d",
+      "domain": "tous-connectes.anct.gouv.fr",
+      "path": "/",
+      "expires": -1,
+      "size": 158,
+      "httpOnly": true,
+      "secure": true,
+      "session": true,
+      "sameSite": "Lax",
+      "priority": "Medium",
+      "sameParty": false,
+      "sourceScheme": "Secure"
+    }
+  ],
   "headers": {
     "cache-control": "s-maxage=31536000, stale-while-revalidate",
     "content-encoding": "gzip",
-    "content-security-policy": "default-src 'self'; frame-src 'self' https://tube.numerique.gouv.fr; frame-ancestors 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' blob:; worker-src 'self' blob:; connect-src *; img-src * blob: data:; style-src 'self' 'unsafe-inline'; font-src 'self' data:; form-action 'self'; base-uri 'self'",
+    "content-security-policy": "default-src 'self'; frame-src 'self' https://tube.numerique.gouv.fr https://toutes-tous-connectes-metabase.osc-secnum-fr1.scalingo.io; frame-ancestors 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' blob: https://matomo.incubateur.anct.gouv.fr; worker-src 'self' blob:; connect-src *; img-src * blob: data:; style-src 'self' 'unsafe-inline'; font-src 'self' data:; form-action 'self'; base-uri 'self'",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 01 Jun 2025 01:55:55 GMT",
-    "etag": "\"lewj7ucdp72iam\"",
+    "date": "Fri, 06 Jun 2025 12:30:24 GMT",
+    "etag": "\"12e919edtpb2iam\"",
     "referrer-policy": "strict-origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000",
     "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
@@ -24,7 +55,7 @@
     "x-frame-options": "SAMEORIGIN",
     "x-nextjs-cache": "HIT",
     "x-powered-by": "Next.js",
-    "x-request-id": "fbbb6fc0-3b34-42c7-b7a5-f43a840f8650"
+    "x-request-id": "0b511114-b082-4490-963d-426e621e0fbe"
   },
   "endpoints": [
     {
