@@ -42,23 +42,7 @@
     },
     {
       "type": "contentsquare",
-      "url": "https://t.contentsquare.net/settings/266388.json?r=1943043",
-      "details": {
-        "id": "contentsquare",
-        "message": "Replace with privacy-first solutions"
-      }
-    },
-    {
-      "type": "contentsquare",
-      "url": "https://c.ba.contentsquare.net/pageview?ex=&dt=19&pvt=n&la=en-US&uc=0&url=https%3A%2F%2Fcollectivite.fr%2F&dr=&dw=800&dh=7495&ww=800&wh=600&sw=800&sh=600&uu=9687d459-2d17-a416-c846-7d062893c29c&sn=1&hd=1748739250&v=15.94.1&pid=266388&pn=1&r=248460",
-      "details": {
-        "id": "contentsquare",
-        "message": "Replace with privacy-first solutions"
-      }
-    },
-    {
-      "type": "contentsquare",
-      "url": "https://k.ba.contentsquare.net/v2/recording?rt=5&rst=1748739250545&let=1748739250546&v=15.94.1&pid=266388&pn=1&sn=1&uu=9687d459-2d17-a416-c846-7d062893c29c&ri=1&ct=2",
+      "url": "https://t.contentsquare.net/settings/266388.json?r=1943566",
       "details": {
         "id": "contentsquare",
         "message": "Replace with privacy-first solutions"
@@ -69,107 +53,17 @@
       "url": "https://sentry.anct.cloud-ed.fr/api/10/envelope/?sentry_key=1617453a3c8412511a677cb699a44f5c&sentry_version=7&sentry_client=sentry.javascript.astro%2F8.34.0"
     },
     {
-      "type": "contentsquare",
-      "url": "https://script.hj.contentsquare.net/survey-v2.9053f8e945a9f4721599.js",
-      "details": {
-        "id": "contentsquare",
-        "message": "Replace with privacy-first solutions"
-      }
-    },
-    {
-      "type": "contentsquare",
-      "url": "https://surveystats.hj.contentsquare.net/hit?id=1628989&device=desktop&survey_type=popover",
-      "details": {
-        "id": "contentsquare",
-        "message": "Replace with privacy-first solutions"
-      }
-    },
-    {
-      "type": "contentsquare",
-      "url": "https://script.hj.contentsquare.net/Roboto-Medium.ef8bb0.woff2",
-      "details": {
-        "id": "contentsquare",
-        "message": "Replace with privacy-first solutions"
-      }
-    },
-    {
-      "type": "contentsquare",
-      "url": "https://script.hj.contentsquare.net/Roboto-Regular.422781.woff2",
-      "details": {
-        "id": "contentsquare",
-        "message": "Replace with privacy-first solutions"
-      }
-    },
-    {
-      "type": "contentsquare",
-      "url": "https://survey-images.hj.contentsquare.net/surveys/logo/6830ac7664484085ae8c575a77274604",
-      "details": {
-        "id": "contentsquare",
-        "message": "Replace with privacy-first solutions"
-      }
-    },
-    {
-      "type": "contentsquare",
-      "url": "https://script.hj.contentsquare.net/Roboto-Medium.ef8bb0.woff2",
-      "details": {
-        "id": "contentsquare",
-        "message": "Replace with privacy-first solutions"
-      }
-    },
-    {
-      "type": "contentsquare",
-      "url": "https://script.hj.contentsquare.net/Roboto-Regular.422781.woff2",
-      "details": {
-        "id": "contentsquare",
-        "message": "Replace with privacy-first solutions"
-      }
-    },
-    {
-      "type": "contentsquare",
-      "url": "https://c.ba.contentsquare.net/dvar?v=15.94.1&pid=266388&pn=1&sn=1&uu=9687d459-2d17-a416-c846-7d062893c29c&dv=H4sIAAAAAAAAA6tWKsjPydErzsgv18tMUbIyNDOysLSwrAUAMmorQxgAAAA%3D&ct=2&r=339011",
-      "details": {
-        "id": "contentsquare",
-        "message": "Replace with privacy-first solutions"
-      }
+      "type": "unknown",
+      "url": "https://sentry.anct.cloud-ed.fr/api/10/envelope/?sentry_key=1617453a3c8412511a677cb699a44f5c&sentry_version=7&sentry_client=sentry.javascript.astro%2F8.34.0"
     }
   ],
   "cookies": [
-    {
-      "name": "_pk_id.118.88ba",
-      "value": "f1c09a250f33ec6d.1748739251.",
-      "domain": "collectivite.fr",
-      "path": "/",
-      "expires": 1782694451,
-      "size": 43,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "priority": "Medium",
-      "sameParty": false,
-      "sourceScheme": "Secure"
-    },
-    {
-      "name": "_cs_s",
-      "value": "1.5.0.9.1748741050542",
-      "domain": "collectivite.fr",
-      "path": "/",
-      "expires": 1748741050,
-      "size": 26,
-      "httpOnly": false,
-      "secure": true,
-      "session": false,
-      "sameSite": "Lax",
-      "priority": "Medium",
-      "sameParty": false,
-      "sourceScheme": "Secure"
-    },
     {
       "name": "_pk_ses.118.88ba",
       "value": "1",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1748741050,
+      "expires": 1749211234,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -180,29 +74,14 @@
       "sourceScheme": "Secure"
     },
     {
-      "name": "_cs_id",
-      "value": "9687d459-2d17-a416-c846-7d062893c29c.1748739250.1.1748739250.1748739250.1.1781903250522.0.x",
+      "name": "_pk_id.118.88ba",
+      "value": "ace5d1e636fef752.1749209435.",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1781903250,
-      "size": 97,
+      "expires": 1783164635,
+      "size": 43,
       "httpOnly": false,
-      "secure": true,
-      "session": false,
-      "sameSite": "Lax",
-      "priority": "Medium",
-      "sameParty": false,
-      "sourceScheme": "Secure"
-    },
-    {
-      "name": "_cs_c",
-      "value": "0",
-      "domain": "collectivite.fr",
-      "path": "/",
-      "expires": 1782903250,
-      "size": 6,
-      "httpOnly": false,
-      "secure": true,
+      "secure": false,
       "session": false,
       "sameSite": "Lax",
       "priority": "Medium",
@@ -213,14 +92,14 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 01 Jun 2025 00:54:09 GMT",
+    "date": "Fri, 06 Jun 2025 11:30:32 GMT",
     "x-frame-options": "DENY",
-    "x-request-id": "72f91153-9302-4113-9e61-162e8ef2cb09"
+    "x-request-id": "27979056-9a40-4a52-86a6-76d93eb7765a"
   },
   "endpoints": [
     {
       "hostname": "collectivite.fr",
-      "ip": "148.253.96.193",
+      "ip": "80.247.12.255",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -276,7 +155,7 @@
     },
     {
       "hostname": "annuaire-des-collectivites-production-storage.s3.fr-par.scw.cloud",
-      "ip": "51.159.62.18",
+      "ip": "51.159.62.20",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
@@ -374,7 +253,7 @@
     },
     {
       "hostname": "static.hj.contentsquare.net",
-      "ip": "18.172.134.93",
+      "ip": "18.65.25.101",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -428,7 +307,7 @@
     },
     {
       "hostname": "t.contentsquare.net",
-      "ip": "3.167.163.90",
+      "ip": "3.163.125.111",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -478,172 +357,6 @@
             "zh-CN": "美国"
           }
         }
-      }
-    },
-    {
-      "hostname": "c.ba.contentsquare.net",
-      "ip": "52.48.68.180",
-      "geoip": {
-        "city": {
-          "geoname_id": 2964574,
-          "names": {
-            "de": "Dublin",
-            "en": "Dublin",
-            "es": "Dublín",
-            "fr": "Dublin",
-            "ja": "ダブリン",
-            "pt-BR": "Dublin",
-            "ru": "Дублин",
-            "zh-CN": "都柏林"
-          }
-        },
-        "continent": {
-          "code": "EU",
-          "geoname_id": 6255148,
-          "names": {
-            "de": "Europa",
-            "en": "Europe",
-            "es": "Europa",
-            "fr": "Europe",
-            "ja": "ヨーロッパ",
-            "pt-BR": "Europa",
-            "ru": "Европа",
-            "zh-CN": "欧洲"
-          }
-        },
-        "country": {
-          "geoname_id": 2963597,
-          "is_in_european_union": true,
-          "iso_code": "IE",
-          "names": {
-            "de": "Irland",
-            "en": "Ireland",
-            "es": "Irlanda",
-            "fr": "Irlande",
-            "ja": "アイルランド",
-            "pt-BR": "Irlanda",
-            "ru": "Ирландия",
-            "zh-CN": "爱尔兰"
-          }
-        },
-        "location": {
-          "accuracy_radius": 200,
-          "latitude": 53.3382,
-          "longitude": -6.2591,
-          "time_zone": "Europe/Dublin"
-        },
-        "postal": {
-          "code": "D02"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 7521314,
-            "iso_code": "L",
-            "names": {
-              "en": "Leinster",
-              "fr": "Leinster",
-              "ja": "レンスター",
-              "ru": "Ленстер"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "hostname": "k.ba.contentsquare.net",
-      "ip": "34.250.183.27",
-      "geoip": {
-        "city": {
-          "geoname_id": 2964574,
-          "names": {
-            "de": "Dublin",
-            "en": "Dublin",
-            "es": "Dublín",
-            "fr": "Dublin",
-            "ja": "ダブリン",
-            "pt-BR": "Dublin",
-            "ru": "Дублин",
-            "zh-CN": "都柏林"
-          }
-        },
-        "continent": {
-          "code": "EU",
-          "geoname_id": 6255148,
-          "names": {
-            "de": "Europa",
-            "en": "Europe",
-            "es": "Europa",
-            "fr": "Europe",
-            "ja": "ヨーロッパ",
-            "pt-BR": "Europa",
-            "ru": "Европа",
-            "zh-CN": "欧洲"
-          }
-        },
-        "country": {
-          "geoname_id": 2963597,
-          "is_in_european_union": true,
-          "iso_code": "IE",
-          "names": {
-            "de": "Irland",
-            "en": "Ireland",
-            "es": "Irlanda",
-            "fr": "Irlande",
-            "ja": "アイルランド",
-            "pt-BR": "Irlanda",
-            "ru": "Ирландия",
-            "zh-CN": "爱尔兰"
-          }
-        },
-        "location": {
-          "accuracy_radius": 200,
-          "latitude": 53.3382,
-          "longitude": -6.2591,
-          "time_zone": "Europe/Dublin"
-        },
-        "postal": {
-          "code": "D02"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 7521314,
-            "iso_code": "L",
-            "names": {
-              "en": "Leinster",
-              "fr": "Leinster",
-              "ja": "レンスター",
-              "ru": "Ленстер"
-            }
-          }
-        ]
       }
     },
     {
@@ -741,168 +454,6 @@
             }
           }
         ]
-      }
-    },
-    {
-      "hostname": "script.hj.contentsquare.net",
-      "ip": "3.171.22.69",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "surveystats.hj.contentsquare.net",
-      "ip": "108.156.120.98",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "survey-images.hj.contentsquare.net",
-      "ip": "18.64.183.55",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
       }
     }
   ]
