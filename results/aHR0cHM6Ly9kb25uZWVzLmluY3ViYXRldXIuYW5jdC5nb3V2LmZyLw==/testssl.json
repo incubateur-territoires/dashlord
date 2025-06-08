@@ -353,7 +353,7 @@
               "ip"           : "donnees.incubateur.anct.gouv.fr/35.185.44.232",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "37 >= 30 days"
+              "finding"      : "36 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,14 +507,14 @@
               "ip"           : "donnees.incubateur.anct.gouv.fr/35.185.44.232",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "donnees.incubateur.anct.gouv.fr/35.185.44.232",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1749210541"
+              "finding"      : "1749344920"
           }
 ,         {
               "id"           : "HSTS",
@@ -1084,6 +1084,6 @@
               "ip"           : "donnees.incubateur.anct.gouv.fr/35.185.44.232",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "43"
+              "finding"      : "51"
           }
 ]
