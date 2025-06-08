@@ -199,14 +199,14 @@
               "ip"           : "lesbases.anct.gouv.fr/51.159.112.42",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
               "ip"           : "lesbases.anct.gouv.fr/51.159.112.42",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -353,7 +353,7 @@
               "ip"           : "lesbases.anct.gouv.fr/51.159.112.42",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "60 >= 30 days"
+              "finding"      : "59 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -514,7 +514,7 @@
               "ip"           : "lesbases.anct.gouv.fr/51.159.112.42",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1749212879"
+              "finding"      : "1749347058"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1105,6 +1105,6 @@
               "ip"           : "lesbases.anct.gouv.fr/51.159.112.42",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "99"
+              "finding"      : "57"
           }
 ]
