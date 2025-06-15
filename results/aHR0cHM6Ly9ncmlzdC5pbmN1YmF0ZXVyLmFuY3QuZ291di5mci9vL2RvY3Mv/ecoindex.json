@@ -3,15 +3,15 @@
         "width": 1920,
         "height": 1080,
         "url": "https://grist.incubateur.anct.gouv.fr/o/docs/",
-        "size": 1640.944,
-        "nodes": 463,
-        "requests": 29,
+        "size": 1669.614,
+        "nodes": 464,
+        "requests": 30,
         "grade": "C",
-        "score": 66.0,
-        "ges": 1.68,
-        "water": 2.52,
+        "score": 65.0,
+        "ges": 1.7,
+        "water": 2.55,
         "ecoindex_version": "5.4.2",
-        "date": "2025-06-08 01:53:55.370024",
+        "date": "2025-06-15 01:53:06.290513",
         "page_type": "website"
     }
 ]
