@@ -3,15 +3,15 @@
         "width": 1920,
         "height": 1080,
         "url": "https://monespacecollectivite.anct.gouv.fr/",
-        "size": 1421.566,
-        "nodes": 274,
+        "size": 1421.393,
+        "nodes": 272,
         "requests": 50,
         "grade": "C",
         "score": 70.0,
         "ges": 1.6,
         "water": 2.4,
         "ecoindex_version": "5.4.2",
-        "date": "2025-06-08 02:05:59.441661",
+        "date": "2025-06-15 02:05:12.789397",
         "page_type": null
     }
 ]
