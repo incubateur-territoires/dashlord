@@ -3,15 +3,15 @@
         "width": 1920,
         "height": 1080,
         "url": "https://monsuivisocial.incubateur.anct.gouv.fr/",
-        "size": 855.18,
-        "nodes": 355,
-        "requests": 29,
+        "size": 851.269,
+        "nodes": 353,
+        "requests": 28,
         "grade": "B",
         "score": 74.0,
         "ges": 1.52,
         "water": 2.28,
         "ecoindex_version": "5.4.2",
-        "date": "2025-06-15 01:36:28.754912",
+        "date": "2025-06-22 01:39:45.213250",
         "page_type": "article"
     }
 ]
