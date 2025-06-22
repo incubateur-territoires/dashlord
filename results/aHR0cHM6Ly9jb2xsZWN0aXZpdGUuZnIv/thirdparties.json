@@ -42,15 +42,7 @@
     },
     {
       "type": "contentsquare",
-      "url": "https://t.contentsquare.net/settings/266388.json?r=1944387",
-      "details": {
-        "id": "contentsquare",
-        "message": "Replace with privacy-first solutions"
-      }
-    },
-    {
-      "type": "contentsquare",
-      "url": "https://c.ba.contentsquare.net/pageview?ex=&dt=97&pvt=n&la=en-US&uc=0&url=https%3A%2F%2Fcollectivite.fr%2F&dr=&dw=800&dh=7741&ww=800&wh=600&sw=800&sh=600&uu=ace672db-c3d8-a3c2-925c-0110c9950d76&sn=1&hd=1749948516&v=15.104.2&pid=266388&pn=1&r=191293",
+      "url": "https://t.contentsquare.net/settings/266388.json?r=1945059",
       "details": {
         "id": "contentsquare",
         "message": "Replace with privacy-first solutions"
@@ -63,41 +55,11 @@
   ],
   "cookies": [
     {
-      "name": "_pk_id.118.88ba",
-      "value": "87cc1914fc0ee94d.1749948517.",
-      "domain": "collectivite.fr",
-      "path": "/",
-      "expires": 1783903717,
-      "size": 43,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "priority": "Medium",
-      "sameParty": false,
-      "sourceScheme": "Secure"
-    },
-    {
-      "name": "_cs_s",
-      "value": "1.0.0.9.1749950316716",
-      "domain": "collectivite.fr",
-      "path": "/",
-      "expires": 1749950316,
-      "size": 26,
-      "httpOnly": false,
-      "secure": true,
-      "session": false,
-      "sameSite": "Lax",
-      "priority": "Medium",
-      "sameParty": false,
-      "sourceScheme": "Secure"
-    },
-    {
       "name": "_pk_ses.118.88ba",
       "value": "1",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1749950316,
+      "expires": 1750555135,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -108,29 +70,14 @@
       "sourceScheme": "Secure"
     },
     {
-      "name": "_cs_id",
-      "value": "ace672db-c3d8-a3c2-925c-0110c9950d76.1749948516.1.1749948516.1749948516.1.1783112516701.0.x",
+      "name": "_pk_id.118.88ba",
+      "value": "61bb234a2f5f5bd9.1750553335.",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1783112516,
-      "size": 97,
+      "expires": 1784508535,
+      "size": 43,
       "httpOnly": false,
-      "secure": true,
-      "session": false,
-      "sameSite": "Lax",
-      "priority": "Medium",
-      "sameParty": false,
-      "sourceScheme": "Secure"
-    },
-    {
-      "name": "_cs_c",
-      "value": "0",
-      "domain": "collectivite.fr",
-      "path": "/",
-      "expires": 1784112516,
-      "size": 6,
-      "httpOnly": false,
-      "secure": true,
+      "secure": false,
       "session": false,
       "sameSite": "Lax",
       "priority": "Medium",
@@ -141,14 +88,14 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 15 Jun 2025 00:48:35 GMT",
+    "date": "Sun, 22 Jun 2025 00:48:53 GMT",
     "x-frame-options": "DENY",
-    "x-request-id": "17ac80f7-214a-40c4-83ac-5d251acb0438"
+    "x-request-id": "746b067c-e8be-42d7-b7f9-17b77fc0e69e"
   },
   "endpoints": [
     {
       "hostname": "collectivite.fr",
-      "ip": "185.21.194.105",
+      "ip": "80.247.13.145",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -204,7 +151,7 @@
     },
     {
       "hostname": "annuaire-des-collectivites-production-storage.s3.fr-par.scw.cloud",
-      "ip": "51.159.62.19",
+      "ip": "51.159.62.20",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
@@ -302,93 +249,7 @@
     },
     {
       "hostname": "static.hj.contentsquare.net",
-      "ip": "18.160.41.112",
-      "geoip": {
-        "city": {
-          "geoname_id": 5809844,
-          "names": {
-            "de": "Seattle",
-            "en": "Seattle",
-            "es": "Seattle",
-            "fr": "Seattle",
-            "ja": "シアトル",
-            "pt-BR": "Seattle",
-            "ru": "Сиэтл"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 47.6109,
-          "longitude": -122.3303,
-          "metro_code": 819,
-          "time_zone": "America/Los_Angeles"
-        },
-        "postal": {
-          "code": "98101"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5815135,
-            "iso_code": "WA",
-            "names": {
-              "de": "Washington",
-              "en": "Washington",
-              "es": "Washington",
-              "fr": "Washington",
-              "ja": "ワシントン州",
-              "pt-BR": "Washington",
-              "ru": "Вашингтон",
-              "zh-CN": "华盛顿州"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "hostname": "t.contentsquare.net",
-      "ip": "3.167.88.75",
+      "ip": "3.169.183.92",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -441,59 +302,42 @@
       }
     },
     {
-      "hostname": "c.ba.contentsquare.net",
-      "ip": "52.48.68.180",
+      "hostname": "t.contentsquare.net",
+      "ip": "18.173.121.103",
       "geoip": {
-        "city": {
-          "geoname_id": 2964574,
-          "names": {
-            "de": "Dublin",
-            "en": "Dublin",
-            "es": "Dublín",
-            "fr": "Dublin",
-            "ja": "ダブリン",
-            "pt-BR": "Dublin",
-            "ru": "Дублин",
-            "zh-CN": "都柏林"
-          }
-        },
         "continent": {
-          "code": "EU",
-          "geoname_id": 6255148,
+          "code": "NA",
+          "geoname_id": 6255149,
           "names": {
-            "de": "Europa",
-            "en": "Europe",
-            "es": "Europa",
-            "fr": "Europe",
-            "ja": "ヨーロッパ",
-            "pt-BR": "Europa",
-            "ru": "Европа",
-            "zh-CN": "欧洲"
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
           }
         },
         "country": {
-          "geoname_id": 2963597,
-          "is_in_european_union": true,
-          "iso_code": "IE",
+          "geoname_id": 6252001,
+          "iso_code": "US",
           "names": {
-            "de": "Irland",
-            "en": "Ireland",
-            "es": "Irlanda",
-            "fr": "Irlande",
-            "ja": "アイルランド",
-            "pt-BR": "Irlanda",
-            "ru": "Ирландия",
-            "zh-CN": "爱尔兰"
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
           }
         },
         "location": {
-          "accuracy_radius": 200,
-          "latitude": 53.3382,
-          "longitude": -6.2591,
-          "time_zone": "Europe/Dublin"
-        },
-        "postal": {
-          "code": "D02"
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -508,19 +352,7 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 7521314,
-            "iso_code": "L",
-            "names": {
-              "en": "Leinster",
-              "fr": "Leinster",
-              "ja": "レンスター",
-              "ru": "Ленстер"
-            }
-          }
-        ]
+        }
       }
     },
     {
