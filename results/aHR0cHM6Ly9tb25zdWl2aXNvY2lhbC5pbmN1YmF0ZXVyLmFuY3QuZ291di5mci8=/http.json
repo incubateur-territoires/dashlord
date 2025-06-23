@@ -9,11 +9,11 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 22 Jun 2025 01:43:11 GMT",
+      "date": "Mon, 23 Jun 2025 16:53:01 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "de1993c4-dbae-4228-9f32-583f91c3e0dc",
+      "x-request-id": "bc7abdbb-b127-45be-8a72-5c268b6ab7ac",
       "x-frame-options": "DENY",
       "vary": "Accept-Language, Cookie",
       "content-language": "fr",
