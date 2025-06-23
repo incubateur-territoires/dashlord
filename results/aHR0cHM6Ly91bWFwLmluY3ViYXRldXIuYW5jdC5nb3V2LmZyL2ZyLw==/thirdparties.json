@@ -18,19 +18,19 @@
     },
     {
       "type": "unknown",
-      "url": "https://overpass-api.de/api/interpreter?data=[out:json][timeout:25];area(id:3612915832)-%3E.searchArea;nwr[%22healthcare:speciality%22=%22osteopathy%22](area.searchArea);out%20geom;"
-    },
-    {
-      "type": "unknown",
       "url": "https://overpass-api.de/api/interpreter?data=[out:json][timeout:25];area(id:3612915832)-%3E.searchArea;nwr[%22healthcare:speciality%22=%22hypnosis%22](area.searchArea);out%20geom;"
     },
     {
       "type": "unknown",
-      "url": "https://bronzebbc.fr/wp-content/uploads/2015/01/Plaque-en-bronze-REUN-1024x1024.png"
+      "url": "https://overpass-api.de/api/interpreter?data=[out:json][timeout:25];area(id:3612915832)-%3E.searchArea;nwr[%22healthcare:speciality%22=%22osteopathy%22](area.searchArea);out%20geom;"
     },
     {
       "type": "unknown",
       "url": "https://i.ibb.co/3yLb818/PNG-reperes-crue.png"
+    },
+    {
+      "type": "unknown",
+      "url": "https://bronzebbc.fr/wp-content/uploads/2015/01/Plaque-en-bronze-REUN-1024x1024.png"
     },
     {
       "type": "unknown",
@@ -50,6 +50,14 @@
     },
     {
       "type": "unknown",
+      "url": "https://www.sig.sarzeau.fr/Symbole/sage_femme.JPG"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.sig.sarzeau.fr/Symbole/masseur_kine.JPG"
+    },
+    {
+      "type": "unknown",
       "url": "https://www.sig.sarzeau.fr/Symbole/osteopathe.JPG"
     }
   ],
@@ -59,7 +67,7 @@
       "value": "1",
       "domain": "umap.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1750556849,
+      "expires": 1750697966,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -71,10 +79,10 @@
     },
     {
       "name": "_pk_id.35.8651",
-      "value": "d8abc9d58af2c82c.1750555050.",
+      "value": "4088083972a75968.1750696167.",
       "domain": "umap.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1784510250,
+      "expires": 1784651367,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -89,7 +97,7 @@
     "content-encoding": "br",
     "content-language": "fr",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 22 Jun 2025 01:17:28 GMT",
+    "date": "Mon, 23 Jun 2025 16:29:24 GMT",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Accept-Encoding\nCookie"
   },
@@ -407,62 +415,6 @@
       }
     },
     {
-      "hostname": "bronzebbc.fr",
-      "ip": "213.186.33.19",
-      "geoip": {
-        "continent": {
-          "code": "EU",
-          "geoname_id": 6255148,
-          "names": {
-            "de": "Europa",
-            "en": "Europe",
-            "es": "Europa",
-            "fr": "Europe",
-            "ja": "ヨーロッパ",
-            "pt-BR": "Europa",
-            "ru": "Европа",
-            "zh-CN": "欧洲"
-          }
-        },
-        "country": {
-          "geoname_id": 3017382,
-          "is_in_european_union": true,
-          "iso_code": "FR",
-          "names": {
-            "de": "Frankreich",
-            "en": "France",
-            "es": "Francia",
-            "fr": "France",
-            "ja": "フランス共和国",
-            "pt-BR": "França",
-            "ru": "Франция",
-            "zh-CN": "法国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 500,
-          "latitude": 48.8582,
-          "longitude": 2.3387,
-          "time_zone": "Europe/Paris"
-        },
-        "registered_country": {
-          "geoname_id": 3017382,
-          "is_in_european_union": true,
-          "iso_code": "FR",
-          "names": {
-            "de": "Frankreich",
-            "en": "France",
-            "es": "Francia",
-            "fr": "France",
-            "ja": "フランス共和国",
-            "pt-BR": "França",
-            "ru": "Франция",
-            "zh-CN": "法国"
-          }
-        }
-      }
-    },
-    {
       "hostname": "i.ibb.co",
       "ip": "108.181.22.211",
       "geoip": {
@@ -547,6 +499,62 @@
             }
           }
         ]
+      }
+    },
+    {
+      "hostname": "bronzebbc.fr",
+      "ip": "213.186.33.19",
+      "geoip": {
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        }
       }
     },
     {
