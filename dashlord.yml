@@ -119,3 +119,7 @@ urls:
     betaId: aides.territoires
     repositories:
       - https://gitlab.com/incubateur-territoires/startups/mon-espace-collectivite/aides-territoires
+  - url: https://anct.gouv.fr/
+    betaId: services.web.anct
+    repositories:
+      - https://gitlab.com/incubateur-territoires/startups/site-web-anct/anct.gouv.fr
