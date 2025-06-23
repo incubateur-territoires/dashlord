@@ -42,7 +42,7 @@
     },
     {
       "type": "contentsquare",
-      "url": "https://t.contentsquare.net/settings/266388.json?r=1945059",
+      "url": "https://t.contentsquare.net/settings/266388.json?r=1945215",
       "details": {
         "id": "contentsquare",
         "message": "Replace with privacy-first solutions"
@@ -59,7 +59,7 @@
       "value": "1",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1750555135,
+      "expires": 1750695986,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -71,10 +71,10 @@
     },
     {
       "name": "_pk_id.118.88ba",
-      "value": "61bb234a2f5f5bd9.1750553335.",
+      "value": "a4233ce8be8e6c31.1750694186.",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1784508535,
+      "expires": 1784649386,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -88,14 +88,14 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 22 Jun 2025 00:48:53 GMT",
+    "date": "Mon, 23 Jun 2025 15:56:25 GMT",
     "x-frame-options": "DENY",
-    "x-request-id": "746b067c-e8be-42d7-b7f9-17b77fc0e69e"
+    "x-request-id": "72f33619-a9e7-429b-98d6-d8230c6f4626"
   },
   "endpoints": [
     {
       "hostname": "collectivite.fr",
-      "ip": "80.247.13.145",
+      "ip": "80.247.12.255",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -249,7 +249,7 @@
     },
     {
       "hostname": "static.hj.contentsquare.net",
-      "ip": "3.169.183.92",
+      "ip": "18.172.134.93",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -303,7 +303,7 @@
     },
     {
       "hostname": "t.contentsquare.net",
-      "ip": "18.173.121.103",
+      "ip": "3.167.163.90",
       "geoip": {
         "continent": {
           "code": "NA",
