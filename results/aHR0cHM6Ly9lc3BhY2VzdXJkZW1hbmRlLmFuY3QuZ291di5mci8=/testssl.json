@@ -185,7 +185,7 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "valid for 7199 seconds only (<daily)"
+              "finding"      : "valid for 7200 seconds only (<daily)"
           }
 ,         {
               "id"           : "SSL_sessionID_support",
@@ -199,14 +199,14 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -353,7 +353,7 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "67 >= 30 days"
+              "finding"      : "62 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,14 +507,14 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-7 seconds from localtime"
+              "finding"      : "-5 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1750694438"
+              "finding"      : "1751158458"
           }
 ,         {
               "id"           : "HSTS",
