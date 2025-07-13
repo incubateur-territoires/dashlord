@@ -14,7 +14,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/opti/s3/2025-01/incubateur.jpg.webp?itok=a29Fr8CD"
+      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/opti/s3/2025-07/visuel-comprendre_rapport-contrib-sociale-tiers-lieux_page-2.jpg.webp?itok=_9j9SkCg"
     },
     {
       "type": "unknown",
@@ -71,7 +71,7 @@
       "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1751769762,
+      "expires": 1752374826,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -83,10 +83,10 @@
     },
     {
       "name": "_pk_id.22.6a82",
-      "value": "2e11aaf89954700c.1751767963.",
+      "value": "892f754dc7d3ea77.1752373026.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1785723163,
+      "expires": 1786328226,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -98,10 +98,10 @@
     },
     {
       "name": "bln_challengejs",
-      "value": "0ViT-hVSo0nJSKv2UgcMbLBHtijdjWggLOXqK2goAcOoB0DY0lWN-Ghn3B_a1ejJehp1YZiEBM9VA0dvvj_lA4bh6YQI3Po2YeU2kQxIV_hA9GRMLv9FtDtoysqy1BQhnx_b37GdU6txiKHzSFwN5OYX3fFcwEcyHAfBDlLR2UUMmJDrpN-U3xG8dJ3d9fPOtAVI-GZWkJhVYH7laO60z5EFBwmEp75jNbM36hdkmElIS3k9r5bgbSVLeL8HnAKEbrHsrZJe-y38KC_8cFACCOq6cnPqqJlRssUbrL0TKZo",
+      "value": "VuDVbMTYS0EOM4-INF9v2l4V-vxM8sNTzqNwIlrZl9lkcn1wLBMmea745EOtCXM0uWbNcCOogxPHBdJogIMmbosJO-i9L4_fKSOWAKt65tQCtId9LiS-_O8-5k8LwEKCL2s1erO6Gtn9F1RzGR0LYAI8hdW0ZyZRkrusyQkRh4Or3LANvfHOL6XQQBVaoJRJ9NHqKu24e7BCXuRHZCudKBg9OMxOpKtDmlP89QuwFmHfsLEIq5sXgJrXl1c_HV10OahuAiBXWHqgst7MWsrHNiJZrRntWMVB14PL6rBQPmk",
       "domain": ".anct.gouv.fr",
       "path": "/",
-      "expires": 1751768861.709455,
+      "expires": 1752373925.60368,
       "size": 314,
       "httpOnly": false,
       "secure": true,
@@ -117,10 +117,10 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 06 Jul 2025 02:12:41 GMT",
-    "etag": "W/\"1751641622\"",
+    "date": "Sun, 13 Jul 2025 02:17:05 GMT",
+    "etag": "W/\"1752240248\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Fri, 04 Jul 2025 15:07:02 GMT",
+    "last-modified": "Fri, 11 Jul 2025 13:24:08 GMT",
     "referrer-policy": "origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\nCookie",
@@ -129,7 +129,7 @@
     "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "eee840569a8ce3aca7824d0c5917a61a",
+    "x-request-id": "3b2f4ab6f36c03edc99d617e58b64b87",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -191,7 +191,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "172.217.12.106",
+      "ip": "142.250.31.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -245,7 +245,7 @@
     },
     {
       "hostname": "anct-site-prod.s3.fr-par.scw.cloud",
-      "ip": "51.159.62.19",
+      "ip": "51.159.62.18",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
