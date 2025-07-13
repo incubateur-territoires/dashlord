@@ -9,9 +9,9 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 06 Jul 2025 01:55:05 GMT",
+      "date": "Sun, 13 Jul 2025 01:58:43 GMT",
       "content-type": "text/html; charset=utf-8",
-      "content-length": "6199",
+      "content-length": "6203",
       "connection": "close",
       "x-frame-options": "SAMEORIGIN",
       "x-xss-protection": "0",
@@ -21,15 +21,15 @@
       "referrer-policy": "strict-origin-when-cross-origin",
       "link": "</packs/css/application-1b36d1b4.css>; rel=preload; as=style; nopush",
       "vary": "Accept-Encoding",
-      "etag": "W/\"115914c6accbba64826402394d4c0267\"",
+      "etag": "W/\"df6c81724a87f37fc6bd0b2a7e5302b9\"",
       "cache-control": "max-age=0, private, must-revalidate",
       "set-cookie": [
-        "_monstage_session=EVJA4KQAOyLijSNHO4Nmz%2BUtwIdDORYIH8rJUl9jYWTvsTYr2o4YYxtKC97x3dZf6A%2FwdM1h3XAsYMAkBTGA27OpCL9Uax10UYQxykosPRqytbkcJZR0U%2FGdFT3V2CbGjHkzj3E27rV8rN2emm1B84bhc9YhAEnLyZ7P4XPb1YPMicv%2FAbzI5aF33yGgiDEPPBugJrAKN3gxuKrw%2FGu%2BxYW0dP52I0MzS0w3yAcIhw8vAc87Ar%2FMw%2BMiJq6UBsYXBbADkWQmFwKi8G0c6OwWxadX0Q%2BVKWpVNA%3D%3D--y%2FRpBtJzYgGnPVba--lyZ5xVNQBjpsyYLK%2BGvSww%3D%3D; path=/; secure; HttpOnly; SameSite=Lax"
+        "_monstage_session=PMu8tK%2BmYcFcUJcfd6sAJK0cT8mBSPV53%2F9Eassl3Sa57tU9gxT%2FMbfe1%2FvYGsXzLp9ACMkdCw522Pa8BVrLHsKec61DmFsbwzTsoHgkyVl28btYF%2FWRHjtQqsQI2vQZivNQa4dYeUxT%2BWVzyYDP7%2F%2FSWkejgkbjSAdovg8ryL%2BIYRVzLpcJBMWoWC%2F8FJ%2FSr27Gw6QsJAaO6KZeYmHlcvhcm5X%2F699Dbpzr6nd2TQb6iUlEWgDrxKVSEz%2Fsc95oTXydHSSJuaxvjT61GVmNQx0HdQHmZ5ORZA%3D%3D--AP8IdQVb4Sn9IgYk--PEs%2F85gjmLLWYx3hnfm16A%3D%3D; path=/; secure; HttpOnly; SameSite=Lax"
       ],
-      "x-request-id": "4d9f7dcc-8409-4880-951e-8f375dea35b6",
-      "x-runtime": "0.008095",
+      "x-request-id": "808bd191-be05-414f-a5b5-c81f51692abf",
+      "x-runtime": "0.015228",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
-      "sozu-id": "01JZEQ3CCN1BDNYF8CQHTKTT3Y"
+      "sozu-id": "01K00R32V7CPNVX73YHB7394V8"
     }
   },
   "tests": {
