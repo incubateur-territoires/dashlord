@@ -3,7 +3,7 @@
         "width": 1920,
         "height": 1080,
         "url": "https://dotations.incubateur.anct.gouv.fr/",
-        "size": 1617.491,
+        "size": 1617.478,
         "nodes": 191,
         "requests": 23,
         "grade": "B",
@@ -11,7 +11,7 @@
         "ges": 1.44,
         "water": 2.16,
         "ecoindex_version": "5.4.2",
-        "date": "2025-07-06 01:09:52.715233",
+        "date": "2025-07-13 01:11:53.546525",
         "page_type": null
     }
 ]
