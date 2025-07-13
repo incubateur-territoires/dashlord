@@ -9,11 +9,11 @@
     "testsPassed": 7,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 06 Jul 2025 02:09:26 GMT",
+      "date": "Sun, 13 Jul 2025 02:13:15 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "5532463f-c8cb-48cf-9b3c-23318b4c64fb",
+      "x-request-id": "b98b140c-7f06-4322-a33e-326dbc16f5e5",
       "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch, Accept-Encoding",
       "link": "</_next/static/media/mec-logo.ff43dc9c.svg>; rel=preload; as=\"image\", </_next/static/media/location-overseas-france.59815d73.svg>; rel=preload; as=\"image\", </_next/static/media/anct.b75727cd.svg>; rel=preload; as=\"image\"",
       "x-powered-by": "Next.js",

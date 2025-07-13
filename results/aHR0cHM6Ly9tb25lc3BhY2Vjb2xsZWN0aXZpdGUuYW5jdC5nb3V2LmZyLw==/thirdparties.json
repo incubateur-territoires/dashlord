@@ -5,12 +5,12 @@
     "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 06 Jul 2025 02:06:47 GMT",
+    "date": "Sun, 13 Jul 2025 02:10:33 GMT",
     "link": "</_next/static/media/mec-logo.ff43dc9c.svg>; rel=preload; as=\"image\", </_next/static/media/location-overseas-france.59815d73.svg>; rel=preload; as=\"image\", </_next/static/media/anct.b75727cd.svg>; rel=preload; as=\"image\"",
     "strict-transport-security": "max-age=31536000",
     "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch, Accept-Encoding",
     "x-powered-by": "Next.js",
-    "x-request-id": "9f8c69ec-7ca3-43c8-bd15-594a001481be"
+    "x-request-id": "3fa00941-5c5b-4930-b576-fafec9200a91"
   },
   "endpoints": [
     {
