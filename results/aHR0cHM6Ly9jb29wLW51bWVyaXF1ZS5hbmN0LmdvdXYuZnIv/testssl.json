@@ -185,7 +185,7 @@
               "ip"           : "coop-numerique.anct.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "valid for 7199 seconds only (<daily)"
+              "finding"      : "valid for 7200 seconds only (<daily)"
           }
 ,         {
               "id"           : "SSL_sessionID_support",
@@ -353,7 +353,7 @@
               "ip"           : "coop-numerique.anct.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "71 >= 30 days"
+              "finding"      : "64 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,14 +507,14 @@
               "ip"           : "coop-numerique.anct.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-4 seconds from localtime"
+              "finding"      : "-12 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "coop-numerique.anct.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1751766112"
+              "finding"      : "1752371094"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1035,7 +1035,7 @@
               "ip"           : "coop-numerique.anct.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "SSL Labs's 'SSL Server Rating Guide' (version 2009q from 2020-01-30)"
+              "finding"      : "SSL Labs's 'SSL Server Rating Guide' (version 2009r from 2025-05-16)"
           }
 ,         {
               "id"           : "rating_doc",
@@ -1105,6 +1105,6 @@
               "ip"           : "coop-numerique.anct.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "94"
+              "finding"      : "109"
           }
 ]
