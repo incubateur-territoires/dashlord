@@ -185,7 +185,7 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "valid for 7199 seconds only (<daily)"
+              "finding"      : "valid for 7200 seconds only (<daily)"
           }
 ,         {
               "id"           : "SSL_sessionID_support",
@@ -199,7 +199,7 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
@@ -353,7 +353,7 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "55 >= 30 days"
+              "finding"      : "48 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,14 +507,14 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-6 seconds from localtime"
+              "finding"      : "-3 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1751763207"
+              "finding"      : "1752368096"
           }
 ,         {
               "id"           : "HSTS",
@@ -993,7 +993,7 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "SSL Labs's 'SSL Server Rating Guide' (version 2009q from 2020-01-30)"
+              "finding"      : "SSL Labs's 'SSL Server Rating Guide' (version 2009r from 2025-05-16)"
           }
 ,         {
               "id"           : "rating_doc",
@@ -1056,20 +1056,13 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "A"
-          }
-,         {
-              "id"           : "grade_cap_reason_1",
-              "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "Grade capped to A. HSTS is not offered"
+              "finding"      : "A+"
           }
 ,         {
               "id"           : "scanTime",
               "ip"           : "espacesurdemande.anct.gouv.fr/51.159.8.136",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "99"
+              "finding"      : "91"
           }
 ]
