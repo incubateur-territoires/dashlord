@@ -55,7 +55,7 @@
       "value": "1",
       "domain": "cartographie.societenumerique.gouv.fr",
       "path": "/",
-      "expires": 1752371936,
+      "expires": 1752976725,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -67,10 +67,10 @@
     },
     {
       "name": "_pk_id.277.9ac4",
-      "value": "af9947673adaf1f2.1752370137.",
+      "value": "e46138a2e88c49a4.1752974925.",
       "domain": "cartographie.societenumerique.gouv.fr",
       "path": "/",
-      "expires": 1786325337,
+      "expires": 1786930125,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -82,20 +82,20 @@
     }
   ],
   "headers": {
-    "age": "6804",
+    "age": "4410",
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self' data: https://*.gouv.fr https://openmaptiles.github.io ; font-src 'self' https://cdn.jsdelivr.net; img-src 'self' data: https://*.gouv.fr; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.gouv.fr blob:; style-src 'self' 'unsafe-inline';",
     "content-type": "text/html",
-    "date": "Sat, 12 Jul 2025 23:35:33 GMT",
-    "etag": "W/\"7b8ab8aeef76f81ccdf2e7993ac93897\"",
-    "last-modified": "Fri, 06 Jun 2025 13:25:36 GMT",
+    "date": "Sun, 20 Jul 2025 00:15:15 GMT",
+    "etag": "W/\"730c2114827f8b935d74363bc64c1bab\"",
+    "last-modified": "Thu, 17 Jul 2025 19:16:03 GMT",
     "permissions-policy": "accelerometer=(), camera=(), geolocation=(self), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
     "referrer-policy": "same-origin",
     "server": "AmazonS3",
     "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
     "vary": "accept-encoding",
-    "via": "1.1 129992dce1f07236bc0fef123684fb68.cloudfront.net (CloudFront)",
-    "x-amz-cf-id": "CcOvK1Vm9W_-8h3kq3vExFQNKXSjR-VPqGrRq8-66yOtn4DJSjKcGA==",
+    "via": "1.1 8655f0ddb998d96b4c041ee2f039c0b2.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "qvVDVZsYPf58OLC3vpX65EquiqHGfflbkCTbFqYovm-lP84hPd8JDQ==",
     "x-amz-cf-pop": "IAD61-P6",
     "x-amz-server-side-encryption": "AES256",
     "x-cache": "Error from cloudfront",
@@ -106,7 +106,7 @@
   "endpoints": [
     {
       "hostname": "cartographie.societenumerique.gouv.fr",
-      "ip": "3.167.69.78",
+      "ip": "3.167.69.84",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -160,8 +160,59 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.16.175.226",
+      "ip": "146.75.29.229",
       "geoip": {
+        "city": {
+          "geoname_id": 4744870,
+          "names": {
+            "de": "Ashburn",
+            "en": "Ashburn",
+            "es": "Ashburn",
+            "fr": "Ashburn",
+            "ja": "アッシュバーン",
+            "pt-BR": "Ashburn",
+            "ru": "Ашберн",
+            "zh-CN": "阿什本"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 20,
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "20149"
+        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -175,7 +226,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 6254928,
+            "iso_code": "VA",
+            "names": {
+              "de": "Virginia",
+              "en": "Virginia",
+              "es": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
+            }
+          }
+        ]
       }
     }
   ]
