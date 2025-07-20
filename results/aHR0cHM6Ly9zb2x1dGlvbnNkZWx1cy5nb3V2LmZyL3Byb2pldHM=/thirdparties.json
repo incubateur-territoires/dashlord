@@ -22,19 +22,19 @@
     },
     {
       "type": "unknown",
-      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/card/s3/2025-04/img_redynamiser-un-site-historique-au-coeur-de-doullens.PNG.webp?itok=AJ6PZTpC"
+      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/card/s3/2025-07/houilles.png.webp?itok=g8GwpHnB"
     },
     {
       "type": "unknown",
-      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/card/s3/2025-04/1717512658882.jpg.webp?itok=iTDn_TGX"
+      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/card/s3/2025-07/chambery.png.webp?itok=Mwb16JzO"
     },
     {
       "type": "unknown",
-      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/card/s3/2025-02/img-fiche-projet-gestion-durable-des-espaces-verts-en-vendee.jpg.webp?itok=SBSMviWl"
+      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/card/s3/2025-07/flers.jpg.webp?itok=rekbYT-9"
     },
     {
       "type": "unknown",
-      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/card/s3/2025-02/img-fiche-projet-tiers-lieux-sainte-marthe-grasse.jpg.webp?itok=8KAIxs9N"
+      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/card/s3/2025-07/pelussin.jpg.webp?itok=XhzgiQ2P"
     },
     {
       "type": "unknown",
@@ -63,7 +63,7 @@
       "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1752371027,
+      "expires": 1752975857,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -75,10 +75,10 @@
     },
     {
       "name": "_pk_id.22.6a82",
-      "value": "37a45f07b62b819e.1752369227.",
+      "value": "4a77243cbb0ba8ea.1752974058.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1786324427,
+      "expires": 1786929258,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -90,10 +90,10 @@
     },
     {
       "name": "bln_challengejs",
-      "value": "VuDVbMTYS0EOM4-INF9v2l4V-vxM8sNTzqNwIlrZl9lkcn1wLBMmea745EOtCXM0uWbNcCOogxPHBdJogIMmbosJO-i9L4_fKSOWAKt65tQCtId9LiS-_O8-5k8LwEKCL2s1erO6Gtn9F1RzGR0LYAI8hdW0ZyZRkrusyQkRh4OPlUwH3qRlDxwVrBkuaUF9htxcKwUCOdg1Vxjzp8oW3Fprqe0KF4l9acEmJFUyTVSL9kDG9d7QwY4WmAfdF1hB34Ncr3Zid5e1ollE66ftMCMBBN3cmlJ8A8Ir9Wbl7DU",
+      "value": "hQA1mos5yAdZgSFxljG1t8-wFQPerbMF90mnTBb0NBtRVwf4THhPU-AufaKNAZWu-rMxQ314WaJ5STaezMxlfN3ACCRn_w027Y7SZoS4j6Q7BW8_Xw0wbKWNWTv2jPx7vaQU46pkOuhqXWrZTLHGyDolrNqkVjaipTVS6-sCoFH7EsWWvYyLVn32Y_w3ziWLSxlm2JSMrdtHrSnk4QELgLxkinRCJW-bcwwB84TJnMbpADcTufPGpHh4YTT0ey2QufSEVMTxHWS0nXGFqnA2bY0qqK5ex8g4F26BM95z1bU",
       "domain": ".anct.gouv.fr",
       "path": "/",
-      "expires": 1752370126.428868,
+      "expires": 1752974957.027662,
       "size": 314,
       "httpOnly": false,
       "secure": true,
@@ -109,10 +109,10 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 13 Jul 2025 01:13:46 GMT",
-    "etag": "W/\"1752247522\"",
+    "date": "Sun, 20 Jul 2025 01:14:17 GMT",
+    "etag": "W/\"1752861989\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Fri, 11 Jul 2025 15:25:22 GMT",
+    "last-modified": "Fri, 18 Jul 2025 18:06:29 GMT",
     "referrer-policy": "origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\nCookie",
@@ -121,7 +121,7 @@
     "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "14d123575534b857118116507f8616be",
+    "x-request-id": "f94c940f278ad2119f74a1a517199d65",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -183,7 +183,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.191.234",
+      "ip": "142.251.32.10",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -237,7 +237,7 @@
     },
     {
       "hostname": "anct-site-prod.s3.fr-par.scw.cloud",
-      "ip": "51.159.62.18",
+      "ip": "51.159.62.20",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
