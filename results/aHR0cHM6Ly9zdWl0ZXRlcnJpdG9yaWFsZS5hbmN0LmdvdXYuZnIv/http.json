@@ -9,13 +9,13 @@
     "testsPassed": 8,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 13 Jul 2025 02:11:52 GMT",
+      "date": "Sun, 20 Jul 2025 02:12:03 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "ee591a3d-9136-4830-b377-b5fbc96432be",
+      "x-request-id": "a36b4adc-d9bf-4ab1-bd39-2ad44debcef0",
       "cross-origin-opener-policy": "same-origin",
-      "etag": "\"rgdilz30kq63m0\"",
+      "etag": "\"15ioh7g0r7a63o8\"",
       "vary": "Accept-Encoding",
       "strict-transport-security": "max-age=31536000"
     }
@@ -44,7 +44,10 @@
         ],
         "connect-src": [
           "'self'",
-          "*.gouv.fr"
+          "*.arcgis.com",
+          "*.cartocdn.com",
+          "*.gouv.fr",
+          "*.maplibre.org"
         ],
         "frame-src": [
           "'self'",
@@ -58,6 +61,10 @@
           "'self'",
           "blob:",
           "data:"
+        ],
+        "worker-src": [
+          "'self'",
+          "blob:"
         ]
       },
       "http": false,
