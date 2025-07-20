@@ -1,17 +1,17 @@
 {
   "scan": {
     "algorithmVersion": 4,
-    "grade": "B",
+    "grade": "B+",
     "error": null,
-    "score": 75,
+    "score": 80,
     "statusCode": 200,
     "testsFailed": 1,
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 13 Jul 2025 01:58:43 GMT",
+      "date": "Sun, 20 Jul 2025 02:00:09 GMT",
       "content-type": "text/html; charset=utf-8",
-      "content-length": "6203",
+      "transfer-encoding": "chunked",
       "connection": "close",
       "x-frame-options": "SAMEORIGIN",
       "x-xss-protection": "0",
@@ -19,30 +19,80 @@
       "x-download-options": "noopen",
       "x-permitted-cross-domain-policies": "none",
       "referrer-policy": "strict-origin-when-cross-origin",
-      "link": "</packs/css/application-1b36d1b4.css>; rel=preload; as=style; nopush",
+      "link": "</packs/css/application-b0874a81.css>; rel=preload; as=style; nopush",
       "vary": "Accept-Encoding",
-      "etag": "W/\"df6c81724a87f37fc6bd0b2a7e5302b9\"",
-      "cache-control": "max-age=0, private, must-revalidate",
+      "cache-control": "no-cache",
+      "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'connect-src' 'unsafe-inline' https://stats.beta.gouv.fr; connect-src 'self' https:; style-src 'self' https: 'unsafe-inline'; frame-src https://plugins.crisp.chat https://uneleveunstage.crisp.help https://app-0ad1c2e0-67c5-42c9-bfcb-f7958aeb80b8.cleverapps.io",
       "set-cookie": [
-        "_monstage_session=PMu8tK%2BmYcFcUJcfd6sAJK0cT8mBSPV53%2F9Eassl3Sa57tU9gxT%2FMbfe1%2FvYGsXzLp9ACMkdCw522Pa8BVrLHsKec61DmFsbwzTsoHgkyVl28btYF%2FWRHjtQqsQI2vQZivNQa4dYeUxT%2BWVzyYDP7%2F%2FSWkejgkbjSAdovg8ryL%2BIYRVzLpcJBMWoWC%2F8FJ%2FSr27Gw6QsJAaO6KZeYmHlcvhcm5X%2F699Dbpzr6nd2TQb6iUlEWgDrxKVSEz%2Fsc95oTXydHSSJuaxvjT61GVmNQx0HdQHmZ5ORZA%3D%3D--AP8IdQVb4Sn9IgYk--PEs%2F85gjmLLWYx3hnfm16A%3D%3D; path=/; secure; HttpOnly; SameSite=Lax"
+        "_monstage_session=%2FcbTs4ZzfaZDOItQYQZ8Q8L7P8AFoHD2IooG7FaBDcW0%2FuWVR3CxYutf%2FmtPSceQqyLSz%2BzQl7suYYfP4%2BYLc0tluj%2Ben0ku1wXnsjeZVrkKRPvodwTsLU6UlK0Hk%2BIgDQNSfUtZSb8WJrMsOX0ccNJf3%2BWoFjmCnTIO9ep6Z3PAMIWnSLdRwUjIn6wrNKfwona8EVsVvpnx0OrftdJb4VKoEZ4lFAZlQf5NCB0WZo%2B97IHM82WqI2ln1HfiT7tkXuGUtrkXauB9SJSZlDOiP1bp1QCcnfPlVw%3D%3D--62haixQIgfSFfs1e--ysMSsQQ7fIWghr%2FOVYPH%2BA%3D%3D; path=/; secure; httponly; samesite=lax"
       ],
-      "x-request-id": "808bd191-be05-414f-a5b5-c81f51692abf",
-      "x-runtime": "0.015228",
+      "x-request-id": "2c486812-a8a3-481c-8cc6-7025c905be36",
+      "x-runtime": "0.027987",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
-      "sozu-id": "01K00R32V7CPNVX73YHB7394V8"
+      "sozu-id": "01K0JRYPWYPTY62H3V3JVTVSAG"
     }
   },
   "tests": {
     "content-security-policy": {
       "expectation": "csp-implemented-with-no-unsafe",
       "pass": false,
-      "result": "csp-not-implemented",
-      "scoreModifier": -25,
-      "data": null,
-      "http": false,
+      "result": "csp-implemented-with-unsafe-inline",
+      "scoreModifier": -20,
+      "data": {
+        "default-src": [
+          "'self'",
+          "https:"
+        ],
+        "font-src": [
+          "'self'",
+          "data:",
+          "https:"
+        ],
+        "img-src": [
+          "'self'",
+          "data:",
+          "https:"
+        ],
+        "object-src": [
+          "'none'"
+        ],
+        "script-src": [
+          "'connect-src'",
+          "'self'",
+          "'unsafe-inline'",
+          "https:"
+        ],
+        "connect-src": [
+          "'self'",
+          "https:"
+        ],
+        "style-src": [
+          "'self'",
+          "'unsafe-inline'",
+          "https:"
+        ],
+        "frame-src": [
+          "https://app-0ad1c2e0-67c5-42c9-bfcb-f7958aeb80b8.cleverapps.io",
+          "https://plugins.crisp.chat",
+          "https://uneleveunstage.crisp.help"
+        ]
+      },
+      "http": true,
       "meta": false,
-      "policy": null,
-      "numPolicies": 0
+      "policy": {
+        "antiClickjacking": false,
+        "defaultNone": false,
+        "insecureBaseUri": true,
+        "insecureFormAction": true,
+        "insecureSchemeActive": false,
+        "insecureSchemePassive": false,
+        "strictDynamic": false,
+        "unsafeEval": false,
+        "unsafeInline": true,
+        "unsafeInlineStyle": true,
+        "unsafeObjects": false
+      },
+      "numPolicies": 1
     },
     "cookies": {
       "expectation": "cookies-secure-with-httponly-sessions",
