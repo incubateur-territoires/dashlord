@@ -63,7 +63,7 @@
       "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1752975857,
+      "expires": 1753580817,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -75,10 +75,10 @@
     },
     {
       "name": "_pk_id.22.6a82",
-      "value": "4a77243cbb0ba8ea.1752974058.",
+      "value": "316fd56bef188fd2.1753579017.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1786929258,
+      "expires": 1787534217,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -90,10 +90,10 @@
     },
     {
       "name": "bln_challengejs",
-      "value": "hQA1mos5yAdZgSFxljG1t8-wFQPerbMF90mnTBb0NBtRVwf4THhPU-AufaKNAZWu-rMxQ314WaJ5STaezMxlfN3ACCRn_w027Y7SZoS4j6Q7BW8_Xw0wbKWNWTv2jPx7vaQU46pkOuhqXWrZTLHGyDolrNqkVjaipTVS6-sCoFH7EsWWvYyLVn32Y_w3ziWLSxlm2JSMrdtHrSnk4QELgLxkinRCJW-bcwwB84TJnMbpADcTufPGpHh4YTT0ey2QufSEVMTxHWS0nXGFqnA2bY0qqK5ex8g4F26BM95z1bU",
+      "value": "VuDVbMTYS0EOM4-INF9v2l4V-vxM8sNTzqNwIlrZl9lkcn1wLBMmea745EOtCXM0uWbNcCOogxPHBdJogIMmbosJO-i9L4_fKSOWAKt65tQCtId9LiS-_O8-5k8LwEKCL2s1erO6Gtn9F1RzGR0LYAI8hdW0ZyZRkrusyQkRh4OIbTbKYLYdJB1XGnWHNxaIU8foglNvTdbI2KpNI7zh6xs8MfTZ-SoJm8x39-Bt1XfyWepM2xCDds80Mtzs95GbyGd8_ypxDgJx7yN-GefQdB0_VhJdfBkkwZEv6_Lf0bM",
       "domain": ".anct.gouv.fr",
       "path": "/",
-      "expires": 1752974957.027662,
+      "expires": 1753579916.489351,
       "size": 314,
       "httpOnly": false,
       "secure": true,
@@ -109,10 +109,10 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 20 Jul 2025 01:14:17 GMT",
-    "etag": "W/\"1752861989\"",
+    "date": "Sun, 27 Jul 2025 01:16:56 GMT",
+    "etag": "W/\"1753571474\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Fri, 18 Jul 2025 18:06:29 GMT",
+    "last-modified": "Sat, 26 Jul 2025 23:11:14 GMT",
     "referrer-policy": "origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\nCookie",
@@ -121,13 +121,13 @@
     "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "f94c940f278ad2119f74a1a517199d65",
+    "x-request-id": "4a495ab2ca1ab8976bca9251c01adab2",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
     {
       "hostname": "solutionsdelus.gouv.fr",
-      "ip": "80.247.12.255",
+      "ip": "185.21.194.105",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -183,7 +183,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.32.10",
+      "ip": "142.251.179.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -335,19 +335,19 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "146.75.77.229",
+      "ip": "151.101.129.229",
       "geoip": {
         "city": {
-          "geoname_id": 4887398,
+          "geoname_id": 5391959,
           "names": {
-            "de": "Chicago",
-            "en": "Chicago",
-            "es": "Chicago",
-            "fr": "Chicago",
-            "ja": "シカゴ",
-            "pt-BR": "Chicago",
-            "ru": "Чикаго",
-            "zh-CN": "芝加哥"
+            "de": "San Francisco",
+            "en": "San Francisco",
+            "es": "San Francisco",
+            "fr": "San Francisco",
+            "ja": "サンフランシスコ",
+            "pt-BR": "São Francisco",
+            "ru": "Сан-Франциско",
+            "zh-CN": "旧金山"
           }
         },
         "continent": {
@@ -379,14 +379,14 @@
           }
         },
         "location": {
-          "accuracy_radius": 20,
-          "latitude": 41.8835,
-          "longitude": -87.6305,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
+          "accuracy_radius": 1000,
+          "latitude": 37.7642,
+          "longitude": -122.3993,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
         },
         "postal": {
-          "code": "60602"
+          "code": "94107"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -404,17 +404,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
+            "geoname_id": 5332921,
+            "iso_code": "CA",
             "names": {
-              "de": "Illinois",
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
             }
           }
         ]
