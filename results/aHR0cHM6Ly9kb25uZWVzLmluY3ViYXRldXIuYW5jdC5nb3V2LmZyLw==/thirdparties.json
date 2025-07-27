@@ -1,17 +1,48 @@
 {
   "trackers": [],
-  "cookies": [],
+  "cookies": [
+    {
+      "name": "_pk_ses.73.8572",
+      "value": "1",
+      "domain": "donnees.incubateur.anct.gouv.fr",
+      "path": "/",
+      "expires": 1753580559,
+      "size": 16,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "priority": "Medium",
+      "sameParty": false,
+      "sourceScheme": "Secure"
+    },
+    {
+      "name": "_pk_id.73.8572",
+      "value": "dac4ec9d7e070d7b.1753578759.",
+      "domain": "donnees.incubateur.anct.gouv.fr",
+      "path": "/",
+      "expires": 1787533959,
+      "size": 42,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "priority": "Medium",
+      "sameParty": false,
+      "sourceScheme": "Secure"
+    }
+  ],
   "headers": {
     "cache-control": "max-age=600",
     "content-length": "46671",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 20 Jul 2025 01:09:47 GMT",
+    "date": "Sun, 27 Jul 2025 01:12:38 GMT",
     "etag": "\"d20701db89c2ff2a647b7493d0325ad22b310d9f6a30d44a54f3fe0ec5a9b595\"",
-    "expires": "Sun, 20 Jul 2025 01:19:47 UTC",
+    "expires": "Sun, 27 Jul 2025 01:22:38 UTC",
     "last-modified": "Wed, 02 Jul 2025 12:33:26 GMT",
     "permissions-policy": "interest-cohort=()",
     "vary": "Origin",
-    "x-request-id": "01K0JP2GM5PRQVCE69MR50BMC8"
+    "x-request-id": "01K14Q0RBP9G0C67NQFEDEZP52"
   },
   "endpoints": [
     {
