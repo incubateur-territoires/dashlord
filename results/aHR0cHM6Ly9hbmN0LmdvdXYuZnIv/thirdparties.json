@@ -71,7 +71,7 @@
       "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1752979678,
+      "expires": 1753584833,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -83,10 +83,10 @@
     },
     {
       "name": "_pk_id.22.6a82",
-      "value": "2c07bb1bc76bdef6.1752977878.",
+      "value": "3a1921d2726f2614.1753583034.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1786933078,
+      "expires": 1787538234,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -98,10 +98,10 @@
     },
     {
       "name": "bln_challengejs",
-      "value": "iORG4vKTMcn2g7VuRiIPNBqMlcmg-FDy6UHHz7zGM31Bq_CFFGarDRqOWY2CVbIp9L2Z-R8SnLixNSG_88rWu-C5Fq2jbi2diu8vnn62FURwLtMvy_5Sa_QX2cZ_SdGhIM3mpyZZ_qQlnBVsTW87Gd9o4DkgX7uIk8dAEfUaioLE8EAl27-CEJr7L2sl127lBWOVPrkyMX6rZIMa-XfzcZPvbA3gkGn4c5jPk4AcpLlHo7tghftehoMKKvYquWzZd1H2ImK1f4dw51byjvEBj5QxZvGH6eQ02mV_yf4dxOc",
+      "value": "0ViT-hVSo0nJSKv2UgcMbNDfKVNIaElGuBekQx6fE2DfdZzqC35yxdUBUUsgZ750PrapfWh03rV0JfB6copzLVPtQ2ZSTwSyfMfyHqFlpAK6_NdbspyBjprdeOkoFUmf_Ncx3Icc6VjvHjLhQVWbtvkwqgeDUazLjro_B6tLBtAnB4SCXqCo9IANwGm0AO0rDW28Qo1k3NVvHPbD32621hKreoJlGv21s0T9OBeRP3JApBRk2xi9n3mJbP7CJWe0VIE7K6z1TnBxytc1eVXcFJfY2Rjjz8_KmlK-n2EuI9I",
       "domain": ".anct.gouv.fr",
       "path": "/",
-      "expires": 1752978777.791816,
+      "expires": 1753583932.725458,
       "size": 314,
       "httpOnly": false,
       "secure": true,
@@ -117,10 +117,10 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 20 Jul 2025 02:17:57 GMT",
-    "etag": "W/\"1752745324\"",
+    "date": "Sun, 27 Jul 2025 02:23:52 GMT",
+    "etag": "W/\"1753361330\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Thu, 17 Jul 2025 09:42:04 GMT",
+    "last-modified": "Thu, 24 Jul 2025 12:48:50 GMT",
     "referrer-policy": "origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\nCookie",
@@ -129,7 +129,7 @@
     "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "f4039eb651116f53a9a1e30abe547d6a",
+    "x-request-id": "afc4cc6592c0fef20ea41d57bf3269f4",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -191,7 +191,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.167.95",
+      "ip": "172.217.12.106",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -343,19 +343,19 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "146.75.29.229",
+      "ip": "151.101.1.229",
       "geoip": {
         "city": {
-          "geoname_id": 4744870,
+          "geoname_id": 5391959,
           "names": {
-            "de": "Ashburn",
-            "en": "Ashburn",
-            "es": "Ashburn",
-            "fr": "Ashburn",
-            "ja": "アッシュバーン",
-            "pt-BR": "Ashburn",
-            "ru": "Ашберн",
-            "zh-CN": "阿什本"
+            "de": "San Francisco",
+            "en": "San Francisco",
+            "es": "San Francisco",
+            "fr": "San Francisco",
+            "ja": "サンフランシスコ",
+            "pt-BR": "São Francisco",
+            "ru": "Сан-Франциско",
+            "zh-CN": "旧金山"
           }
         },
         "continent": {
@@ -387,14 +387,14 @@
           }
         },
         "location": {
-          "accuracy_radius": 20,
-          "latitude": 39.0469,
-          "longitude": -77.4903,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
+          "accuracy_radius": 1000,
+          "latitude": 37.7642,
+          "longitude": -122.3993,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
         },
         "postal": {
-          "code": "20149"
+          "code": "94107"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -412,17 +412,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
+            "geoname_id": 5332921,
+            "iso_code": "CA",
             "names": {
-              "de": "Virginia",
-              "en": "Virginia",
-              "es": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
             }
           }
         ]
