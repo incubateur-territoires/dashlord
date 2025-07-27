@@ -9,7 +9,7 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 20 Jul 2025 02:00:09 GMT",
+      "date": "Sun, 27 Jul 2025 02:03:52 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
@@ -22,14 +22,14 @@
       "link": "</packs/css/application-b0874a81.css>; rel=preload; as=style; nopush",
       "vary": "Accept-Encoding",
       "cache-control": "no-cache",
-      "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'connect-src' 'unsafe-inline' https://stats.beta.gouv.fr; connect-src 'self' https:; style-src 'self' https: 'unsafe-inline'; frame-src https://plugins.crisp.chat https://uneleveunstage.crisp.help https://app-0ad1c2e0-67c5-42c9-bfcb-f7958aeb80b8.cleverapps.io",
+      "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'connect-src' 'unsafe-inline' https://stats.beta.gouv.fr; connect-src 'self' https:; style-src 'self' https: 'unsafe-inline'; frame-src https://plugins.crisp.chat https://uneleveunstage.crisp.help https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com",
       "set-cookie": [
-        "_monstage_session=%2FcbTs4ZzfaZDOItQYQZ8Q8L7P8AFoHD2IooG7FaBDcW0%2FuWVR3CxYutf%2FmtPSceQqyLSz%2BzQl7suYYfP4%2BYLc0tluj%2Ben0ku1wXnsjeZVrkKRPvodwTsLU6UlK0Hk%2BIgDQNSfUtZSb8WJrMsOX0ccNJf3%2BWoFjmCnTIO9ep6Z3PAMIWnSLdRwUjIn6wrNKfwona8EVsVvpnx0OrftdJb4VKoEZ4lFAZlQf5NCB0WZo%2B97IHM82WqI2ln1HfiT7tkXuGUtrkXauB9SJSZlDOiP1bp1QCcnfPlVw%3D%3D--62haixQIgfSFfs1e--ysMSsQQ7fIWghr%2FOVYPH%2BA%3D%3D; path=/; secure; httponly; samesite=lax"
+        "_monstage_session=5heYGqccfTT9FsS7pXlXPzpAZr6AZfRAKxs0kWg9zlFXFpJiJ4wcfdWO6K3RycfakNDiopkvMde4N%2FXCXCx6ObdjQgLUvfVvtU3iMsyA3GBMbZrOcn558nvaeI2o%2FPB8o6lmmUS4cYO5wBGz%2BGXwR4A0NIOMCqZeGBy97MU4YzTpM4EHVasThQxcls5fYt2KF%2B0jKChtA0NAqskSUxyWatDRz66Hp0t8Z2KKuKYcDEKEYGwnAamx4%2FaAYxNH8VgUI12hVL7qBPjCcmTAFhFbpr5ZTdcY7G3JDw%3D%3D--cMpgIRBojMnMz2MA--UAYwk4sd7GczhChlYdG7lg%3D%3D; path=/; secure; httponly; samesite=lax"
       ],
-      "x-request-id": "2c486812-a8a3-481c-8cc6-7025c905be36",
-      "x-runtime": "0.027987",
+      "x-request-id": "fa5e4e43-a5fa-4d42-ab08-9149a5245e5e",
+      "x-runtime": "0.023208",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
-      "sozu-id": "01K0JRYPWYPTY62H3V3JVTVSAG"
+      "sozu-id": "01K14SYHRN0XBQVWPDWN0T48FY"
     }
   },
   "tests": {
@@ -72,7 +72,7 @@
           "https:"
         ],
         "frame-src": [
-          "https://app-0ad1c2e0-67c5-42c9-bfcb-f7958aeb80b8.cleverapps.io",
+          "https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com",
           "https://plugins.crisp.chat",
           "https://uneleveunstage.crisp.help"
         ]
