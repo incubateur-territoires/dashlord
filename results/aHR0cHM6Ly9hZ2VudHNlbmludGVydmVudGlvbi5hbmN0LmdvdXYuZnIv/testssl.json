@@ -206,7 +206,7 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -353,7 +353,7 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "59 >= 30 days"
+              "finding"      : "52 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,14 +507,14 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-9 seconds from localtime"
+              "finding"      : "-2 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1753582426"
+              "finding"      : "1754187269"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -556,7 +556,7 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "x-powered-by: PHP/8.4.7"
+              "finding"      : "x-powered-by: PHP/8.4.10"
           }
 ,         {
               "id"           : "cookie_count",
@@ -1112,6 +1112,6 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.114.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "109"
+              "finding"      : "102"
           }
 ]
