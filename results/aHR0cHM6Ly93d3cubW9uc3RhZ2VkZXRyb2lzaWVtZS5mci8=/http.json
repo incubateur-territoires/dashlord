@@ -9,7 +9,7 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 27 Jul 2025 02:03:52 GMT",
+      "date": "Sun, 03 Aug 2025 02:05:13 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
@@ -19,17 +19,17 @@
       "x-download-options": "noopen",
       "x-permitted-cross-domain-policies": "none",
       "referrer-policy": "strict-origin-when-cross-origin",
-      "link": "</packs/css/application-b0874a81.css>; rel=preload; as=style; nopush",
+      "link": "</packs/css/application-b0a41b72.css>; rel=preload; as=style; nopush",
       "vary": "Accept-Encoding",
       "cache-control": "no-cache",
       "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'connect-src' 'unsafe-inline' https://stats.beta.gouv.fr; connect-src 'self' https:; style-src 'self' https: 'unsafe-inline'; frame-src https://plugins.crisp.chat https://uneleveunstage.crisp.help https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com",
       "set-cookie": [
-        "_monstage_session=5heYGqccfTT9FsS7pXlXPzpAZr6AZfRAKxs0kWg9zlFXFpJiJ4wcfdWO6K3RycfakNDiopkvMde4N%2FXCXCx6ObdjQgLUvfVvtU3iMsyA3GBMbZrOcn558nvaeI2o%2FPB8o6lmmUS4cYO5wBGz%2BGXwR4A0NIOMCqZeGBy97MU4YzTpM4EHVasThQxcls5fYt2KF%2B0jKChtA0NAqskSUxyWatDRz66Hp0t8Z2KKuKYcDEKEYGwnAamx4%2FaAYxNH8VgUI12hVL7qBPjCcmTAFhFbpr5ZTdcY7G3JDw%3D%3D--cMpgIRBojMnMz2MA--UAYwk4sd7GczhChlYdG7lg%3D%3D; path=/; secure; httponly; samesite=lax"
+        "_monstage_session=2zAWqEoxqRJW8TQl8nhZPtxDTZ3QeRHb4RJSDcBYZDQk92DMOE6QauEZZYV9u%2F6FnFFE%2FDJ1CrTHXcW9G7riAhYhcd9uJhg684LGRX6KoDi8V3DjahvANyAYiVxo6faqh5p8qcHjxtQgmtnNiDuZI5qChh%2BAUl6TXn4r1EkZe%2FhdTDlTIiXYovEHwVYPp67tYPmhbpsP4U04VDO3hJ6G1b%2BXADulCmCXlPP5Az%2B6%2F4EMma2V4Kv4yMtFR9hSa9Q4f%2Bna2SqK%2Baa4FGho%2BJkRmN2bWW5cPhif9g%3D%3D--qRG3pss%2Fqi79%2FPUT--jbBNJynY0m6nAFh%2FXETHNQ%3D%3D; path=/; secure; httponly; samesite=lax"
       ],
-      "x-request-id": "fa5e4e43-a5fa-4d42-ab08-9149a5245e5e",
-      "x-runtime": "0.023208",
+      "x-request-id": "107fac80-7af2-41f7-b9a2-aac061740f8e",
+      "x-runtime": "0.082984",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
-      "sozu-id": "01K14SYHRN0XBQVWPDWN0T48FY"
+      "sozu-id": "01K1PTT230QX5ABRDQYQS474C5"
     }
   },
   "tests": {
