@@ -10,7 +10,7 @@
     "testsQuantity": 10,
     "responseHeaders": {
       "connection": "close",
-      "content-length": "28658",
+      "content-length": "28818",
       "content-type": "text/html; charset=utf-8",
       "x-frame-options": "SAMEORIGIN",
       "vary": "Cookie",
@@ -19,10 +19,10 @@
       "referrer-policy": "same-origin",
       "cross-origin-opener-policy": "same-origin",
       "set-cookie": [
-        "csrftoken=N1ZPCYRrMCIHT5SdOEs0JXlR0VdWDk6t; expires=Sun, 26 Jul 2026 01:27:55 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure"
+        "csrftoken=NHAaHYCr0S5xjlOcYwz7trvhRh2b6oJc; expires=Sun, 02 Aug 2026 01:28:55 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure"
       ],
       "via": "1.1 alproxy",
-      "date": "Sun, 27 Jul 2025 01:27:55 GMT"
+      "date": "Sun, 03 Aug 2025 01:28:55 GMT"
     }
   },
   "tests": {
@@ -45,7 +45,7 @@
       "data": {
         "csrftoken": {
           "domain": "monespacecollectivite.incubateur.anct.gouv.fr",
-          "expires": "2026-07-26T01:27:55.000Z",
+          "expires": "2026-08-02T01:28:55.000Z",
           "max-age": 31449600,
           "path": "/",
           "port": null,
