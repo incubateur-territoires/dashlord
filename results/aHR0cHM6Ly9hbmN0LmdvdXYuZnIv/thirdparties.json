@@ -14,7 +14,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/opti/s3/2025-07/visuel-comprendre_rapport-contrib-sociale-tiers-lieux_page-2.jpg.webp?itok=_9j9SkCg"
+      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/opti/s3/2025-01/incubateur.png.webp?itok=0NJzfx60"
     },
     {
       "type": "unknown",
@@ -71,7 +71,7 @@
       "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1753584833,
+      "expires": 1754189583,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -83,10 +83,10 @@
     },
     {
       "name": "_pk_id.22.6a82",
-      "value": "3a1921d2726f2614.1753583034.",
+      "value": "20db47590efeabe5.1754187784.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1787538234,
+      "expires": 1788142984,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -98,10 +98,10 @@
     },
     {
       "name": "bln_challengejs",
-      "value": "0ViT-hVSo0nJSKv2UgcMbNDfKVNIaElGuBekQx6fE2DfdZzqC35yxdUBUUsgZ750PrapfWh03rV0JfB6copzLVPtQ2ZSTwSyfMfyHqFlpAK6_NdbspyBjprdeOkoFUmf_Ncx3Icc6VjvHjLhQVWbtvkwqgeDUazLjro_B6tLBtAnB4SCXqCo9IANwGm0AO0rDW28Qo1k3NVvHPbD32621hKreoJlGv21s0T9OBeRP3JApBRk2xi9n3mJbP7CJWe0VIE7K6z1TnBxytc1eVXcFJfY2Rjjz8_KmlK-n2EuI9I",
+      "value": "VuDVbMTYS0EOM4-INF9v2l4V-vxM8sNTzqNwIlrZl9lkcn1wLBMmea745EOtCXM0uWbNcCOogxPHBdJogIMmbosJO-i9L4_fKSOWAKt65tQCtId9LiS-_O8-5k8LwEKCL2s1erO6Gtn9F1RzGR0LYAI8hdW0ZyZRkrusyQkRh4PzJ8QQwgJvfnL6TurYJfMK6mJHPNGP8veyp7V_yP-nb50C8jSzwE9Eg4VHK7Bqhxr406SO7PFxnJI8xfSsreKAZz-WL7Qd-kQlSHgtbaiLnpSBhfLVzUleSWDRAqfZMu8",
       "domain": ".anct.gouv.fr",
       "path": "/",
-      "expires": 1753583932.725458,
+      "expires": 1754188683.130106,
       "size": 314,
       "httpOnly": false,
       "secure": true,
@@ -117,10 +117,10 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 27 Jul 2025 02:23:52 GMT",
-    "etag": "W/\"1753361330\"",
+    "date": "Sun, 03 Aug 2025 02:23:03 GMT",
+    "etag": "W/\"1753967770\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Thu, 24 Jul 2025 12:48:50 GMT",
+    "last-modified": "Thu, 31 Jul 2025 13:16:10 GMT",
     "referrer-policy": "origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\nCookie",
@@ -129,7 +129,7 @@
     "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "afc4cc6592c0fef20ea41d57bf3269f4",
+    "x-request-id": "db201b5cf70aa05076355d10fe3851e0",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -191,7 +191,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "172.217.12.106",
+      "ip": "172.253.63.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -245,7 +245,7 @@
     },
     {
       "hostname": "anct-site-prod.s3.fr-par.scw.cloud",
-      "ip": "51.159.62.19",
+      "ip": "51.159.62.18",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
@@ -343,59 +343,8 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "151.101.1.229",
+      "ip": "104.16.175.226",
       "geoip": {
-        "city": {
-          "geoname_id": 5391959,
-          "names": {
-            "de": "San Francisco",
-            "en": "San Francisco",
-            "es": "San Francisco",
-            "fr": "San Francisco",
-            "ja": "サンフランシスコ",
-            "pt-BR": "São Francisco",
-            "ru": "Сан-Франциско",
-            "zh-CN": "旧金山"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.7642,
-          "longitude": -122.3993,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
-        },
-        "postal": {
-          "code": "94107"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -409,23 +358,7 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
-            "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
-            }
-          }
-        ]
+        }
       }
     },
     {
