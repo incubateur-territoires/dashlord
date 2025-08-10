@@ -7,10 +7,6 @@
     {
       "type": "unknown",
       "url": "https://sentry.anct.cloud-ed.fr/api/7/envelope/?sentry_version=7&sentry_key=78a1b78e61aeaae9211b3d50ee2f71fa&sentry_client=sentry.javascript.nextjs%2F8.55.0"
-    },
-    {
-      "type": "unknown",
-      "url": "https://sentry.anct.cloud-ed.fr/api/7/envelope/?sentry_version=7&sentry_key=78a1b78e61aeaae9211b3d50ee2f71fa&sentry_client=sentry.javascript.nextjs%2F8.55.0"
     }
   ],
   "cookies": [
@@ -31,7 +27,7 @@
     },
     {
       "name": "__Host-next-auth.csrf-token",
-      "value": "f616115afa3b627a3353ee306a69211f5ee763660c562971dfe11ad1eb98b8cf%7Cf229ba996336296f94d6e83f2575d7c30365664d7aade1710346cac59b447673",
+      "value": "faea345671ea1483204f188bf68a7ccaef2103ad388fac8248fc9a0322d27e11%7Cdb05fae1b8b7bc003ba1431864414d68d56c78468fdfa04c19c023a96ae8c60a",
       "domain": "tous-connectes.anct.gouv.fr",
       "path": "/",
       "expires": -1,
@@ -50,7 +46,7 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self'; frame-src 'self' https://tube.numerique.gouv.fr https://toutes-tous-connectes-metabase.osc-secnum-fr1.scalingo.io; frame-ancestors 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' blob: https://matomo.incubateur.anct.gouv.fr; worker-src 'self' blob:; connect-src *; img-src * blob: data:; style-src 'self' 'unsafe-inline'; font-src 'self' data:; form-action 'self'; base-uri 'self'",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 03 Aug 2025 01:55:56 GMT",
+    "date": "Sun, 10 Aug 2025 01:53:02 GMT",
     "etag": "\"16a6omt4s3p2jms\"",
     "referrer-policy": "strict-origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000",
@@ -59,7 +55,7 @@
     "x-frame-options": "SAMEORIGIN",
     "x-nextjs-cache": "HIT",
     "x-powered-by": "Next.js",
-    "x-request-id": "435e6996-3062-4b15-8e4b-e7e4babea1be"
+    "x-request-id": "ec3b2a31-4bd4-444b-84dc-a3e741ed5c80"
   },
   "endpoints": [
     {
