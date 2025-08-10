@@ -23,7 +23,7 @@
       "value": "1",
       "domain": "www.conseiller-numerique.gouv.fr",
       "path": "/",
-      "expires": 1754186658,
+      "expires": 1754791301,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -35,10 +35,10 @@
     },
     {
       "name": "_pk_id.147.204e",
-      "value": "568c4658472ff4bb.1754184858.",
+      "value": "887be7f5365a4283.1754789501.",
       "domain": "www.conseiller-numerique.gouv.fr",
       "path": "/",
-      "expires": 1788140058,
+      "expires": 1788744701,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -53,22 +53,22 @@
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "max-age=60, private, proxy-revalidate",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "9692125e5da5d6cb-IAD",
+    "cf-ray": "96cbbc284973c94e-IAD",
     "content-encoding": "zstd",
     "content-type": "text/html",
-    "date": "Sun, 03 Aug 2025 01:34:17 GMT",
+    "date": "Sun, 10 Aug 2025 01:31:40 GMT",
     "last-modified": "Thu, 31 Jul 2025 15:47:48 GMT",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=CjrZHLYoyj9e77xz9qx9LPuyBuFzOY3gThGVFR0lO8por6PztF3EHlXotvfw3ViUM%2FmjeNpW5VaamQCrBApqkFWgS4ETcAr6PB9baYgQNA7kx%2FiTgA0g%2F%2FUeeGJqw76N781NOki%2FzsZ9kbWVAWEFHbmyyg%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=07H3Cb%2F64ONN5jhDqEfNA1BqNGSYRHDI78XF%2BMkBzSD3mcqssGtjFORtDXOiGnISwYZUDYbJuxhAe5BekZL0fwKDP2pHjv%2BQ0UnyQiNTReynXP0xGeiW7ZvF28onxYzl7Mjwg3QoJ2FtnqtpGAHpdtPTMw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
-    "server-timing": "cfL4;desc=\"?proto=QUIC&rtt=5525&min_rtt=5294&rtt_var=707&sent=13&recv=13&lost=0&retrans=0&sent_bytes=4880&recv_bytes=4722&delivery_rate=1771160&ss_exit_cwnd=0&ss_exit_reason=0&cwnd=16777&unsent_bytes=0&cid=de8c07fa445cee11&ts=279&inflight_dur=49&x=103\"",
-    "sozu-id": "01K1PS1DW6Z2WKNX6C25G1R6ZX",
+    "server-timing": "cfL4;desc=\"?proto=QUIC&rtt=1773&min_rtt=1479&rtt_var=498&sent=13&recv=12&lost=0&retrans=0&sent_bytes=4875&recv_bytes=4678&delivery_rate=1673847&ss_exit_cwnd=0&ss_exit_reason=0&cwnd=16772&unsent_bytes=0&cid=c733dd971950908c&ts=269&inflight_dur=34&x=103\"",
+    "sozu-id": "01K28SNNDHPH503DXEP2VDNHBB",
     "vary": "Accept-Encoding"
   },
   "endpoints": [
     {
       "hostname": "www.conseiller-numerique.gouv.fr",
-      "ip": "104.21.80.1",
+      "ip": "104.21.32.1",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -88,7 +88,7 @@
     },
     {
       "hostname": "challenges.cloudflare.com",
-      "ip": "104.18.94.41",
+      "ip": "104.18.95.41",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
