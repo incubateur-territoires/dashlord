@@ -1,21 +1,21 @@
 {
   "scan": {
     "algorithmVersion": 4,
-    "grade": "D-",
+    "grade": "D",
     "error": null,
-    "score": 25,
+    "score": 30,
     "statusCode": 200,
-    "testsFailed": 5,
-    "testsPassed": 5,
+    "testsFailed": 4,
+    "testsPassed": 6,
     "testsQuantity": 10,
     "responseHeaders": {
       "content-type": "text/html;charset=utf-8",
-      "date": "Sun, 03 Aug 2025 00:57:21 GMT",
+      "date": "Sun, 10 Aug 2025 00:54:48 GMT",
       "server": "envoy",
       "vary": "Accept-Encoding,Accept-Encoding",
       "x-powered-by": "Nuxt",
       "x-robots-tag": "index, follow",
-      "x-envoy-upstream-service-time": "35",
+      "x-envoy-upstream-service-time": "71",
       "connection": "close",
       "transfer-encoding": "chunked"
     }
@@ -82,15 +82,10 @@
     },
     "subresource-integrity": {
       "expectation": "sri-implemented-and-external-scripts-loaded-securely",
-      "pass": false,
-      "result": "sri-not-implemented-but-external-scripts-loaded-securely",
-      "scoreModifier": -5,
-      "data": {
-        "https://cdn.jsdelivr.net/npm/@gouvfr/dsfr@1.12.1/dist/dsfr.module.min.js": {
-          "crossorigin": null,
-          "integrity": null
-        }
-      }
+      "pass": true,
+      "result": "sri-not-implemented-but-all-scripts-loaded-from-secure-origin",
+      "scoreModifier": 0,
+      "data": {}
     },
     "x-content-type-options": {
       "expectation": "x-content-type-options-nosniff",
