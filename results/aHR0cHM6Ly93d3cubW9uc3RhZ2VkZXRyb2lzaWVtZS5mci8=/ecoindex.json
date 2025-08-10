@@ -3,7 +3,7 @@
         "width": 1920,
         "height": 1080,
         "url": "https://www.monstagedetroisieme.fr/",
-        "size": 3387.24,
+        "size": 3387.189,
         "nodes": 344,
         "requests": 22,
         "grade": "C",
@@ -11,7 +11,7 @@
         "ges": 1.64,
         "water": 2.46,
         "ecoindex_version": "5.4.2",
-        "date": "2025-08-03 02:01:00.390320",
+        "date": "2025-08-10 01:52:55.668100",
         "page_type": null
     }
 ]
