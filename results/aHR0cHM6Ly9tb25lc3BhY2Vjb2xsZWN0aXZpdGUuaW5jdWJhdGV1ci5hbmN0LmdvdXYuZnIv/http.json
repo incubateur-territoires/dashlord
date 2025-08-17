@@ -19,10 +19,10 @@
       "referrer-policy": "same-origin",
       "cross-origin-opener-policy": "same-origin",
       "set-cookie": [
-        "csrftoken=d8GcY7v837C6DvqwqgNkle1ALsEw1Zjz; expires=Sun, 09 Aug 2026 01:26:25 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure"
+        "csrftoken=myeg5UW27wxxDk0U7Cp32e4Zzuvro3G1; expires=Sun, 16 Aug 2026 01:23:17 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure"
       ],
       "via": "1.1 alproxy",
-      "date": "Sun, 10 Aug 2025 01:26:26 GMT"
+      "date": "Sun, 17 Aug 2025 01:23:17 GMT"
     }
   },
   "tests": {
@@ -45,7 +45,7 @@
       "data": {
         "csrftoken": {
           "domain": "monespacecollectivite.incubateur.anct.gouv.fr",
-          "expires": "2026-08-09T01:26:25.000Z",
+          "expires": "2026-08-16T01:23:17.000Z",
           "max-age": 31449600,
           "path": "/",
           "port": null,
