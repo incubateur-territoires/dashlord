@@ -63,7 +63,7 @@
       "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1754790393,
+      "expires": 1755394925,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -75,10 +75,10 @@
     },
     {
       "name": "_pk_id.22.6a82",
-      "value": "c3d579e991ec940b.1754788594.",
+      "value": "70140faa14081085.1755393126.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1788743794,
+      "expires": 1789348326,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -90,10 +90,10 @@
     },
     {
       "name": "bln_challengejs",
-      "value": "VuDVbMTYS0EOM4-INF9v2l4V-vxM8sNTzqNwIlrZl9lkcn1wLBMmea745EOtCXM0uWbNcCOogxPHBdJogIMmbosJO-i9L4_fKSOWAKt65tQCtId9LiS-_O8-5k8LwEKCPnNJuQrLQmwdyTyj1Iz1IxcBhMK_oY2vWD-Y029ZMqooNYOLMsgm4xpHurUQ-RX2PtiCMHZ154CVV1wxsHEAl3wbqHS1RFvmJ5iWKo0cnZpD-Wi6CEcbtPgefVKW789qEISnLrRRAShx37bYQadMZdu-7y-kYW64M1g8ZdQzey4",
+      "value": "VuDVbMTYS0EOM4-INF9v2l4V-vxM8sNTzqNwIlrZl9lkcn1wLBMmea745EOtCXM0uWbNcCOogxPHBdJogIMmbosJO-i9L4_fKSOWAKt65tQCtId9LiS-_O8-5k8LwEKCPnNJuQrLQmwdyTyj1Iz1IxcBhMK_oY2vWD-Y029ZMqq0nA3E0eCd3auF_kGD7fmcCHoBETjHAYds3JeW8whK3bNCHGNo-GPZjVg2LhRMwTyEXGuzJ196iBNZX8CSoH6vetUpIbmgeBAGUM97w_pFnTGfOqnoBPJqmzgnMMvi3vw",
       "domain": ".anct.gouv.fr",
       "path": "/",
-      "expires": 1754789493.101429,
+      "expires": 1755394024.992533,
       "size": 314,
       "httpOnly": false,
       "secure": true,
@@ -109,10 +109,10 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 10 Aug 2025 01:16:33 GMT",
-    "etag": "W/\"1754582680\"",
+    "date": "Sun, 17 Aug 2025 01:12:05 GMT",
+    "etag": "W/\"1755102863\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Thu, 07 Aug 2025 16:04:40 GMT",
+    "last-modified": "Wed, 13 Aug 2025 16:34:23 GMT",
     "referrer-policy": "origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\nCookie",
@@ -121,13 +121,13 @@
     "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "8e6a5464cd1d454a2ae387a1f3a579d6",
+    "x-request-id": "97c07fb6a77bf942176f7a62e9604229",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
     {
       "hostname": "solutionsdelus.gouv.fr",
-      "ip": "148.253.96.193",
+      "ip": "185.21.194.105",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -183,7 +183,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "64.233.180.95",
+      "ip": "209.85.145.95",
       "geoip": {
         "continent": {
           "code": "NA",
