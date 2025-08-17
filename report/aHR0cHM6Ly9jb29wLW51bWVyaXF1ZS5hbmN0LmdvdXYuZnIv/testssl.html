@@ -19,9 +19,9 @@
 <span style="font-weight:bold;">#####################################################################</span>
 
   Using <i>OpenSSL 1.0.2-bad (Mar 28 2025)</i>  [~183 ciphers]
-  on pkrvmsl9tci6h6u:/home/testssl/bin/openssl.Linux.x86_64
+  on pkrvmubgrv54qmi:/home/testssl/bin/openssl.Linux.x86_64
 
-<span style="color:white;background-color:black;"> Start 2025-08-10 01:43:13        --&gt;&gt; 195.154.73.190:443 (coop-numerique.anct.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Start 2025-08-17 01:39:50        --&gt;&gt; 195.154.73.190:443 (coop-numerique.anct.gouv.fr) &lt;&lt;--</span>
 
  Further IP addresses:   2001:bc8:710:23c4:: 
  rDNS (195.154.73.190):  195-154-73-190.rev.poneytelecom.eu.
@@ -84,7 +84,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                               &quot;renegotiation info/#65281&quot;
 <span style="font-weight:bold;"> Session Ticket RFC 5077 hint </span>7200 seconds, session tickets keys seems to be rotated &lt; daily
 <span style="font-weight:bold;"> SSL Session ID support       </span>yes
-<span style="font-weight:bold;"> Session Resumption           </span>Tickets no, ID: no
+<span style="font-weight:bold;"> Session Resumption           </span>Tickets: yes, ID: yes
 <span style="font-weight:bold;"> TLS clock skew</span>               Random values, no fingerprinting possible 
 <span style="font-weight:bold;"> Certificate Compression      </span>none
 <span style="font-weight:bold;"> Client Authentication        </span>none
@@ -92,19 +92,19 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Server key size              </span>RSA 2048 bits (exponent is 65537)
 <span style="font-weight:bold;"> Server key usage             </span>Digital Signature, Key Encipherment
 <span style="font-weight:bold;"> Server extended key usage    </span>TLS Web Server Authentication, TLS Web Client Authentication
-<span style="font-weight:bold;"> Serial                       </span>05A3C0CAEB55E17CC9001286927634233647 (OK: length 18)
-<span style="font-weight:bold;"> Fingerprints                 </span>SHA1 CFA5CA1CBC6E59BDF404FA06EE3589CB9670169C
-                              SHA256 948B4778C075226C99C3C9CD35B52AC63FFDFA202719B808A6D357DBA58D33BD
+<span style="font-weight:bold;"> Serial                       </span>05A3DDFBB06C6664DF2DB2F7F427034E2A37 (OK: length 18)
+<span style="font-weight:bold;"> Fingerprints                 </span>SHA1 24AF40188382CD862CB738863937619659ED92E4
+                              SHA256 21359B9ED060A80157B254434E9BD6C998C998F6410BD07FA0FF6EEB4E013139
 <span style="font-weight:bold;"> Common Name (CN)             </span><i>coop-numerique.anct.gouv.fr </i> (CN in response to request w/o SNI: <i>*.functions.fnc.fr-par.scw.cloud </i>)
 <span style="font-weight:bold;"> subjectAltName (SAN)         </span><i>coop-numerique.anct.gouv.fr </i>
 <span style="font-weight:bold;"> Trust (hostname)             </span><span style="color:#008817;">Ok via SAN and CN</span> (SNI mandatory)
                               <span style="color:#a86437;">wildcard certificate</span> could be problematic, see other hosts at
-                              https://search.censys.io/search?resource=hosts&amp;virtual_hosts=INCLUDE&amp;q=948B4778C075226C99C3C9CD35B52AC63FFDFA202719B808A6D357DBA58D33BD
+                              https://search.censys.io/search?resource=hosts&amp;virtual_hosts=INCLUDE&amp;q=21359B9ED060A80157B254434E9BD6C998C998F6410BD07FA0FF6EEB4E013139
 <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
 <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">36 &gt;= 30 days</span> (2025-06-17 02:51 --&gt; 2025-09-15 02:51)
+<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">89 &gt;= 30 days</span> (2025-08-16 01:53 --&gt; 2025-11-14 01:53)
 <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
-<span style="font-weight:bold;"> Certificate Revocation List  </span>http://r11.c.lencr.org/72.crl
+<span style="font-weight:bold;"> Certificate Revocation List  </span>http://r11.c.lencr.org/56.crl
 <span style="font-weight:bold;"> OCSP URI                     </span>--
 <span style="font-weight:bold;"> OCSP stapling                </span>not offered
 <span style="font-weight:bold;"> OCSP must staple extension   </span>--
@@ -119,7 +119,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="text-decoration:underline;font-weight:bold;"> Testing HTTP header response @ &quot;/&quot; </span>
 
 <span style="font-weight:bold;"> HTTP Status Code           </span>  200 OK
-<span style="font-weight:bold;"> HTTP clock skew              </span>-2 sec from localtime
+<span style="font-weight:bold;"> HTTP clock skew              </span>0 sec from localtime
 <span style="font-weight:bold;"> Strict Transport Security    </span><span style="color:#008817;">730 days</span>=63072000 s<span style="color:#168092;">, just this domain</span>
 <span style="font-weight:bold;"> Public Key Pinning           </span>--
 <span style="font-weight:bold;"> Server banner                </span>envoy&apos;
@@ -176,7 +176,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> FREAK</span> (CVE-2015-0204)                     <span style="color:#008817;font-weight:bold;">not vulnerable (OK)</span>
 <span style="font-weight:bold;"> DROWN</span> (CVE-2016-0800, CVE-2016-0703)      <span style="color:#008817;font-weight:bold;">not vulnerable on this host and port (OK)</span>
                                            make sure you don&apos;t use this certificate elsewhere with SSLv2 enabled services, see
-                                           <a href="https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=948B4778C075226C99C3C9CD35B52AC63FFDFA202719B808A6D357DBA58D33BD" style="color:black;text-decoration:none;">https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=948B4778C075226C99C3C9CD35B52AC63FFDFA202719B808A6D357DBA58D33BD</a>
+                                           <a href="https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=21359B9ED060A80157B254434E9BD6C998C998F6410BD07FA0FF6EEB4E013139" style="color:black;text-decoration:none;">https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=21359B9ED060A80157B254434E9BD6C998C998F6410BD07FA0FF6EEB4E013139</a>
 <span style="font-weight:bold;"> LOGJAM</span> (CVE-2015-4000), experimental      <span style="color:#008817;">not vulnerable (OK):</span> no DH EXPORT ciphers, no DH key detected with &lt;= TLS 1.2
 <span style="font-weight:bold;"> BEAST</span> (CVE-2011-3389)                     <span style="color:#008817;">not vulnerable (OK)</span>, no SSL3 or TLS1
 <span style="font-weight:bold;"> LUCKY13</span> (CVE-2013-0169), experimental     <span style="color:#008817;font-weight:bold;">not vulnerable (OK)</span>
@@ -235,7 +235,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Final Score                  </span>81
 <span style="font-weight:bold;"> Overall Grade                </span><span style="color:#008817;font-weight:bold;">A+</span>
 
-<span style="color:white;background-color:black;"> Done 2025-08-10 01:44:09 [  58s] --&gt;&gt; 195.154.73.190:443 (coop-numerique.anct.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Done 2025-08-17 01:40:46 [  59s] --&gt;&gt; 195.154.73.190:443 (coop-numerique.anct.gouv.fr) &lt;&lt;--</span>
 
 
 </pre>
