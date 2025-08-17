@@ -9,7 +9,7 @@
     "testsPassed": 5,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 10 Aug 2025 01:34:14 GMT",
+      "date": "Sun, 17 Aug 2025 01:29:05 GMT",
       "content-type": "text/html",
       "transfer-encoding": "chunked",
       "connection": "close",
@@ -17,11 +17,11 @@
       "last-modified": "Thu, 31 Jul 2025 15:47:48 GMT",
       "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
       "vary": "Accept-Encoding",
-      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=OI4SdqEMg6D42zaW%2F6v%2BIJvYnGZoHp8bfpwTCmzeawqETx3GeQa9ap2H9uLz4Ku86kHeu7AFLVlw7qKyKeOYpViFv8UnLyZiTpkhnoA6TDrOWtD2niRy62BTXH6u4aRV\"}]}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=xmA0HZbxY%2BR0AXGIJc3ES01Fa0LjXqRPMw%2Fk62UIhFKYTIfraVF55e6p68bJT3f%2F8Pi4BurmQ2MRXAPtTdfUmUSkZ4YfAYJy18d0lTEVhnULv5t8FysUeP46N5xSsZ%2Bm\"}]}",
       "cache-control": "max-age=60, private, proxy-revalidate",
-      "sozu-id": "01K28STBJ357ZTNBDTP633PWRE",
+      "sozu-id": "01K2TT9Z974RFHW9T5J76MM6VY",
       "cf-cache-status": "DYNAMIC",
-      "cf-ray": "96cbbfe9383a3ae4-IAD",
+      "cf-ray": "97056600680b6cd4-SJC",
       "alt-svc": "h3=\":443\"; ma=86400"
     }
   },
