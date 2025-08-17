@@ -9,11 +9,11 @@
     "testsPassed": 7,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 10 Aug 2025 02:15:38 GMT",
+      "date": "Sun, 17 Aug 2025 02:06:42 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "f9f6bbaf-bb41-479b-a802-97ab63aae337",
+      "x-request-id": "7e10b62d-e0d2-4b79-aaff-0f60fc554136",
       "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch, Accept-Encoding",
       "link": "</_next/static/media/mec-logo.ff43dc9c.svg>; rel=preload; as=\"image\", </_next/static/media/anct.b75727cd.svg>; rel=preload; as=\"image\"",
       "x-powered-by": "Next.js",
