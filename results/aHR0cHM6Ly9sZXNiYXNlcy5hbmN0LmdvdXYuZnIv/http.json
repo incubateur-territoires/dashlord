@@ -10,17 +10,17 @@
     "testsQuantity": 10,
     "responseHeaders": {
       "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
-      "content-security-policy": "default-src 'self' https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.net; script-src 'self' https://matomo.incubateur.anct.gouv.fr 'unsafe-inline' 'unsafe-eval'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; img-src 'self' https://storage.lesbases.anct.gouv.fr data: blob:; frame-src https://www.youtube-nocookie.com/; object-src 'none'; connect-src 'self' blob: https://la-base-uploads.s3.fr-par.scw.cloud https://auth.agentconnect.gouv.fr https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.net https://openmaptiles.geo.data.gouv.fr https://openmaptiles.github.io https://aides-territoires.beta.gouv.fr https://recherche-entreprises.api.gouv.fr https://api-adresse.data.gouv.fr; worker-src 'self' blob:; font-src 'self' https: data:; frame-ancestors 'self' https://matomo.incubateur.anct.gouv.fr; form-action 'self'; base-uri 'self'; upgrade-insecure-requests true;",
+      "content-security-policy": "default-src 'self' https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.anct.gouv.fr; script-src 'self' https://matomo.incubateur.anct.gouv.fr 'unsafe-inline' 'unsafe-eval'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; img-src 'self' https://storage.lesbases.anct.gouv.fr data: blob:; frame-src https://www.youtube-nocookie.com/ https://global.frcapi.com/; object-src 'none'; connect-src 'self' blob: https://la-base-uploads.s3.fr-par.scw.cloud https://auth.agentconnect.gouv.fr https://sentry.incubateur.anct.gouv.fr/ https://openmaptiles.geo.data.gouv.fr https://openmaptiles.github.io https://aides-territoires.beta.gouv.fr https://recherche-entreprises.api.gouv.fr https://api-adresse.data.gouv.fr; worker-src 'self' blob:; font-src 'self' https: data:; frame-ancestors 'self' https://matomo.incubateur.anct.gouv.fr; form-action 'self'; base-uri 'self'; upgrade-insecure-requests;",
       "content-type": "text/html; charset=utf-8",
-      "date": "Sun, 10 Aug 2025 01:50:33 GMT",
-      "link": "</dsfr/fonts/Marianne-Regular.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </dsfr/fonts/Marianne-Bold.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </dsfr/fonts/Marianne-Medium.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </images/logo-anct.svg>; rel=preload; as=\"image\", </_next/static/css/a4e3ef47d5e945c2.css>; rel=preload; as=\"style\", </_next/static/css/0e906fc7409f953a.css>; rel=preload; as=\"style\", </_next/static/css/7f404c4f549b79db.css>; rel=preload; as=\"style\"",
+      "date": "Sun, 17 Aug 2025 01:43:54 GMT",
+      "link": "</dsfr/fonts/Marianne-Regular.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </dsfr/fonts/Marianne-Bold.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </dsfr/fonts/Marianne-Medium.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </images/logo-anct.svg>; rel=preload; as=\"image\", </_next/static/css/a4e3ef47d5e945c2.css>; rel=preload; as=\"style\", </_next/static/css/3346cc42ac4d5cb0.css>; rel=preload; as=\"style\", </_next/static/css/7f404c4f549b79db.css>; rel=preload; as=\"style\"",
       "strict-transport-security": "max-age=63072000",
       "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch, Accept-Encoding",
       "x-content-type-options": "nosniff",
       "x-frame-options": "DENY",
       "x-powered-by": "Next.js",
       "x-xss-protection": "1; mode=block",
-      "x-envoy-upstream-service-time": "176",
+      "x-envoy-upstream-service-time": "152",
       "server": "envoy",
       "connection": "close",
       "transfer-encoding": "chunked"
@@ -36,7 +36,7 @@
         "default-src": [
           "'self'",
           "https://matomo.incubateur.anct.gouv.fr",
-          "https://sentry.incubateur.net"
+          "https://sentry.incubateur.anct.gouv.fr"
         ],
         "script-src": [
           "'self'",
@@ -59,6 +59,7 @@
           "https://storage.lesbases.anct.gouv.fr"
         ],
         "frame-src": [
+          "https://global.frcapi.com/",
           "https://www.youtube-nocookie.com/"
         ],
         "object-src": [
@@ -71,11 +72,10 @@
           "https://api-adresse.data.gouv.fr",
           "https://auth.agentconnect.gouv.fr",
           "https://la-base-uploads.s3.fr-par.scw.cloud",
-          "https://matomo.incubateur.anct.gouv.fr",
           "https://openmaptiles.geo.data.gouv.fr",
           "https://openmaptiles.github.io",
           "https://recherche-entreprises.api.gouv.fr",
-          "https://sentry.incubateur.net"
+          "https://sentry.incubateur.anct.gouv.fr/"
         ],
         "worker-src": [
           "'self'",
@@ -97,7 +97,7 @@
           "'self'"
         ],
         "upgrade-insecure-requests": [
-          "true"
+          "'none'"
         ]
       },
       "http": true,
