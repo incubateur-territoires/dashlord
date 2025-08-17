@@ -55,7 +55,7 @@
       "value": "1",
       "domain": "cartographie.societenumerique.gouv.fr",
       "path": "/",
-      "expires": 1754791140,
+      "expires": 1755395778,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -67,10 +67,10 @@
     },
     {
       "name": "_pk_id.277.9ac4",
-      "value": "8cf201b62daee215.1754789341.",
+      "value": "387c0c68d331a0a8.1755393978.",
       "domain": "cartographie.societenumerique.gouv.fr",
       "path": "/",
-      "expires": 1788744541,
+      "expires": 1789349178,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -82,11 +82,11 @@
     }
   ],
   "headers": {
-    "age": "2162",
+    "age": "6537",
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self' data: https://*.gouv.fr https://openmaptiles.github.io ; font-src 'self' https://cdn.jsdelivr.net; img-src 'self' data: https://*.gouv.fr; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.gouv.fr blob:; style-src 'self' 'unsafe-inline';",
     "content-type": "text/html",
-    "date": "Sun, 10 Aug 2025 00:52:59 GMT",
+    "date": "Sat, 16 Aug 2025 23:37:21 GMT",
     "etag": "W/\"289df21bc629799ae8e1b2637f2f57bc\"",
     "last-modified": "Thu, 31 Jul 2025 15:25:39 GMT",
     "permissions-policy": "accelerometer=(), camera=(), geolocation=(self), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
@@ -94,9 +94,9 @@
     "server": "AmazonS3",
     "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
     "vary": "accept-encoding",
-    "via": "1.1 9f4fcc19f79da3c8ac315db4faa910b4.cloudfront.net (CloudFront)",
-    "x-amz-cf-id": "pAvtfr1ggI8CS2ZVEhWFO4nwh6nZ414GayF3fTlNUxijA5VDizp6NA==",
-    "x-amz-cf-pop": "DFW57-P4",
+    "via": "1.1 4a082ac654c5bc5479525f2415fc7070.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "mG2jWymQZY0pCZ74HMMQ_m1sCozOiuGgbLmUaIdQ-_iSDI7k5zCrSA==",
+    "x-amz-cf-pop": "IAD61-P6",
     "x-amz-server-side-encryption": "AES256",
     "x-cache": "Error from cloudfront",
     "x-content-type-options": "nosniff",
@@ -106,20 +106,8 @@
   "endpoints": [
     {
       "hostname": "cartographie.societenumerique.gouv.fr",
-      "ip": "18.160.225.102",
+      "ip": "3.167.69.84",
       "geoip": {
-        "city": {
-          "geoname_id": 5809844,
-          "names": {
-            "de": "Seattle",
-            "en": "Seattle",
-            "es": "Seattle",
-            "fr": "Seattle",
-            "ja": "シアトル",
-            "pt-BR": "Seattle",
-            "ru": "Сиэтл"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -150,13 +138,9 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 47.6109,
-          "longitude": -122.3303,
-          "metro_code": 819,
-          "time_zone": "America/Los_Angeles"
-        },
-        "postal": {
-          "code": "98101"
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -171,28 +155,12 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5815135,
-            "iso_code": "WA",
-            "names": {
-              "de": "Washington",
-              "en": "Washington",
-              "es": "Washington",
-              "fr": "Washington",
-              "ja": "ワシントン州",
-              "pt-BR": "Washington",
-              "ru": "Вашингтон",
-              "zh-CN": "华盛顿州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "151.101.65.229",
+      "ip": "151.101.193.229",
       "geoip": {
         "city": {
           "geoname_id": 5391959,
