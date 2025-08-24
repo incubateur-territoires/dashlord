@@ -19,14 +19,14 @@
 <span style="font-weight:bold;">#####################################################################</span>
 
   Using <i>OpenSSL 1.0.2-bad (Mar 28 2025)</i>  [~183 ciphers]
-  on pkrvmubgrv54qmi:/home/testssl/bin/openssl.Linux.x86_64
+  on pkrvmqc4gcfdwos:/home/testssl/bin/openssl.Linux.x86_64
 
-<span style="font-weight:bold;">Testing all IP addresses (port 443): </span>80.247.12.255 185.21.194.105 80.247.13.145 148.253.96.193
+<span style="font-weight:bold;">Testing all IP addresses (port 443): </span>148.253.96.193 185.21.194.105 80.247.13.145 80.247.12.255
 -----------------------------------------------------
-<span style="color:white;background-color:black;"> Start 2025-08-17 01:25:54        --&gt;&gt; 80.247.12.255:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Start 2025-08-24 01:24:51        --&gt;&gt; 148.253.96.193:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
 
- Further IP addresses:   185.21.194.105 80.247.13.145 148.253.96.193 
- rDNS (80.247.12.255):   ows-80-247-12-255.cloudgouv-eu-west-1.compute.outscale.com.
+ Further IP addresses:   80.247.13.145 185.21.194.105 80.247.12.255 
+ rDNS (148.253.96.193):  ows-148-253-96-193.cloudgouv-eu-west-1.compute.outscale.com.
  Service detected:       HTTP
 
 <span style="text-decoration:underline;font-weight:bold;"> Testing protocols </span><u>via sockets except NPN+ALPN </u>
@@ -106,7 +106,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                               https://search.censys.io/search?resource=hosts&amp;virtual_hosts=INCLUDE&amp;q=65F1B7A7CAFC336731CD80CEA0A1B69DAD556C688191E778353668A0CFD01398
 <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
 <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">74 &gt;= 30 days</span> (2025-08-02 01:10 --&gt; 2025-10-31 01:10)
+<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">67 &gt;= 30 days</span> (2025-08-02 01:10 --&gt; 2025-10-31 01:10)
 <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
 <span style="font-weight:bold;"> Certificate Revocation List  </span>http://r10.c.lencr.org/77.crl
 <span style="font-weight:bold;"> OCSP URI                     </span>--
@@ -123,7 +123,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="text-decoration:underline;font-weight:bold;"> Testing HTTP header response @ &quot;/&quot; </span>
 
 <span style="font-weight:bold;"> HTTP Status Code           </span>  200 OK
-<span style="font-weight:bold;"> HTTP clock skew              </span>0 sec from localtime
+<span style="font-weight:bold;"> HTTP clock skew              </span>-1 sec from localtime
 <span style="font-weight:bold;"> Strict Transport Security    </span><span style="color:#c05600;">60 s = 0 days is too short ( &gt;= 15552000 seconds recommended)</span><span style="color:#168092;">, just this domain</span>
 <span style="font-weight:bold;"> Public Key Pinning           </span>--
 <span style="font-weight:bold;"> Server banner                </span>(no &quot;Server&quot; line in header, interesting!)
@@ -131,7 +131,14 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Cookie(s)                    </span>(none issued at &quot;/&quot;)
 <span style="font-weight:bold;"> Security headers             </span><span style="color:#008817;">X-Frame-Options</span>: DENY
                               <span style="color:#008817;">X-Content-Type-Options</span>: nosniff
-                              <span style="color:#008817;">Content-Security-Policy</span>: frame-src
+                              <span style="color:#008817;">Content-Security-Policy</span>: connect-src &apos;self&apos;
+                                https://stats.beta.gouv.fr/matomo.php
+                                https://stats.beta.gouv.fr/piwik.php
+                                https://api.sarbacane.com/v1/forms/contacts/upsert 
+                                ttps://api-adresse.data.gouv.fr/search/;
+                                img-src &apos;self&apos; data:
+                                https://www.service-public.fr/resources/v-5cf79a7acf/web/css/img/png/; 
+                                bject-src &apos;none&apos;; frame-src
                                 https://www.youtube.com/embed/hATrqHG4zYQ
                                 https://www.youtube-nocookie.com/embed/hATrqHG4zYQ 
                                 ttp://www.youtube.com/embed/hATrqHG4zYQ
@@ -149,15 +156,11 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                                 ttp://www.youtube.com/embed/AJGo6bydQss
                                 http://www.youtube-nocookie.com/embed/AJGo6bydQss 
                                 ttps://0115c97a.sibforms.com/serve/MUIFAOEUqPVTtu5LAcp2Jb6IwxykPCfAQXbKZDkoZsUf4A8T1zH3hzFGvidEm_nbheED_dM3HtKQWnfla_ET40DKbBEN8dXi55l9bF36E7IXtemPGq9dcifiZiYjVho5UcESRhao0Nypf0e4TErVcvJdKh33b788Nu_KPW9okNiaT3wxJQ1Dja5FUbZ7_l9-NBFeCJ_EMWfhg4zq; 
-                                tyle-src-attr &apos;unsafe-hashes&apos;
+                                efault-src &apos;self&apos;; style-src-attr
+                                &apos;unsafe-hashes&apos;
                                 &apos;sha256-I/4Jcdrg5KNFrU0X4p2nNmjeGh9aI+9ac0cUllI5SwY=&apos; 
                                 sha256-vYd+FsML43MBXhP+pXOhW9h0Cdq43hkCe4Im/yyvhss=&apos;; 
-                                mg-src &apos;self&apos; data:
-                                https://www.service-public.fr/resources/v-5cf79a7acf/web/css/img/png/; 
-                                bject-src &apos;none&apos;; style-src &apos;self&apos;
-                                https://unpkg.com/easymde/dist/easymde.min.css
-                                &apos;nonce-Rco30MWCGjeVbvSRKPiLoA==&apos;; script-src
-                                &apos;self&apos;
+                                cript-src &apos;self&apos;
                                 https://unpkg.com/stimulus@3.2.2/dist/stimulus.js 
                                 ttps://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.min.js 
                                 ttps://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0 
@@ -172,12 +175,10 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                                 ttps://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/autoComplete.min.js 
                                 ttps://stats.beta.gouv.fr/matomo.js
                                 https://stats.beta.gouv.fr/piwik.js
-                                &apos;nonce-Rco30MWCGjeVbvSRKPiLoA==&apos;; default-src
-                                &apos;self&apos;; connect-src &apos;self&apos;
-                                https://stats.beta.gouv.fr/matomo.php
-                                https://stats.beta.gouv.fr/piwik.php
-                                https://api.sarbacane.com/v1/forms/contacts/upsert 
-                                ttps://api-adresse.data.gouv.fr/search/
+                                &apos;nonce-3mPGxSqlivMZ69CuguFqow==&apos;; style-src
+                                &apos;self&apos;
+                                https://unpkg.com/easymde/dist/easymde.min.css
+                                &apos;nonce-3mPGxSqlivMZ69CuguFqow==&apos;
                               Cross-Origin-Opener-Policy: same-origin
                               Referrer-Policy: strict-origin
 <span style="font-weight:bold;"> Reverse Proxy banner         </span>--
@@ -260,10 +261,10 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Overall Grade                </span><span style="color:#008817;font-weight:bold;">A-</span>
 <span style="font-weight:bold;"> Grade warning                </span><span style="color:#c05600;">HSTS max-age is too short</span>
 
-<span style="color:white;background-color:black;"> Done 2025-08-17 01:26:46 [  54s] --&gt;&gt; 80.247.12.255:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Done 2025-08-24 01:25:58 [  70s] --&gt;&gt; 148.253.96.193:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
 
 -----------------------------------------------------
-<span style="color:white;background-color:black;"> Start 2025-08-17 01:26:46        --&gt;&gt; 185.21.194.105:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Start 2025-08-24 01:25:59        --&gt;&gt; 185.21.194.105:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
 
  Further IP addresses:   80.247.13.145 80.247.12.255 148.253.96.193 
  rDNS (185.21.194.105):  ows-185-21-194-105.cloudgouv-eu-west-1.compute.outscale.com.
@@ -346,7 +347,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                               https://search.censys.io/search?resource=hosts&amp;virtual_hosts=INCLUDE&amp;q=65F1B7A7CAFC336731CD80CEA0A1B69DAD556C688191E778353668A0CFD01398
 <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
 <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">74 &gt;= 30 days</span> (2025-08-02 01:10 --&gt; 2025-10-31 01:10)
+<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">67 &gt;= 30 days</span> (2025-08-02 01:10 --&gt; 2025-10-31 01:10)
 <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
 <span style="font-weight:bold;"> Certificate Revocation List  </span>http://r10.c.lencr.org/77.crl
 <span style="font-weight:bold;"> OCSP URI                     </span>--
@@ -371,7 +372,14 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Cookie(s)                    </span>(none issued at &quot;/&quot;)
 <span style="font-weight:bold;"> Security headers             </span><span style="color:#008817;">X-Frame-Options</span>: DENY
                               <span style="color:#008817;">X-Content-Type-Options</span>: nosniff
-                              <span style="color:#008817;">Content-Security-Policy</span>: frame-src
+                              <span style="color:#008817;">Content-Security-Policy</span>: connect-src &apos;self&apos;
+                                https://stats.beta.gouv.fr/matomo.php
+                                https://stats.beta.gouv.fr/piwik.php
+                                https://api.sarbacane.com/v1/forms/contacts/upsert 
+                                ttps://api-adresse.data.gouv.fr/search/;
+                                img-src &apos;self&apos; data:
+                                https://www.service-public.fr/resources/v-5cf79a7acf/web/css/img/png/; 
+                                bject-src &apos;none&apos;; frame-src
                                 https://www.youtube.com/embed/hATrqHG4zYQ
                                 https://www.youtube-nocookie.com/embed/hATrqHG4zYQ 
                                 ttp://www.youtube.com/embed/hATrqHG4zYQ
@@ -389,15 +397,11 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                                 ttp://www.youtube.com/embed/AJGo6bydQss
                                 http://www.youtube-nocookie.com/embed/AJGo6bydQss 
                                 ttps://0115c97a.sibforms.com/serve/MUIFAOEUqPVTtu5LAcp2Jb6IwxykPCfAQXbKZDkoZsUf4A8T1zH3hzFGvidEm_nbheED_dM3HtKQWnfla_ET40DKbBEN8dXi55l9bF36E7IXtemPGq9dcifiZiYjVho5UcESRhao0Nypf0e4TErVcvJdKh33b788Nu_KPW9okNiaT3wxJQ1Dja5FUbZ7_l9-NBFeCJ_EMWfhg4zq; 
-                                tyle-src-attr &apos;unsafe-hashes&apos;
+                                efault-src &apos;self&apos;; style-src-attr
+                                &apos;unsafe-hashes&apos;
                                 &apos;sha256-I/4Jcdrg5KNFrU0X4p2nNmjeGh9aI+9ac0cUllI5SwY=&apos; 
                                 sha256-vYd+FsML43MBXhP+pXOhW9h0Cdq43hkCe4Im/yyvhss=&apos;; 
-                                mg-src &apos;self&apos; data:
-                                https://www.service-public.fr/resources/v-5cf79a7acf/web/css/img/png/; 
-                                bject-src &apos;none&apos;; style-src &apos;self&apos;
-                                https://unpkg.com/easymde/dist/easymde.min.css
-                                &apos;nonce-+c5yW3X9w7RqBD3xqCACkA==&apos;; script-src
-                                &apos;self&apos;
+                                cript-src &apos;self&apos;
                                 https://unpkg.com/stimulus@3.2.2/dist/stimulus.js 
                                 ttps://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.min.js 
                                 ttps://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0 
@@ -412,12 +416,10 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                                 ttps://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/autoComplete.min.js 
                                 ttps://stats.beta.gouv.fr/matomo.js
                                 https://stats.beta.gouv.fr/piwik.js
-                                &apos;nonce-+c5yW3X9w7RqBD3xqCACkA==&apos;; default-src
-                                &apos;self&apos;; connect-src &apos;self&apos;
-                                https://stats.beta.gouv.fr/matomo.php
-                                https://stats.beta.gouv.fr/piwik.php
-                                https://api.sarbacane.com/v1/forms/contacts/upsert 
-                                ttps://api-adresse.data.gouv.fr/search/
+                                &apos;nonce-2Q+jRJ+cCHc7DyNyLl4p6g==&apos;; style-src
+                                &apos;self&apos;
+                                https://unpkg.com/easymde/dist/easymde.min.css
+                                &apos;nonce-2Q+jRJ+cCHc7DyNyLl4p6g==&apos;
                               Cross-Origin-Opener-Policy: same-origin
                               Referrer-Policy: strict-origin
 <span style="font-weight:bold;"> Reverse Proxy banner         </span>--
@@ -500,10 +502,10 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Overall Grade                </span><span style="color:#008817;font-weight:bold;">A-</span>
 <span style="font-weight:bold;"> Grade warning                </span><span style="color:#c05600;">HSTS max-age is too short</span>
 
-<span style="color:white;background-color:black;"> Done 2025-08-17 01:27:38 [ 106s] --&gt;&gt; 185.21.194.105:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Done 2025-08-24 01:27:04 [ 136s] --&gt;&gt; 185.21.194.105:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
 
 -----------------------------------------------------
-<span style="color:white;background-color:black;"> Start 2025-08-17 01:27:38        --&gt;&gt; 80.247.13.145:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Start 2025-08-24 01:27:05        --&gt;&gt; 80.247.13.145:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
 
  Further IP addresses:   185.21.194.105 80.247.12.255 148.253.96.193 
  rDNS (80.247.13.145):   ows-80-247-13-145.cloudgouv-eu-west-1.compute.outscale.com.
@@ -586,7 +588,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                               https://search.censys.io/search?resource=hosts&amp;virtual_hosts=INCLUDE&amp;q=65F1B7A7CAFC336731CD80CEA0A1B69DAD556C688191E778353668A0CFD01398
 <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
 <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">74 &gt;= 30 days</span> (2025-08-02 01:10 --&gt; 2025-10-31 01:10)
+<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">67 &gt;= 30 days</span> (2025-08-02 01:10 --&gt; 2025-10-31 01:10)
 <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
 <span style="font-weight:bold;"> Certificate Revocation List  </span>http://r10.c.lencr.org/77.crl
 <span style="font-weight:bold;"> OCSP URI                     </span>--
@@ -603,7 +605,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="text-decoration:underline;font-weight:bold;"> Testing HTTP header response @ &quot;/&quot; </span>
 
 <span style="font-weight:bold;"> HTTP Status Code           </span>  200 OK
-<span style="font-weight:bold;"> HTTP clock skew              </span>-1 sec from localtime
+<span style="font-weight:bold;"> HTTP clock skew              </span>0 sec from localtime
 <span style="font-weight:bold;"> Strict Transport Security    </span><span style="color:#c05600;">60 s = 0 days is too short ( &gt;= 15552000 seconds recommended)</span><span style="color:#168092;">, just this domain</span>
 <span style="font-weight:bold;"> Public Key Pinning           </span>--
 <span style="font-weight:bold;"> Server banner                </span>(no &quot;Server&quot; line in header, interesting!)
@@ -611,7 +613,14 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Cookie(s)                    </span>(none issued at &quot;/&quot;)
 <span style="font-weight:bold;"> Security headers             </span><span style="color:#008817;">X-Frame-Options</span>: DENY
                               <span style="color:#008817;">X-Content-Type-Options</span>: nosniff
-                              <span style="color:#008817;">Content-Security-Policy</span>: frame-src
+                              <span style="color:#008817;">Content-Security-Policy</span>: connect-src &apos;self&apos;
+                                https://stats.beta.gouv.fr/matomo.php
+                                https://stats.beta.gouv.fr/piwik.php
+                                https://api.sarbacane.com/v1/forms/contacts/upsert 
+                                ttps://api-adresse.data.gouv.fr/search/;
+                                img-src &apos;self&apos; data:
+                                https://www.service-public.fr/resources/v-5cf79a7acf/web/css/img/png/; 
+                                bject-src &apos;none&apos;; frame-src
                                 https://www.youtube.com/embed/hATrqHG4zYQ
                                 https://www.youtube-nocookie.com/embed/hATrqHG4zYQ 
                                 ttp://www.youtube.com/embed/hATrqHG4zYQ
@@ -629,15 +638,11 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                                 ttp://www.youtube.com/embed/AJGo6bydQss
                                 http://www.youtube-nocookie.com/embed/AJGo6bydQss 
                                 ttps://0115c97a.sibforms.com/serve/MUIFAOEUqPVTtu5LAcp2Jb6IwxykPCfAQXbKZDkoZsUf4A8T1zH3hzFGvidEm_nbheED_dM3HtKQWnfla_ET40DKbBEN8dXi55l9bF36E7IXtemPGq9dcifiZiYjVho5UcESRhao0Nypf0e4TErVcvJdKh33b788Nu_KPW9okNiaT3wxJQ1Dja5FUbZ7_l9-NBFeCJ_EMWfhg4zq; 
-                                tyle-src-attr &apos;unsafe-hashes&apos;
+                                efault-src &apos;self&apos;; style-src-attr
+                                &apos;unsafe-hashes&apos;
                                 &apos;sha256-I/4Jcdrg5KNFrU0X4p2nNmjeGh9aI+9ac0cUllI5SwY=&apos; 
                                 sha256-vYd+FsML43MBXhP+pXOhW9h0Cdq43hkCe4Im/yyvhss=&apos;; 
-                                mg-src &apos;self&apos; data:
-                                https://www.service-public.fr/resources/v-5cf79a7acf/web/css/img/png/; 
-                                bject-src &apos;none&apos;; style-src &apos;self&apos;
-                                https://unpkg.com/easymde/dist/easymde.min.css
-                                &apos;nonce-7jqqLedRmGhfI7WUQMtg3g==&apos;; script-src
-                                &apos;self&apos;
+                                cript-src &apos;self&apos;
                                 https://unpkg.com/stimulus@3.2.2/dist/stimulus.js 
                                 ttps://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.min.js 
                                 ttps://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0 
@@ -652,12 +657,10 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                                 ttps://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/autoComplete.min.js 
                                 ttps://stats.beta.gouv.fr/matomo.js
                                 https://stats.beta.gouv.fr/piwik.js
-                                &apos;nonce-7jqqLedRmGhfI7WUQMtg3g==&apos;; default-src
-                                &apos;self&apos;; connect-src &apos;self&apos;
-                                https://stats.beta.gouv.fr/matomo.php
-                                https://stats.beta.gouv.fr/piwik.php
-                                https://api.sarbacane.com/v1/forms/contacts/upsert 
-                                ttps://api-adresse.data.gouv.fr/search/
+                                &apos;nonce-L5rOzh1se/7uhsIrgOeSRw==&apos;; style-src
+                                &apos;self&apos;
+                                https://unpkg.com/easymde/dist/easymde.min.css
+                                &apos;nonce-L5rOzh1se/7uhsIrgOeSRw==&apos;
                               Cross-Origin-Opener-Policy: same-origin
                               Referrer-Policy: strict-origin
 <span style="font-weight:bold;"> Reverse Proxy banner         </span>--
@@ -740,13 +743,13 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Overall Grade                </span><span style="color:#008817;font-weight:bold;">A-</span>
 <span style="font-weight:bold;"> Grade warning                </span><span style="color:#c05600;">HSTS max-age is too short</span>
 
-<span style="color:white;background-color:black;"> Done 2025-08-17 01:28:31 [ 159s] --&gt;&gt; 80.247.13.145:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Done 2025-08-24 01:28:04 [ 196s] --&gt;&gt; 80.247.13.145:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
 
 -----------------------------------------------------
-<span style="color:white;background-color:black;"> Start 2025-08-17 01:28:31        --&gt;&gt; 148.253.96.193:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Start 2025-08-24 01:28:04        --&gt;&gt; 80.247.12.255:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
 
- Further IP addresses:   185.21.194.105 80.247.13.145 80.247.12.255 
- rDNS (148.253.96.193):  ows-148-253-96-193.cloudgouv-eu-west-1.compute.outscale.com.
+ Further IP addresses:   80.247.13.145 185.21.194.105 148.253.96.193 
+ rDNS (80.247.12.255):   ows-80-247-12-255.cloudgouv-eu-west-1.compute.outscale.com.
  Service detected:       HTTP
 
 <span style="text-decoration:underline;font-weight:bold;"> Testing protocols </span><u>via sockets except NPN+ALPN </u>
@@ -826,7 +829,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                               https://search.censys.io/search?resource=hosts&amp;virtual_hosts=INCLUDE&amp;q=65F1B7A7CAFC336731CD80CEA0A1B69DAD556C688191E778353668A0CFD01398
 <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
 <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">74 &gt;= 30 days</span> (2025-08-02 01:10 --&gt; 2025-10-31 01:10)
+<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">67 &gt;= 30 days</span> (2025-08-02 01:10 --&gt; 2025-10-31 01:10)
 <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
 <span style="font-weight:bold;"> Certificate Revocation List  </span>http://r10.c.lencr.org/77.crl
 <span style="font-weight:bold;"> OCSP URI                     </span>--
@@ -851,7 +854,14 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Cookie(s)                    </span>(none issued at &quot;/&quot;)
 <span style="font-weight:bold;"> Security headers             </span><span style="color:#008817;">X-Frame-Options</span>: DENY
                               <span style="color:#008817;">X-Content-Type-Options</span>: nosniff
-                              <span style="color:#008817;">Content-Security-Policy</span>: frame-src
+                              <span style="color:#008817;">Content-Security-Policy</span>: connect-src &apos;self&apos;
+                                https://stats.beta.gouv.fr/matomo.php
+                                https://stats.beta.gouv.fr/piwik.php
+                                https://api.sarbacane.com/v1/forms/contacts/upsert 
+                                ttps://api-adresse.data.gouv.fr/search/;
+                                img-src &apos;self&apos; data:
+                                https://www.service-public.fr/resources/v-5cf79a7acf/web/css/img/png/; 
+                                bject-src &apos;none&apos;; frame-src
                                 https://www.youtube.com/embed/hATrqHG4zYQ
                                 https://www.youtube-nocookie.com/embed/hATrqHG4zYQ 
                                 ttp://www.youtube.com/embed/hATrqHG4zYQ
@@ -869,15 +879,11 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                                 ttp://www.youtube.com/embed/AJGo6bydQss
                                 http://www.youtube-nocookie.com/embed/AJGo6bydQss 
                                 ttps://0115c97a.sibforms.com/serve/MUIFAOEUqPVTtu5LAcp2Jb6IwxykPCfAQXbKZDkoZsUf4A8T1zH3hzFGvidEm_nbheED_dM3HtKQWnfla_ET40DKbBEN8dXi55l9bF36E7IXtemPGq9dcifiZiYjVho5UcESRhao0Nypf0e4TErVcvJdKh33b788Nu_KPW9okNiaT3wxJQ1Dja5FUbZ7_l9-NBFeCJ_EMWfhg4zq; 
-                                tyle-src-attr &apos;unsafe-hashes&apos;
+                                efault-src &apos;self&apos;; style-src-attr
+                                &apos;unsafe-hashes&apos;
                                 &apos;sha256-I/4Jcdrg5KNFrU0X4p2nNmjeGh9aI+9ac0cUllI5SwY=&apos; 
                                 sha256-vYd+FsML43MBXhP+pXOhW9h0Cdq43hkCe4Im/yyvhss=&apos;; 
-                                mg-src &apos;self&apos; data:
-                                https://www.service-public.fr/resources/v-5cf79a7acf/web/css/img/png/; 
-                                bject-src &apos;none&apos;; style-src &apos;self&apos;
-                                https://unpkg.com/easymde/dist/easymde.min.css
-                                &apos;nonce-7grI9SS3cdcvxbVM9FApCA==&apos;; script-src
-                                &apos;self&apos;
+                                cript-src &apos;self&apos;
                                 https://unpkg.com/stimulus@3.2.2/dist/stimulus.js 
                                 ttps://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.min.js 
                                 ttps://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0 
@@ -892,12 +898,10 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                                 ttps://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/autoComplete.min.js 
                                 ttps://stats.beta.gouv.fr/matomo.js
                                 https://stats.beta.gouv.fr/piwik.js
-                                &apos;nonce-7grI9SS3cdcvxbVM9FApCA==&apos;; default-src
-                                &apos;self&apos;; connect-src &apos;self&apos;
-                                https://stats.beta.gouv.fr/matomo.php
-                                https://stats.beta.gouv.fr/piwik.php
-                                https://api.sarbacane.com/v1/forms/contacts/upsert 
-                                ttps://api-adresse.data.gouv.fr/search/
+                                &apos;nonce-TTerBJei04i6HdEqL78/lw==&apos;; style-src
+                                &apos;self&apos;
+                                https://unpkg.com/easymde/dist/easymde.min.css
+                                &apos;nonce-TTerBJei04i6HdEqL78/lw==&apos;
                               Cross-Origin-Opener-Policy: same-origin
                               Referrer-Policy: strict-origin
 <span style="font-weight:bold;"> Reverse Proxy banner         </span>--
@@ -980,10 +984,10 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Overall Grade                </span><span style="color:#008817;font-weight:bold;">A-</span>
 <span style="font-weight:bold;"> Grade warning                </span><span style="color:#c05600;">HSTS max-age is too short</span>
 
-<span style="color:white;background-color:black;"> Done 2025-08-17 01:29:23 [ 211s] --&gt;&gt; 148.253.96.193:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Done 2025-08-24 01:29:03 [ 255s] --&gt;&gt; 80.247.12.255:443 (aidantsconnect.beta.gouv.fr) &lt;&lt;--</span>
 
 -----------------------------------------------------
-<span style="font-weight:bold;">Done testing now all IP addresses (on port 443): </span>80.247.12.255 185.21.194.105 80.247.13.145 148.253.96.193
+<span style="font-weight:bold;">Done testing now all IP addresses (on port 443): </span>148.253.96.193 185.21.194.105 80.247.13.145 80.247.12.255
 
 </pre>
 </body>
