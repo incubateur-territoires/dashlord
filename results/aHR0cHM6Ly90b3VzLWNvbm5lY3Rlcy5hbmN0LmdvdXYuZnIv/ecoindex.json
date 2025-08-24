@@ -3,15 +3,15 @@
         "width": 1920,
         "height": 1080,
         "url": "https://tous-connectes.anct.gouv.fr/",
-        "size": 1416.046,
-        "nodes": 241,
+        "size": 1415.727,
+        "nodes": 237,
         "requests": 71,
         "grade": "C",
         "score": 66.0,
         "ges": 1.68,
         "water": 2.52,
         "ecoindex_version": "5.4.2",
-        "date": "2025-08-17 01:47:04.814672",
+        "date": "2025-08-24 01:54:29.925678",
         "page_type": null
     }
 ]
