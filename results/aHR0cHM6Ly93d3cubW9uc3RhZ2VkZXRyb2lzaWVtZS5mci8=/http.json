@@ -9,7 +9,7 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 17 Aug 2025 01:52:27 GMT",
+      "date": "Sun, 24 Aug 2025 01:58:51 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
@@ -24,12 +24,12 @@
       "cache-control": "no-cache",
       "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'connect-src' 'unsafe-inline' https://stats.beta.gouv.fr; connect-src 'self' https:; style-src 'self' https: 'unsafe-inline'; frame-src https://plugins.crisp.chat https://uneleveunstage.crisp.help https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com",
       "set-cookie": [
-        "_monstage_session=wzmIO5Tzcl1TlBcDjIv2Ef%2F3ZvloAxTKKBtQfAa19CILoEatj75ASd%2Bp1QiexDgB8xnVVokLn9Gwp0%2BPc5n4C8bndRBJRitIZjThBLgHV4mNGxPeeOqX%2FUjtqkxxreafaNO85Y6aKBCO7BMiOAs8TN8o0APBIJU2hyMERsxAfGFRu4aCYPbFchEidAibzEF8LQ2xaxGHH8Y%2FToFgnabtZvs8032QLM63yMmJA0KkXUyOj3tDMn2OlhlFcKHFh4I44NUAnP%2FWW45qP13W%2BE4RCgTCV%2BWQ6RLWfA%3D%3D--t8AL3zoZGGKzaCTh--RB%2FZNefVJ0U%2FYK1FfT9IJQ%3D%3D; path=/; secure; httponly; samesite=lax"
+        "_monstage_session=68cGuitlD9r%2Fwle4%2FKDjS1%2BS6oar5HOYItwXw9P0E%2Bnn2y4%2FR4EoYByX5U9HuqWcIrfpWxGgPVYOfjJbOPQI6b8HhzTz3aSJlLOB0luNMOWklHE%2F%2F%2B4IJlcWSZqH3LW3CUVHSd45TUIq1dOQdCWKRHhPUqU327KynPTJWIKQNRL%2B9wMgkJJTlQaFh7RhugmH8V%2FbjYT459tNq2AHtv0KWcj9G%2BuGuCLANecxVGrQA2r%2BlGqyCXZ3zyZ8X6WQdQojrBLc3LtZ%2FF2ZXOAT7TPW0X6ScjNlGzlTxQ%3D%3D--u24yht17%2BV4EccSn--JfJpCVYmMSWPfMscpK5pJw%3D%3D; path=/; secure; httponly; samesite=lax"
       ],
-      "x-request-id": "e357dc34-a03c-4126-81e3-7992d044b0d7",
-      "x-runtime": "0.085539",
+      "x-request-id": "dc11e9de-6e3d-47c0-ab1c-7378923d1bd9",
+      "x-runtime": "0.111639",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
-      "sozu-id": "01K2TVMQRGC8E40SN5APG03ZP4"
+      "sozu-id": "01K3CWSGG8HEQQC8226PM1XWC9"
     }
   },
   "tests": {
