@@ -1,6 +1,10 @@
 {
   "trackers": [
     {
+      "type": "unknown",
+      "url": "https://aides-territoires-prod-2.s3.fr-par.scw.cloud/aides-territoires-prod/imagine/program_thumb_desktop/programs/fonds-vert_logo.png.webp"
+    },
+    {
       "type": "brevo",
       "url": "https://cdn.brevo.com/js/sdk-loader.js",
       "details": {
@@ -22,24 +26,34 @@
     },
     {
       "type": "brevo",
-      "url": "https://in-automate.brevo.com/p?key=bplip3bpikf8s8hgqk0h5u8z&cuid=fe1c0dbe-ea30-4551-804c-e35654dcfdee&ma_url=https%3A%2F%2Faides-territoires.beta.gouv.fr%2F&sib_type=page&ma_title=Aides%20Territoires&sib_name=Aides%20Territoires&ma_referrer=&ma_path=%2F",
+      "url": "https://in-automate.brevo.com/p?key=bplip3bpikf8s8hgqk0h5u8z&cuid=1b6157fc-1c9b-436e-b94f-cac80c085858&ma_url=https%3A%2F%2Faides-territoires.beta.gouv.fr%2F&sib_type=page&ma_title=Aides%20Territoires&sib_name=Aides%20Territoires&ma_referrer=&ma_path=%2F",
       "details": {
         "id": "brevo",
         "message": "Ensure your TOS notify the Brevo usage"
       }
-    },
-    {
-      "type": "unknown",
-      "url": "https://aides-territoires-prod-2.s3.fr-par.scw.cloud/aides-territoires-prod/imagine/program_thumb_desktop/programs/fonds-vert_logo.png.webp"
     }
   ],
   "cookies": [
+    {
+      "name": "sib_cuid",
+      "value": "1b6157fc-1c9b-436e-b94f-cac80c085858",
+      "domain": ".aides-territoires.beta.gouv.fr",
+      "path": "/",
+      "expires": 1772323591,
+      "size": 44,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "priority": "Medium",
+      "sameParty": false,
+      "sourceScheme": "Secure"
+    },
     {
       "name": "_pk_ses.67.6088",
       "value": "1",
       "domain": "aides-territoires.beta.gouv.fr",
       "path": "/",
-      "expires": 1756003412,
+      "expires": 1756607791,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -51,10 +65,10 @@
     },
     {
       "name": "_pk_id.67.6088",
-      "value": "30e8f05c33f2f769.1756001612.",
+      "value": "af03b4f650a1f0a5.1756605992.",
       "domain": "aides-territoires.beta.gouv.fr",
       "path": "/",
-      "expires": 1789956812,
+      "expires": 1790561192,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -65,22 +79,8 @@
       "sourceScheme": "Secure"
     },
     {
-      "name": "sib_cuid",
-      "value": "fe1c0dbe-ea30-4551-804c-e35654dcfdee",
-      "domain": ".aides-territoires.beta.gouv.fr",
-      "path": "/",
-      "expires": 1771719212,
-      "size": 44,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "priority": "Medium",
-      "sameParty": false,
-      "sourceScheme": "Secure"
-    },
-    {
       "name": "PHPSESSID",
-      "value": "58a7de0d48d9e74ca07375fbbd52c7f6",
+      "value": "69f1d73e32fd45d5ea77935b4aeb0fcd",
       "domain": "aides-territoires.beta.gouv.fr",
       "path": "/",
       "expires": -1,
@@ -97,25 +97,25 @@
   "headers": {
     "cache-control": "max-age=0, must-revalidate, private",
     "content-encoding": "gzip",
-    "content-security-policy": "default-src 'self' https://in-automate.brevo.com https://stats.beta.gouv.fr https://aides-territoires.beta.gouv.fr; base-uri 'self'; block-all-mixed-content; connect-src 'self' https://aides-territoires-prod.s3.fr-par.scw.cloud https://aides-territoires-prod-2.s3.fr-par.scw.cloud https://in-automate.brevo.com https://stats.beta.gouv.fr; font-src 'self' https://fonts.gstatic.com/; frame-ancestors 'self' https://aides-territoires-prod.s3.fr-par.scw.cloud https://aides-territoires-prod-2.s3.fr-par.scw.cloud https://monespacecollectivite.anct.gouv.fr https://app.territoiresentransitions.fr; frame-src https://stats.beta.gouv.fr; img-src 'self' data: https://aides-territoires-prod.s3.fr-par.scw.cloud https://aides-territoires-prod-2.s3.fr-par.scw.cloud https://a.forte.tiles.quaidorsay.fr https://b.forte.tiles.quaidorsay.fr https://c.forte.tiles.quaidorsay.fr https://a.tile.openstreetmap.org https://b.tile.openstreetmap.org https://c.tile.openstreetmap.org https://stats.beta.gouv.fr; media-src 'self' https://aides-territoires-prod.s3.fr-par.scw.cloud https://aides-territoires-prod-2.s3.fr-par.scw.cloud; object-src 'none'; script-src 'self' https://sibautomation.com https://stats.beta.gouv.fr/ https://cdn.brevo.com/js/sdk-loader.js 'sha256-LGq+8wK5S+uNOC5tf2iVU2P+d10HNCw6e1aGKOU9NKk=' 'sha256-mzCfKtjtKqQ7MIc84zRZ99WZXcdUOI9IhVQNdr2emaI=' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-t0exHt6czA31ZVcPqDiJ6W1J9PY7p3JAtg5otOv7Yzc=' 'sha256-PtlrOvxkIL5he6JOCq9aEG/pZd67JBbSYB/QGQ+OyC4='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://stats.beta.gouv.fr",
+    "content-security-policy": "default-src 'self' https://in-automate.brevo.com https://stats.beta.gouv.fr https://aides-territoires.beta.gouv.fr; base-uri 'self'; block-all-mixed-content; connect-src 'self' https://aides-territoires-prod.s3.fr-par.scw.cloud https://aides-territoires-prod-2.s3.fr-par.scw.cloud https://in-automate.brevo.com https://stats.beta.gouv.fr; font-src 'self' https://fonts.gstatic.com/; frame-ancestors 'self' https://aides-territoires-prod.s3.fr-par.scw.cloud https://aides-territoires-prod-2.s3.fr-par.scw.cloud https://monespacecollectivite.anct.gouv.fr https://app.territoiresentransitions.fr; frame-src https://stats.beta.gouv.fr; img-src 'self' data: https://aides-territoires-prod.s3.fr-par.scw.cloud https://aides-territoires-prod-2.s3.fr-par.scw.cloud https://a.forte.tiles.quaidorsay.fr https://b.forte.tiles.quaidorsay.fr https://c.forte.tiles.quaidorsay.fr https://a.tile.openstreetmap.org https://b.tile.openstreetmap.org https://c.tile.openstreetmap.org https://stats.beta.gouv.fr; media-src 'self' https://aides-territoires-prod.s3.fr-par.scw.cloud https://aides-territoires-prod-2.s3.fr-par.scw.cloud; object-src 'none'; script-src 'self' https://sibautomation.com https://stats.beta.gouv.fr/ https://cdn.brevo.com/js/sdk-loader.js 'sha256-LGq+8wK5S+uNOC5tf2iVU2P+d10HNCw6e1aGKOU9NKk=' 'sha256-mzCfKtjtKqQ7MIc84zRZ99WZXcdUOI9IhVQNdr2emaI=' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-t0exHt6czA31ZVcPqDiJ6W1J9PY7p3JAtg5otOv7Yzc=' 'sha256-4ltOw3sTV4AGKBTDPIInbhd9kS/P6d8IcR9WtWbCkDg='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://stats.beta.gouv.fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 24 Aug 2025 02:13:30 GMT",
-    "expires": "Sun, 24 Aug 2025 02:13:30 GMT",
+    "date": "Sun, 31 Aug 2025 02:06:30 GMT",
+    "expires": "Sun, 31 Aug 2025 02:06:30 GMT",
     "link": "</build/runtime.21ca45b4.js>; rel=\"preload\"; as=\"script\"; defer,</build/6027.3ad133da.js>; rel=\"preload\"; as=\"script\"; defer,</build/6518.1c0b329c.js>; rel=\"preload\"; as=\"script\"; defer,</build/1054.9cf78c8b.js>; rel=\"preload\"; as=\"script\"; defer,</build/5770.9163cacc.js>; rel=\"preload\"; as=\"script\"; defer,</build/3062.a644a5ad.js>; rel=\"preload\"; as=\"script\"; defer,</build/195.208e04dd.js>; rel=\"preload\"; as=\"script\"; defer,</build/8408.7623047e.js>; rel=\"preload\"; as=\"script\"; defer,</build/5607.ce1dc8b9.js>; rel=\"preload\"; as=\"script\"; defer,</build/1463.bb43fdb7.js>; rel=\"preload\"; as=\"script\"; defer,</build/5172.5a33b06b.js>; rel=\"preload\"; as=\"script\"; defer,</build/7291.ed2688e8.js>; rel=\"preload\"; as=\"script\"; defer,</build/7491.b0a85ce6.js>; rel=\"preload\"; as=\"script\"; defer,</build/app.7e344bc8.js>; rel=\"preload\"; as=\"script\"; defer,</build/7331.ec10478d.js>; rel=\"preload\"; as=\"script\"; defer,</build/front/home.0da8cc77.js>; rel=\"preload\"; as=\"script\"; defer,</build/8716.915f2f4a.css>; rel=\"preload\"; as=\"style\"; rel=\"stylesheet\",</build/app.49528251.css>; rel=\"preload\"; as=\"style\"; rel=\"stylesheet\",</build/import-scss/home.6937edf2.css>; rel=\"preload\"; as=\"style\"; rel=\"stylesheet\"",
     "permissions-policy": "geolocation=(self), microphone=(self), sync-xhr=(self), fullscreen=(self)",
     "referrer-policy": "no-referrer, strict-origin-when-cross-origin",
-    "set-cookie": "PHPSESSID=58a7de0d48d9e74ca07375fbbd52c7f6; path=/; secure; httponly; samesite=lax",
+    "set-cookie": "PHPSESSID=69f1d73e32fd45d5ea77935b4aeb0fcd; path=/; secure; httponly; samesite=lax",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
-    "x-content-security-policy": "default-src 'self' https://in-automate.brevo.com https://stats.beta.gouv.fr https://aides-territoires.beta.gouv.fr; base-uri 'self'; block-all-mixed-content; connect-src 'self' https://aides-territoires-prod.s3.fr-par.scw.cloud https://aides-territoires-prod-2.s3.fr-par.scw.cloud https://in-automate.brevo.com https://stats.beta.gouv.fr; font-src 'self' https://fonts.gstatic.com/; frame-ancestors 'self' https://aides-territoires-prod.s3.fr-par.scw.cloud https://aides-territoires-prod-2.s3.fr-par.scw.cloud https://monespacecollectivite.anct.gouv.fr https://app.territoiresentransitions.fr; frame-src https://stats.beta.gouv.fr; img-src 'self' data: https://aides-territoires-prod.s3.fr-par.scw.cloud https://aides-territoires-prod-2.s3.fr-par.scw.cloud https://a.forte.tiles.quaidorsay.fr https://b.forte.tiles.quaidorsay.fr https://c.forte.tiles.quaidorsay.fr https://a.tile.openstreetmap.org https://b.tile.openstreetmap.org https://c.tile.openstreetmap.org https://stats.beta.gouv.fr; media-src 'self' https://aides-territoires-prod.s3.fr-par.scw.cloud https://aides-territoires-prod-2.s3.fr-par.scw.cloud; object-src 'none'; script-src 'self' https://sibautomation.com https://stats.beta.gouv.fr/ https://cdn.brevo.com/js/sdk-loader.js 'sha256-LGq+8wK5S+uNOC5tf2iVU2P+d10HNCw6e1aGKOU9NKk=' 'sha256-mzCfKtjtKqQ7MIc84zRZ99WZXcdUOI9IhVQNdr2emaI=' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-t0exHt6czA31ZVcPqDiJ6W1J9PY7p3JAtg5otOv7Yzc=' 'sha256-PtlrOvxkIL5he6JOCq9aEG/pZd67JBbSYB/QGQ+OyC4='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://stats.beta.gouv.fr",
+    "x-content-security-policy": "default-src 'self' https://in-automate.brevo.com https://stats.beta.gouv.fr https://aides-territoires.beta.gouv.fr; base-uri 'self'; block-all-mixed-content; connect-src 'self' https://aides-territoires-prod.s3.fr-par.scw.cloud https://aides-territoires-prod-2.s3.fr-par.scw.cloud https://in-automate.brevo.com https://stats.beta.gouv.fr; font-src 'self' https://fonts.gstatic.com/; frame-ancestors 'self' https://aides-territoires-prod.s3.fr-par.scw.cloud https://aides-territoires-prod-2.s3.fr-par.scw.cloud https://monespacecollectivite.anct.gouv.fr https://app.territoiresentransitions.fr; frame-src https://stats.beta.gouv.fr; img-src 'self' data: https://aides-territoires-prod.s3.fr-par.scw.cloud https://aides-territoires-prod-2.s3.fr-par.scw.cloud https://a.forte.tiles.quaidorsay.fr https://b.forte.tiles.quaidorsay.fr https://c.forte.tiles.quaidorsay.fr https://a.tile.openstreetmap.org https://b.tile.openstreetmap.org https://c.tile.openstreetmap.org https://stats.beta.gouv.fr; media-src 'self' https://aides-territoires-prod.s3.fr-par.scw.cloud https://aides-territoires-prod-2.s3.fr-par.scw.cloud; object-src 'none'; script-src 'self' https://sibautomation.com https://stats.beta.gouv.fr/ https://cdn.brevo.com/js/sdk-loader.js 'sha256-LGq+8wK5S+uNOC5tf2iVU2P+d10HNCw6e1aGKOU9NKk=' 'sha256-mzCfKtjtKqQ7MIc84zRZ99WZXcdUOI9IhVQNdr2emaI=' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-t0exHt6czA31ZVcPqDiJ6W1J9PY7p3JAtg5otOv7Yzc=' 'sha256-4ltOw3sTV4AGKBTDPIInbhd9kS/P6d8IcR9WtWbCkDg='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://stats.beta.gouv.fr",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY\ndeny",
-    "x-request-id": "b0725eac-a6a6-4b79-94c9-3be603aa920f"
+    "x-request-id": "a83dfca8-dc65-4d6e-a905-0c982c31eccf"
   },
   "endpoints": [
     {
       "hostname": "aides-territoires.beta.gouv.fr",
-      "ip": "80.247.12.255",
+      "ip": "185.21.194.105",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -165,26 +165,6 @@
             "pt-BR": "França",
             "ru": "Франция",
             "zh-CN": "法国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "cdn.brevo.com",
-      "ip": "141.101.90.107",
-      "geoip": {
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
           }
         }
       }
@@ -288,8 +268,28 @@
       }
     },
     {
+      "hostname": "cdn.brevo.com",
+      "ip": "141.101.90.104",
+      "geoip": {
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
       "hostname": "sibautomation.com",
-      "ip": "141.101.90.106",
+      "ip": "141.101.90.104",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -309,7 +309,7 @@
     },
     {
       "hostname": "in-automate.brevo.com",
-      "ip": "104.18.37.40",
+      "ip": "172.64.150.216",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
