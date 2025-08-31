@@ -9,7 +9,7 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 24 Aug 2025 01:58:51 GMT",
+      "date": "Sun, 31 Aug 2025 01:54:49 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
@@ -24,12 +24,12 @@
       "cache-control": "no-cache",
       "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'connect-src' 'unsafe-inline' https://stats.beta.gouv.fr; connect-src 'self' https:; style-src 'self' https: 'unsafe-inline'; frame-src https://plugins.crisp.chat https://uneleveunstage.crisp.help https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com",
       "set-cookie": [
-        "_monstage_session=68cGuitlD9r%2Fwle4%2FKDjS1%2BS6oar5HOYItwXw9P0E%2Bnn2y4%2FR4EoYByX5U9HuqWcIrfpWxGgPVYOfjJbOPQI6b8HhzTz3aSJlLOB0luNMOWklHE%2F%2F%2B4IJlcWSZqH3LW3CUVHSd45TUIq1dOQdCWKRHhPUqU327KynPTJWIKQNRL%2B9wMgkJJTlQaFh7RhugmH8V%2FbjYT459tNq2AHtv0KWcj9G%2BuGuCLANecxVGrQA2r%2BlGqyCXZ3zyZ8X6WQdQojrBLc3LtZ%2FF2ZXOAT7TPW0X6ScjNlGzlTxQ%3D%3D--u24yht17%2BV4EccSn--JfJpCVYmMSWPfMscpK5pJw%3D%3D; path=/; secure; httponly; samesite=lax"
+        "_monstage_session=UVl9Sc5UPJanhkOLiKt%2F%2F8NcCR9b1UR7qLpSSE8VAjR5618IDIb9QscOxM3s7SD%2BLiyjy5z39KBXcyxSssa0%2BWWZMFZQcNXoeGaCuK%2Fq06bRaH48PFJrju2crb6mdZS9wkMwCqrxfyA5U5GB006QTPZrFyb2%2BG0k5kJ0utmV1wb1c24CcNt2ZNO3yl5W4hxS4tkOIORmiSYbRvp78JwDDQ6W3%2BI%2FtNYO7u1ZZ5kwoVW0Btl581cXETWzplT43j6eo0aFa3IWmwfnE3eqbxrfVHn086WEcv%2BdTw%3D%3D--aVRub%2FVkF9PNwzKp--Nt4Peqo5Y9HhBQK2OAj7TA%3D%3D; path=/; secure; httponly; samesite=lax"
       ],
-      "x-request-id": "dc11e9de-6e3d-47c0-ab1c-7378923d1bd9",
-      "x-runtime": "0.111639",
+      "x-request-id": "893ea4e2-d1c5-4d04-b743-bda6a733a1ae",
+      "x-runtime": "0.105664",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
-      "sozu-id": "01K3CWSGG8HEQQC8226PM1XWC9"
+      "sozu-id": "01K3YXB4E35JR16YTNCV2TZQ89"
     }
   },
   "tests": {
