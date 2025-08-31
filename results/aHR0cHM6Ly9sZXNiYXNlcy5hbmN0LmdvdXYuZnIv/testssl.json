@@ -199,14 +199,14 @@
               "ip"           : "lesbases.anct.gouv.fr/51.159.112.42",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
               "ip"           : "lesbases.anct.gouv.fr/51.159.112.42",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -353,7 +353,7 @@
               "ip"           : "lesbases.anct.gouv.fr/51.159.112.42",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "42 >= 30 days"
+              "finding"      : "35 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,14 +507,14 @@
               "ip"           : "lesbases.anct.gouv.fr/51.159.112.42",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-4 seconds from localtime"
+              "finding"      : "-3 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "lesbases.anct.gouv.fr/51.159.112.42",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1755999971"
+              "finding"      : "1756604650"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -584,7 +584,7 @@
               "ip"           : "lesbases.anct.gouv.fr/51.159.112.42",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "default-src 'self' https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.anct.gouv.fr; script-src 'self' https://matomo.incubateur.anct.gouv.fr 'unsafe-inline' 'unsafe-eval'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; img-src 'self' https://storage.lesbases.anct.gouv.fr data: blob:; frame-src https://www.youtube-nocookie.com/ https://global.frcapi.com/; object-src 'none'; connect-src 'self' blob: https://la-base-uploads.s3.fr-par.scw.cloud https://auth.agentconnect.gouv.fr https://sentry.incubateur.anct.gouv.fr/ https://openmaptiles.geo.data.gouv.fr https://openmaptiles.github.io https://aides-territoires.beta.gouv.fr https://recherche-entreprises.api.gouv.fr https://api-adresse.data.gouv.fr; worker-src 'self' blob:; font-src 'self' https: data:; frame-ancestors 'self' https://matomo.incubateur.anct.gouv.fr; form-action 'self'; base-uri 'self'; upgrade-insecure-requests;"
+              "finding"      : "default-src 'self' https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.anct.gouv.fr; script-src 'self' https://matomo.incubateur.anct.gouv.fr 'unsafe-inline' 'unsafe-eval'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; img-src 'self' https://storage.lesbases.anct.gouv.fr data: blob:; frame-src https://www.youtube-nocookie.com/ https://global.frcapi.com/; object-src 'none'; connect-src 'self' blob: https://la-base-uploads.s3.fr-par.scw.cloud https://auth.agentconnect.gouv.fr https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.anct.gouv.fr/ https://openmaptiles.geo.data.gouv.fr https://openmaptiles.github.io https://aides-territoires.beta.gouv.fr https://recherche-entreprises.api.gouv.fr https://api-adresse.data.gouv.fr; worker-src 'self' blob:; font-src 'self' https: data:; frame-ancestors 'self' https://matomo.incubateur.anct.gouv.fr; form-action 'self'; base-uri 'self'; upgrade-insecure-requests;"
           }
 ,         {
               "id"           : "X-XSS-Protection",
@@ -1105,6 +1105,6 @@
               "ip"           : "lesbases.anct.gouv.fr/51.159.112.42",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "82"
+              "finding"      : "108"
           }
 ]
