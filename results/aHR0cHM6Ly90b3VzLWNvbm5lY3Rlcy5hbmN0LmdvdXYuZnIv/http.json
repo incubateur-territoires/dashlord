@@ -9,11 +9,11 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 24 Aug 2025 01:57:42 GMT",
+      "date": "Sun, 31 Aug 2025 01:49:10 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "9c3d8f60-4b51-442e-9603-d5097ad41a77",
+      "x-request-id": "8fdd043a-d931-47f4-ab82-9e0a39fe6fba",
       "content-security-policy": "default-src 'self'; frame-src 'self' https://tube.numerique.gouv.fr https://toutes-tous-connectes-metabase.osc-secnum-fr1.scalingo.io; frame-ancestors 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' blob: https://matomo.incubateur.anct.gouv.fr; worker-src 'self' blob:; connect-src *; img-src * blob: data:; style-src 'self' 'unsafe-inline'; font-src 'self' data:; form-action 'self'; base-uri 'self'",
       "referrer-policy": "strict-origin-when-cross-origin",
       "x-content-type-options": "nosniff",
