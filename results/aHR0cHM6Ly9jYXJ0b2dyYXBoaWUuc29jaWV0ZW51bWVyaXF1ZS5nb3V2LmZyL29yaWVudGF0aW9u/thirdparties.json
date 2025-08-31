@@ -55,7 +55,7 @@
       "value": "1",
       "domain": "cartographie.societenumerique.gouv.fr",
       "path": "/",
-      "expires": 1756000594,
+      "expires": 1756605132,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -67,10 +67,10 @@
     },
     {
       "name": "_pk_id.277.9ac4",
-      "value": "fff3b7d996da1ce1.1755998795.",
+      "value": "f683a51d33fdf73b.1756603332.",
       "domain": "cartographie.societenumerique.gouv.fr",
       "path": "/",
-      "expires": 1789953995,
+      "expires": 1790558532,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -82,11 +82,11 @@
     }
   ],
   "headers": {
-    "age": "6974",
+    "age": "2337",
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self' data: https://*.gouv.fr https://openmaptiles.github.io ; font-src 'self' https://cdn.jsdelivr.net; img-src 'self' data: https://*.gouv.fr; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.gouv.fr blob:; style-src 'self' 'unsafe-inline';",
     "content-type": "text/html",
-    "date": "Sat, 23 Aug 2025 23:30:20 GMT",
+    "date": "Sun, 31 Aug 2025 00:43:15 GMT",
     "etag": "W/\"289df21bc629799ae8e1b2637f2f57bc\"",
     "last-modified": "Thu, 31 Jul 2025 15:25:39 GMT",
     "permissions-policy": "accelerometer=(), camera=(), geolocation=(self), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
@@ -94,9 +94,9 @@
     "server": "AmazonS3",
     "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
     "vary": "accept-encoding",
-    "via": "1.1 60e55687f4f0ad988a569a499b543a0e.cloudfront.net (CloudFront)",
-    "x-amz-cf-id": "eTbyMs2_njD9PtgH1amwiPncwNUscVzpGdjzOpL3-12CDqcu1jxOBA==",
-    "x-amz-cf-pop": "SFO53-P5",
+    "via": "1.1 5072b2d5201c1f2f8d4d9135dcd39754.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "vBha4hnNK5JNvEy29kU7rfh4ooKSUiMENWD_sUGSUpy9X28EPpVgmg==",
+    "x-amz-cf-pop": "IAD61-P6",
     "x-amz-server-side-encryption": "AES256",
     "x-cache": "Error from cloudfront",
     "x-content-type-options": "nosniff",
@@ -106,7 +106,7 @@
   "endpoints": [
     {
       "hostname": "cartographie.societenumerique.gouv.fr",
-      "ip": "18.238.192.50",
+      "ip": "3.167.69.52",
       "geoip": {
         "continent": {
           "code": "NA",
