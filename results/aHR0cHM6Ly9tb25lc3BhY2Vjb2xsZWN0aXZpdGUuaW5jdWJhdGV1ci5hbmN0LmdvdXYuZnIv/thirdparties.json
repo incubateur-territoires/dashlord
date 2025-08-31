@@ -19,7 +19,7 @@
       "value": "1",
       "domain": "monespacecollectivite.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1755999733,
+      "expires": 1756604166,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -31,10 +31,10 @@
     },
     {
       "name": "_pk_id.209.29ea",
-      "value": "b2f6779bf3bab137.1755997933.",
+      "value": "25dda2d55952e5a3.1756602366.",
       "domain": "monespacecollectivite.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1789953133,
+      "expires": 1790557566,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -43,30 +43,14 @@
       "priority": "Medium",
       "sameParty": false,
       "sourceScheme": "Secure"
-    },
-    {
-      "name": "csrftoken",
-      "value": "AyTCjiibKsQkwLRwnKbI1VBQnbNhYK5f",
-      "domain": "monespacecollectivite.incubateur.anct.gouv.fr",
-      "path": "/",
-      "expires": 1787447530.839868,
-      "size": 41,
-      "httpOnly": false,
-      "secure": true,
-      "session": false,
-      "sameSite": "None",
-      "priority": "Medium",
-      "sameParty": false,
-      "sourceScheme": "Secure"
     }
   ],
   "headers": {
-    "content-length": "28818",
+    "content-length": "24196",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 24 Aug 2025 01:12:10 GMT",
+    "date": "Sun, 31 Aug 2025 01:06:03 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=AyTCjiibKsQkwLRwnKbI1VBQnbNhYK5f; expires=Sun, 23 Aug 2026 01:12:10 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Cookie",
     "via": "2.0 alproxy",
@@ -152,7 +136,7 @@
     },
     {
       "hostname": "browser.sentry-cdn.com",
-      "ip": "151.101.2.217",
+      "ip": "151.101.130.217",
       "geoip": {
         "city": {
           "geoname_id": 5391959,
