@@ -185,7 +185,7 @@
               "ip"           : "coop-numerique.anct.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "valid for 7200 seconds only (<daily)"
+              "finding"      : "valid for 7199 seconds only (<daily)"
           }
 ,         {
               "id"           : "SSL_sessionID_support",
@@ -353,7 +353,7 @@
               "ip"           : "coop-numerique.anct.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "75 >= 30 days"
+              "finding"      : "68 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,14 +507,14 @@
               "ip"           : "coop-numerique.anct.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "+1 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "coop-numerique.anct.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1756604305"
+              "finding"      : "1757209017"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -584,7 +584,7 @@
               "ip"           : "coop-numerique.anct.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "default-src 'self' https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.net; script-src 'self' https://matomo.incubateur.anct.gouv.fr https://cdn.jsdelivr.net/npm/@scalar/api-reference 'unsafe-inline' 'unsafe-eval'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; img-src 'self' data: *; frame-src https://www.youtube-nocookie.com/; object-src 'none'; connect-src 'self' https://coop-mediation-numerique-uploads-main.s3.fr-par.scw.cloud https://auth.agentconnect.gouv.fr https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.net https://openmaptiles.geo.data.gouv.fr https://openmaptiles.github.io https://aides-territoires.beta.gouv.fr https://recherche-entreprises.api.gouv.fr https://api-adresse.data.gouv.fr https://dev.coop-mediation-numerique.incubateur.anct.gouv.fr https://coop-numerique.anct.gouv.fr; worker-src 'self' blob:; font-src 'self' https: data:; frame-ancestors 'self' https://matomo.incubateur.anct.gouv.fr; form-action 'self'; base-uri 'self'; upgrade-insecure-requests true;"
+              "finding"      : "default-src 'self' https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.anct.gouv.fr; script-src 'self' https://matomo.incubateur.anct.gouv.fr https://cdn.jsdelivr.net/npm/@scalar/api-reference 'unsafe-inline' 'unsafe-eval'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; img-src 'self' data: *; frame-src https://www.youtube-nocookie.com/; object-src 'none'; connect-src 'self' https://coop-mediation-numerique-uploads-main.s3.fr-par.scw.cloud https://auth.agentconnect.gouv.fr https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.anct.gouv.fr https://openmaptiles.geo.data.gouv.fr https://openmaptiles.github.io https://aides-territoires.beta.gouv.fr https://recherche-entreprises.api.gouv.fr https://api-adresse.data.gouv.fr https://dev.coop-mediation-numerique.incubateur.anct.gouv.fr https://coop-numerique.anct.gouv.fr; worker-src 'self' blob:; font-src 'self' https: data:; frame-ancestors 'self' https://matomo.incubateur.anct.gouv.fr; form-action 'self'; base-uri 'self'; upgrade-insecure-requests;"
           }
 ,         {
               "id"           : "X-XSS-Protection",
@@ -1105,6 +1105,6 @@
               "ip"           : "coop-numerique.anct.gouv.fr/195.154.73.190",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "108"
+              "finding"      : "106"
           }
 ]
