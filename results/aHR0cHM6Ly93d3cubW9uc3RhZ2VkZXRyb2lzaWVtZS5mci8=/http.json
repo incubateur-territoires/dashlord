@@ -9,7 +9,7 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 31 Aug 2025 01:54:49 GMT",
+      "date": "Sun, 07 Sep 2025 01:49:48 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
@@ -24,12 +24,12 @@
       "cache-control": "no-cache",
       "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'connect-src' 'unsafe-inline' https://stats.beta.gouv.fr; connect-src 'self' https:; style-src 'self' https: 'unsafe-inline'; frame-src https://plugins.crisp.chat https://uneleveunstage.crisp.help https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com",
       "set-cookie": [
-        "_monstage_session=UVl9Sc5UPJanhkOLiKt%2F%2F8NcCR9b1UR7qLpSSE8VAjR5618IDIb9QscOxM3s7SD%2BLiyjy5z39KBXcyxSssa0%2BWWZMFZQcNXoeGaCuK%2Fq06bRaH48PFJrju2crb6mdZS9wkMwCqrxfyA5U5GB006QTPZrFyb2%2BG0k5kJ0utmV1wb1c24CcNt2ZNO3yl5W4hxS4tkOIORmiSYbRvp78JwDDQ6W3%2BI%2FtNYO7u1ZZ5kwoVW0Btl581cXETWzplT43j6eo0aFa3IWmwfnE3eqbxrfVHn086WEcv%2BdTw%3D%3D--aVRub%2FVkF9PNwzKp--Nt4Peqo5Y9HhBQK2OAj7TA%3D%3D; path=/; secure; httponly; samesite=lax"
+        "_monstage_session=ZYeZ%2B66cGN38lRDJSeV3s%2F8yA2qdIjyfpMwvFUiSA5FS4iNzrTCTG22LmzEhEttoSrjUhJ4c46ON4cT5cFieyqijGYcsZeE%2FP9nWn1FB6U0s349aQazfVbODUIjD%2BOrttkq8teAxmabiDDfLhGuIZLvc%2B5iA7EfK0UbhQ161XwQkY%2BxLE2bq1%2FND1vTc0MkDsWGYzUarGHbtk7455ufyjmkkATl7Q4KI3jo8kfzl6Nfav2wCCPZCJoNli17DpKc0vXcXKnfHVbcLEMHvYHxZPNPNftElC5CkQQ%3D%3D--IPNoPy8D6g72CCeK--WZtNfmvoQ4wg4fqWnm3inQ%3D%3D; path=/; secure; httponly; samesite=lax"
       ],
-      "x-request-id": "893ea4e2-d1c5-4d04-b743-bda6a733a1ae",
-      "x-runtime": "0.105664",
+      "x-request-id": "babf5c83-1e56-4838-853d-6c0876dd6492",
+      "x-runtime": "0.022064",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
-      "sozu-id": "01K3YXB4E35JR16YTNCV2TZQ89"
+      "sozu-id": "01K4GXV0AKGYTY420R97M2P34X"
     }
   },
   "tests": {
