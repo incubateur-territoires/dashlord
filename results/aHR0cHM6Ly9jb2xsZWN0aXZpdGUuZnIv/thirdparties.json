@@ -42,7 +42,7 @@
     },
     {
       "type": "contentsquare",
-      "url": "https://t.contentsquare.net/settings/266388.json?r=1951778",
+      "url": "https://t.contentsquare.net/settings/266388.json?r=1952450",
       "details": {
         "id": "contentsquare",
         "message": "Replace with privacy-first solutions"
@@ -59,7 +59,7 @@
       "value": "1",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1756602844,
+      "expires": 1757207605,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -71,10 +71,10 @@
     },
     {
       "name": "_pk_id.118.88ba",
-      "value": "37fb21e9576cde7b.1756601045.",
+      "value": "7247a2a2c6c5994c.1757205805.",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1790556245,
+      "expires": 1791161005,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -89,19 +89,19 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' https://stats.beta.gouv.fr https://*.contentsquare.net https://sentry.anct.cloud-ed.fr; connect-src 'self' https://api.collectivite.fr https://stats.beta.gouv.fr https://*.contentsquare.net https://sentry.anct.cloud-ed.fr https://quotient-familial.numerique.gouv.fr https://datanova.laposte.fr https://data-api.publication-actes.fr https://data-api.megalis.bretagne.bzh; worker-src 'self' blob:;; frame-src 'self' https://data.megalis.bretagne.bzh https://publication-actes.fr; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://annuaire-des-collectivites-production-storage.s3.fr-par.scw.cloud https://annuaire-des-collectivites-development-storage.s3.fr-par.scw.cloud https://*.contentsquare.net https://commons.wikimedia.org https://upload.wikimedia.org; font-src 'self' https:; object-src 'none'; upgrade-insecure-requests",
     "content-type": "text/html",
-    "date": "Sun, 31 Aug 2025 00:44:02 GMT",
+    "date": "Sun, 07 Sep 2025 00:43:24 GMT",
     "permissions-policy": "geolocation=(), microphone=(), camera=()",
     "referrer-policy": "strict-origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "8c82b793-dbed-4546-bb58-776eeea28df9",
+    "x-request-id": "c2e7dda6-1a60-4851-93eb-17c636e2712d",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
     {
       "hostname": "collectivite.fr",
-      "ip": "148.253.96.193",
+      "ip": "80.247.13.145",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -157,7 +157,7 @@
     },
     {
       "hostname": "annuaire-des-collectivites-production-storage.s3.fr-par.scw.cloud",
-      "ip": "51.159.62.20",
+      "ip": "51.159.62.18",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
@@ -255,8 +255,20 @@
     },
     {
       "hostname": "static.hj.contentsquare.net",
-      "ip": "13.33.252.127",
+      "ip": "18.160.41.112",
       "geoip": {
+        "city": {
+          "geoname_id": 5809844,
+          "names": {
+            "de": "Seattle",
+            "en": "Seattle",
+            "es": "Seattle",
+            "fr": "Seattle",
+            "ja": "シアトル",
+            "pt-BR": "Seattle",
+            "ru": "Сиэтл"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -287,9 +299,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 47.6109,
+          "longitude": -122.3303,
+          "metro_code": 819,
+          "time_zone": "America/Los_Angeles"
+        },
+        "postal": {
+          "code": "98101"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -304,12 +320,28 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5815135,
+            "iso_code": "WA",
+            "names": {
+              "de": "Washington",
+              "en": "Washington",
+              "es": "Washington",
+              "fr": "Washington",
+              "ja": "ワシントン州",
+              "pt-BR": "Washington",
+              "ru": "Вашингтон",
+              "zh-CN": "华盛顿州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "t.contentsquare.net",
-      "ip": "3.167.163.10",
+      "ip": "3.167.88.75",
       "geoip": {
         "continent": {
           "code": "NA",
