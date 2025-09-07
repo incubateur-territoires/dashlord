@@ -22,23 +22,23 @@
     },
     {
       "type": "unknown",
-      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/card/s3/2025-08/pont_valentre_20.jpg.webp?itok=dz8fSNn2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/card/s3/2025-07/tiers-lieu-dardilly.jpg.webp?itok=yxybkjEu"
-    },
-    {
-      "type": "unknown",
-      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/card/s3/2025-07/houilles.png.webp?itok=g8GwpHnB"
-    },
-    {
-      "type": "unknown",
-      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/card/s3/2025-07/chambery.png.webp?itok=Mwb16JzO"
-    },
-    {
-      "type": "unknown",
       "url": "https://sentry.anct.cloud-ed.fr/api/12/envelope/?sentry_version=7&sentry_key=92d1bf2800a14b2609b79ec491f0e041&sentry_client=sentry.javascript.browser%2F8.54.0"
+    },
+    {
+      "type": "unknown",
+      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/card/s3/2025-09/clisson.jpeg.webp?itok=TVNO3oSj"
+    },
+    {
+      "type": "unknown",
+      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/card/s3/2025-09/vdef_dp-residence-les-bancs-1ere-pierre.jpeg.webp?itok=IgKzW-dh"
+    },
+    {
+      "type": "unknown",
+      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/card/s3/2025-09/vue-sur-la-ville.png.webp?itok=RZIVp4m5"
+    },
+    {
+      "type": "unknown",
+      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/card/s3/2025-09/microfolie-vallet.jpg.webp?itok=15qQXjE9"
     },
     {
       "type": "jsdelivr",
@@ -63,7 +63,7 @@
       "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1756604234,
+      "expires": 1757209002,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -75,10 +75,10 @@
     },
     {
       "name": "_pk_id.22.6a82",
-      "value": "6bcbc856252dd3da.1756602435.",
+      "value": "250006da820b381c.1757207202.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1790557635,
+      "expires": 1791162402,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -90,10 +90,10 @@
     },
     {
       "name": "bln_challengejs",
-      "value": "0ViT-hVSo0nJSKv2UgcMbFf-WJO_r2sn7a2r7bLg7PSDv0SndIwm7t_27QAUcj_bv8qeQxxJDyzZew6Nj52eV31nieYRqPYUXrrdL_6pGwEzkgygKtu2RlCniYtHFB_f5LrLcvFFVBA04JjkcSnI5HeqPlSsFpfR4VNPk0FTb0bO18GgX6d-1QHMtHWSEjW1Lomcg_-El5zwIXp8ZOQMQpFxxleszUTAhttg_6_5m2FvATPz-wFTgfXLEkcjBm0g6lqgzf1Er-_1qip9jBtOvphrv-Q_Bp064bCSyA54kq8",
+      "value": "Wc1tmJe8Xb6jImilKB5hfJvDtNjtzhxY-XRZtAuJ-70wqZthu0G2HpN2rY-3NrJftUrnCk5xKvGbwBprN0BVlm0kRWgTX93h6UyZv9XOI4c_Klb8ObYk-5kD5fH0timHEysn5o8UUStxsRqWzpz0SHXpDrf0DzVdmezhKaOF81vQyRuJqiyieskvdp9jx9ZySk8CJSERUc_Py32LPKsZutYrsTDFvUzFl5QUHOv-nO0VsBsiTcR0MZ1TIjtTbcqvQEduWOPXNiWP-kPv9Er8ARm__7xUb33vgiiry4Qn1iQ",
       "domain": ".anct.gouv.fr",
       "path": "/",
-      "expires": 1756603333.655291,
+      "expires": 1757208101.329626,
       "size": 314,
       "httpOnly": false,
       "secure": true,
@@ -109,10 +109,10 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 31 Aug 2025 01:07:13 GMT",
-    "etag": "W/\"1756436895\"",
+    "date": "Sun, 07 Sep 2025 01:06:41 GMT",
+    "etag": "W/\"1756996488\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Fri, 29 Aug 2025 03:08:15 GMT",
+    "last-modified": "Thu, 04 Sep 2025 14:34:48 GMT",
     "referrer-policy": "origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\nCookie",
@@ -121,7 +121,7 @@
     "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "5039de31f0d1f9937e331c00ce21f7e1",
+    "x-request-id": "4d66c8e863c77ef4cc4047c0b65eafc0",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -183,7 +183,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "172.217.12.106",
+      "ip": "142.250.190.42",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -237,7 +237,7 @@
     },
     {
       "hostname": "anct-site-prod.s3.fr-par.scw.cloud",
-      "ip": "51.159.62.19",
+      "ip": "51.159.62.18",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
@@ -335,59 +335,8 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "151.101.193.229",
+      "ip": "104.16.174.226",
       "geoip": {
-        "city": {
-          "geoname_id": 5391959,
-          "names": {
-            "de": "San Francisco",
-            "en": "San Francisco",
-            "es": "San Francisco",
-            "fr": "San Francisco",
-            "ja": "サンフランシスコ",
-            "pt-BR": "São Francisco",
-            "ru": "Сан-Франциско",
-            "zh-CN": "旧金山"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.7642,
-          "longitude": -122.3993,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
-        },
-        "postal": {
-          "code": "94107"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -401,23 +350,7 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
-            "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
-            }
-          }
-        ]
+        }
       }
     },
     {
