@@ -3,15 +3,15 @@
         "width": 1920,
         "height": 1080,
         "url": "https://collectivite.fr/",
-        "size": 1009.177,
+        "size": 1010.813,
         "nodes": 378,
-        "requests": 49,
+        "requests": 51,
         "grade": "C",
-        "score": 68.0,
-        "ges": 1.64,
-        "water": 2.46,
+        "score": 67.0,
+        "ges": 1.66,
+        "water": 2.49,
         "ecoindex_version": "5.4.2",
-        "date": "2025-09-07 00:43:03.335054",
+        "date": "2025-09-14 00:42:08.361418",
         "page_type": null
     }
 ]
