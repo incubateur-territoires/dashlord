@@ -55,7 +55,7 @@
       "value": "1",
       "domain": "cartographie.societenumerique.gouv.fr",
       "path": "/",
-      "expires": 1757814731,
+      "expires": 1758419646,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -67,10 +67,10 @@
     },
     {
       "name": "_pk_id.277.9ac4",
-      "value": "227e6db85ab59aff.1757812932.",
+      "value": "b9fb4f5392e4e263.1758417846.",
       "domain": "cartographie.societenumerique.gouv.fr",
       "path": "/",
-      "expires": 1791768132,
+      "expires": 1792373046,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -82,11 +82,11 @@
     }
   ],
   "headers": {
-    "age": "5480",
+    "age": "214",
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self' data: https://*.gouv.fr https://openmaptiles.github.io ; font-src 'self' https://cdn.jsdelivr.net; img-src 'self' data: https://*.gouv.fr; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.gouv.fr blob:; style-src 'self' 'unsafe-inline';",
     "content-type": "text/html",
-    "date": "Sat, 13 Sep 2025 23:50:52 GMT",
+    "date": "Sun, 21 Sep 2025 01:20:32 GMT",
     "etag": "W/\"289df21bc629799ae8e1b2637f2f57bc\"",
     "last-modified": "Thu, 31 Jul 2025 15:25:39 GMT",
     "permissions-policy": "accelerometer=(), camera=(), geolocation=(self), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
@@ -94,8 +94,8 @@
     "server": "AmazonS3",
     "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
     "vary": "accept-encoding",
-    "via": "1.1 8b272af022490485e447507e6865c8a6.cloudfront.net (CloudFront)",
-    "x-amz-cf-id": "ZBk4cGSAlSSR3VOLPois_tgSC38xaB2Lu0gmfKKZLCecVovRNLBBjw==",
+    "via": "1.1 beec8df5d3c3defd412e08f4a26fcf0c.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "KG6COh7iqQYgskH_6pd2qcJhbAjil0ft93LewuJYZjSuWJuoaassjA==",
     "x-amz-cf-pop": "IAD61-P6",
     "x-amz-server-side-encryption": "AES256",
     "x-cache": "Error from cloudfront",
@@ -160,7 +160,7 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.16.174.226",
+      "ip": "104.16.175.226",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
