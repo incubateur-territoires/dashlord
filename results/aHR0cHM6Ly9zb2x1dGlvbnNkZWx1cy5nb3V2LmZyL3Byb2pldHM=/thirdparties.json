@@ -63,7 +63,7 @@
       "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1758418780,
+      "expires": 1759023600,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -75,10 +75,10 @@
     },
     {
       "name": "_pk_id.22.6a82",
-      "value": "ea0d27f855861952.1758416980.",
+      "value": "0268fc89aa7548cd.1759021800.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1792372180,
+      "expires": 1792977000,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -90,10 +90,10 @@
     },
     {
       "name": "bln_challengejs",
-      "value": "BWjhyeIpWxGRyPthz-mUsU-00xSb9GJyySi-oTHmUSRLLPQeHccFu2KCFawaqJ6AQheQ52DYJUkVi7gHKjgrbmioej1CnXRaw7tEH8uPR6e1AT2Xm48jkTJ4bwfBd53DeCKSnebj3wgevh7WthQjTfJxQxHh8oJuhqWhetcG1p697TMf3swNr_4U-GC_5ka-0KICX1MdT0YbSh0BVGntw9o2xVNe2PgOhIRCMuDB47c9Vqzuz8Ra9YIj2AS5xtsMfFORTQVJR6rxcXWpUp8l5kJQWHNWFHsgYjJq3m_HANk",
+      "value": "VuDVbMTYS0EOM4-INF9v2l4V-vxM8sNTzqNwIlrZl9lkcn1wLBMmea745EOtCXM0uWbNcCOogxPHBdJogIMmbosJO-i9L4_fKSOWAKt65tQCtId9LiS-_O8-5k8LwEKCL_QgIlQuWnDdsCkG8ZNpsnxZ3GP3Xn6NRKRDQC10pXmK0chr96CkDIvm1j7bq3GIjyxYZuHOk-oFrWB6TA_GoTv1_VwuWYdEaA97wBW7xbjS-n0FzIh8ewFCzhJbA8yJTxARjLNaXN9vxNca83u9YDyaDOzN6N5VI4EjvG1ALtU",
       "domain": ".anct.gouv.fr",
       "path": "/",
-      "expires": 1758417879.497102,
+      "expires": 1759022699.32682,
       "size": 314,
       "httpOnly": false,
       "secure": true,
@@ -109,25 +109,25 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 21 Sep 2025 01:09:39 GMT",
-    "etag": "W/\"1758302192\"",
+    "date": "Sun, 28 Sep 2025 01:09:59 GMT",
+    "etag": "W/\"1758887822\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Fri, 19 Sep 2025 17:16:32 GMT",
+    "last-modified": "Fri, 26 Sep 2025 11:57:02 GMT",
     "referrer-policy": "origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\nCookie",
     "x-content-type-options": "nosniff",
     "x-drupal-cache": "HIT",
-    "x-drupal-dynamic-cache": "HIT",
+    "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "385bb6231ae3afc07a2630c511ec5e51",
+    "x-request-id": "12520c5a0dc922a359c2f84caf11d5f7",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
     {
       "hostname": "solutionsdelus.gouv.fr",
-      "ip": "80.247.12.255",
+      "ip": "185.21.194.105",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -183,7 +183,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "74.125.126.95",
+      "ip": "142.251.163.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -215,9 +215,9 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 34.0544,
-          "longitude": -118.244,
-          "time_zone": "America/Los_Angeles"
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -232,28 +232,12 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
-            "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "anct-site-prod.s3.fr-par.scw.cloud",
-      "ip": "51.159.62.19",
+      "ip": "51.159.62.20",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
@@ -351,8 +335,59 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.16.174.226",
+      "ip": "151.101.193.229",
       "geoip": {
+        "city": {
+          "geoname_id": 5391959,
+          "names": {
+            "de": "San Francisco",
+            "en": "San Francisco",
+            "es": "San Francisco",
+            "fr": "San Francisco",
+            "ja": "サンフランシスコ",
+            "pt-BR": "São Francisco",
+            "ru": "Сан-Франциско",
+            "zh-CN": "旧金山"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.7642,
+          "longitude": -122.3993,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
+        },
+        "postal": {
+          "code": "94107"
+        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -366,7 +401,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5332921,
+            "iso_code": "CA",
+            "names": {
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
+            }
+          }
+        ]
       }
     },
     {
