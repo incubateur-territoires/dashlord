@@ -9,11 +9,11 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 21 Sep 2025 01:50:15 GMT",
+      "date": "Sun, 28 Sep 2025 01:48:36 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "01ce4ac1-6bc0-46da-af67-5f8ef928d9ef",
+      "x-request-id": "3099b9b2-bbf9-4437-b3eb-8b7a679849cb",
       "content-security-policy": "default-src 'self'; frame-src 'self' https://tube.numerique.gouv.fr https://toutes-tous-connectes-metabase.osc-secnum-fr1.scalingo.io; frame-ancestors 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' blob: https://matomo.incubateur.anct.gouv.fr; worker-src 'self' blob:; connect-src *; img-src * blob: data:; style-src 'self' 'unsafe-inline'; font-src 'self' data:; form-action 'self'; base-uri 'self'",
       "referrer-policy": "strict-origin-when-cross-origin",
       "x-content-type-options": "nosniff",
@@ -22,7 +22,7 @@
       "x-nextjs-cache": "HIT",
       "x-powered-by": "Next.js",
       "cache-control": "s-maxage=31536000, stale-while-revalidate",
-      "etag": "\"16a6omt4s3p2jms\"",
+      "etag": "\"wt3o24lf2u2mdk\"",
       "strict-transport-security": "max-age=31536000"
     }
   },
