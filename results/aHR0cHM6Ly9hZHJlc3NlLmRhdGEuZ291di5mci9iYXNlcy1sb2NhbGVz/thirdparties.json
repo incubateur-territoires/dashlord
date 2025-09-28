@@ -59,7 +59,7 @@
       "value": "1",
       "domain": "adresse.data.gouv.fr",
       "path": "/",
-      "expires": 1758417821,
+      "expires": 1759022617,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -71,10 +71,10 @@
     },
     {
       "name": "_pk_id.13.592e",
-      "value": "4c5653c1c7913ed3.1758416021.",
+      "value": "c338944e33406e81.1759020817.",
       "domain": "adresse.data.gouv.fr",
       "path": "/",
-      "expires": 1792371221,
+      "expires": 1792976017,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -89,7 +89,7 @@
     "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 21 Sep 2025 00:53:39 GMT",
+    "date": "Sun, 28 Sep 2025 00:53:34 GMT",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
     "x-powered-by": "Next.js"
@@ -97,7 +97,7 @@
   "endpoints": [
     {
       "hostname": "adresse.data.gouv.fr",
-      "ip": "37.59.31.19",
+      "ip": "51.68.84.201",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -153,21 +153,8 @@
     },
     {
       "hostname": "baseadressenationale.github.io",
-      "ip": "185.199.109.153",
+      "ip": "185.199.108.153",
       "geoip": {
-        "city": {
-          "geoname_id": 5391959,
-          "names": {
-            "de": "San Francisco",
-            "en": "San Francisco",
-            "es": "San Francisco",
-            "fr": "San Francisco",
-            "ja": "サンフランシスコ",
-            "pt-BR": "São Francisco",
-            "ru": "Сан-Франциско",
-            "zh-CN": "旧金山"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -197,14 +184,10 @@
           }
         },
         "location": {
-          "accuracy_radius": 20,
-          "latitude": 37.7642,
-          "longitude": -122.3993,
-          "metro_code": 807,
+          "accuracy_radius": 1000,
+          "latitude": 34.0544,
+          "longitude": -118.244,
           "time_zone": "America/Los_Angeles"
-        },
-        "postal": {
-          "code": "94107"
         },
         "registered_country": {
           "geoname_id": 6252001,
