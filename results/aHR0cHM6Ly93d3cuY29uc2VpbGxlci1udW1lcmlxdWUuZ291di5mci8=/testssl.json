@@ -206,7 +206,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "'server name/#0' 'status request/#5' 'EC point formats/#11' 'application layer protocol negotiation/#16' 'extended master secret/#23' 'compress_certificate/#27' 'session ticket/#35' 'supported versions/#43' 'key share/#51' 'next protocol/#13172' 'renegotiation info/#65281'"
+              "finding"      : "'server name/#0' 'EC point formats/#11' 'application layer protocol negotiation/#16' 'extended master secret/#23' 'compress_certificate/#27' 'session ticket/#35' 'supported versions/#43' 'key share/#51' 'next protocol/#13172' 'renegotiation info/#65281'"
           }
 ,         {
               "id"           : "TLS_session_ticket",
@@ -234,7 +234,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -373,8 +373,8 @@
               "id"           : "cert_expirationStatus <hostCert#1>",
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "60 >= 60 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 60 days (53)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#1>",
@@ -387,7 +387,7 @@
               "id"           : "cert_notAfter <hostCert#1>",
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2025-11-20 19:19"
           }
 ,         {
@@ -422,15 +422,8 @@
               "id"           : "OCSP_stapling <hostCert#1>",
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "offered"
-          }
-,         {
-              "id"           : "cert_ocspRevoked <hostCert#1>",
-              "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "not revoked"
+              "severity"     : "LOW",
+              "finding"      : "not offered"
           }
 ,         {
               "id"           : "cert_mustStapleExtension <hostCert#1>",
@@ -674,8 +667,8 @@
               "id"           : "cert_expirationStatus <hostCert#2>",
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "60 >= 60 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 60 days (53)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#2>",
@@ -688,7 +681,7 @@
               "id"           : "cert_notAfter <hostCert#2>",
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2025-11-20 19:22"
           }
 ,         {
@@ -723,15 +716,8 @@
               "id"           : "OCSP_stapling <hostCert#2>",
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "offered"
-          }
-,         {
-              "id"           : "cert_ocspRevoked <hostCert#2>",
-              "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "not revoked"
+              "severity"     : "LOW",
+              "finding"      : "not offered"
           }
 ,         {
               "id"           : "cert_mustStapleExtension <hostCert#2>",
@@ -885,7 +871,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1758418246"
+              "finding"      : "1759022780"
           }
 ,         {
               "id"           : "HSTS",
@@ -1659,7 +1645,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "'server name/#0' 'status request/#5' 'EC point formats/#11' 'application layer protocol negotiation/#16' 'extended master secret/#23' 'compress_certificate/#27' 'session ticket/#35' 'supported versions/#43' 'key share/#51' 'next protocol/#13172' 'renegotiation info/#65281'"
+              "finding"      : "'server name/#0' 'EC point formats/#11' 'application layer protocol negotiation/#16' 'extended master secret/#23' 'compress_certificate/#27' 'session ticket/#35' 'supported versions/#43' 'key share/#51' 'next protocol/#13172' 'renegotiation info/#65281'"
           }
 ,         {
               "id"           : "TLS_session_ticket",
@@ -1826,8 +1812,8 @@
               "id"           : "cert_expirationStatus <hostCert#1>",
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "60 >= 60 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 60 days (53)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#1>",
@@ -1840,7 +1826,7 @@
               "id"           : "cert_notAfter <hostCert#1>",
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2025-11-20 19:19"
           }
 ,         {
@@ -1875,15 +1861,8 @@
               "id"           : "OCSP_stapling <hostCert#1>",
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "offered"
-          }
-,         {
-              "id"           : "cert_ocspRevoked <hostCert#1>",
-              "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "not revoked"
+              "severity"     : "LOW",
+              "finding"      : "not offered"
           }
 ,         {
               "id"           : "cert_mustStapleExtension <hostCert#1>",
@@ -2127,8 +2106,8 @@
               "id"           : "cert_expirationStatus <hostCert#2>",
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "60 >= 60 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 60 days (53)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#2>",
@@ -2141,7 +2120,7 @@
               "id"           : "cert_notAfter <hostCert#2>",
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2025-11-20 19:22"
           }
 ,         {
@@ -2176,15 +2155,8 @@
               "id"           : "OCSP_stapling <hostCert#2>",
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "offered"
-          }
-,         {
-              "id"           : "cert_ocspRevoked <hostCert#2>",
-              "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "not revoked"
+              "severity"     : "LOW",
+              "finding"      : "not offered"
           }
 ,         {
               "id"           : "cert_mustStapleExtension <hostCert#2>",
@@ -2338,7 +2310,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1758418308"
+              "finding"      : "1759022843"
           }
 ,         {
               "id"           : "HSTS",
@@ -2910,6 +2882,6 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "125"
+              "finding"      : "128"
           }
 ]
