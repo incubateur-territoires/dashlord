@@ -55,7 +55,7 @@
       "value": "1",
       "domain": "cartographie.societenumerique.gouv.fr",
       "path": "/",
-      "expires": 1758419646,
+      "expires": 1759024352,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -67,10 +67,10 @@
     },
     {
       "name": "_pk_id.277.9ac4",
-      "value": "b9fb4f5392e4e263.1758417846.",
+      "value": "7f4bc8a95100add3.1759022553.",
       "domain": "cartographie.societenumerique.gouv.fr",
       "path": "/",
-      "expires": 1792373046,
+      "expires": 1792977753,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -82,11 +82,11 @@
     }
   ],
   "headers": {
-    "age": "214",
+    "age": "1711",
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self' data: https://*.gouv.fr https://openmaptiles.github.io ; font-src 'self' https://cdn.jsdelivr.net; img-src 'self' data: https://*.gouv.fr; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.gouv.fr blob:; style-src 'self' 'unsafe-inline';",
     "content-type": "text/html",
-    "date": "Sun, 21 Sep 2025 01:20:32 GMT",
+    "date": "Sun, 28 Sep 2025 00:59:42 GMT",
     "etag": "W/\"289df21bc629799ae8e1b2637f2f57bc\"",
     "last-modified": "Thu, 31 Jul 2025 15:25:39 GMT",
     "permissions-policy": "accelerometer=(), camera=(), geolocation=(self), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
@@ -94,8 +94,8 @@
     "server": "AmazonS3",
     "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
     "vary": "accept-encoding",
-    "via": "1.1 beec8df5d3c3defd412e08f4a26fcf0c.cloudfront.net (CloudFront)",
-    "x-amz-cf-id": "KG6COh7iqQYgskH_6pd2qcJhbAjil0ft93LewuJYZjSuWJuoaassjA==",
+    "via": "1.1 345356dcab95fbdac024c4e78e835342.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "prHl6R1mWLQVp7036lf1Yrl-qJCiJZLMi5NlN5JQNif-QeBfTYPWZg==",
     "x-amz-cf-pop": "IAD61-P6",
     "x-amz-server-side-encryption": "AES256",
     "x-cache": "Error from cloudfront",
@@ -106,7 +106,7 @@
   "endpoints": [
     {
       "hostname": "cartographie.societenumerique.gouv.fr",
-      "ip": "3.167.69.52",
+      "ip": "3.167.69.78",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -160,8 +160,59 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.16.175.226",
+      "ip": "151.101.1.229",
       "geoip": {
+        "city": {
+          "geoname_id": 5391959,
+          "names": {
+            "de": "San Francisco",
+            "en": "San Francisco",
+            "es": "San Francisco",
+            "fr": "San Francisco",
+            "ja": "サンフランシスコ",
+            "pt-BR": "São Francisco",
+            "ru": "Сан-Франциско",
+            "zh-CN": "旧金山"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.7642,
+          "longitude": -122.3993,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
+        },
+        "postal": {
+          "code": "94107"
+        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -175,7 +226,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5332921,
+            "iso_code": "CA",
+            "names": {
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
+            }
+          }
+        ]
       }
     }
   ]
