@@ -6,7 +6,7 @@
       "value": "1",
       "domain": "donnees.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1758418314,
+      "expires": 1759023176,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.73.8572",
-      "value": "bc6714710b00de77.1758416514.",
+      "value": "6ee190c5b7c1db58.1759021377.",
       "domain": "donnees.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1792371714,
+      "expires": 1792976577,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -36,13 +36,13 @@
     "cache-control": "max-age=600",
     "content-length": "46671",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 21 Sep 2025 01:01:52 GMT",
-    "etag": "\"1f0c7f45b172117eaddf6e890aaf4ad3272363e09e13eccc601cb51e83d99052\"",
-    "expires": "Sun, 21 Sep 2025 01:11:52 UTC",
-    "last-modified": "Sat, 20 Sep 2025 05:07:51 GMT",
+    "date": "Sun, 28 Sep 2025 01:02:54 GMT",
+    "etag": "\"bdd1f6f418156c01012b3abeab528b3060aba7a42089271815b8e70ac6d3ea15\"",
+    "expires": "Sun, 28 Sep 2025 01:12:54 UTC",
+    "last-modified": "Sat, 27 Sep 2025 05:07:42 GMT",
     "permissions-policy": "interest-cohort=()",
     "vary": "Origin",
-    "x-request-id": "01K5MWN91FQK2ACAX1R91832GV"
+    "x-request-id": "01K66XG79N9EM4ZMQAA4KHB1EV"
   },
   "endpoints": [
     {
