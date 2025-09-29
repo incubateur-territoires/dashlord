@@ -63,7 +63,7 @@
       "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1759023600,
+      "expires": 1759157509,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -75,10 +75,10 @@
     },
     {
       "name": "_pk_id.22.6a82",
-      "value": "0268fc89aa7548cd.1759021800.",
+      "value": "bc48bd7bd23adf88.1759155710.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1792977000,
+      "expires": 1793110910,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -90,10 +90,10 @@
     },
     {
       "name": "bln_challengejs",
-      "value": "VuDVbMTYS0EOM4-INF9v2l4V-vxM8sNTzqNwIlrZl9lkcn1wLBMmea745EOtCXM0uWbNcCOogxPHBdJogIMmbosJO-i9L4_fKSOWAKt65tQCtId9LiS-_O8-5k8LwEKCL_QgIlQuWnDdsCkG8ZNpsnxZ3GP3Xn6NRKRDQC10pXmK0chr96CkDIvm1j7bq3GIjyxYZuHOk-oFrWB6TA_GoTv1_VwuWYdEaA97wBW7xbjS-n0FzIh8ewFCzhJbA8yJTxARjLNaXN9vxNca83u9YDyaDOzN6N5VI4EjvG1ALtU",
+      "value": "0ViT-hVSo0nJSKv2UgcMbBjXsPHPVBL2-xTPCt_IT1gzBCTX4g_qh8IKgagqT8RDZiaeVkPwq_ardtdRm0DFPBYuPUE_ExrYmnjk2T0qgiPr5qUEfmulR-XD1rq-6xEglQMmW6z2uLS6KH_4LyruL950G-bbQllGbKQ_WG2B4IXttpmMm1Vy60dYlnZJoJCYEphl_lFG_9tSbBf1FWqJlFZJvxT8MwkaQf7y-rvwWZItz8A9UpcmW7vT4vlAdg7JzbvxzRRFWWjDfX9RhlyD0NvhfTCrG_miURCc6ZNyOHQ",
       "domain": ".anct.gouv.fr",
       "path": "/",
-      "expires": 1759022699.32682,
+      "expires": 1759156609.124788,
       "size": 314,
       "httpOnly": false,
       "secure": true,
@@ -109,7 +109,7 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 28 Sep 2025 01:09:59 GMT",
+    "date": "Mon, 29 Sep 2025 14:21:49 GMT",
     "etag": "W/\"1758887822\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "last-modified": "Fri, 26 Sep 2025 11:57:02 GMT",
@@ -121,7 +121,7 @@
     "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "12520c5a0dc922a359c2f84caf11d5f7",
+    "x-request-id": "4c32cd7bacd4a74f60ba392184e9f504",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -183,7 +183,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.163.95",
+      "ip": "172.253.62.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -237,7 +237,7 @@
     },
     {
       "hostname": "anct-site-prod.s3.fr-par.scw.cloud",
-      "ip": "51.159.62.20",
+      "ip": "51.159.62.18",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
@@ -335,7 +335,7 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "151.101.193.229",
+      "ip": "151.101.129.229",
       "geoip": {
         "city": {
           "geoname_id": 5391959,
