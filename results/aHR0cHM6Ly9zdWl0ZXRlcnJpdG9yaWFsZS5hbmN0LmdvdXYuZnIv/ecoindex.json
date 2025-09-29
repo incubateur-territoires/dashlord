@@ -3,7 +3,7 @@
         "width": 1920,
         "height": 1080,
         "url": "https://suiteterritoriale.anct.gouv.fr/",
-        "size": 1415.853,
+        "size": 1415.875,
         "nodes": 733,
         "requests": 58,
         "grade": "D",
@@ -11,7 +11,7 @@
         "ges": 2.0,
         "water": 3.0,
         "ecoindex_version": "5.4.2",
-        "date": "2025-09-28 02:01:59.845582",
+        "date": "2025-09-29 15:19:08.979133",
         "page_type": null
     }
 ]

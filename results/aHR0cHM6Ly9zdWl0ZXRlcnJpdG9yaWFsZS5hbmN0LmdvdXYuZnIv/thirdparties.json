@@ -6,7 +6,7 @@
       "value": "1",
       "domain": "suiteterritoriale.anct.gouv.fr",
       "path": "/",
-      "expires": 1759026740,
+      "expires": 1759160970,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.18.3071",
-      "value": "21ff922c001a69a5.1759024940.",
+      "value": "72d125e32d2b54ce.1759159171.",
       "domain": "suiteterritoriale.anct.gouv.fr",
       "path": "/",
-      "expires": 1792980140,
+      "expires": 1793114371,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -36,16 +36,16 @@
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 28 Sep 2025 02:02:18 GMT",
+    "date": "Mon, 29 Sep 2025 15:19:29 GMT",
     "etag": "\"6a2gd1ftm064qj\"",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
-    "x-request-id": "fec3f817-5fb0-418c-99a1-1a9b40b404f9"
+    "x-request-id": "fc320fcf-6451-42f0-b3b0-28e8d9abfcfc"
   },
   "endpoints": [
     {
       "hostname": "suiteterritoriale.anct.gouv.fr",
-      "ip": "80.247.12.255",
+      "ip": "148.253.96.193",
       "geoip": {
         "continent": {
           "code": "EU",
