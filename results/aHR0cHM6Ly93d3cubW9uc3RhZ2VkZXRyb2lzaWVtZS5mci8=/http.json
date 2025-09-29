@@ -9,7 +9,7 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 28 Sep 2025 01:52:09 GMT",
+      "date": "Mon, 29 Sep 2025 15:09:01 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
@@ -24,12 +24,12 @@
       "cache-control": "no-cache",
       "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'connect-src' 'unsafe-inline' https://stats.beta.gouv.fr; connect-src 'self' https:; style-src 'self' https: 'unsafe-inline'; frame-src https://plugins.crisp.chat https://uneleveunstage.crisp.help https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com",
       "set-cookie": [
-        "_monstage_session=o%2BAx24dRrFaT4%2BzyoMvIderYuoFN9YlrAdLALPRnGDXHNk%2BQNSV2gigd2ZcivlXcQmXKZTVKlm2mW1O4vrFZPJYQ85I3hb3oGu83FPp0Dz5CZvKaUY6ddEd5kEA%2B%2B%2FIzhuEdfTy7Xof9pIM5LNTJGKuQDZJ7dVNocZlTVQaveksl6kNu2WsTRMedBUJiCm%2B9Evcm8eTm1SvcMOK6egmALyeGJPZeQEe%2BrZHq7sRvTCLsLS%2BzmSoJdZOZdf%2FgSlhtytQSNjwSiGXapIDzj1wp%2BpK829Zv2yAF6w%3D%3D--EyW4zfmhy7lX9pv5--DTCZT0anbXOFjJLOAVVMnw%3D%3D; path=/; secure; httponly; samesite=lax"
+        "_monstage_session=SfC0vIXhTWprK9eMFlw5T483vnAL3erWIJ8E%2B8LcPUL3udZsc4IoCBYoBIyruu45G6C3A87qyA6Q4PIUSujFCi8r7QqRg0Czqjd%2Bg347weheK3W%2FacQPgDqKHXdHJ580y9Ae1d6Yo2xUbJFc%2FG0cvuj2vMK5CjugCG8Jw%2BK1kNDPrWGXOyVqy1y2pbd45LJVXMPMzUu0p1%2BLsZxHCSCNpF2nHP6h%2BQ1vIxtUPr2nKbx%2BQVrY67uiMuFp8YNJUCVSmEVqgadwGGf9k8kphqZfNSPlDdN%2Fr%2F22JQ%3D%3D--WNVfnyg9qnRPFqp2--%2Fo8OoostE1TwQE8Z9JTcNA%3D%3D; path=/; secure; httponly; samesite=lax"
       ],
-      "x-request-id": "e286e942-225e-4442-971f-2cecc5a626c3",
-      "x-runtime": "0.082306",
+      "x-request-id": "3d0e16e0-3777-458f-a5c9-0fe7adbaade8",
+      "x-runtime": "0.030981",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
-      "sozu-id": "01K670ACW7HQ3HG65PCECWJK79"
+      "sozu-id": "01K6B0A72ZP3JBCBYYTDZTSP70"
     }
   },
   "tests": {
