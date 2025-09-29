@@ -9,13 +9,13 @@
     "testsPassed": 10,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 28 Sep 2025 01:57:12 GMT",
+      "date": "Mon, 29 Sep 2025 15:11:39 GMT",
       "content-type": "text/html; charset=UTF-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "79ec2719-fe7c-4c5a-98ee-bc291d88a882",
+      "x-request-id": "89e99273-cf01-41dc-b611-103df55b568e",
       "set-cookie": [
-        "PLAY_SESSION=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7ImNzcmZUb2tlbiI6ImRkOWE5Y2MzMDIwZmU0MzI4YzA2MjlhOTEzYWY3ZTUyNDVlMDJiNjAtMTc1OTAyNDYzMjQ0Mi02MzA1YThhZjhjZjI5ZDA5ODU2MzhjZWIifSwiZXhwIjoxNzYxNjE2NjMyLCJuYmYiOjE3NTkwMjQ2MzIsImlhdCI6MTc1OTAyNDYzMn0.Xio_7tYPFM1xdtlhVL0jfpGno949oi5QpZTxj9imPIQ; Max-Age=2592000; Expires=Tue, 28 Oct 2025 01:57:12 GMT; SameSite=Lax; Path=/; Secure; HTTPOnly"
+        "PLAY_SESSION=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7ImNzcmZUb2tlbiI6IjVkMTFjMTM1ZWM0ZmJkYjRhYjc2MzVjMzAzNTlmNGIzMmFlYjlkMmItMTc1OTE1ODY5OTY0OC1mYWExM2QxZTVmZWE3ZjM2NzFmYmVmOTgifSwiZXhwIjoxNzYxNzUwNjk5LCJuYmYiOjE3NTkxNTg2OTksImlhdCI6MTc1OTE1ODY5OX0.Y_z-qDwyM7e9rByTG4Ak1xUl18eUSJwVLXXcBGglpdA; Max-Age=2592000; Expires=Wed, 29 Oct 2025 15:11:39 GMT; SameSite=Lax; Path=/; Secure; HTTPOnly"
       ],
       "referrer-policy": "origin-when-cross-origin, strict-origin-when-cross-origin",
       "x-frame-options": "DENY",
@@ -101,7 +101,7 @@
       "data": {
         "PLAY_SESSION": {
           "domain": "aplus.beta.gouv.fr",
-          "expires": "2025-10-28T01:57:12.000Z",
+          "expires": "2025-10-29T15:11:39.000Z",
           "httponly": true,
           "max-age": 2592000,
           "path": "/",
