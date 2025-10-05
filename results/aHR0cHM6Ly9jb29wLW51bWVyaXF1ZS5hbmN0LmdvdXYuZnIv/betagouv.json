@@ -31,6 +31,7 @@
       "Inclusion numérique",
       "Social"
     ],
+    "analyse_risques": "true",
     "dashlord_url": "https://dashlord.incubateur.anct.gouv.fr/url/coop-numerique-anct-gouv-fr/",
     "accessibility_status": "non conforme"
   },
