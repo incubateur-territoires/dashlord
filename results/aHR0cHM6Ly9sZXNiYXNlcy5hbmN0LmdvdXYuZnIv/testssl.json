@@ -353,7 +353,7 @@
               "ip"           : "lesbases.anct.gouv.fr/51.159.112.42",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "65 >= 30 days"
+              "finding"      : "60 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,14 +507,14 @@
               "ip"           : "lesbases.anct.gouv.fr/51.159.112.42",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "lesbases.anct.gouv.fr/51.159.112.42",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1759157766"
+              "finding"      : "1759628453"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1105,6 +1105,6 @@
               "ip"           : "lesbases.anct.gouv.fr/51.159.112.42",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "102"
+              "finding"      : "63"
           }
 ]
