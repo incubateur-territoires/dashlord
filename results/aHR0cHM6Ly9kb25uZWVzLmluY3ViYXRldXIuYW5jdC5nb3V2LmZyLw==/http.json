@@ -10,15 +10,15 @@
     "testsQuantity": 10,
     "responseHeaders": {
       "cache-control": "max-age=600",
-      "content-length": "46671",
+      "content-length": "46676",
       "content-type": "text/html; charset=utf-8",
-      "etag": "\"eaf20f65d8e9f88019c1ef47e8d6681a2fa37a68f1ea5a51c65db2f64bc18102\"",
-      "expires": "Mon, 29 Sep 2025 14:26:23 UTC",
-      "last-modified": "Mon, 29 Sep 2025 12:54:40 GMT",
+      "etag": "\"b94394c0ebe90fdc2aad411422f2c5c382ee3f112f49412d993335be84ae9359\"",
+      "expires": "Sun, 05 Oct 2025 01:13:08 UTC",
+      "last-modified": "Sat, 04 Oct 2025 05:07:47 GMT",
       "permissions-policy": "interest-cohort=()",
       "vary": "Origin",
-      "x-request-id": "01K6AX9VD8RTB27FBHH7NSYTGZ",
-      "date": "Mon, 29 Sep 2025 14:16:23 GMT",
+      "x-request-id": "01K6RY9NQFXPZ27CMSJRYH731C",
+      "date": "Sun, 05 Oct 2025 01:03:08 GMT",
       "connection": "close"
     }
   },
