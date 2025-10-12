@@ -345,8 +345,8 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "anct.gouv.fr/185.231.164.168",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "33 >= 30 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 30 days (26)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -359,7 +359,7 @@
               "id"           : "cert_notAfter",
               "ip"           : "anct.gouv.fr/185.231.164.168",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2025-11-07 07:35"
           }
 ,         {
@@ -507,7 +507,7 @@
               "ip"           : "anct.gouv.fr/185.231.164.168",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1759630268"
+              "finding"      : "1760234898"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1098,6 +1098,6 @@
               "ip"           : "anct.gouv.fr/185.231.164.168",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "54"
+              "finding"      : "57"
           }
 ]

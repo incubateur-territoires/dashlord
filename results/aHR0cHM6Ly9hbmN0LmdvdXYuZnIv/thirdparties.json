@@ -9,26 +9,6 @@
       }
     },
     {
-      "type": "unknown",
-      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/2025-03/anct_banniere_home_0.webp"
-    },
-    {
-      "type": "unknown",
-      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/opti/s3/2025-01/incubateur.png.webp?itok=0NJzfx60"
-    },
-    {
-      "type": "unknown",
-      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/opti/s3/2025-02/cartographie_1.jpg.webp?itok=nJKhOCb0"
-    },
-    {
-      "type": "unknown",
-      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/opti/s3/2025-02/fabriqueprospective_1.jpg.webp?itok=KplfMppT"
-    },
-    {
-      "type": "unknown",
-      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/opti/s3/2025-02/crte-com-signature_16_9_hd.png.webp?itok=dP9epBHT"
-    },
-    {
       "type": "jsdelivr",
       "url": "https://cdn.jsdelivr.net/npm/tarteaucitronjs@1.10.0/tarteaucitron.min.js",
       "details": {
@@ -38,15 +18,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/opti/s3/2025-01/anct_contact_home.jpg.webp?itok=f3epQX2Z"
-    },
-    {
-      "type": "unknown",
-      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/card/s3/2025-04/1717512658882.jpg.webp?itok=iTDn_TGX"
-    },
-    {
-      "type": "unknown",
-      "url": "https://sentry.anct.cloud-ed.fr/api/12/envelope/?sentry_version=7&sentry_key=92d1bf2800a14b2609b79ec491f0e041&sentry_client=sentry.javascript.browser%2F8.54.0"
+      "url": "https://sentry.anct.cloud-ed.fr/api/12/envelope/?sentry_version=7&sentry_key=92d1bf2800a14b2609b79ec491f0e041&sentry_client=sentry.javascript.browser%2F10.12.0"
     },
     {
       "type": "jsdelivr",
@@ -71,7 +43,7 @@
       "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1759631917,
+      "expires": 1760236526,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -83,10 +55,10 @@
     },
     {
       "name": "_pk_id.22.6a82",
-      "value": "e08cf0828b6be48b.1759630117.",
+      "value": "70b469aa59be23f1.1760234726.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1793585317,
+      "expires": 1794189926,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -98,10 +70,10 @@
     },
     {
       "name": "bln_challengejs",
-      "value": "VuDVbMTYS0EOM4-INF9v2l4V-vxM8sNTzqNwIlrZl9lkcn1wLBMmea745EOtCXM0uWbNcCOogxPHBdJogIMmbosJO-i9L4_fKSOWAKt65tQCtId9LiS-_O8-5k8LwEKCIJmOX4jf-bCCdDYh9lso6Z-d0K5GlDVBxZAfbOBQ4D70JGWQAP-8t7gIAfG1E3uJzOEQFO4h4XLzrm3OfybcykapgZIIec-2b9TYIK9tyrS7SzsY_KouN6Px7S3qkr_sv5K0BHKCiJ_X4K4EBgmjQrU7M2zJyqAiTNKzQbTsFJI",
+      "value": "BbEB-1vGA_zum9uRk59j-NT-9ImG7S-tTtdpoo5Gg62uQ42PWqlDrdACP3hcXZeSfkJTcapJgXgksqg-kqSW8aFAlVRike1nEc2RELZugyrXu00nLlmxyKY9FmCCqCnxpbGjYXcbo22RTa_JpxFIwlOGnJFojp6nWBNe5U9UzFwvn9YEOIrMdUQ2ppyOsmqV4BmCWmksmaYkl9izQtNUMKxKavkwtcgeB6EEUi94H9METfDijMMUAVL_9_s_F27e2WmqZCzt5tX5kijyMWuyS4iuDJ6YpR9EgoguBK3FzOY",
       "domain": ".anct.gouv.fr",
       "path": "/",
-      "expires": 1759631016.653582,
+      "expires": 1760235625.639174,
       "size": 314,
       "httpOnly": false,
       "secure": true,
@@ -117,10 +89,10 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 05 Oct 2025 02:08:36 GMT",
-    "etag": "W/\"1759398390\"",
+    "date": "Sun, 12 Oct 2025 02:05:25 GMT",
+    "etag": "W/\"1760021318\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Thu, 02 Oct 2025 09:46:30 GMT",
+    "last-modified": "Thu, 09 Oct 2025 14:48:38 GMT",
     "referrer-policy": "origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\nCookie",
@@ -129,7 +101,7 @@
     "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "696146369ab26b18cff3273b1d1ec7d0",
+    "x-request-id": "99a86133692fd3d15c2e8f9415a2980e",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -191,7 +163,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.163.95",
+      "ip": "142.250.190.138",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -244,107 +216,43 @@
       }
     },
     {
-      "hostname": "anct-site-prod.s3.fr-par.scw.cloud",
-      "ip": "51.159.62.18",
+      "hostname": "cdn.jsdelivr.net",
+      "ip": "151.101.129.229",
       "geoip": {
-        "city": {
-          "geoname_id": 2988507,
-          "names": {
-            "de": "Paris",
-            "en": "Paris",
-            "es": "París",
-            "fr": "Paris",
-            "ja": "パリ",
-            "pt-BR": "Paris",
-            "ru": "Париж",
-            "zh-CN": "巴黎"
-          }
-        },
         "continent": {
-          "code": "EU",
-          "geoname_id": 6255148,
+          "code": "NA",
+          "geoname_id": 6255149,
           "names": {
-            "de": "Europa",
-            "en": "Europe",
-            "es": "Europa",
-            "fr": "Europe",
-            "ja": "ヨーロッパ",
-            "pt-BR": "Europa",
-            "ru": "Европа",
-            "zh-CN": "欧洲"
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
           }
         },
         "country": {
-          "geoname_id": 3017382,
-          "is_in_european_union": true,
-          "iso_code": "FR",
+          "geoname_id": 6252001,
+          "iso_code": "US",
           "names": {
-            "de": "Frankreich",
-            "en": "France",
-            "es": "Francia",
-            "fr": "France",
-            "ja": "フランス共和国",
-            "pt-BR": "França",
-            "ru": "Франция",
-            "zh-CN": "法国"
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
           }
         },
         "location": {
-          "accuracy_radius": 500,
-          "latitude": 48.8558,
-          "longitude": 2.3494,
-          "time_zone": "Europe/Paris"
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
-        "postal": {
-          "code": "75001"
-        },
-        "registered_country": {
-          "geoname_id": 3017382,
-          "is_in_european_union": true,
-          "iso_code": "FR",
-          "names": {
-            "de": "Frankreich",
-            "en": "France",
-            "es": "Francia",
-            "fr": "France",
-            "ja": "フランス共和国",
-            "pt-BR": "França",
-            "ru": "Франция",
-            "zh-CN": "法国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 3012874,
-            "iso_code": "IDF",
-            "names": {
-              "de": "Île-de-France",
-              "en": "Île-de-France",
-              "es": "Isla de Francia",
-              "fr": "Île-de-France",
-              "ja": "イル・ド・フランス",
-              "pt-BR": "Ilha de França",
-              "ru": "Иль-де-Франс",
-              "zh-CN": "法兰西岛"
-            }
-          },
-          {
-            "geoname_id": 2968815,
-            "iso_code": "75",
-            "names": {
-              "de": "Paris",
-              "en": "Paris",
-              "es": "Paris",
-              "fr": "Paris"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "hostname": "cdn.jsdelivr.net",
-      "ip": "104.16.174.226",
-      "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
