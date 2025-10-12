@@ -14,16 +14,16 @@
     "accept-ranges": "none",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 05 Oct 2025 00:43:32 GMT",
+    "date": "Sun, 12 Oct 2025 00:41:43 GMT",
     "etag": "\"139008-Net9Hs1ndN0wFeiGhFmV5XJeNHI\"",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
-    "x-request-id": "73b10436-471a-4505-a4d4-e00ba84bed10"
+    "x-request-id": "85330e99-db00-4bfd-b1ed-659a177c98e7"
   },
   "endpoints": [
     {
       "hostname": "incubateur.anct.gouv.fr",
-      "ip": "185.21.194.105",
+      "ip": "80.247.12.255",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -79,7 +79,7 @@
     },
     {
       "hostname": "incubateur-territoires.github.io",
-      "ip": "185.199.111.153",
+      "ip": "185.199.109.153",
       "geoip": {
         "continent": {
           "code": "NA",
