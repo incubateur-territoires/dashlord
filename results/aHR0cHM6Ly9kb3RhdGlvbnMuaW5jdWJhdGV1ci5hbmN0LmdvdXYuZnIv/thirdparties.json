@@ -33,16 +33,16 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 05 Oct 2025 01:05:32 GMT",
+    "date": "Sun, 12 Oct 2025 00:59:20 GMT",
     "etag": "\"onywqj55lh1nr\"",
     "vary": "Accept-Encoding",
     "x-powered-by": "Next.js",
-    "x-request-id": "ba65b022-b128-4be0-bf27-847464eea04b"
+    "x-request-id": "0f02e771-078b-45f5-a9f8-6ac18ce964a5"
   },
   "endpoints": [
     {
       "hostname": "dotations.incubateur.anct.gouv.fr",
-      "ip": "109.232.236.90",
+      "ip": "5.104.101.30",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -98,8 +98,42 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.16.175.226",
+      "ip": "151.101.1.229",
       "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
