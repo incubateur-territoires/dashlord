@@ -9,10 +9,6 @@
       }
     },
     {
-      "type": "unknown",
-      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/s3fs-public/styles/wide_600/public/documentary_resource_listing/test.jpg?itok=TWDItl5P"
-    },
-    {
       "type": "jsdelivr",
       "url": "https://cdn.jsdelivr.net/npm/tarteaucitronjs@1.10.0/tarteaucitron.min.js",
       "details": {
@@ -22,23 +18,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/card/s3/2025-09/clisson.jpeg.webp?itok=TVNO3oSj"
-    },
-    {
-      "type": "unknown",
-      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/card/s3/2025-09/vdef_dp-residence-les-bancs-1ere-pierre.jpeg.webp?itok=IgKzW-dh"
-    },
-    {
-      "type": "unknown",
-      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/card/s3/2025-09/vue-sur-la-ville.png.webp?itok=RZIVp4m5"
-    },
-    {
-      "type": "unknown",
-      "url": "https://anct-site-prod.s3.fr-par.scw.cloud/styles/card/s3/2025-09/microfolie-vallet.jpg.webp?itok=15qQXjE9"
-    },
-    {
-      "type": "unknown",
-      "url": "https://sentry.anct.cloud-ed.fr/api/12/envelope/?sentry_version=7&sentry_key=92d1bf2800a14b2609b79ec491f0e041&sentry_client=sentry.javascript.browser%2F8.54.0"
+      "url": "https://sentry.anct.cloud-ed.fr/api/12/envelope/?sentry_version=7&sentry_key=92d1bf2800a14b2609b79ec491f0e041&sentry_client=sentry.javascript.browser%2F10.12.0"
     },
     {
       "type": "jsdelivr",
@@ -63,7 +43,7 @@
       "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1759628385,
+      "expires": 1760232957,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -75,10 +55,10 @@
     },
     {
       "name": "_pk_id.22.6a82",
-      "value": "96e915eb09e2c857.1759626586.",
+      "value": "384e2c9a3d598530.1760231158.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1793581786,
+      "expires": 1794186358,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -90,10 +70,10 @@
     },
     {
       "name": "bln_challengejs",
-      "value": "u5Ruyq6KpM-dzymLhKx1VwQMCD4_QFUFEKX-vyCqa5RyHxPnN6Vz4R90HI4a0ycenIAA55RJnC7vH3K-T4rB26wBN7vJrD93siotqXNnTEFiADGzoSrCWj-4Lg7AJBVFFzNVwKAebWgTqIRiVNgA9qpaNWvZmZbBD3iOt1T9nvGpybxN3o9KOYQjLnzF5QCiE58-6EY1rCkF204Q6_WWgtJK_8AI9MWrXB0atxA1gzGjCF1XiTqCyWEkLq__B3ickVwh0SuSEvqb6k5sqPIHObSZRUqxgZhtHS63GC6HN3M",
+      "value": "VuDVbMTYS0EOM4-INF9v2l4V-vxM8sNTzqNwIlrZl9lkcn1wLBMmea745EOtCXM0uWbNcCOogxPHBdJogIMmbosJO-i9L4_fKSOWAKt65tQCtId9LiS-_O8-5k8LwEKCIJmOX4jf-bCCdDYh9lso6Z-d0K5GlDVBxZAfbOBQ4D4mWsBYMNztMiFR1OxhGdlYXK50QbhdnH9q7A9dPa0ISKLFIG8PAWp_njrGjq9N5PTNSPNRLGCiR1kXVG5W-dNBPpRTNzHBgBfVjxq5kvXmI5QMlxZJ1myOYWnQ-e64IcE",
       "domain": ".anct.gouv.fr",
       "path": "/",
-      "expires": 1759627485.081147,
+      "expires": 1760232057.088725,
       "size": 314,
       "httpOnly": false,
       "secure": true,
@@ -109,10 +89,10 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 05 Oct 2025 01:09:45 GMT",
-    "etag": "W/\"1759479671\"",
+    "date": "Sun, 12 Oct 2025 01:05:57 GMT",
+    "etag": "W/\"1760103098\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Fri, 03 Oct 2025 08:21:11 GMT",
+    "last-modified": "Fri, 10 Oct 2025 13:31:38 GMT",
     "referrer-policy": "origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\nCookie",
@@ -121,7 +101,7 @@
     "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "2d752c166c242c8f66a062a4b1aa660a",
+    "x-request-id": "ab33f71bbf82f14fca55b353e78ecc87",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -183,7 +163,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "172.217.15.234",
+      "ip": "192.178.218.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -233,104 +213,6 @@
             "zh-CN": "美国"
           }
         }
-      }
-    },
-    {
-      "hostname": "anct-site-prod.s3.fr-par.scw.cloud",
-      "ip": "51.159.62.20",
-      "geoip": {
-        "city": {
-          "geoname_id": 2988507,
-          "names": {
-            "de": "Paris",
-            "en": "Paris",
-            "es": "París",
-            "fr": "Paris",
-            "ja": "パリ",
-            "pt-BR": "Paris",
-            "ru": "Париж",
-            "zh-CN": "巴黎"
-          }
-        },
-        "continent": {
-          "code": "EU",
-          "geoname_id": 6255148,
-          "names": {
-            "de": "Europa",
-            "en": "Europe",
-            "es": "Europa",
-            "fr": "Europe",
-            "ja": "ヨーロッパ",
-            "pt-BR": "Europa",
-            "ru": "Европа",
-            "zh-CN": "欧洲"
-          }
-        },
-        "country": {
-          "geoname_id": 3017382,
-          "is_in_european_union": true,
-          "iso_code": "FR",
-          "names": {
-            "de": "Frankreich",
-            "en": "France",
-            "es": "Francia",
-            "fr": "France",
-            "ja": "フランス共和国",
-            "pt-BR": "França",
-            "ru": "Франция",
-            "zh-CN": "法国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 500,
-          "latitude": 48.8558,
-          "longitude": 2.3494,
-          "time_zone": "Europe/Paris"
-        },
-        "postal": {
-          "code": "75001"
-        },
-        "registered_country": {
-          "geoname_id": 3017382,
-          "is_in_european_union": true,
-          "iso_code": "FR",
-          "names": {
-            "de": "Frankreich",
-            "en": "France",
-            "es": "Francia",
-            "fr": "France",
-            "ja": "フランス共和国",
-            "pt-BR": "França",
-            "ru": "Франция",
-            "zh-CN": "法国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 3012874,
-            "iso_code": "IDF",
-            "names": {
-              "de": "Île-de-France",
-              "en": "Île-de-France",
-              "es": "Isla de Francia",
-              "fr": "Île-de-France",
-              "ja": "イル・ド・フランス",
-              "pt-BR": "Ilha de França",
-              "ru": "Иль-де-Франс",
-              "zh-CN": "法兰西岛"
-            }
-          },
-          {
-            "geoname_id": 2968815,
-            "iso_code": "75",
-            "names": {
-              "de": "Paris",
-              "en": "Paris",
-              "es": "Paris",
-              "fr": "Paris"
-            }
-          }
-        ]
       }
     },
     {
