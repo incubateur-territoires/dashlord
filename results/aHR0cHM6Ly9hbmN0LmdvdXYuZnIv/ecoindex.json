@@ -3,15 +3,15 @@
         "width": 1920,
         "height": 1080,
         "url": "https://anct.gouv.fr/",
-        "size": 1386.054,
+        "size": 1411.359,
         "nodes": 832,
-        "requests": 62,
+        "requests": 63,
         "grade": "D",
-        "score": 47.0,
-        "ges": 2.06,
-        "water": 3.09,
+        "score": 46.0,
+        "ges": 2.08,
+        "water": 3.12,
         "ecoindex_version": "5.4.2",
-        "date": "2025-10-12 02:05:05.237646",
+        "date": "2025-10-19 02:14:41.369289",
         "page_type": null
     }
 ]

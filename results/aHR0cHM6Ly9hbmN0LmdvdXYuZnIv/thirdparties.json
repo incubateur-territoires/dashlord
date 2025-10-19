@@ -43,7 +43,7 @@
       "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1760236526,
+      "expires": 1760841903,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -55,10 +55,10 @@
     },
     {
       "name": "_pk_id.22.6a82",
-      "value": "70b469aa59be23f1.1760234726.",
+      "value": "4076af903e18036a.1760840103.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1794189926,
+      "expires": 1794795303,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -70,10 +70,10 @@
     },
     {
       "name": "bln_challengejs",
-      "value": "BbEB-1vGA_zum9uRk59j-NT-9ImG7S-tTtdpoo5Gg62uQ42PWqlDrdACP3hcXZeSfkJTcapJgXgksqg-kqSW8aFAlVRike1nEc2RELZugyrXu00nLlmxyKY9FmCCqCnxpbGjYXcbo22RTa_JpxFIwlOGnJFojp6nWBNe5U9UzFwvn9YEOIrMdUQ2ppyOsmqV4BmCWmksmaYkl9izQtNUMKxKavkwtcgeB6EEUi94H9METfDijMMUAVL_9_s_F27e2WmqZCzt5tX5kijyMWuyS4iuDJ6YpR9EgoguBK3FzOY",
+      "value": "83jDcRFAzksteIMnb96VjNp-jF4TMzwRiRZfMw6RxFp4HIUI0hssw3B19q4sJhG8CfUU0KOnYfAezIKVJQbwMWI2LNtTaadqV0CqvtyBpq1A8PA1xXZk2J7aIZ0wwjS9NewJ_H6wlhODK3lvqUuLfLU5iLbVYajRm7oMbhRS3ee5DWh-opCnyBYTwmuQ2fUphEe9KPEd0HOARLyWBR24sExLHCF1_QAOGOpMfREFfAPSl1Ll9wIk2cBu-bsP4Jjufw68bHUJNrnUHN_GtXRehC_ySxr-TTOSql4pmCbo-qY",
       "domain": ".anct.gouv.fr",
       "path": "/",
-      "expires": 1760235625.639174,
+      "expires": 1760841002.633548,
       "size": 314,
       "httpOnly": false,
       "secure": true,
@@ -89,10 +89,10 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 12 Oct 2025 02:05:25 GMT",
-    "etag": "W/\"1760021318\"",
+    "date": "Sun, 19 Oct 2025 02:15:02 GMT",
+    "etag": "W/\"1760712941\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Thu, 09 Oct 2025 14:48:38 GMT",
+    "last-modified": "Fri, 17 Oct 2025 14:55:41 GMT",
     "referrer-policy": "origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\nCookie",
@@ -101,7 +101,7 @@
     "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "99a86133692fd3d15c2e8f9415a2980e",
+    "x-request-id": "63971b78aec70504701767fe92695c3b",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -163,7 +163,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.190.138",
+      "ip": "173.194.194.95",
       "geoip": {
         "continent": {
           "code": "NA",
