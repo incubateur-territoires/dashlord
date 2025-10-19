@@ -234,14 +234,14 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "off by -1 seconds from your localtime"
+              "finding"      : "off by 0 seconds from your localtime"
           }
 ,         {
               "id"           : "certificate_compression",
@@ -374,7 +374,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (39)"
+              "finding"      : "expires < 60 days (32)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#1>",
@@ -668,7 +668,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (39)"
+              "finding"      : "expires < 60 days (32)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#2>",
@@ -871,7 +871,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1760232049"
+              "finding"      : "1760837356"
           }
 ,         {
               "id"           : "HSTS",
@@ -1813,7 +1813,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (39)"
+              "finding"      : "expires < 60 days (32)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#1>",
@@ -2107,7 +2107,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (39)"
+              "finding"      : "expires < 60 days (32)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#2>",
@@ -2310,7 +2310,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1760232108"
+              "finding"      : "1760837418"
           }
 ,         {
               "id"           : "HSTS",
@@ -2882,6 +2882,6 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "120"
+              "finding"      : "126"
           }
 ]
