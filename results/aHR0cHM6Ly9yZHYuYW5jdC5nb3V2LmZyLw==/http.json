@@ -9,24 +9,24 @@
     "testsPassed": 10,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 12 Oct 2025 01:33:53 GMT",
+      "date": "Sun, 19 Oct 2025 01:46:10 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "4aabca74-a861-4382-86bf-3960fa9f19c4, 4aabca74-a861-4382-86bf-3960fa9f19c4",
+      "x-request-id": "57e096dd-12c1-453e-a723-b992e7708c5b, 57e096dd-12c1-453e-a723-b992e7708c5b",
       "x-frame-options": "SAMEORIGIN",
       "x-xss-protection": "0",
       "x-content-type-options": "nosniff",
       "x-permitted-cross-domain-policies": "none",
       "referrer-policy": "strict-origin-when-cross-origin",
-      "link": "</dsfr-v1.13.2/dsfr.min.css>; rel=preload; as=style; nopush,</dsfr-v1.13.2/utility/icons/icons.min.css>; rel=preload; as=style; nopush,</assets/application-1c229c30aa5b1ff7e415f9e79c20c7b892f1cbd36949945742e430a54db3691c.css>; rel=preload; as=style; nopush,</assets/application-520c64eda9727578e3a9e5c239804023180d0843d1a008cbee953e6be81d7f08.js>; rel=preload; as=script; nopush",
-      "etag": "W/\"fee865f9ab96c3ec0347c1c67deef856\"",
+      "link": "</dsfr-v1.13.2/dsfr.min.css>; rel=preload; as=style; nopush,</dsfr-v1.13.2/utility/icons/icons.min.css>; rel=preload; as=style; nopush,</assets/application-0c68713b8c756744fd5cb84203a0351942fdbc48989843e27ea2935563fa2332.css>; rel=preload; as=style; nopush,</assets/application-31b3d093032a5519995fb121c85b71b2ec06fea9cbb70b332e86f12af0ed53ee.js>; rel=preload; as=script; nopush",
+      "etag": "W/\"2b55db50169eced11313889689f8e727\"",
       "cache-control": "max-age=0, private, must-revalidate",
-      "content-security-policy": "default-src 'self'; font-src 'self' data:; object-src 'none'; worker-src blob:; child-src blob: 'self'; frame-src 'self' *.instatus.com headway-widget.net rdv-service-public-metabase.osc-secnum-fr1.scalingo.io; img-src 'self' data: blob: voxusagers.numerique.gouv.fr tile.openstreetmap.org unpkg.com openmaptiles.data.gouv.fr; style-src 'self' 'unsafe-inline' *.bootstrapcdn.com cdn.headwayapp.co unpkg.com; connect-src 'self' data.geopf.fr etalab-tiles.fr openmaptiles.data.gouv.fr; script-src 'self' cdn.headwayapp.co unpkg.com 'sha256-j4Lx1FqFgvYDBEjW7NQaEY7/HhCi8WVsLWkqC4+wJ3w=' 'sha256-JHKToH7KbGJj6TloPeWnKnbImDel00Whl1rRnBiTYuQ='",
+      "content-security-policy": "default-src 'self'; font-src 'self' data:; object-src 'none'; worker-src blob:; child-src blob: 'self'; frame-src 'self' *.instatus.com rdv-service-public-metabase.osc-secnum-fr1.scalingo.io; img-src 'self' data: blob: voxusagers.numerique.gouv.fr tile.openstreetmap.org unpkg.com openmaptiles.data.gouv.fr; style-src 'self' 'unsafe-inline' *.bootstrapcdn.com unpkg.com; connect-src 'self' data.geopf.fr etalab-tiles.fr openmaptiles.data.gouv.fr; script-src 'self' unpkg.com 'sha256-j4Lx1FqFgvYDBEjW7NQaEY7/HhCi8WVsLWkqC4+wJ3w=' 'sha256-JHKToH7KbGJj6TloPeWnKnbImDel00Whl1rRnBiTYuQ='",
       "set-cookie": [
-        "_rdv_sp_session=KE2KABY66i%2BvmwuRD5v%2FBjAEXjAVjNXCaGEXPwcfZdbHHPqyA%2FMS%2BzOelLYuxvMTO2YLPDZw%2BY6jlYv%2BtVwKsz1FsuZFzTfG2aEpucSjAePW4ZdxNXR5h4FGxkAUSo38tIG5tuZizn8%2F1bANLWPEZYtc2R1FcSLpZGPUDbXk8P%2FGBgpOlnhw4ZGOKlXYjSDFtNDy%2FD4vxU1U%2FnSonxnxXvr720GgNxy52vaKOVrCC0uM1mPvdCVOaj0qojWGRoXQi%2FaqCquWt9%2FtKc%2BMydglRwMoFfjGqXGh452Nuc8d0IttWKJpALpRCz2jd6pJ--bnEKlZBuriH9MeTv--Ez8AGf61Ucql7tYUKS2MjA%3D%3D; path=/; expires=Sun, 12 Oct 2025 09:33:53 GMT; secure; httponly; samesite=lax"
+        "_rdv_sp_session=zGu1MoObsCAU4D4WBU%2BLeOLryk2f6jqozBqU6UIcc1bQVorYZveLVMgSnGkmoMjeCuNHSMoMN8hIdV%2BcZG6A874xfQM8HjkzYqf5xKOfo7zqoN0OLzMXl6d6jB1gbnM89SSzPOIKTG2sjS1Tg7At09xcZve1gyml2Za152HSsBGuAg8WZDax11%2BLf47dZha6byD8bbcH%2FoQY1wQ0D1xs3zukCwy%2FPEfpAFi%2F0XWW4%2Be7MLXHsG8U6cbre%2BE4NkNF4lBFnI5o2gqhXAzLZUevZJTRgxLgcjEcHI2uOpYdhQowzxlIZZq76%2BBN1VMc--5lNN1HMhV2IJKnTI--nrbcnEEhzhSlvCflaXE5PA%3D%3D; path=/; expires=Sun, 19 Oct 2025 09:46:10 GMT; secure; httponly; samesite=lax"
       ],
-      "x-runtime": "0.012774",
+      "x-runtime": "0.025344",
       "strict-transport-security": "max-age=63072000; includeSubDomains"
     }
   },
@@ -57,7 +57,6 @@
         "frame-src": [
           "'self'",
           "*.instatus.com",
-          "headway-widget.net",
           "rdv-service-public-metabase.osc-secnum-fr1.scalingo.io"
         ],
         "img-src": [
@@ -73,7 +72,6 @@
           "'self'",
           "'unsafe-inline'",
           "*.bootstrapcdn.com",
-          "cdn.headwayapp.co",
           "unpkg.com"
         ],
         "connect-src": [
@@ -86,7 +84,6 @@
           "'self'",
           "'sha256-j4lx1fqfgvydbejw7nqaey7/hhci8wvslwkqc4+wj3w='",
           "'sha256-jhktoh7kbgjj6tlopewnknbimdel00whl1rrnbityuq='",
-          "cdn.headwayapp.co",
           "unpkg.com"
         ]
       },
@@ -115,7 +112,7 @@
       "data": {
         "_rdv_sp_session": {
           "domain": "rdv.anct.gouv.fr",
-          "expires": "2025-10-12T09:33:53.000Z",
+          "expires": "2025-10-19T09:46:10.000Z",
           "httponly": true,
           "path": "/",
           "port": null,
