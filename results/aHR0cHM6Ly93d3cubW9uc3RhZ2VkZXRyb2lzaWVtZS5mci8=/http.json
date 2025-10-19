@@ -9,7 +9,7 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 05 Oct 2025 01:48:25 GMT",
+      "date": "Sun, 19 Oct 2025 01:58:05 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
@@ -19,17 +19,17 @@
       "x-download-options": "noopen",
       "x-permitted-cross-domain-policies": "none",
       "referrer-policy": "strict-origin-when-cross-origin",
-      "link": "</packs/css/application-d963cc8d.css>; rel=preload; as=style; nopush",
+      "link": "</packs/css/application-a9702d87.css>; rel=preload; as=style; nopush",
       "vary": "Accept-Encoding",
       "cache-control": "no-cache",
-      "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'connect-src' 'unsafe-inline' https://stats.beta.gouv.fr; connect-src 'self' https:; style-src 'self' https: 'unsafe-inline'; frame-src https://plugins.crisp.chat https://uneleveunstage.crisp.help https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com",
+      "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'unsafe-inline' https://stats.beta.gouv.fr; connect-src 'self' https:; style-src 'self' https: 'unsafe-inline'; frame-src https://plugins.crisp.chat https://uneleveunstage.crisp.help https://tally.so https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com",
       "set-cookie": [
-        "_monstage_session=d6QhZALWn9ZWpL4JY6dbULq9Ivp6iLtiYvI%2FS7r1LRF1cQyXBxBiMusvLRijH9Q980Dj9kazjKhZpa0aFkiqjbgj9DBED6rQgqXOsbwdM2ZvsGyZYlajjwS9b15lK1u7r7CKrRjzYch%2FHFAybW59iKxS8ltN1A5v2U5ECrytUBk5l6Pn%2BG5CI%2BDz5EUJKy6jrja%2FI0qYXQZuj3Oki%2BP%2F7KkefjbI0N7u4w8NnPSVDGoRz7a9DV6irlz08UK2lBq98lww6NsmNbP7hiIppvk8xLqYCce93wnwHg%3D%3D--trcmY4hpLkUl3nK%2F--VwiFAzfUL8cmwlfxxBwIwA%3D%3D; path=/; secure; httponly; samesite=lax"
+        "_monstage_session=0RkiqU0UKCsm6MKoaqRNIv9%2FcZkwekUiWwaoa49qjOjd88BDJkg1tudFNo9u%2Bs1%2FnrzJZ4mkT%2FUpiADMhNxgRob%2FIejD3MBuLbGRCeRrAQPbZFeScLWLoS1DUZ3LoQpm9lOHRf4N15wojIcsA1L9x4TVTDVScZgkHu2KtNX4M7n88P0Dwy7Ki%2Frpj2ovgO%2FKTtx95hcrjHsggbda7Vftw7igAXVTeUYcG2g2hex0cukSn185fBfRlT9LQRdUzghcN56zG5M6t9WU18DaYpYK7qnczSVHhZK%2Fnw%3D%3D--zISviRpJFIdnut%2Be--Z3gQlWAI58Vt9F8L9alHMQ%3D%3D; path=/; secure; httponly; samesite=lax"
       ],
-      "x-request-id": "657baf01-081b-48e8-a80e-d2aaa56050b5",
-      "x-runtime": "0.033164",
+      "x-request-id": "0f26c878-7c05-4bc1-bba2-3fd793500257",
+      "x-runtime": "0.072377",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
-      "sozu-id": "01K6S0WJCZS5V020G4GRK11S6T"
+      "sozu-id": "01K7X30BBR314Q60KWA74361XZ"
     }
   },
   "tests": {
@@ -57,7 +57,6 @@
           "'none'"
         ],
         "script-src": [
-          "'connect-src'",
           "'self'",
           "'unsafe-inline'",
           "https:"
@@ -74,6 +73,7 @@
         "frame-src": [
           "https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com",
           "https://plugins.crisp.chat",
+          "https://tally.so",
           "https://uneleveunstage.crisp.help"
         ]
       },

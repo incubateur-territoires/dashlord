@@ -3,11 +3,11 @@
   "cookies": [
     {
       "name": "_monstage_session",
-      "value": "8BJAImSXSWfntoKMChUPStPMyyVTzqf6%2F3MHBqMEvtYC%2Bb%2By%2Fbt0%2BuPETcXzggo9O8Yb09rtjr2vlcvULWlu5Mp11Qg0%2F7FWeX7EEL%2B8EWs0RFjYmjGR9nHdQjZlCD6FOpTnsHGuVZxWw2lRMqmPOZZYmJrmH4vWhnhvl0%2BsvoyoifbzTXkRGyupeD40i7xU4qYinFeFhQGIzurKpb%2BvUSqOEDsb1pMWHF0Pf0Oto8MgNo27LSlaYDidMV7NafW8bvJ5OnE6yK6qqwsXNvhtdH1MdWaxdAzYDw%3D%3D--RPnffViNF6VzBZPR--OBq%2FGoGVdbUs0KFGBu4r1w%3D%3D",
+      "value": "x9CzfR55XYTHLfDZjmAyT%2Brg%2Bzm0IDxGJf%2Fs9QlY4pPL%2FE3b2FVsZOFeXnjRITIMEI0kpI4dS3sXcF%2B6EUV8HFEhKRch60lXXcSt%2Fc09%2FHVMt0Q%2B%2FgYte3wg974vTcdwGhjy%2FMQ0JztBeykCEvmvbDbaStyfBANrL%2F8v3myDl%2BpKo7DEan%2B7rCNMlLoVhVilVWb77dPqIqnF7EWT9WP9tRpv1EGzLVhWhJChdEINIAJ9rheo6LaM8eLTrK3a2U0rkrvi9J1%2Bs61l%2Ft9nEGdfyac6K9zNHNY5rA%3D%3D--WNFydwCGGAW%2BlRTg--cXN1zz2N97DCvcQJpB1OyA%3D%3D",
       "domain": "www.monstagedetroisieme.fr",
       "path": "/",
       "expires": -1,
-      "size": 381,
+      "size": 393,
       "httpOnly": true,
       "secure": true,
       "session": true,
@@ -20,29 +20,29 @@
   "headers": {
     "connection": "keep-alive",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 05 Oct 2025 01:44:58 GMT",
-    "sozu-id": "01K6S0P8TS2D0WGFB6HGWRCJ3D",
+    "date": "Sun, 19 Oct 2025 01:54:31 GMT",
+    "sozu-id": "01K7X2ST9MH5CH6VKB9DS1DW6K",
     "transfer-encoding": "chunked",
     "cache-control": "no-cache",
     "content-encoding": "gzip",
-    "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'connect-src' 'unsafe-inline' https://stats.beta.gouv.fr; connect-src 'self' https:; style-src 'self' https: 'unsafe-inline'; frame-src https://plugins.crisp.chat https://uneleveunstage.crisp.help https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com",
-    "link": "</packs/css/application-d963cc8d.css>; rel=preload; as=style; nopush",
+    "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'unsafe-inline' https://stats.beta.gouv.fr; connect-src 'self' https:; style-src 'self' https: 'unsafe-inline'; frame-src https://plugins.crisp.chat https://uneleveunstage.crisp.help https://tally.so https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com",
+    "link": "</packs/css/application-a9702d87.css>; rel=preload; as=style; nopush",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "set-cookie": "_monstage_session=8BJAImSXSWfntoKMChUPStPMyyVTzqf6%2F3MHBqMEvtYC%2Bb%2By%2Fbt0%2BuPETcXzggo9O8Yb09rtjr2vlcvULWlu5Mp11Qg0%2F7FWeX7EEL%2B8EWs0RFjYmjGR9nHdQjZlCD6FOpTnsHGuVZxWw2lRMqmPOZZYmJrmH4vWhnhvl0%2BsvoyoifbzTXkRGyupeD40i7xU4qYinFeFhQGIzurKpb%2BvUSqOEDsb1pMWHF0Pf0Oto8MgNo27LSlaYDidMV7NafW8bvJ5OnE6yK6qqwsXNvhtdH1MdWaxdAzYDw%3D%3D--RPnffViNF6VzBZPR--OBq%2FGoGVdbUs0KFGBu4r1w%3D%3D; path=/; secure; httponly; samesite=lax",
+    "set-cookie": "_monstage_session=x9CzfR55XYTHLfDZjmAyT%2Brg%2Bzm0IDxGJf%2Fs9QlY4pPL%2FE3b2FVsZOFeXnjRITIMEI0kpI4dS3sXcF%2B6EUV8HFEhKRch60lXXcSt%2Fc09%2FHVMt0Q%2B%2FgYte3wg974vTcdwGhjy%2FMQ0JztBeykCEvmvbDbaStyfBANrL%2F8v3myDl%2BpKo7DEan%2B7rCNMlLoVhVilVWb77dPqIqnF7EWT9WP9tRpv1EGzLVhWhJChdEINIAJ9rheo6LaM8eLTrK3a2U0rkrvi9J1%2Bs61l%2Ft9nEGdfyac6K9zNHNY5rA%3D%3D--WNFydwCGGAW%2BlRTg--cXN1zz2N97DCvcQJpB1OyA%3D%3D; path=/; secure; httponly; samesite=lax",
     "strict-transport-security": "max-age=63072000; includeSubDomains",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-download-options": "noopen",
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "200e6a7a-663f-4ca4-bf27-25505ddbe91b",
-    "x-runtime": "0.099022",
+    "x-request-id": "0f4e2dea-5316-48de-89b5-14b8b684f709",
+    "x-runtime": "0.082927",
     "x-xss-protection": "0"
   },
   "endpoints": [
     {
       "hostname": "www.monstagedetroisieme.fr",
-      "ip": "91.208.207.214",
+      "ip": "91.208.207.215",
       "geoip": {
         "continent": {
           "code": "EU",
