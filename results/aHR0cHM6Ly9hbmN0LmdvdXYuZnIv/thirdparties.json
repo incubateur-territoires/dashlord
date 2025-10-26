@@ -43,7 +43,7 @@
       "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1760841903,
+      "expires": 1761446393,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -55,10 +55,10 @@
     },
     {
       "name": "_pk_id.22.6a82",
-      "value": "4076af903e18036a.1760840103.",
+      "value": "9f5e78c35d186ae8.1761444594.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1794795303,
+      "expires": 1795399794,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -70,10 +70,10 @@
     },
     {
       "name": "bln_challengejs",
-      "value": "83jDcRFAzksteIMnb96VjNp-jF4TMzwRiRZfMw6RxFp4HIUI0hssw3B19q4sJhG8CfUU0KOnYfAezIKVJQbwMWI2LNtTaadqV0CqvtyBpq1A8PA1xXZk2J7aIZ0wwjS9NewJ_H6wlhODK3lvqUuLfLU5iLbVYajRm7oMbhRS3ee5DWh-opCnyBYTwmuQ2fUphEe9KPEd0HOARLyWBR24sExLHCF1_QAOGOpMfREFfAPSl1Ll9wIk2cBu-bsP4Jjufw68bHUJNrnUHN_GtXRehC_ySxr-TTOSql4pmCbo-qY",
+      "value": "VuDVbMTYS0EOM4-INF9v2l4V-vxM8sNTzqNwIlrZl9lkcn1wLBMmea745EOtCXM0uWbNcCOogxPHBdJogIMmbosJO-i9L4_fKSOWAKt65tQCtId9LiS-_O8-5k8LwEKCIJmOX4jf-bCCdDYh9lso6Z-d0K5GlDVBxZAfbOBQ4D6SDbAQmLZAO4CWfvac-DqfU98Da7eH_82jCfyMB0lsatfIQ-081V4dx803gk5cd8MLgGDJ5wQGv4Ig3p2rKgNLKJtd8OTw1FGj7cLrj4x8wdqfu1oPVB0V4wd8MqepzyI",
       "domain": ".anct.gouv.fr",
       "path": "/",
-      "expires": 1760841002.633548,
+      "expires": 1761445493.218871,
       "size": 314,
       "httpOnly": false,
       "secure": true,
@@ -89,10 +89,10 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 19 Oct 2025 02:15:02 GMT",
-    "etag": "W/\"1760712941\"",
+    "date": "Sun, 26 Oct 2025 02:09:53 GMT",
+    "etag": "W/\"1761228216\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Fri, 17 Oct 2025 14:55:41 GMT",
+    "last-modified": "Thu, 23 Oct 2025 14:03:36 GMT",
     "referrer-policy": "origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\nCookie",
@@ -101,7 +101,7 @@
     "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "63971b78aec70504701767fe92695c3b",
+    "x-request-id": "d88092150c85b1d45eb5822c065a9dfd",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -163,7 +163,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "173.194.194.95",
+      "ip": "192.178.155.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -217,42 +217,8 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "151.101.129.229",
+      "ip": "104.16.174.226",
       "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
