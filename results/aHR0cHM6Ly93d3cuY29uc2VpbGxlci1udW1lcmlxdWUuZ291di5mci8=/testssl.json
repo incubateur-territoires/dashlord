@@ -206,7 +206,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "'server name/#0' 'EC point formats/#11' 'application layer protocol negotiation/#16' 'extended master secret/#23' 'compress_certificate/#27' 'session ticket/#35' 'supported versions/#43' 'key share/#51' 'next protocol/#13172' 'renegotiation info/#65281'"
+              "finding"      : "'server name/#0' 'status request/#5' 'EC point formats/#11' 'application layer protocol negotiation/#16' 'extended master secret/#23' 'compress_certificate/#27' 'session ticket/#35' 'supported versions/#43' 'key share/#51' 'next protocol/#13172' 'renegotiation info/#65281'"
           }
 ,         {
               "id"           : "TLS_session_ticket",
@@ -227,14 +227,14 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -297,7 +297,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "139BDAB0ABC0C8E113DB9D0B1EE21086"
+              "finding"      : "E41F5B2835ECE8C3111B319FFF153DC5"
           }
 ,         {
               "id"           : "cert_serialNumberLen <hostCert#1>",
@@ -311,21 +311,21 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "6C4F609D41E562C5952DBE53A73EDFD89C9A2923"
+              "finding"      : "F6F4737EDDC2251A5B28D31877E5BFAE653263B9"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256 <hostCert#1>",
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "D0D846AC7AFE26A17831E54FC097440A54D60EC94F152D1217E57934AC49B74E"
+              "finding"      : "9CDBB706EE984F4E185F10874C2935C23703081411C04ABD5E5C7920DE58404D"
           }
 ,         {
               "id"           : "cert <hostCert#1>",
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFTDCCBDSgAwIBAgIQE5vasKvAyOET250LHuIQhjANBgkqhkiG9w0BAQsFADA7MQswCQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYDVQQDEwNXUjEwHhcNMjUwODIyMTgyMTU2WhcNMjUxMTIwMTkxOTUwWjArMSkwJwYDVQQDEyB3d3cuY29uc2VpbGxlci1udW1lcmlxdWUuZ291di5mcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAM/rN2EMCpCacv9Q5thpElN2cxJUQmAu0TG2JHNKej+TQyXsJF9Gnzi6K1wlDlNRJ03dCADzCitsO1b7McQyE/ugZoWU6zHBOMZJtMt8uW73IxKfn0vu0KfkeGlzfR8TCgxl9LE7Y4WhBVgvfsnUI+I2E8DDwbJ356cOBWRQr+j9LXlLzeqw/LwNglvVzmwitvxXhI93J24RmQTgzVb5Vjl+gfI53egLbndGuvMvc+uBBCvH5aHHhcBVO4rjr40vv6FXmmkDLi3GFXETq4LDptFu06yIz12MXcuDsN/m+sxiMOpjQrSRStD0Od+/z9FqHdSeV+AZyrEXSFk6zMMgvBsCAwEAAaOCAlowggJWMA4GA1UdDwEB/wQEAwIFoDATBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSnF3ZxIXFIKB+2wqJmdrqHBsE5NzAfBgNVHSMEGDAWgBRmaUnU3iqckQPPiQ4kuA4wA26ILjBeBggrBgEFBQcBAQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29nL3Mvd3IxL0U1czAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd3IxLmNydDArBgNVHREEJDAigiB3d3cuY29uc2VpbGxlci1udW1lcmlxdWUuZ291di5mcjATBgNVHSAEDDAKMAgGBmeBDAECATA2BgNVHR8ELzAtMCugKaAnhiVodHRwOi8vYy5wa2kuZ29vZy93cjEvbmJNSXVsbFR5MTAuY3JsMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcAzPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAAAAGY0zsDVQAABAMASDBGAiEAm6p/bNZ1CpNpWyf9xHAvKmSZGF36kWtNrjIoJu+Rc1MCIQDoAU0wMCK0eN6VHDdVy/Uk17ao3/ZUuThLLoIGKi0h9QB2ABLxTjS9U3JMhAYZw48/ehP457Vih4icbTAFhOvlhiY6AAABmNM7AxgAAAQDAEcwRQIhALPYir46IUcooJGH5pnFBDcFPWQNbQW8NsCNYjbYm/4tAiBPkGxY12bTJHer51oEP9HISfKr0fR18Qbja63NyjfUHDANBgkqhkiG9w0BAQsFAAOCAQEAa8xDrAuTfL4JTPgT+jaxaameXqb1dMgLmN5r1IoxSZ2tnuh8hQ03n6rQuxWtnEvN5ZsaVyB0Cs1Y1lZgg17FTduLHnXspsSXOMWvJJHWV5US61hWAQMQP9Rt3IRtRyQfNr7ktKofgWK9T/W1L8pf1kIh06RlkB2mYPuouVUFQuvNnCEhT9mAWnwjFOFbbYUbdvnaUgwf/ogCAZvm3B3pniR/aagN+/Hb/dEPmvgpwqv/+mY8he32h9Q13GZ83JF7nXcneIsc6+V+nTFem3RwaGyIluCLBbzlwkDRbmBQR1NxCY4Xu9tok/U8BLOrHGcV6YzVnZwaT7cTYgnzLx8Xyg==\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFTDCCBDSgAwIBAgIRAOQfWyg17OjDERsxn/8VPcUwDQYJKoZIhvcNAQELBQAwOzELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoGA1UEAxMDV1IxMB4XDTI1MTAyMDE5NDIyOVoXDTI2MDExODIwNDAyMVowKzEpMCcGA1UEAxMgd3d3LmNvbnNlaWxsZXItbnVtZXJpcXVlLmdvdXYuZnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDe/fnhTzGarTKcFhs7SS5fjn9q/39KqXah031ybF98iZdlvmcHvrxQ5iURkp9dEDx3qCgHwTlbNwa1WS8IzS3zZHjGwSVwD6juZQZ81L2FHlcUyyDz8eWwq2YVuj4f9WjUWQZ50/Bn8ses6oXo7SFkaStaiLGq0Ojkc1iydC3dMD2cZpYMYWatvEGJQgBRZQgwD4icL/GE4pJAWlmOglpd8uYThqxDgEv1DVJyyfSom2Rs4YCww6O5mzcbbDPoIEuawLJ/8It8tQB12/HpL4u2SOY6wZSfghMGtAiniAmBA0dAsOfrT0Tjf7W6mv3iIrU39y7fd1o6uk+whiIX3QT1AgMBAAGjggJZMIICVTAOBgNVHQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUJn7YmGQy+u+DoK8B2ciowHFNSLEwHwYDVR0jBBgwFoAUZmlJ1N4qnJEDz4kOJLgOMANuiC4wXgYIKwYBBQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dyMS81QjgwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dyMS5jcnQwKwYDVR0RBCQwIoIgd3d3LmNvbnNlaWxsZXItbnVtZXJpcXVlLmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd3IxLzJCSEswS3Q2QWM4LmNybDCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2ABmG1Mcoqm/+ugNveCpNAZGqzi1yMQ+uzl1wQS0lTMfUAAABmgNcC0kAAAQDAEcwRQIgJk/hLwyjJH0v5r+wX5D3wVwsmSP1Ta0rp4tKcM2aEKACIQD+/xO0fHsaFLCyskRSbJ4rIR6sZDYftPLhf+siU30vWAB2AA5XlLzzrqk+MxssmQez95Dfm8I9cTIl3SGpJaxhxU4hAAABmgNcCyoAAAQDAEcwRQIhAKH8Dhx6gRiboAvWDXNI7v/uz3JgcCf9Iobg3EDtzIseAiBaujtjtFYvcvyvmL7GtmJLsTtAvvYL/PrePYSI0Paw7zANBgkqhkiG9w0BAQsFAAOCAQEApvyD9G90Q0L5v4kd7NamkDczBjO8KCUzH+DETyRVqjsxhYuWEgLaflK3+GMEx0ajdJ3qVj5Mur5mgEmABJbeH3FUcwWOhK2pMLci839CCugriShn4GICaxhIF2Ih8WKbWq12Kn+0sLqFsZyA4lvx2e3RyTfG2S+AykYa1GI0OoZswcuJ85cRbB570mv3zwZEApo0mXW8nU3yb4zrGKAlPnTgJxh9BzSYMbXwEqpOEQGDIPkiIV4HIvvv5BX/Wh1mc2PBQCsfCrESqLQWlfcMwu5CyS8v03ZAkhmvcfcqE9VBKa5RHa14lVfdQ1HlYwsFFt4u8yRG6OW7t91vQKhSMA==\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName <hostCert#1>",
@@ -373,22 +373,22 @@
               "id"           : "cert_expirationStatus <hostCert#1>",
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (32)"
+              "severity"     : "OK",
+              "finding"      : "84 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#1>",
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2025-08-22 18:21"
+              "finding"      : "2025-10-20 19:42"
           }
 ,         {
               "id"           : "cert_notAfter <hostCert#1>",
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "2025-11-20 19:19"
+              "severity"     : "OK",
+              "finding"      : "2026-01-18 20:40"
           }
 ,         {
               "id"           : "cert_extlifeSpan <hostCert#1>",
@@ -409,21 +409,28 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://c.pki.goog/wr1/nbMIullTy10.crl"
+              "finding"      : "http://c.pki.goog/wr1/2BHK0Kt6Ac8.crl"
           }
 ,         {
               "id"           : "cert_ocspURL <hostCert#1>",
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://o.pki.goog/s/wr1/E5s"
+              "finding"      : "http://o.pki.goog/s/wr1/5B8"
           }
 ,         {
               "id"           : "OCSP_stapling <hostCert#1>",
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
-              "severity"     : "LOW",
-              "finding"      : "not offered"
+              "severity"     : "OK",
+              "finding"      : "offered"
+          }
+,         {
+              "id"           : "cert_ocspRevoked <hostCert#1>",
+              "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "not revoked"
           }
 ,         {
               "id"           : "cert_mustStapleExtension <hostCert#1>",
@@ -591,7 +598,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "64810EE310A7111C11E290F23A6012C5"
+              "finding"      : "714D5A5563C1E04C11403B563C5F1422"
           }
 ,         {
               "id"           : "cert_serialNumberLen <hostCert#2>",
@@ -605,21 +612,21 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "F50983725BFBA4A6D543B900FE31DE4033BB653A"
+              "finding"      : "7A573F621BE2A44405707AF38E0D54221B730285"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256 <hostCert#2>",
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "3BE5568E44B404D18DD7CD3A424822157B28161D1448A42BE5B4FF891B698E78"
+              "finding"      : "D69C58583BDB9F1F68C8333269B070F90EBFEEF08BE82889A2249BA64928C4CC"
           }
 ,         {
               "id"           : "cert <hostCert#2>",
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIDvjCCA2OgAwIBAgIQZIEO4xCnERwR4pDyOmASxTAKBggqhkjOPQQDAjA7MQswCQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYDVQQDEwNXRTEwHhcNMjUwODIyMTgyMjA2WhcNMjUxMTIwMTkyMjAyWjArMSkwJwYDVQQDEyB3d3cuY29uc2VpbGxlci1udW1lcmlxdWUuZ291di5mcjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABB2n/nZ1+XdWkifr8XwlH+DipVM3djOxvfwD3q0NvG1vuTn5D/kIHeMff08VtcilIviBRSAUbTD6rHf60+Uh8DyjggJXMIICUzAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUUhT/cU5jOmohivPcKyAmdRhKeM0wHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYIKwYBBQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS9aSUUwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwKwYDVR0RBCQwIoIgd3d3LmNvbnNlaWxsZXItbnVtZXJpcXVlLmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2UxL1lIOG52UG9adV9nLmNybDCCAQIGCisGAQQB1nkCBAIEgfMEgfAA7gB1ABLxTjS9U3JMhAYZw48/ehP457Vih4icbTAFhOvlhiY6AAABmNM7K5UAAAQDAEYwRAIgUuHQSI6DSOHABw7J+KcmrscqBIwjXhZzszYduBJSlUwCIFJQaUL+2xaprMdDyyoY6mLU+Dh/4nSvRlILmxvpiwy6AHUAzPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAAAAGY0zsr3gAABAMARjBEAiA7ox///YquXx538sDiN80JALhLi96t72YVoeWcsEcY0QIgSE7sEb27zXzXaOdtXtW4CANZoVffmoR0QeSFUIFMkqYwCgYIKoZIzj0EAwIDSQAwRgIhAKWyIoYmpl7wd9o+0oQmRozAaqiUmV7c+IwKf1Q6XOluAiEAu4JUhwAq/oQeqPYywIArlQ+dF3v3y3dNdmNgzC2gagw=\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIDvzCCA2agAwIBAgIQcU1aVWPB4EwRQDtWPF8UIjAKBggqhkjOPQQDAjA7MQswCQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYDVQQDEwNXRTEwHhcNMjUxMDIwMTk0MjQyWhcNMjYwMTE4MjA0MjQwWjArMSkwJwYDVQQDEyB3d3cuY29uc2VpbGxlci1udW1lcmlxdWUuZ291di5mcjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABPosYo9MXl3F+AY6RXi0EK2owy2o68rBRaolCFAMBl7eE+SkG92ILPYSbCgCbM54aMQMaW0tw4ruD9NEjTtoM0OjggJaMIICVjAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU/6XwonRkGdBvMYo/3FfuA/53hfYwHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYIKwYBBQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS9jVTAwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwKwYDVR0RBCQwIoIgd3d3LmNvbnNlaWxsZXItbnVtZXJpcXVlLmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2UxL0FIV2hQN1p2ZmVJLmNybDCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AJaXZL9VWJet90OHaDcIQnfp8DrV9qTzNm5GpD8PyqnGAAABmgNcKoMAAAQDAEgwRgIhAL6Lc9ECUZZrJy1mdxM72+NprNl4zcqWMFNQ8As5uDQZAiEAz0ZdnECOjAd5GPrf9j2YcwQ3YgDrqOCfpSudf97GBqwAdgAZhtTHKKpv/roDb3gqTQGRqs4tcjEPrs5dcEEtJUzH1AAAAZoDXCpvAAAEAwBHMEUCIEvk78RJ4vWq12Hb2tlKFxl6LmTspXuGIwY1Dx+OXoa/AiEA63olVg1kLKKVH+mm3nxgWnRoKqbMGZBrnVsDYPMxdr8wCgYIKoZIzj0EAwIDRwAwRAIgHhBAF6H8swPyv0FY3Rg0d/YN/nH+Qc2mlwcuyDFjCDECIACK3vj9xABPeosOYJL2H3pQtbUOh4Brt876M40HIpDl\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName <hostCert#2>",
@@ -667,22 +674,22 @@
               "id"           : "cert_expirationStatus <hostCert#2>",
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (32)"
+              "severity"     : "OK",
+              "finding"      : "84 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#2>",
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2025-08-22 18:22"
+              "finding"      : "2025-10-20 19:42"
           }
 ,         {
               "id"           : "cert_notAfter <hostCert#2>",
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "2025-11-20 19:22"
+              "severity"     : "OK",
+              "finding"      : "2026-01-18 20:42"
           }
 ,         {
               "id"           : "cert_extlifeSpan <hostCert#2>",
@@ -703,21 +710,28 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://c.pki.goog/we1/YH8nvPoZu_g.crl"
+              "finding"      : "http://c.pki.goog/we1/AHWhP7ZvfeI.crl"
           }
 ,         {
               "id"           : "cert_ocspURL <hostCert#2>",
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://o.pki.goog/s/we1/ZIE"
+              "finding"      : "http://o.pki.goog/s/we1/cU0"
           }
 ,         {
               "id"           : "OCSP_stapling <hostCert#2>",
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
-              "severity"     : "LOW",
-              "finding"      : "not offered"
+              "severity"     : "OK",
+              "finding"      : "offered"
+          }
+,         {
+              "id"           : "cert_ocspRevoked <hostCert#2>",
+              "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "not revoked"
           }
 ,         {
               "id"           : "cert_mustStapleExtension <hostCert#2>",
@@ -871,7 +885,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/172.67.144.206",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1760837356"
+              "finding"      : "1761442184"
           }
 ,         {
               "id"           : "HSTS",
@@ -1044,7 +1058,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=D0D846AC7AFE26A17831E54FC097440A54D60EC94F152D1217E57934AC49B74E"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=9CDBB706EE984F4E185F10874C2935C23703081411C04ABD5E5C7920DE58404D"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -1645,14 +1659,14 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "'server name/#0' 'EC point formats/#11' 'application layer protocol negotiation/#16' 'extended master secret/#23' 'compress_certificate/#27' 'session ticket/#35' 'supported versions/#43' 'key share/#51' 'next protocol/#13172' 'renegotiation info/#65281'"
+              "finding"      : "'server name/#0' 'status request/#5' 'EC point formats/#11' 'application layer protocol negotiation/#16' 'extended master secret/#23' 'compress_certificate/#27' 'session ticket/#35' 'supported versions/#43' 'key share/#51' 'next protocol/#13172' 'renegotiation info/#65281'"
           }
 ,         {
               "id"           : "TLS_session_ticket",
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "valid for 64800 seconds only (<daily)"
+              "finding"      : "valid for 64799 seconds only (<daily)"
           }
 ,         {
               "id"           : "SSL_sessionID_support",
@@ -1736,7 +1750,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "139BDAB0ABC0C8E113DB9D0B1EE21086"
+              "finding"      : "E41F5B2835ECE8C3111B319FFF153DC5"
           }
 ,         {
               "id"           : "cert_serialNumberLen <hostCert#1>",
@@ -1750,21 +1764,21 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "6C4F609D41E562C5952DBE53A73EDFD89C9A2923"
+              "finding"      : "F6F4737EDDC2251A5B28D31877E5BFAE653263B9"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256 <hostCert#1>",
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "D0D846AC7AFE26A17831E54FC097440A54D60EC94F152D1217E57934AC49B74E"
+              "finding"      : "9CDBB706EE984F4E185F10874C2935C23703081411C04ABD5E5C7920DE58404D"
           }
 ,         {
               "id"           : "cert <hostCert#1>",
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFTDCCBDSgAwIBAgIQE5vasKvAyOET250LHuIQhjANBgkqhkiG9w0BAQsFADA7MQswCQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYDVQQDEwNXUjEwHhcNMjUwODIyMTgyMTU2WhcNMjUxMTIwMTkxOTUwWjArMSkwJwYDVQQDEyB3d3cuY29uc2VpbGxlci1udW1lcmlxdWUuZ291di5mcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAM/rN2EMCpCacv9Q5thpElN2cxJUQmAu0TG2JHNKej+TQyXsJF9Gnzi6K1wlDlNRJ03dCADzCitsO1b7McQyE/ugZoWU6zHBOMZJtMt8uW73IxKfn0vu0KfkeGlzfR8TCgxl9LE7Y4WhBVgvfsnUI+I2E8DDwbJ356cOBWRQr+j9LXlLzeqw/LwNglvVzmwitvxXhI93J24RmQTgzVb5Vjl+gfI53egLbndGuvMvc+uBBCvH5aHHhcBVO4rjr40vv6FXmmkDLi3GFXETq4LDptFu06yIz12MXcuDsN/m+sxiMOpjQrSRStD0Od+/z9FqHdSeV+AZyrEXSFk6zMMgvBsCAwEAAaOCAlowggJWMA4GA1UdDwEB/wQEAwIFoDATBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSnF3ZxIXFIKB+2wqJmdrqHBsE5NzAfBgNVHSMEGDAWgBRmaUnU3iqckQPPiQ4kuA4wA26ILjBeBggrBgEFBQcBAQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29nL3Mvd3IxL0U1czAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd3IxLmNydDArBgNVHREEJDAigiB3d3cuY29uc2VpbGxlci1udW1lcmlxdWUuZ291di5mcjATBgNVHSAEDDAKMAgGBmeBDAECATA2BgNVHR8ELzAtMCugKaAnhiVodHRwOi8vYy5wa2kuZ29vZy93cjEvbmJNSXVsbFR5MTAuY3JsMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcAzPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAAAAGY0zsDVQAABAMASDBGAiEAm6p/bNZ1CpNpWyf9xHAvKmSZGF36kWtNrjIoJu+Rc1MCIQDoAU0wMCK0eN6VHDdVy/Uk17ao3/ZUuThLLoIGKi0h9QB2ABLxTjS9U3JMhAYZw48/ehP457Vih4icbTAFhOvlhiY6AAABmNM7AxgAAAQDAEcwRQIhALPYir46IUcooJGH5pnFBDcFPWQNbQW8NsCNYjbYm/4tAiBPkGxY12bTJHer51oEP9HISfKr0fR18Qbja63NyjfUHDANBgkqhkiG9w0BAQsFAAOCAQEAa8xDrAuTfL4JTPgT+jaxaameXqb1dMgLmN5r1IoxSZ2tnuh8hQ03n6rQuxWtnEvN5ZsaVyB0Cs1Y1lZgg17FTduLHnXspsSXOMWvJJHWV5US61hWAQMQP9Rt3IRtRyQfNr7ktKofgWK9T/W1L8pf1kIh06RlkB2mYPuouVUFQuvNnCEhT9mAWnwjFOFbbYUbdvnaUgwf/ogCAZvm3B3pniR/aagN+/Hb/dEPmvgpwqv/+mY8he32h9Q13GZ83JF7nXcneIsc6+V+nTFem3RwaGyIluCLBbzlwkDRbmBQR1NxCY4Xu9tok/U8BLOrHGcV6YzVnZwaT7cTYgnzLx8Xyg==\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFTDCCBDSgAwIBAgIRAOQfWyg17OjDERsxn/8VPcUwDQYJKoZIhvcNAQELBQAwOzELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoGA1UEAxMDV1IxMB4XDTI1MTAyMDE5NDIyOVoXDTI2MDExODIwNDAyMVowKzEpMCcGA1UEAxMgd3d3LmNvbnNlaWxsZXItbnVtZXJpcXVlLmdvdXYuZnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDe/fnhTzGarTKcFhs7SS5fjn9q/39KqXah031ybF98iZdlvmcHvrxQ5iURkp9dEDx3qCgHwTlbNwa1WS8IzS3zZHjGwSVwD6juZQZ81L2FHlcUyyDz8eWwq2YVuj4f9WjUWQZ50/Bn8ses6oXo7SFkaStaiLGq0Ojkc1iydC3dMD2cZpYMYWatvEGJQgBRZQgwD4icL/GE4pJAWlmOglpd8uYThqxDgEv1DVJyyfSom2Rs4YCww6O5mzcbbDPoIEuawLJ/8It8tQB12/HpL4u2SOY6wZSfghMGtAiniAmBA0dAsOfrT0Tjf7W6mv3iIrU39y7fd1o6uk+whiIX3QT1AgMBAAGjggJZMIICVTAOBgNVHQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUJn7YmGQy+u+DoK8B2ciowHFNSLEwHwYDVR0jBBgwFoAUZmlJ1N4qnJEDz4kOJLgOMANuiC4wXgYIKwYBBQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dyMS81QjgwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dyMS5jcnQwKwYDVR0RBCQwIoIgd3d3LmNvbnNlaWxsZXItbnVtZXJpcXVlLmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd3IxLzJCSEswS3Q2QWM4LmNybDCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2ABmG1Mcoqm/+ugNveCpNAZGqzi1yMQ+uzl1wQS0lTMfUAAABmgNcC0kAAAQDAEcwRQIgJk/hLwyjJH0v5r+wX5D3wVwsmSP1Ta0rp4tKcM2aEKACIQD+/xO0fHsaFLCyskRSbJ4rIR6sZDYftPLhf+siU30vWAB2AA5XlLzzrqk+MxssmQez95Dfm8I9cTIl3SGpJaxhxU4hAAABmgNcCyoAAAQDAEcwRQIhAKH8Dhx6gRiboAvWDXNI7v/uz3JgcCf9Iobg3EDtzIseAiBaujtjtFYvcvyvmL7GtmJLsTtAvvYL/PrePYSI0Paw7zANBgkqhkiG9w0BAQsFAAOCAQEApvyD9G90Q0L5v4kd7NamkDczBjO8KCUzH+DETyRVqjsxhYuWEgLaflK3+GMEx0ajdJ3qVj5Mur5mgEmABJbeH3FUcwWOhK2pMLci839CCugriShn4GICaxhIF2Ih8WKbWq12Kn+0sLqFsZyA4lvx2e3RyTfG2S+AykYa1GI0OoZswcuJ85cRbB570mv3zwZEApo0mXW8nU3yb4zrGKAlPnTgJxh9BzSYMbXwEqpOEQGDIPkiIV4HIvvv5BX/Wh1mc2PBQCsfCrESqLQWlfcMwu5CyS8v03ZAkhmvcfcqE9VBKa5RHa14lVfdQ1HlYwsFFt4u8yRG6OW7t91vQKhSMA==\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName <hostCert#1>",
@@ -1812,22 +1826,22 @@
               "id"           : "cert_expirationStatus <hostCert#1>",
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (32)"
+              "severity"     : "OK",
+              "finding"      : "84 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#1>",
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2025-08-22 18:21"
+              "finding"      : "2025-10-20 19:42"
           }
 ,         {
               "id"           : "cert_notAfter <hostCert#1>",
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "2025-11-20 19:19"
+              "severity"     : "OK",
+              "finding"      : "2026-01-18 20:40"
           }
 ,         {
               "id"           : "cert_extlifeSpan <hostCert#1>",
@@ -1848,21 +1862,28 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://c.pki.goog/wr1/nbMIullTy10.crl"
+              "finding"      : "http://c.pki.goog/wr1/2BHK0Kt6Ac8.crl"
           }
 ,         {
               "id"           : "cert_ocspURL <hostCert#1>",
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://o.pki.goog/s/wr1/E5s"
+              "finding"      : "http://o.pki.goog/s/wr1/5B8"
           }
 ,         {
               "id"           : "OCSP_stapling <hostCert#1>",
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
-              "severity"     : "LOW",
-              "finding"      : "not offered"
+              "severity"     : "OK",
+              "finding"      : "offered"
+          }
+,         {
+              "id"           : "cert_ocspRevoked <hostCert#1>",
+              "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "not revoked"
           }
 ,         {
               "id"           : "cert_mustStapleExtension <hostCert#1>",
@@ -2030,7 +2051,7 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "64810EE310A7111C11E290F23A6012C5"
+              "finding"      : "714D5A5563C1E04C11403B563C5F1422"
           }
 ,         {
               "id"           : "cert_serialNumberLen <hostCert#2>",
@@ -2044,21 +2065,21 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "F50983725BFBA4A6D543B900FE31DE4033BB653A"
+              "finding"      : "7A573F621BE2A44405707AF38E0D54221B730285"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256 <hostCert#2>",
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "3BE5568E44B404D18DD7CD3A424822157B28161D1448A42BE5B4FF891B698E78"
+              "finding"      : "D69C58583BDB9F1F68C8333269B070F90EBFEEF08BE82889A2249BA64928C4CC"
           }
 ,         {
               "id"           : "cert <hostCert#2>",
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIDvjCCA2OgAwIBAgIQZIEO4xCnERwR4pDyOmASxTAKBggqhkjOPQQDAjA7MQswCQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYDVQQDEwNXRTEwHhcNMjUwODIyMTgyMjA2WhcNMjUxMTIwMTkyMjAyWjArMSkwJwYDVQQDEyB3d3cuY29uc2VpbGxlci1udW1lcmlxdWUuZ291di5mcjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABB2n/nZ1+XdWkifr8XwlH+DipVM3djOxvfwD3q0NvG1vuTn5D/kIHeMff08VtcilIviBRSAUbTD6rHf60+Uh8DyjggJXMIICUzAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUUhT/cU5jOmohivPcKyAmdRhKeM0wHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYIKwYBBQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS9aSUUwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwKwYDVR0RBCQwIoIgd3d3LmNvbnNlaWxsZXItbnVtZXJpcXVlLmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2UxL1lIOG52UG9adV9nLmNybDCCAQIGCisGAQQB1nkCBAIEgfMEgfAA7gB1ABLxTjS9U3JMhAYZw48/ehP457Vih4icbTAFhOvlhiY6AAABmNM7K5UAAAQDAEYwRAIgUuHQSI6DSOHABw7J+KcmrscqBIwjXhZzszYduBJSlUwCIFJQaUL+2xaprMdDyyoY6mLU+Dh/4nSvRlILmxvpiwy6AHUAzPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAAAAGY0zsr3gAABAMARjBEAiA7ox///YquXx538sDiN80JALhLi96t72YVoeWcsEcY0QIgSE7sEb27zXzXaOdtXtW4CANZoVffmoR0QeSFUIFMkqYwCgYIKoZIzj0EAwIDSQAwRgIhAKWyIoYmpl7wd9o+0oQmRozAaqiUmV7c+IwKf1Q6XOluAiEAu4JUhwAq/oQeqPYywIArlQ+dF3v3y3dNdmNgzC2gagw=\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIDvzCCA2agAwIBAgIQcU1aVWPB4EwRQDtWPF8UIjAKBggqhkjOPQQDAjA7MQswCQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYDVQQDEwNXRTEwHhcNMjUxMDIwMTk0MjQyWhcNMjYwMTE4MjA0MjQwWjArMSkwJwYDVQQDEyB3d3cuY29uc2VpbGxlci1udW1lcmlxdWUuZ291di5mcjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABPosYo9MXl3F+AY6RXi0EK2owy2o68rBRaolCFAMBl7eE+SkG92ILPYSbCgCbM54aMQMaW0tw4ruD9NEjTtoM0OjggJaMIICVjAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU/6XwonRkGdBvMYo/3FfuA/53hfYwHwYDVR0jBBgwFoAUkHeSNWfE/6jMqeZ72YB5e8yT+TgwXgYIKwYBBQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dlMS9jVTAwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dlMS5jcnQwKwYDVR0RBCQwIoIgd3d3LmNvbnNlaWxsZXItbnVtZXJpcXVlLmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2UxL0FIV2hQN1p2ZmVJLmNybDCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AJaXZL9VWJet90OHaDcIQnfp8DrV9qTzNm5GpD8PyqnGAAABmgNcKoMAAAQDAEgwRgIhAL6Lc9ECUZZrJy1mdxM72+NprNl4zcqWMFNQ8As5uDQZAiEAz0ZdnECOjAd5GPrf9j2YcwQ3YgDrqOCfpSudf97GBqwAdgAZhtTHKKpv/roDb3gqTQGRqs4tcjEPrs5dcEEtJUzH1AAAAZoDXCpvAAAEAwBHMEUCIEvk78RJ4vWq12Hb2tlKFxl6LmTspXuGIwY1Dx+OXoa/AiEA63olVg1kLKKVH+mm3nxgWnRoKqbMGZBrnVsDYPMxdr8wCgYIKoZIzj0EAwIDRwAwRAIgHhBAF6H8swPyv0FY3Rg0d/YN/nH+Qc2mlwcuyDFjCDECIACK3vj9xABPeosOYJL2H3pQtbUOh4Brt876M40HIpDl\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName <hostCert#2>",
@@ -2106,22 +2127,22 @@
               "id"           : "cert_expirationStatus <hostCert#2>",
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (32)"
+              "severity"     : "OK",
+              "finding"      : "84 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#2>",
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2025-08-22 18:22"
+              "finding"      : "2025-10-20 19:42"
           }
 ,         {
               "id"           : "cert_notAfter <hostCert#2>",
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "2025-11-20 19:22"
+              "severity"     : "OK",
+              "finding"      : "2026-01-18 20:42"
           }
 ,         {
               "id"           : "cert_extlifeSpan <hostCert#2>",
@@ -2142,21 +2163,28 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://c.pki.goog/we1/YH8nvPoZu_g.crl"
+              "finding"      : "http://c.pki.goog/we1/AHWhP7ZvfeI.crl"
           }
 ,         {
               "id"           : "cert_ocspURL <hostCert#2>",
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://o.pki.goog/s/we1/ZIE"
+              "finding"      : "http://o.pki.goog/s/we1/cU0"
           }
 ,         {
               "id"           : "OCSP_stapling <hostCert#2>",
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
-              "severity"     : "LOW",
-              "finding"      : "not offered"
+              "severity"     : "OK",
+              "finding"      : "offered"
+          }
+,         {
+              "id"           : "cert_ocspRevoked <hostCert#2>",
+              "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "not revoked"
           }
 ,         {
               "id"           : "cert_mustStapleExtension <hostCert#2>",
@@ -2303,14 +2331,14 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1760837418"
+              "finding"      : "1761442243"
           }
 ,         {
               "id"           : "HSTS",
@@ -2483,7 +2511,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=D0D846AC7AFE26A17831E54FC097440A54D60EC94F152D1217E57934AC49B74E"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=9CDBB706EE984F4E185F10874C2935C23703081411C04ABD5E5C7920DE58404D"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -2882,6 +2910,6 @@
               "ip"           : "www.conseiller-numerique.gouv.fr/104.21.71.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "126"
+              "finding"      : "123"
           }
 ]
