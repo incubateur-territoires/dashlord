@@ -33,16 +33,16 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 26 Oct 2025 01:06:43 GMT",
+    "date": "Sun, 02 Nov 2025 01:09:49 GMT",
     "etag": "\"onywqj55lh1nr\"",
     "vary": "Accept-Encoding",
     "x-powered-by": "Next.js",
-    "x-request-id": "5693e7f0-1296-4f02-b8c1-4b692ea774e0"
+    "x-request-id": "295deaf2-3c3c-4ab1-9fe4-7c4f6064971f"
   },
   "endpoints": [
     {
       "hostname": "dotations.incubateur.anct.gouv.fr",
-      "ip": "109.232.233.130",
+      "ip": "148.253.75.120",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -98,7 +98,7 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.16.174.226",
+      "ip": "104.16.175.226",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -118,7 +118,7 @@
     },
     {
       "hostname": "dotations-locales-back.osc-fr1.scalingo.io",
-      "ip": "148.253.75.120",
+      "ip": "109.232.236.90",
       "geoip": {
         "continent": {
           "code": "EU",
