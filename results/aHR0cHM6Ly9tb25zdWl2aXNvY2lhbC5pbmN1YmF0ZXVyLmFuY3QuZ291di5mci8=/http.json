@@ -3,17 +3,17 @@
     "algorithmVersion": 4,
     "grade": "B",
     "error": null,
-    "score": 75,
+    "score": 70,
     "statusCode": 200,
-    "testsFailed": 1,
-    "testsPassed": 9,
+    "testsFailed": 2,
+    "testsPassed": 8,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 26 Oct 2025 01:36:37 GMT",
+      "date": "Sun, 02 Nov 2025 01:41:47 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "c13d4264-918c-4e0d-bf1e-65ae707f557b",
+      "x-request-id": "db261212-79fe-43d1-9f38-aeca4c063738",
       "x-frame-options": "DENY",
       "vary": "Accept-Language, Cookie",
       "content-language": "fr",
@@ -85,10 +85,15 @@
     },
     "subresource-integrity": {
       "expectation": "sri-implemented-and-external-scripts-loaded-securely",
-      "pass": true,
-      "result": "sri-implemented-and-all-scripts-loaded-securely",
-      "scoreModifier": 5,
-      "data": {}
+      "pass": false,
+      "result": "sri-not-implemented-but-external-scripts-loaded-securely",
+      "scoreModifier": -5,
+      "data": {
+        "https://cdn.brevo.com/js/sdk-loader.js": {
+          "crossorigin": null,
+          "integrity": null
+        }
+      }
     },
     "x-content-type-options": {
       "expectation": "x-content-type-options-nosniff",
