@@ -9,19 +9,20 @@
     "testsPassed": 5,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 26 Oct 2025 01:29:18 GMT",
+      "date": "Sun, 02 Nov 2025 01:32:06 GMT",
       "content-type": "text/html",
       "transfer-encoding": "chunked",
       "connection": "close",
       "server": "cloudflare",
       "last-modified": "Wed, 01 Oct 2025 08:54:03 GMT",
-      "cf-cache-status": "DYNAMIC",
       "vary": "Accept-Encoding",
+      "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=4,cfOrigin;dur=96",
       "cache-control": "max-age=60, private, proxy-revalidate",
       "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
-      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2FXK1HdwetwydgGbqEFLDwWgIJPdgJ0nFjZMQptv%2FX11bJ6EITkZEOxZdwU7bL1ORu0SeTg6OiB8vRZiEuy7CBw9uDdZ0mQLpzfbZDYq4tRWdMZEuwh88%2BEcoZVIobeKA\"}]}",
-      "sozu-id": "01K8F22WF3T6V0SBXKZ80RESG9",
-      "cf-ray": "99462e912f1b7bb9-LAX",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=RVKUsy5qxZYyJd06z5itIzeOLoN0X8IYNmDjxIjqJDf22qaRen34cnF1rwtQeVs%2BKV0v48PXWABxgwRZdwbZFL9ZJOKsx4wTzyuL43I9sP4XPlrwfWcw8OQ%2FnkGJ4axm\"}]}",
+      "sozu-id": "01K91319YJPAK3VCF7GQXAP3G4",
+      "cf-cache-status": "DYNAMIC",
+      "cf-ray": "997fe04dfa646cba-ORD",
       "alt-svc": "h3=\":443\"; ma=86400"
     }
   },
@@ -94,6 +95,10 @@
         "https://challenges.cloudflare.com/turnstile/v0/api.js": {
           "crossorigin": null,
           "integrity": null
+        },
+        "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015": {
+          "crossorigin": "anonymous",
+          "integrity": "sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ=="
         }
       }
     },
