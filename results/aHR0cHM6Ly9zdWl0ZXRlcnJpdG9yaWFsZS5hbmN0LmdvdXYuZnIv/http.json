@@ -9,13 +9,13 @@
     "testsPassed": 8,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 02 Nov 2025 02:10:44 GMT",
+      "date": "Sun, 09 Nov 2025 02:09:26 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "2af07351-9de9-436f-aab3-568e2668ddb0",
+      "x-request-id": "35c452ab-b5b7-4602-a0af-b825c328a2a1",
       "cross-origin-opener-policy": "same-origin",
-      "etag": "\"8w8a8fb1cc64qj\"",
+      "etag": "\"cs8cvqksio64wk\"",
       "vary": "Accept-Encoding",
       "strict-transport-security": "max-age=31536000"
     }
@@ -33,7 +33,6 @@
         ],
         "img-src": [
           "'self'",
-          "*.cartocdn.com",
           "*.gouv.fr",
           "data:"
         ],
@@ -44,7 +43,8 @@
         ],
         "connect-src": [
           "'self'",
-          "*.arcgis.com",
+          "*.geopf.fr",
+          "*.github.io",
           "*.gouv.fr"
         ],
         "frame-src": [
