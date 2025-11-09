@@ -9,24 +9,24 @@
     "testsPassed": 10,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 02 Nov 2025 01:46:10 GMT",
+      "date": "Sun, 09 Nov 2025 01:42:40 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "783a317d-6105-428d-8509-15c648e4da88, 783a317d-6105-428d-8509-15c648e4da88",
+      "x-request-id": "c0a9edcf-0730-4cd4-81a4-a8a62f43c41b, c0a9edcf-0730-4cd4-81a4-a8a62f43c41b",
       "x-frame-options": "SAMEORIGIN",
       "x-xss-protection": "0",
       "x-content-type-options": "nosniff",
       "x-permitted-cross-domain-policies": "none",
       "referrer-policy": "strict-origin-when-cross-origin",
-      "link": "</dsfr-v1.13.2/dsfr.min.css>; rel=preload; as=style; nopush,</dsfr-v1.13.2/utility/icons/icons.min.css>; rel=preload; as=style; nopush,</assets/application-0c68713b8c756744fd5cb84203a0351942fdbc48989843e27ea2935563fa2332.css>; rel=preload; as=style; nopush,</assets/application-31b3d093032a5519995fb121c85b71b2ec06fea9cbb70b332e86f12af0ed53ee.js>; rel=preload; as=script; nopush",
-      "etag": "W/\"de64e5d8e3422fe5228fc8651890120b\"",
+      "link": "</dsfr-v1.13.2/dsfr.min.css>; rel=preload; as=style; nopush,</dsfr-v1.13.2/utility/icons/icons.min.css>; rel=preload; as=style; nopush,</assets/application-a9ce52df69166353355153c104ee1ebb4348f4cf22d395664113a4fa8d6c301f.css>; rel=preload; as=style; nopush,</assets/application-31b3d093032a5519995fb121c85b71b2ec06fea9cbb70b332e86f12af0ed53ee.js>; rel=preload; as=script; nopush",
+      "etag": "W/\"d281019372b16fdae7188d07ffb62c2c\"",
       "cache-control": "max-age=0, private, must-revalidate",
-      "content-security-policy": "default-src 'self'; font-src 'self' data:; object-src 'none'; worker-src blob:; child-src blob: 'self'; frame-src 'self' *.instatus.com rdv-service-public-metabase.osc-secnum-fr1.scalingo.io; img-src 'self' data: blob: voxusagers.numerique.gouv.fr tile.openstreetmap.org unpkg.com openmaptiles.data.gouv.fr; style-src 'self' 'unsafe-inline' *.bootstrapcdn.com unpkg.com; connect-src 'self' data.geopf.fr etalab-tiles.fr openmaptiles.data.gouv.fr; script-src 'self' unpkg.com 'sha256-j4Lx1FqFgvYDBEjW7NQaEY7/HhCi8WVsLWkqC4+wJ3w=' 'sha256-JHKToH7KbGJj6TloPeWnKnbImDel00Whl1rRnBiTYuQ='",
+      "content-security-policy": "default-src 'self'; font-src 'self' data:; object-src 'none'; worker-src blob:; child-src blob: 'self'; frame-src 'self' *.instatus.com rdv-service-public-metabase.osc-secnum-fr1.scalingo.io; img-src 'self' data: blob: tile.openstreetmap.org unpkg.com openmaptiles.data.gouv.fr; style-src 'self' 'unsafe-inline' *.bootstrapcdn.com unpkg.com; connect-src 'self' data.geopf.fr etalab-tiles.fr openmaptiles.data.gouv.fr; script-src 'self' unpkg.com 'sha256-j4Lx1FqFgvYDBEjW7NQaEY7/HhCi8WVsLWkqC4+wJ3w=' 'sha256-JHKToH7KbGJj6TloPeWnKnbImDel00Whl1rRnBiTYuQ='",
       "set-cookie": [
-        "_rdv_sp_session=XkA26fhIo433Id40hjT4Zg6DcHJey3uEpLTJ8w1a1YUGy8Ae0zQBgWiyZSlbkcP2WD3MUt2KVdRMBcPlj6NjjDBkHYKPLp1nKkPuHVcBYrtcK4Xr1VUKhu3DGlNiE6Vg4ZHL%2FUdjcfXUCLQmm9e4u%2FW1BTTifMN2p%2F3HCUAmXXYry%2FQYCF1X55%2FWA77%2BuC0XhIywmgwS6Rlt8nFQqD7jXmjFzEJc1q0qZLiVcq2lKNIkwkYjibX5WuJqlk3bSkKoltw7i98N%2FFGb6iR3QRrLps7IG2OAjoXIe4cRCryvj3sXp6iuI%2BSpCi2BQZ28--TdOfSy8z18JXf%2BVB--S1jb479obBkU1Xm4PVRvuQ%3D%3D; path=/; expires=Sun, 02 Nov 2025 09:46:10 GMT; secure; httponly; samesite=lax"
+        "_rdv_sp_session=mdHtuduNu%2FtDGrjqvPLkwAPzy2L9myBSj7050Uakw%2FSldjBo0ZJiBMqzhXvRTbaFqY07zYuYV1fgxHMniO5Wxnsm4QD%2BV2HMkuoMkWHdfJ6pEiRTg42jHaMCQKNyk%2BSx0%2FogemEt8QGoHiCBsW0sSIsNc9v13T6dN7BwUjy%2BxziY4U895VF8SELZfTHDvrdc4dZWcaSeJEIcWqr62TOOixGZsy5F652P6PVnYK6BssujHVANrk7OD0t%2BesgLyKC04Egawmoh6%2FxEJpf9ZmuMcnAyc3EfcFw%2BXglXrKQfVSwcfIejlxRKvDombcmO--ZkgfCpHvJHn%2Fn6UK--nzhav72IjVDOy2MeN5UhOw%3D%3D; path=/; expires=Sun, 09 Nov 2025 09:42:40 GMT; secure; httponly; samesite=lax"
       ],
-      "x-runtime": "0.020841",
+      "x-runtime": "0.012842",
       "strict-transport-security": "max-age=63072000; includeSubDomains"
     }
   },
@@ -65,8 +65,7 @@
           "data:",
           "openmaptiles.data.gouv.fr",
           "tile.openstreetmap.org",
-          "unpkg.com",
-          "voxusagers.numerique.gouv.fr"
+          "unpkg.com"
         ],
         "style-src": [
           "'self'",
@@ -112,7 +111,7 @@
       "data": {
         "_rdv_sp_session": {
           "domain": "rdv.anct.gouv.fr",
-          "expires": "2025-11-02T09:46:10.000Z",
+          "expires": "2025-11-09T09:42:40.000Z",
           "httponly": true,
           "path": "/",
           "port": null,
