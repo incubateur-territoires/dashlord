@@ -3,7 +3,7 @@
         "width": 1920,
         "height": 1080,
         "url": "https://adresse.data.gouv.fr/bases-locales",
-        "size": 1074.962,
+        "size": 1075.204,
         "nodes": 490,
         "requests": 81,
         "grade": "C",
@@ -11,7 +11,7 @@
         "ges": 1.88,
         "water": 2.82,
         "ecoindex_version": "5.4.2",
-        "date": "2025-11-09 00:57:48.727551",
+        "date": "2025-11-16 00:56:12.757193",
         "page_type": null
     }
 ]
