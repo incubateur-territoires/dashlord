@@ -9,11 +9,11 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 09 Nov 2025 02:09:42 GMT",
+      "date": "Sun, 16 Nov 2025 02:10:57 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "0e508a64-e5d6-4f6d-96d5-47393a6e9d31",
+      "x-request-id": "babc409d-64b2-4a58-a614-bb159d79dc00",
       "content-security-policy-report-only": "default-src 'self'; script-src 'self' 'unsafe-inline' *.gouv.fr *.beta.gouv.fr tally.so; style-src 'self' 'unsafe-inline' *.gouv.fr; img-src 'self' data: blob: *.gouv.fr *.beta.gouv.fr; font-src 'self' *.gouv.fr; connect-src 'self' *.gouv.fr *.beta.gouv.fr les-communs-transition-ecologique-api-prod.osc-fr1.scalingo.io; frame-src 'self' *.gouv.fr *.beta.gouv.fr aides-territoires.beta.gouv.fr tally.so; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; report-uri https://sentry.incubateur.anct.gouv.fr/api/17/security/?sentry_key=ef41e5b2b722872a06e51693d63699cf&sentry_environment=production",
       "x-frame-options": "DENY",
       "x-content-type-options": "nosniff",
