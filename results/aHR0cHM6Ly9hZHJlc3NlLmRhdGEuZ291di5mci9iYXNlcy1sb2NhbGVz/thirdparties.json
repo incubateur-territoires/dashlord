@@ -59,7 +59,7 @@
       "value": "1",
       "domain": "adresse.data.gouv.fr",
       "path": "/",
-      "expires": 1763256411,
+      "expires": 1763861262,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -71,10 +71,10 @@
     },
     {
       "name": "_pk_id.13.592e",
-      "value": "931e59dc15cea082.1763254611.",
+      "value": "183ec3709a148d08.1763859463.",
       "domain": "adresse.data.gouv.fr",
       "path": "/",
-      "expires": 1797209811,
+      "expires": 1797814663,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -89,7 +89,7 @@
     "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 16 Nov 2025 00:56:49 GMT",
+    "date": "Sun, 23 Nov 2025 00:57:41 GMT",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
     "x-powered-by": "Next.js"
@@ -153,7 +153,7 @@
     },
     {
       "hostname": "baseadressenationale.github.io",
-      "ip": "185.199.110.153",
+      "ip": "185.199.109.153",
       "geoip": {
         "continent": {
           "code": "NA",
