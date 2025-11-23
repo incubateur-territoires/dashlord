@@ -5,7 +5,7 @@
     "name": "La coop de la médiation numérique",
     "pitch": "Faciliter l'accompagnement des éloignées du numérique.",
     "stats_url": "https://coop-numerique.anct.gouv.fr/statistiques",
-    "budget_url": "https://coop-numerique.anct.gouv.fr/budget",
+    "budget_url": "https://docs.numerique.gouv.fr/docs/88e3bfdf-4a7a-4331-8d13-3778dbb3ec5b/",
     "link": "https://coop-numerique.anct.gouv.fr/",
     "repository": "https://github.com/inclusion-numerique/coop-mediation-numerique",
     "contact": "coop-numerique@anct.gouv.fr",
@@ -20,6 +20,11 @@
       {
         "name": "construction",
         "start": "2024-04-01",
+        "end": ""
+      },
+      {
+        "name": "acceleration",
+        "start": "2024-11-15",
         "end": ""
       }
     ],
