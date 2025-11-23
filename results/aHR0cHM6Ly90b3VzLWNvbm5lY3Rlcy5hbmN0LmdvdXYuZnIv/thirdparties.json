@@ -27,7 +27,7 @@
     },
     {
       "name": "__Host-next-auth.csrf-token",
-      "value": "78f94510deb7207087fddac84f11475c4d2e3d36e9f506f252bbeff370201c38%7C32dbecb66abbfc224d2d02476a882632595d538aaebeda776d2407332748be9c",
+      "value": "2c0339dd920094e6357f403d88b4eeb8c6c5eeb6681cfb27fd13a38e4cc338ff%7C94a357e7d8c3722136ab80712665037fa16fb12513788d721c8f4ea5dd531aeb",
       "domain": "tous-connectes.anct.gouv.fr",
       "path": "/",
       "expires": -1,
@@ -46,8 +46,8 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self'; frame-src 'self' https://tube.numerique.gouv.fr https://toutes-tous-connectes-metabase.osc-secnum-fr1.scalingo.io; frame-ancestors 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' blob: https://matomo.incubateur.anct.gouv.fr; worker-src 'self' blob:; connect-src *; img-src * blob: data:; style-src 'self' 'unsafe-inline'; font-src 'self' data:; form-action 'self'; base-uri 'self'",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 16 Nov 2025 01:47:50 GMT",
-    "etag": "\"wt3o24lf2u2mdk\"",
+    "date": "Sun, 23 Nov 2025 01:51:19 GMT",
+    "etag": "\"awf38maoms2hey\"",
     "referrer-policy": "strict-origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000",
     "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
@@ -55,12 +55,12 @@
     "x-frame-options": "SAMEORIGIN",
     "x-nextjs-cache": "HIT",
     "x-powered-by": "Next.js",
-    "x-request-id": "f4d96e68-9280-4b24-930c-167db6302f42"
+    "x-request-id": "97e8f74f-1a68-423b-9dec-26874befb537"
   },
   "endpoints": [
     {
       "hostname": "tous-connectes.anct.gouv.fr",
-      "ip": "80.247.13.145",
+      "ip": "148.253.96.193",
       "geoip": {
         "continent": {
           "code": "EU",
