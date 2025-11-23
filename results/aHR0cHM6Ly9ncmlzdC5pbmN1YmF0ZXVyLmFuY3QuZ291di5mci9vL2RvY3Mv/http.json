@@ -9,16 +9,16 @@
     "testsPassed": 6,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 16 Nov 2025 01:57:43 GMT",
+      "date": "Sun, 23 Nov 2025 02:01:12 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
       "vary": "Accept-Encoding",
       "x-powered-by": "Express",
       "content-language": "en",
-      "etag": "W/\"1c4d-Vxu6XFcYPjQRRP21y+7s0qezLnE\"",
+      "etag": "W/\"1c4d-+cp/Z7iKJ3X4179Z1pi2mw+umZI\"",
       "set-cookie": [
-        "grist_core=s%3Ag-f57954f961fac5db946d934729c6b19325e9aebe4ae6f351a34a8c29a30003cd.yw%2FqE4o8fCo%2FPZFUHObX%2B3Q1jl%2FUXLfhB28aWA8bYCg; Path=/; HttpOnly; SameSite=Lax"
+        "grist_core=s%3Ag-694b29443c095b453064dad4cbc36866c930cf208ccab86eef650916ba49842a.P5GOil3ABoryxh5XjkxiGvAx7Unk08EdsRo3tt95g%2FQ; Path=/; HttpOnly; SameSite=Lax"
       ],
       "strict-transport-security": "max-age=31536000; includeSubDomains"
     }

@@ -269,7 +269,7 @@
               "ip"           : "grist.incubateur.anct.gouv.fr/142.44.53.109",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "056DFD0B93305D44193BBB8FA2ED9C1BBE72"
+              "finding"      : "06E09179ACBEA244CE2DE9CB99387E086383"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -283,21 +283,21 @@
               "ip"           : "grist.incubateur.anct.gouv.fr/142.44.53.109",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "CFBD594821DB9CBDEA42B3C3332B13190EEB2D7F"
+              "finding"      : "A6A5FE46EE65E8A18623662AB85466E76A249B5A"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "grist.incubateur.anct.gouv.fr/142.44.53.109",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1E8F4D55D60AA84D1EEEF30A872CC4C0B9048E307F19BFCE9CA03908D9007400"
+              "finding"      : "ACE05DE6C3B6C9F5B89F0C1DD7B67D01B11F38E9CD39817A12B2D998E40F7DB4"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "grist.incubateur.anct.gouv.fr/142.44.53.109",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFFjCCA/6gAwIBAgISBW39C5MwXUQZO7uPou2cG75yMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTMwHhcNMjUwOTIzMTIzNzEwWhcNMjUxMjIyMTIzNzA5WjAoMSYwJAYDVQQDEx1ncmlzdC5pbmN1YmF0ZXVyLmFuY3QuZ291di5mcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAO6WYcnkmsk3T0Hs9JDGFMSviFqkUNUyHf353bv60Ck+cM60SAe+HVk4E4ulOxXImxCJPGWCxoO6SjgzhLm9od/0sgB71M2bEuEjP/jp9TEPCgoKyQH0DYreRccgnkifsR3X5R7eCCebhg5f4HEOTYT+bda/GJXd+XqiXJgE1sXepdu6Tib/g4pk4TtiBNGEKaY+MFhE8Re7I7nclw7r5k6do6G1//tgl4Sn46I0JckJyEthl/lG9VMA6l0Jf/UfaC+mL2NsL6DWRvVANsw6izS1oo9izhpur/4K06KUY9YK832txXTHBzIUoJgx7734kxfOm8QIGgaoqc3swAxBpVcCAwEAAaOCAi0wggIpMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUBdLEMrLu65h1pkYUAsG4MPZ0T+gwHwYDVR0jBBgwFoAU56ufDywzoFPTXk94yLKEDjvWkjMwMwYIKwYBBQUHAQEEJzAlMCMGCCsGAQUFBzAChhdodHRwOi8vcjEzLmkubGVuY3Iub3JnLzAoBgNVHREEITAfgh1ncmlzdC5pbmN1YmF0ZXVyLmFuY3QuZ291di5mcjATBgNVHSAEDDAKMAgGBmeBDAECATAvBgNVHR8EKDAmMCSgIqAghh5odHRwOi8vcjEzLmMubGVuY3Iub3JnLzExNS5jcmwwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQDtPEvW6AbCpKIAV9vLJOI4Ad9RL+3EhsVwDyDdtz4/4AAAAZl2yX1nAAAEAwBGMEQCICfUmyTovoVq0n3qrocgn9UqiQpYyws2lM7+9rXY7GKnAiAAqxP8WZJ5N0Mcl2icge5LbwPXVBjRrKHYgyCQXx3xawB2AMz7D2qFcQll/pWbU87psnwi6YVcDZeNtql+VMD+TA2wAAABmXbJhUsAAAQDAEcwRQIgOWi63FazRKdkMaVi6AP3xklQt7eSIHCjZHbAgGWp0IMCIQCxXV4EeWZDtustRA1C7UgXwXy90hcJlHfCHMCOQziihDANBgkqhkiG9w0BAQsFAAOCAQEAF9EHFRmfolshZ87ZNX2Fho9PLz1SlJDB3fdwG75LDSWH16+2tyOG9EQeglO1CKK96yjdOI9JYKKnfSesi5+chRu7ySQlQRBLBT+eFsr9HDpv+OPa+EQCKJrDnoRM3+Wgfa0vYe6XhD8n65ToTHMIW26c44MadYj/bJpLK/ZAjYwyVYK8KqXySBsnQDhtuikJyHOPw0M/pe6sy49ZFS1oyWexGWoXu0F54ptnv0oShS9tlKV//nR4wM/wKRH6gWaeJWpdPQg/dyGy1LAbd0/z47tuv1ujL27V6LmPw55yaTgRKhle7n20n00Zy4fQkXF7SmMEBqf0dheZ5hpjQlNAKg==\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFFTCCA/2gAwIBAgISBuCReay+okTOLenLmTh+CGODMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTMwHhcNMjUxMTIyMTEzOTA3WhcNMjYwMjIwMTEzOTA2WjAoMSYwJAYDVQQDEx1ncmlzdC5pbmN1YmF0ZXVyLmFuY3QuZ291di5mcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAO6WYcnkmsk3T0Hs9JDGFMSviFqkUNUyHf353bv60Ck+cM60SAe+HVk4E4ulOxXImxCJPGWCxoO6SjgzhLm9od/0sgB71M2bEuEjP/jp9TEPCgoKyQH0DYreRccgnkifsR3X5R7eCCebhg5f4HEOTYT+bda/GJXd+XqiXJgE1sXepdu6Tib/g4pk4TtiBNGEKaY+MFhE8Re7I7nclw7r5k6do6G1//tgl4Sn46I0JckJyEthl/lG9VMA6l0Jf/UfaC+mL2NsL6DWRvVANsw6izS1oo9izhpur/4K06KUY9YK832txXTHBzIUoJgx7734kxfOm8QIGgaoqc3swAxBpVcCAwEAAaOCAiwwggIoMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUBdLEMrLu65h1pkYUAsG4MPZ0T+gwHwYDVR0jBBgwFoAU56ufDywzoFPTXk94yLKEDjvWkjMwMwYIKwYBBQUHAQEEJzAlMCMGCCsGAQUFBzAChhdodHRwOi8vcjEzLmkubGVuY3Iub3JnLzAoBgNVHREEITAfgh1ncmlzdC5pbmN1YmF0ZXVyLmFuY3QuZ291di5mcjATBgNVHSAEDDAKMAgGBmeBDAECATAtBgNVHR8EJjAkMCKgIKAehhxodHRwOi8vcjEzLmMubGVuY3Iub3JnLzQuY3JsMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAGYbUxyiqb/66A294Kk0BkarOLXIxD67OXXBBLSVMx9QAAAGaq5HofwAABAMARzBFAiEAow/wmXatMWBw/N2tJmV/xxKVgbPoVfp5lnAlOt80z5YCIEqY3bzw0FvFFuXza2RtA/VG/dAN7VSCr/hdmCc9bRrQAHYAlpdkv1VYl633Q4doNwhCd+nwOtX2pPM2bkakPw/KqcYAAAGaq5HowQAABAMARzBFAiEA+6vmUVjh+pCHB1vIHnnjdBOh8aKKWCQhxaTWuTN6zvUCIGvRZqyUmt9a0EA+1PdN8aJhRxMafhL/iWOxhhbjfifTMA0GCSqGSIb3DQEBCwUAA4IBAQCR4UOgS0MQG5E88Rk/dOMWgORZUYutKBBmSQrnLEwp0Q3CrPDPqr6KdD2MAYydvXzKIH2U1tZNZtEdqyWI6/g5A42CKhiLFe8zVQK8UzxsIs9bNFL9EkyKoElWe7oCcZOcm/r8utZH1Yn4DxbOLulfOAlrBAOTfiM7nqq2X12jcJCcma0KSmOjR76iTUjNVycUynQpNsHXduUtJM+1EPtLwHspv5YXjRTyqn/bfH7W7nNxtTMw89iR4RWtsFCxp0oIPZ1eRt8U9Pq5tLICXbaGFX2klxzjbj8v1nBW6xtdb6ADkZZ3VDCYu5Q8YQVd0VUsTLGrQRj41mTdglxgyn4o\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -346,21 +346,21 @@
               "ip"           : "grist.incubateur.anct.gouv.fr/142.44.53.109",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "36 >= 30 days"
+              "finding"      : "89 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "grist.incubateur.anct.gouv.fr/142.44.53.109",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2025-09-23 12:37"
+              "finding"      : "2025-11-22 11:39"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "grist.incubateur.anct.gouv.fr/142.44.53.109",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2025-12-22 12:37"
+              "finding"      : "2026-02-20 11:39"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -381,7 +381,7 @@
               "ip"           : "grist.incubateur.anct.gouv.fr/142.44.53.109",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://r13.c.lencr.org/115.crl"
+              "finding"      : "http://r13.c.lencr.org/4.crl"
           }
 ,         {
               "id"           : "cert_ocspURL",
@@ -507,7 +507,7 @@
               "ip"           : "grist.incubateur.anct.gouv.fr/142.44.53.109",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1763258329"
+              "finding"      : "1763863337"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -708,7 +708,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=1E8F4D55D60AA84D1EEEF30A872CC4C0B9048E307F19BFCE9CA03908D9007400"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=ACE05DE6C3B6C9F5B89F0C1DD7B67D01B11F38E9CD39817A12B2D998E40F7DB4"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -1084,6 +1084,6 @@
               "ip"           : "grist.incubateur.anct.gouv.fr/142.44.53.109",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "97"
+              "finding"      : "95"
           }
 ]
