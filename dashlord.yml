@@ -42,7 +42,13 @@ urls:
       - https://gitlab.com/incubateur-territoires/startups/annuaire-des-collectivites/api
   - url: https://adresse.data.gouv.fr/bases-locales
     repositories:
+      - https://github.com/BaseAdresseNationale/adresse.data.gouv.fr
+  - url: https://mes-adresses.data.gouv.fr
+    repositories:
       - https://github.com/BaseAdresseNationale/mes-adresses
+  - url: https://signalement.adresse.data.gouv.fr/
+    repositories:
+      - https://github.com/BaseAdresseNationale/mes-signalements
   - url: https://deveco.incubateur.anct.gouv.fr/
     repositories:
       - https://gitlab.com/incubateur-territoires/startups/deveco/deveco
