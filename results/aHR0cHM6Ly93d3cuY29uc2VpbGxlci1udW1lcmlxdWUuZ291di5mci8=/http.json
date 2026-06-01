@@ -9,20 +9,20 @@
     "testsPassed": 5,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 23 Nov 2025 01:30:57 GMT",
+      "date": "Mon, 01 Jun 2026 14:31:17 GMT",
       "content-type": "text/html",
       "transfer-encoding": "chunked",
       "connection": "close",
       "server": "cloudflare",
-      "last-modified": "Fri, 21 Nov 2025 14:46:22 GMT",
+      "last-modified": "Tue, 26 May 2026 13:09:15 GMT",
       "vary": "Accept-Encoding",
-      "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=12,cfOrigin;dur=140",
+      "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=8,cfOrigin;dur=135",
       "cache-control": "max-age=60, private, proxy-revalidate",
       "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
-      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=DkQ5FpvtnlF%2Fc2QmKZcwGNGv8A3bs6NMFgHSwPpysIWvxxU261eiVchR71%2FG8PT4OoeMJk56RC06IbjpZ5cPyvkTB6f1rJmLHkPU0f6nOOUPpgui7YAhamFIJJBP35VT\"}]}",
-      "sozu-id": "01KAQ59P6HRNVMR134NNH5M4E4",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=jeQl043mu1atmaNwC34BDmWqmcBenmZx3KHNiPAVMn06P%2BEtjJoa9WNEnXL6ylmyT99fUv2OZVNA8t5wvJF2YEwVJuFjCKwdIIl%2F7vgEQTR%2BtjhjFsAiuFfBqYEe2Zodx7u51A1GYWVzle%2Bo6561eydXGw%3D%3D\"}]}",
+      "sozu-id": "01KT1SER1VGVJHZ61M18ASY2M1",
       "cf-cache-status": "DYNAMIC",
-      "cf-ray": "9a2ce77959c2c8c1-LAX",
+      "cf-ray": "a04eebcfbd37c52c-SJC",
       "alt-svc": "h3=\":443\"; ma=86400"
     }
   },
@@ -96,9 +96,9 @@
           "crossorigin": null,
           "integrity": null
         },
-        "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015": {
+        "https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447": {
           "crossorigin": "anonymous",
-          "integrity": "sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ=="
+          "integrity": "sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ=="
         }
       }
     },
