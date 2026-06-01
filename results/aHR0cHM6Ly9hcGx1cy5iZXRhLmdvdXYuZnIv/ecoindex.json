@@ -3,15 +3,15 @@
         "width": 1920,
         "height": 1080,
         "url": "https://aplus.beta.gouv.fr/",
-        "size": 1585.99,
-        "nodes": 157,
-        "requests": 28,
-        "grade": "B",
-        "score": 78.0,
-        "ges": 1.44,
-        "water": 2.16,
+        "size": 3327.023,
+        "nodes": 453,
+        "requests": 94,
+        "grade": "D",
+        "score": 48.0,
+        "ges": 2.04,
+        "water": 3.06,
         "ecoindex_version": "5.4.2",
-        "date": "2025-11-23 02:03:04.398568",
+        "date": "2026-06-01 14:59:17.204372",
         "page_type": null
     }
 ]
