@@ -1,14 +1,6 @@
 {
   "trackers": [
     {
-      "type": "google fonts",
-      "url": "https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;500&display=swap",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
       "type": "jsdelivr",
       "url": "https://cdn.jsdelivr.net/npm/tarteaucitronjs@1.10.0/tarteaucitron.min.js",
       "details": {
@@ -18,7 +10,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://sentry.anct.cloud-ed.fr/api/12/envelope/?sentry_version=7&sentry_key=92d1bf2800a14b2609b79ec491f0e041&sentry_client=sentry.javascript.browser%2F10.20.0"
+      "url": "https://sentry.anct.cloud-ed.fr/api/12/envelope/?sentry_version=7&sentry_key=92d1bf2800a14b2609b79ec491f0e041&sentry_client=sentry.javascript.browser%2F10.47.0"
+    },
+    {
+      "type": "unknown",
+      "url": "https://sentry.anct.cloud-ed.fr/api/12/envelope/?sentry_version=7&sentry_key=92d1bf2800a14b2609b79ec491f0e041&sentry_client=sentry.javascript.browser%2F10.47.0"
     },
     {
       "type": "jsdelivr",
@@ -39,49 +35,34 @@
   ],
   "cookies": [
     {
-      "name": "_pk_ses.22.6a82",
-      "value": "1",
-      "domain": "anct.gouv.fr",
-      "path": "/",
-      "expires": 1763866222,
-      "size": 16,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "priority": "Medium",
-      "sameParty": false,
-      "sourceScheme": "Secure"
-    },
-    {
       "name": "_pk_id.22.6a82",
-      "value": "79cb0e74353ee999.1763864423.",
+      "value": "1f2cfa3c3eba6f0b.1780327016.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1797819623,
+      "expires": 1814282216,
       "size": 42,
       "httpOnly": false,
       "secure": false,
       "session": false,
       "sameSite": "Lax",
       "priority": "Medium",
-      "sameParty": false,
-      "sourceScheme": "Secure"
+      "sourceScheme": "Secure",
+      "sameParty": false
     },
     {
-      "name": "bln_challengejs",
-      "value": "VuDVbMTYS0EOM4-INF9v2l4V-vxM8sNTzqNwIlrZl9lkcn1wLBMmea745EOtCXM0uWbNcCOogxPHBdJogIMmbosJO-i9L4_fKSOWAKt65tQCtId9LiS-_O8-5k8LwEKClwOAPJ-F2wHOz1kjp4Ezpun-CazbUscYW1PZcJqjHqF3MGC-20nerjkZgAqB3ENIZfiMjjKz4Ww7_IdATvAump4aRQpYNs4Txz7U_iIc1FsbD3A21fk91JmcDROOLfI2UQAYv4pVWPfGv5TKu5uhinOqgGHT-VThyDIZoW5l78A",
-      "domain": ".anct.gouv.fr",
+      "name": "_pk_ses.22.6a82",
+      "value": "1",
+      "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1763865322.089063,
-      "size": 314,
+      "expires": 1780328815,
+      "size": 16,
       "httpOnly": false,
-      "secure": true,
+      "secure": false,
       "session": false,
-      "sameSite": "None",
+      "sameSite": "Lax",
       "priority": "Medium",
-      "sameParty": false,
-      "sourceScheme": "Secure"
+      "sourceScheme": "Secure",
+      "sameParty": false
     }
   ],
   "headers": {
@@ -89,11 +70,10 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 23 Nov 2025 02:20:22 GMT",
-    "etag": "W/\"1763723347\"",
+    "date": "Mon, 01 Jun 2026 15:16:54 GMT",
+    "etag": "W/\"1780318303\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Fri, 21 Nov 2025 11:09:07 GMT",
-    "referrer-policy": "origin-when-cross-origin",
+    "last-modified": "Mon, 01 Jun 2026 12:51:43 GMT",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\nCookie",
     "x-content-type-options": "nosniff",
@@ -101,13 +81,12 @@
     "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "c74768201a8ec5565f1fe58016fd9a7c",
-    "x-xss-protection": "1; mode=block"
+    "x-request-id": "c5c7549c-2dc5-45e7-b506-634210271631"
   },
   "endpoints": [
     {
       "hostname": "anct.gouv.fr",
-      "ip": "185.231.164.168",
+      "ip": "185.21.194.105",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -162,62 +141,8 @@
       }
     },
     {
-      "hostname": "fonts.googleapis.com",
-      "ip": "142.251.16.95",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "151.101.65.229",
+      "ip": "151.101.193.229",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -240,7 +165,7 @@
             "de": "USA",
             "en": "United States",
             "es": "Estados Unidos",
-            "fr": "États Unis",
+            "fr": "États-Unis",
             "ja": "アメリカ",
             "pt-BR": "EUA",
             "ru": "США",
@@ -260,7 +185,7 @@
             "de": "USA",
             "en": "United States",
             "es": "Estados Unidos",
-            "fr": "États Unis",
+            "fr": "États-Unis",
             "ja": "アメリカ",
             "pt-BR": "EUA",
             "ru": "США",
@@ -328,7 +253,7 @@
             "de": "USA",
             "en": "United States",
             "es": "Estados Unidos",
-            "fr": "États Unis",
+            "fr": "États-Unis",
             "ja": "アメリカ",
             "pt-BR": "EUA",
             "ru": "США",
