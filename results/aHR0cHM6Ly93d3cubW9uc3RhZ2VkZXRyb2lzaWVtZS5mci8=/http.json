@@ -9,7 +9,7 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 23 Nov 2025 01:56:59 GMT",
+      "date": "Mon, 01 Jun 2026 14:52:42 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
@@ -19,17 +19,17 @@
       "x-download-options": "noopen",
       "x-permitted-cross-domain-policies": "none",
       "referrer-policy": "strict-origin-when-cross-origin",
-      "link": "</packs/css/application-81dd56d4.css>; rel=preload; as=style; nopush",
+      "link": "</packs/css/application-3da6171b.css>; rel=preload; as=style; nopush",
       "vary": "Accept-Encoding",
       "cache-control": "no-cache",
-      "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'unsafe-inline' https://stats.beta.gouv.fr; connect-src 'self' https:; style-src 'self' https: 'unsafe-inline'; frame-src https://plugins.crisp.chat https://uneleveunstage.crisp.help https://tally.so https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com",
+      "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'unsafe-inline' https://*.crisp.chat https://stats.beta.gouv.fr; connect-src 'self' https: https://*.crisp.chat wss://*.relay.crisp.chat wss://*.relay.rescue.crisp.chat; style-src 'self' https: 'unsafe-inline'; frame-src https://*.crisp.chat https://tally.so https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com; worker-src 'self' blob: https://*.crisp.chat",
       "set-cookie": [
-        "_monstage_session=XXyzs%2FrAFyaTcjIWDxJjQmWcyvdYduZ4Tnycd2Fg6pxI3EVDHEM3Uj03TInYytRXufG8OcHNPMf%2FE3OrMvugpAXoEeLobUmIGHhukOChdoR3UKA1%2BhmWFwiUxgn8RKpJhUhpKJQS7%2B%2BMZGWEBw%2B1TUIQoZlt9dp6bvIGekpmMElup%2FQGnLZN%2Fi2Jg0Nbk0koxuErFkDpa5eUrExNiJ4BwEf7%2FOLMxIU9FqljbIb%2FgrC1E%2F4kSd8HpEXn0NbzP5OBjLYSI7P38detM1bHSgJmYN6gNEyApuFEnQ%3D%3D--BHKuJ3uNBCnWXKJR--GwdVQ3AIeIknRk26luuYlQ%3D%3D; path=/; secure; httponly; samesite=lax"
+        "_monstage_session=uiJrpx0LRVue%2BA%2B46ubNCqJU9khhJ31odHAY6Wq81WYxyKP5UyuDdrlDfCHFLOa95DpRBSkEecsekaQd9oJ1IDokEmnIQV0QmPrmlD7eg3m0EvyEoMRn%2BP6NmzeEer1x%2FRDtcpCtQzpSIeodlyPR0t%2BGJLGAAJo7ErpOiCZgE4I0jt5%2BoRFZ26Viop69ybie3eZzKdN0w0MJmbREZmHrvAn9PqHHSqoX0y35l4PzZaEbUQnAfKOqe7dN6726Qm12Q0RApelFQk%2FMun68xLF3rWluKcCILZ5UNw%3D%3D--uiX640kqGMxL1N5g--ZIla297K1Nf48tfYyutb3Q%3D%3D; path=/; secure; httponly; samesite=lax"
       ],
-      "x-request-id": "23df3629-1909-499f-82d3-44b7760e872f",
-      "x-runtime": "0.021957",
+      "x-request-id": "5a6f5282-da56-4fc9-b480-4ddde11196ec",
+      "x-runtime": "0.012437",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
-      "sozu-id": "01KAQ6VFD33KY3QFNMMC35K0HJ"
+      "sozu-id": "01KT1TRE4TQYYVCYDJBEKJ9Y5A"
     }
   },
   "tests": {
@@ -59,11 +59,14 @@
         "script-src": [
           "'self'",
           "'unsafe-inline'",
-          "https:"
+          "https:",
+          "https://stats.beta.gouv.fr"
         ],
         "connect-src": [
           "'self'",
-          "https:"
+          "https:",
+          "wss://*.relay.crisp.chat",
+          "wss://*.relay.rescue.crisp.chat"
         ],
         "style-src": [
           "'self'",
@@ -71,10 +74,14 @@
           "https:"
         ],
         "frame-src": [
+          "https://*.crisp.chat",
           "https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com",
-          "https://plugins.crisp.chat",
-          "https://tally.so",
-          "https://uneleveunstage.crisp.help"
+          "https://tally.so"
+        ],
+        "worker-src": [
+          "'self'",
+          "blob:",
+          "https://*.crisp.chat"
         ]
       },
       "http": true,

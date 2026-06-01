@@ -3,7 +3,7 @@
   "cookies": [
     {
       "name": "_monstage_session",
-      "value": "lnI2gKWUqeHO70jOnbONDUcLqbms%2FFNRF353byj8fYzGgQrdxs6sIABxVcO0%2B4%2FOlr4wxxRJh7iOBcGfA6ZcifYMSkdbXHOVF3cEvivpY48eS2Bn28c%2FtsowiBwG5Xs%2Fe%2F%2BJ9u4EqkHwjOSjpN9UDhD6nlmFc2QtTl5na3jpjGZ48xT%2FLcaXQq5a8MuFlR803tDBPkfSQnWsCBKSDCE%2FFM2z26r4qKaRAdjM0uTXT4bCkhsOifog9ojQ9oU1%2Bh%2FvgnlxajAzdlQhSAW%2BT012u9ALzIT0awE6kw%3D%3D--vdNYJWcpn2yd7dCU--%2BjD8P8ZQz9auPjBQ0Z7N1w%3D%3D",
+      "value": "QK1oo2GCDEcyqoAdqX8cKGw9pZwmmJzc1inK43%2BtpqP14JKxy1o9w2qc0Ae55kxh1sPr%2FqMqsCHq8c4JXXfBO%2BbMxniD0qsKKYyNJrAFjEyojrSsCadBKlX%2BMBic0gYIGs4L42cfq3Mj18g97wFF1h%2FnK6j1SKq5MYB9lV2UNUL9Z%2FO%2FAD6bAGsVO%2BgEM79IIj36Tawac1WOfRTkdpSM6FG6iH5cK5jsxrI0d52XZa3mkaKqZM5kAft6h%2F58tDILZBEef0neWfJr9tRVEJeUNIbiceu%2BIu7cnw%3D%3D--vWYm%2BG8TVUMvRXlV--yi7Emem1Wt%2FzIqVG%2FhcmQg%3D%3D",
       "domain": "www.monstagedetroisieme.fr",
       "path": "/",
       "expires": -1,
@@ -13,36 +13,36 @@
       "session": true,
       "sameSite": "Lax",
       "priority": "Medium",
-      "sameParty": false,
-      "sourceScheme": "Secure"
+      "sourceScheme": "Secure",
+      "sameParty": false
     }
   ],
   "headers": {
     "connection": "keep-alive",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 23 Nov 2025 01:52:52 GMT",
-    "sozu-id": "01KAQ6KYB17PJMTYP4RQ48RG3D",
+    "date": "Mon, 01 Jun 2026 14:48:42 GMT",
+    "sozu-id": "01KT1TH36ZSFQVGAJB96DF92YP",
     "transfer-encoding": "chunked",
     "cache-control": "no-cache",
     "content-encoding": "gzip",
-    "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'unsafe-inline' https://stats.beta.gouv.fr; connect-src 'self' https:; style-src 'self' https: 'unsafe-inline'; frame-src https://plugins.crisp.chat https://uneleveunstage.crisp.help https://tally.so https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com",
-    "link": "</packs/css/application-81dd56d4.css>; rel=preload; as=style; nopush",
+    "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'unsafe-inline' https://*.crisp.chat https://stats.beta.gouv.fr; connect-src 'self' https: https://*.crisp.chat wss://*.relay.crisp.chat wss://*.relay.rescue.crisp.chat; style-src 'self' https: 'unsafe-inline'; frame-src https://*.crisp.chat https://tally.so https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com; worker-src 'self' blob: https://*.crisp.chat",
+    "link": "</packs/css/application-3da6171b.css>; rel=preload; as=style; nopush",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "set-cookie": "_monstage_session=lnI2gKWUqeHO70jOnbONDUcLqbms%2FFNRF353byj8fYzGgQrdxs6sIABxVcO0%2B4%2FOlr4wxxRJh7iOBcGfA6ZcifYMSkdbXHOVF3cEvivpY48eS2Bn28c%2FtsowiBwG5Xs%2Fe%2F%2BJ9u4EqkHwjOSjpN9UDhD6nlmFc2QtTl5na3jpjGZ48xT%2FLcaXQq5a8MuFlR803tDBPkfSQnWsCBKSDCE%2FFM2z26r4qKaRAdjM0uTXT4bCkhsOifog9ojQ9oU1%2Bh%2FvgnlxajAzdlQhSAW%2BT012u9ALzIT0awE6kw%3D%3D--vdNYJWcpn2yd7dCU--%2BjD8P8ZQz9auPjBQ0Z7N1w%3D%3D; path=/; secure; httponly; samesite=lax",
+    "set-cookie": "_monstage_session=QK1oo2GCDEcyqoAdqX8cKGw9pZwmmJzc1inK43%2BtpqP14JKxy1o9w2qc0Ae55kxh1sPr%2FqMqsCHq8c4JXXfBO%2BbMxniD0qsKKYyNJrAFjEyojrSsCadBKlX%2BMBic0gYIGs4L42cfq3Mj18g97wFF1h%2FnK6j1SKq5MYB9lV2UNUL9Z%2FO%2FAD6bAGsVO%2BgEM79IIj36Tawac1WOfRTkdpSM6FG6iH5cK5jsxrI0d52XZa3mkaKqZM5kAft6h%2F58tDILZBEef0neWfJr9tRVEJeUNIbiceu%2BIu7cnw%3D%3D--vWYm%2BG8TVUMvRXlV--yi7Emem1Wt%2FzIqVG%2FhcmQg%3D%3D; path=/; secure; httponly; samesite=lax",
     "strict-transport-security": "max-age=63072000; includeSubDomains",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-download-options": "noopen",
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "56b60f94-e185-45e4-9848-c4c1f9d59ef6",
-    "x-runtime": "0.102489",
+    "x-request-id": "8566b829-5a76-4c7a-9299-79d2a935eefc",
+    "x-runtime": "0.085365",
     "x-xss-protection": "0"
   },
   "endpoints": [
     {
       "hostname": "www.monstagedetroisieme.fr",
-      "ip": "91.208.207.216",
+      "ip": "91.208.207.215",
       "geoip": {
         "continent": {
           "code": "EU",
