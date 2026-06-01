@@ -3,15 +3,15 @@
         "width": 1920,
         "height": 1080,
         "url": "https://solutionsdelus.gouv.fr/projets",
-        "size": 1024.048,
-        "nodes": 700,
-        "requests": 70,
+        "size": 1056.298,
+        "nodes": 699,
+        "requests": 68,
         "grade": "D",
-        "score": 50.0,
-        "ges": 2.0,
-        "water": 3.0,
+        "score": 51.0,
+        "ges": 1.98,
+        "water": 2.97,
         "ecoindex_version": "5.4.2",
-        "date": "2025-11-16 01:13:27.021398",
+        "date": "2026-06-01 14:17:26.567024",
         "page_type": null
     }
 ]
