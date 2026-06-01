@@ -10,88 +10,105 @@
     },
     {
       "type": "unknown",
+      "url": "https://baseadressenationale.github.io/bal-widget/dsfr/utility/icons/icons.min.css?hash=1d8b8dc9"
+    },
+    {
+      "type": "unknown",
+      "url": "https://baseadressenationale.github.io/bal-widget/dsfr/dsfr.min.css?v=1.14.2"
+    },
+    {
+      "type": "unknown",
       "url": "https://baseadressenationale.github.io/bal-widget/bal-widget.js"
     },
     {
       "type": "unknown",
-      "url": "https://baseadressenationale.github.io/bal-widget/static/css/main.9c0a7160.css"
+      "url": "https://baseadressenationale.github.io/bal-widget/bal-widget.chunk.882.js"
     },
     {
       "type": "unknown",
-      "url": "https://baseadressenationale.github.io/bal-widget/static/media/close-line.69dfb9f70fe1180898d7.svg"
+      "url": "https://baseadressenationale.github.io/bal-widget/dsfr/icons/communication/question-answer-fill.svg"
     },
     {
       "type": "unknown",
-      "url": "https://baseadressenationale.github.io/bal-widget/static/media/france-line.b6b65d0f91db6a9ce81c.svg"
+      "url": "https://baseadressenationale.github.io/bal-widget/dsfr/icons/system/close-line.svg"
     },
     {
       "type": "unknown",
-      "url": "https://baseadressenationale.github.io/bal-widget/static/media/settings-5-line.41f5dffd441fc8ce479f.svg"
+      "url": "https://baseadressenationale.github.io/bal-widget/dsfr/icons/map/france-line.svg"
     },
     {
       "type": "unknown",
-      "url": "https://baseadressenationale.github.io/bal-widget/static/media/user-line.257f70dc32076e7533fc.svg"
+      "url": "https://baseadressenationale.github.io/bal-widget/dsfr/icons/system/settings-5-line.svg"
     },
     {
       "type": "unknown",
-      "url": "https://baseadressenationale.github.io/bal-widget/static/media/question-answer-fill.bd2fcce0ed0a20b9c3bf.svg"
+      "url": "https://baseadressenationale.github.io/bal-widget/dsfr/icons/user/user-line.svg"
     },
     {
       "type": "unknown",
-      "url": "https://baseadressenationale.github.io/bal-widget/static/media/Marianne-Bold.702e12a689d3a016b117.woff2"
+      "url": "https://baseadressenationale.github.io/bal-widget/dsfr/fonts/Marianne-Bold.woff2"
     },
     {
       "type": "unknown",
-      "url": "https://baseadressenationale.github.io/bal-widget/static/media/Marianne-Medium.3d17f2f950cb7ae6ce05.woff2"
+      "url": "https://baseadressenationale.github.io/bal-widget/dsfr/fonts/Marianne-Medium.woff2"
     },
     {
       "type": "unknown",
-      "url": "https://baseadressenationale.github.io/bal-widget/static/media/Marianne-Bold.702e12a689d3a016b117.woff2"
+      "url": "https://baseadressenationale.github.io/bal-widget/dsfr/fonts/Marianne-Regular.woff2"
     },
     {
       "type": "unknown",
-      "url": "https://baseadressenationale.github.io/bal-widget/static/media/Marianne-Medium.3d17f2f950cb7ae6ce05.woff2"
+      "url": "https://baseadressenationale.github.io/bal-widget/dsfr/fonts/Marianne-Bold.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://baseadressenationale.github.io/bal-widget/dsfr/fonts/Marianne-Medium.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://baseadressenationale.github.io/bal-widget/dsfr/fonts/Marianne-Regular.woff2"
     }
   ],
   "cookies": [
     {
-      "name": "_pk_ses.13.592e",
-      "value": "1",
-      "domain": "adresse.data.gouv.fr",
-      "path": "/",
-      "expires": 1763861262,
-      "size": 16,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "priority": "Medium",
-      "sameParty": false,
-      "sourceScheme": "Secure"
-    },
-    {
       "name": "_pk_id.13.592e",
-      "value": "183ec3709a148d08.1763859463.",
+      "value": "f29e687c73555fdc.1780321927.",
       "domain": "adresse.data.gouv.fr",
       "path": "/",
-      "expires": 1797814663,
+      "expires": 1814277127,
       "size": 42,
       "httpOnly": false,
       "secure": false,
       "session": false,
       "sameSite": "Lax",
       "priority": "Medium",
-      "sameParty": false,
-      "sourceScheme": "Secure"
+      "sourceScheme": "Secure",
+      "sameParty": false
+    },
+    {
+      "name": "_pk_ses.13.592e",
+      "value": "1",
+      "domain": "adresse.data.gouv.fr",
+      "path": "/",
+      "expires": 1780323726,
+      "size": 16,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "priority": "Medium",
+      "sourceScheme": "Secure",
+      "sameParty": false
     }
   ],
   "headers": {
     "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 23 Nov 2025 00:57:41 GMT",
+    "date": "Mon, 01 Jun 2026 13:52:05 GMT",
+    "link": "</>; rel=preconnect; crossorigin=\"\", </_next/static/media/Marianne-Regular.0gd-6epr788~~.woff2>; rel=preload; as=\"font\"; crossorigin=\"anonymous\", </_next/static/media/Marianne-Medium.010xidx-yq5i_.woff2>; rel=preload; as=\"font\"; crossorigin=\"anonymous\", </_next/static/media/Marianne-Bold.0nc-z6c8sy8jt.woff2>; rel=preload; as=\"font\"; crossorigin=\"anonymous\", </logo-ban-site.svg>; rel=preload; as=\"image\", </logos/LOGO-MINISTERE-ECOLOGIE.jpg>; rel=preload; as=\"image\", </logos/LOGO-IGN.png>; rel=preload; as=\"image\", </logos/LOGO-ANCT.png>; rel=preload; as=\"image\"",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
-    "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
+    "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
     "x-powered-by": "Next.js"
   },
   "endpoints": [
@@ -153,7 +170,7 @@
     },
     {
       "hostname": "baseadressenationale.github.io",
-      "ip": "185.199.109.153",
+      "ip": "185.199.110.153",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -176,7 +193,7 @@
             "de": "USA",
             "en": "United States",
             "es": "Estados Unidos",
-            "fr": "États Unis",
+            "fr": "États-Unis",
             "ja": "アメリカ",
             "pt-BR": "EUA",
             "ru": "США",
@@ -196,7 +213,7 @@
             "de": "USA",
             "en": "United States",
             "es": "Estados Unidos",
-            "fr": "États Unis",
+            "fr": "États-Unis",
             "ja": "アメリカ",
             "pt-BR": "EUA",
             "ru": "США",
