@@ -3,9 +3,10 @@
   "type": "startup",
   "attributes": {
     "name": "Aidants Connect",
-    "pitch": "Accompagnez vos usagers en toute sécurité",
+    "pitch": "Accompagner vos usagers en toute sécurité",
     "stats_url": "https://aidantsconnect.beta.gouv.fr/stats/",
     "budget_url": "https://aidantsconnect.beta.gouv.fr/budget/",
+    "impact_url": "https://aidantsconnect.beta.gouv.fr/stats/",
     "link": "https://aidantsconnect.beta.gouv.fr",
     "repository": "https://github.com/betagouv/Aidants_Connect",
     "contact": "contactaidantsconnect@beta.gouv.fr",
@@ -13,12 +14,12 @@
     "events": [],
     "phases": [
       {
-        "name": "investigation",
+        "name": "construction",
         "start": "2019-03-13",
         "end": ""
       },
       {
-        "name": "construction",
+        "name": "investigation",
         "start": "2019-03-13",
         "end": ""
       },
@@ -35,6 +36,7 @@
       "Social",
       "Inclusion numérique"
     ],
+    "technos": [],
     "dashlord_url": "https://dashlord.incubateur.net/url/aidantsconnect-beta-gouv-fr/",
     "accessibility_status": "partiellement conforme"
   },
