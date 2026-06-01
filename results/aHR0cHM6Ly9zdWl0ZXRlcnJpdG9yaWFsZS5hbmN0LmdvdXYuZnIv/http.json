@@ -9,14 +9,15 @@
     "testsPassed": 8,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 23 Nov 2025 02:11:58 GMT",
+      "date": "Mon, 01 Jun 2026 15:08:33 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "04c9d317-5deb-415e-8b92-3eaf46313c95",
+      "x-request-id": "2a3040fe-c710-4d89-ab0b-c90dd8c20cbe",
       "cross-origin-opener-policy": "same-origin",
-      "etag": "\"141yx1zpzkv64wk\"",
+      "etag": "\"z1qodwov8964vy\"",
       "vary": "Accept-Encoding",
+      "via": "1.1 Caddy",
       "strict-transport-security": "max-age=31536000"
     }
   },

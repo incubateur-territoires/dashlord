@@ -5,6 +5,7 @@
     "name": "Suite territoriale",
     "pitch": "Elever le niveau de sécurité numérique des collectivités territoriales",
     "stats_url": "",
+    "impact_url": "",
     "link": "https://suiteterritoriale.anct.gouv.fr/",
     "repository": "https://github.com/suitenumerique/st-home/tree/main",
     "contact": "lasuiteterritoriale@anct.gouv.fr",
@@ -48,7 +49,7 @@
         "end": ""
       },
       {
-        "name": "success",
+        "name": "opere",
         "start": "2026-01-01",
         "end": ""
       }
@@ -63,6 +64,11 @@
       "Cybersécurité",
       "Souveraineté",
       "Simplicité"
+    ],
+    "technos": [
+      "react",
+      "python",
+      "django"
     ],
     "dashlord_url": "https://dashlord.incubateur.anct.gouv.fr/",
     "accessibility_status": "non conforme"
