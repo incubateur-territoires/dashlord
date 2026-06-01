@@ -6,6 +6,7 @@
     "pitch": "Faciliter l'accompagnement des éloignées du numérique.",
     "stats_url": "https://coop-numerique.anct.gouv.fr/statistiques",
     "budget_url": "https://docs.numerique.gouv.fr/docs/88e3bfdf-4a7a-4331-8d13-3778dbb3ec5b/",
+    "impact_url": "https://docs.numerique.gouv.fr/docs/0b5023f8-6aa9-4024-8ab6-7bfa8c522cb3/",
     "link": "https://coop-numerique.anct.gouv.fr/",
     "repository": "https://github.com/inclusion-numerique/coop-mediation-numerique",
     "contact": "coop-numerique@anct.gouv.fr",
@@ -35,6 +36,11 @@
       "Outil technique",
       "Inclusion numérique",
       "Social"
+    ],
+    "technos": [
+      "next.js",
+      "typescript",
+      "css"
     ],
     "analyse_risques": "true",
     "dashlord_url": "https://dashlord.incubateur.anct.gouv.fr/url/coop-numerique-anct-gouv-fr/",
