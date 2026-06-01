@@ -12,13 +12,13 @@
       "cache-control": "max-age=600",
       "content-length": "46676",
       "content-type": "text/html; charset=utf-8",
-      "etag": "\"c3a722c654b4d8ea39600fe47488a19a1c85b17a77db08247a81c57ee7564787\"",
-      "expires": "Sun, 23 Nov 2025 01:24:32 UTC",
-      "last-modified": "Sat, 22 Nov 2025 06:07:35 GMT",
+      "etag": "\"a880beb279eeb10d0863dec682c5d08a11ebc31a49643cc57491e574a78897e2\"",
+      "expires": "Mon, 01 Jun 2026 14:20:56 UTC",
+      "last-modified": "Mon, 16 Mar 2026 06:09:07 GMT",
       "permissions-policy": "interest-cohort=()",
       "vary": "Origin",
-      "x-request-id": "01KAQ4DRNVYVX0466VRA2JGJQP",
-      "date": "Sun, 23 Nov 2025 01:14:32 GMT",
+      "x-request-id": "01KT1RBYCMN257VPKZGZRRWTSK",
+      "date": "Mon, 01 Jun 2026 14:10:56 GMT",
       "connection": "close"
     }
   },
