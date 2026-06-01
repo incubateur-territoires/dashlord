@@ -1,213 +1,401 @@
 {
   "trackers": [
     {
-      "type": "jsdelivr",
-      "url": "https://cdn.jsdelivr.net/npm/@gouvfr/dsfr@1.5.1/dist/fonts/Marianne-Regular.woff2",
-      "details": {
-        "id": "jsdelivr",
-        "message": "Host files locally"
-      }
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0hw61oc4mo1w4.css"
     },
     {
-      "type": "jsdelivr",
-      "url": "https://cdn.jsdelivr.net/npm/@gouvfr/dsfr@1.5.1/dist/fonts/Marianne-Regular.woff2",
-      "details": {
-        "id": "jsdelivr",
-        "message": "Host files locally"
-      }
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0u-57nno0ibv9.css"
     },
     {
-      "type": "jsdelivr",
-      "url": "https://cdn.jsdelivr.net/npm/@gouvfr/dsfr@1.5.1/dist/fonts/Marianne-Bold.woff2",
-      "details": {
-        "id": "jsdelivr",
-        "message": "Host files locally"
-      }
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0dpz6j51qi4c2.js"
     },
     {
-      "type": "jsdelivr",
-      "url": "https://cdn.jsdelivr.net/npm/@gouvfr/dsfr@1.5.1/dist/fonts/Marianne-Bold.woff2",
-      "details": {
-        "id": "jsdelivr",
-        "message": "Host files locally"
-      }
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0s7t8tz2.u785.js"
     },
     {
-      "type": "jsdelivr",
-      "url": "https://cdn.jsdelivr.net/npm/@gouvfr/dsfr@1.5.1/dist/fonts/Marianne-Bold_Italic.woff2",
-      "details": {
-        "id": "jsdelivr",
-        "message": "Host files locally"
-      }
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0v6s1qmzutu4c.js"
     },
     {
-      "type": "jsdelivr",
-      "url": "https://cdn.jsdelivr.net/npm/@gouvfr/dsfr@1.5.1/dist/fonts/Marianne-Bold_Italic.woff2",
-      "details": {
-        "id": "jsdelivr",
-        "message": "Host files locally"
-      }
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0bz6csfbh-jj1.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/14igsjh_3.01z.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/turbopack-14hj03xqhzpkw.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0s7j_9snderq7.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0jl099lsl3ba_.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/01qg5odp49a5f.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/16-_8n~m3wl34.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0dpo-aqf7lnqp.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0znaov6giycu~.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/17b8~.sy55fdk.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0bwldu-ro4zsu.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0iur~lzl_2yp3.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0-~952i.63zi7.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/032jlq2ox6ecu.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0ntjui1x3_k3m.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/05bq1pd7di9ir.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/09dse5cg-xsv1.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/10f8jhbkkjhvj.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0pxgz6w~m7rmm.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0cyyl5wr9whj8.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/05hnqkzyp-oqx.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/11mp7sbjrve1p.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0-93ffp-0mwr7.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://data.geopf.fr/tms/1.0.0/PLAN.IGN/5/16/11.pbf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://data.geopf.fr/tms/1.0.0/PLAN.IGN/5/15/11.pbf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://data.geopf.fr/tms/1.0.0/PLAN.IGN/5/16/10.pbf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://data.geopf.fr/tms/1.0.0/PLAN.IGN/5/15/10.pbf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://data.geopf.fr/tms/1.0.0/PLAN.IGN/4/7/6.pbf"
     }
   ],
-  "cookies": [
-    {
-      "name": "_pk_ses.277.9ac4",
-      "value": "1",
-      "domain": "cartographie.societenumerique.gouv.fr",
-      "path": "/",
-      "expires": 1763862955,
-      "size": 17,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "priority": "Medium",
-      "sameParty": false,
-      "sourceScheme": "Secure"
-    },
-    {
-      "name": "_pk_id.277.9ac4",
-      "value": "fdd543ea61c6a217.1763861156.",
-      "domain": "cartographie.societenumerique.gouv.fr",
-      "path": "/",
-      "expires": 1797816356,
-      "size": 43,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "priority": "Medium",
-      "sameParty": false,
-      "sourceScheme": "Secure"
-    }
-  ],
+  "cookies": [],
   "headers": {
-    "age": "87",
+    "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
     "content-encoding": "gzip",
-    "content-security-policy": "default-src 'self' data: https://*.gouv.fr https://openmaptiles.github.io ; font-src 'self' https://cdn.jsdelivr.net; img-src 'self' data: https://*.gouv.fr; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.gouv.fr blob:; style-src 'self' 'unsafe-inline';",
-    "content-type": "text/html",
-    "date": "Sun, 23 Nov 2025 01:24:29 GMT",
-    "etag": "W/\"289df21bc629799ae8e1b2637f2f57bc\"",
-    "last-modified": "Thu, 31 Jul 2025 15:25:39 GMT",
-    "permissions-policy": "accelerometer=(), camera=(), geolocation=(self), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
-    "referrer-policy": "same-origin",
-    "server": "AmazonS3",
-    "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
-    "vary": "accept-encoding",
-    "via": "1.1 9dd3dc89ceef445e30675ec62b988646.cloudfront.net (CloudFront)",
-    "x-amz-cf-id": "VlZT-CjkzH0joVQqHyFYDFxZPPy4BW10GlHnr2s4yY23cR7HCNLtjA==",
-    "x-amz-cf-pop": "SFO53-P5",
-    "x-amz-server-side-encryption": "AES256",
-    "x-cache": "Error from cloudfront",
-    "x-content-type-options": "nosniff",
-    "x-frame-options": "DENY",
-    "x-xss-protection": "1; mode=block"
+    "content-type": "text/html; charset=utf-8",
+    "date": "Mon, 01 Jun 2026 14:23:29 GMT",
+    "link": "<https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud>; rel=preconnect\n</images/app-logo.svg>; rel=preload; as=\"image\"",
+    "server": "envoy",
+    "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+    "x-cache-status": "HIT",
+    "x-envoy-upstream-service-time": "9",
+    "x-powered-by": "Next.js",
+    "x-url": "http://0.0.0.0:3000/"
   },
   "endpoints": [
     {
       "hostname": "cartographie.societenumerique.gouv.fr",
-      "ip": "18.238.192.86",
+      "ip": "212.47.249.134",
       "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
+        "city": {
+          "geoname_id": 2988507,
           "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
+            "de": "Paris",
+            "en": "Paris",
+            "es": "París",
+            "fr": "Paris",
+            "ja": "パリ",
+            "pt-BR": "Paris",
+            "ru": "Париж",
+            "zh-CN": "巴黎"
+          }
+        },
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
           }
         },
         "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
           "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "accuracy_radius": 20,
+          "latitude": 48.8558,
+          "longitude": 2.3494,
+          "time_zone": "Europe/Paris"
+        },
+        "postal": {
+          "code": "75001"
         },
         "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
           "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 3012874,
+            "iso_code": "IDF",
+            "names": {
+              "de": "Île-de-France",
+              "en": "Île-de-France",
+              "es": "Isla de Francia",
+              "fr": "Île-de-France",
+              "ja": "イル・ド・フランス",
+              "pt-BR": "Ilha de França",
+              "ru": "Иль-де-Франс",
+              "zh-CN": "法兰西岛"
+            }
+          },
+          {
+            "geoname_id": 2968815,
+            "iso_code": "75",
+            "names": {
+              "de": "Département Paris",
+              "en": "Paris Department",
+              "es": "Departamento de París",
+              "fr": "Département de Paris"
+            }
+          }
+        ]
       }
     },
     {
-      "hostname": "cdn.jsdelivr.net",
-      "ip": "151.101.65.229",
+      "hostname": "cartographie-prod-app-static-assets.s3.fr-par.scw.cloud",
+      "ip": "51.159.62.19",
       "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
+        "city": {
+          "geoname_id": 2988507,
           "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
+            "de": "Paris",
+            "en": "Paris",
+            "es": "París",
+            "fr": "Paris",
+            "ja": "パリ",
+            "pt-BR": "Paris",
+            "ru": "Париж",
+            "zh-CN": "巴黎"
+          }
+        },
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
           }
         },
         "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
           "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "accuracy_radius": 20,
+          "latitude": 48.8558,
+          "longitude": 2.3494,
+          "time_zone": "Europe/Paris"
+        },
+        "postal": {
+          "code": "75001"
         },
         "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
           "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 3012874,
+            "iso_code": "IDF",
+            "names": {
+              "de": "Île-de-France",
+              "en": "Île-de-France",
+              "es": "Isla de Francia",
+              "fr": "Île-de-France",
+              "ja": "イル・ド・フランス",
+              "pt-BR": "Ilha de França",
+              "ru": "Иль-де-Франс",
+              "zh-CN": "法兰西岛"
+            }
+          },
+          {
+            "geoname_id": 2968815,
+            "iso_code": "75",
+            "names": {
+              "de": "Département Paris",
+              "en": "Paris Department",
+              "es": "Departamento de París",
+              "fr": "Département de Paris"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "data.geopf.fr",
+      "ip": "145.239.193.231",
+      "geoip": {
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
           }
         }
       }

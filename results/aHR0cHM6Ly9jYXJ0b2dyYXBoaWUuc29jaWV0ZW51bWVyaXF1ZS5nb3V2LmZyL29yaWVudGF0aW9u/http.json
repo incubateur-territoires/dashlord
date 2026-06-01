@@ -1,90 +1,39 @@
 {
   "scan": {
     "algorithmVersion": 4,
-    "grade": "B+",
+    "grade": "F",
     "error": null,
-    "score": 80,
+    "score": 5,
     "statusCode": 200,
-    "testsFailed": 1,
-    "testsPassed": 9,
+    "testsFailed": 6,
+    "testsPassed": 4,
     "testsQuantity": 10,
     "responseHeaders": {
-      "content-type": "text/html",
-      "transfer-encoding": "chunked",
+      "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Mon, 01 Jun 2026 14:26:11 GMT",
+      "link": "<https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud>; rel=preconnect, </images/app-logo.svg>; rel=preload; as=\"image\"",
+      "server": "envoy",
+      "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+      "x-cache-status": "HIT",
+      "x-powered-by": "Next.js",
+      "x-url": "http://0.0.0.0:3000/",
+      "x-envoy-upstream-service-time": "8",
       "connection": "close",
-      "last-modified": "Thu, 31 Jul 2025 15:25:39 GMT",
-      "x-amz-server-side-encryption": "AES256",
-      "server": "AmazonS3",
-      "date": "Sun, 23 Nov 2025 01:24:29 GMT",
-      "etag": "W/\"289df21bc629799ae8e1b2637f2f57bc\"",
-      "vary": "accept-encoding",
-      "x-cache": "Error from cloudfront",
-      "via": "1.1 e7b9009e52a576fa5517765b87250a32.cloudfront.net (CloudFront)",
-      "x-amz-cf-pop": "SFO53-P5",
-      "x-amz-cf-id": "NcC37eB_e2NfZrbzRFNW_QnnSlWFsVOcYlSHOaxxMgbka7_vS3pGBw==",
-      "age": "288",
-      "x-xss-protection": "1; mode=block",
-      "x-frame-options": "DENY",
-      "referrer-policy": "same-origin",
-      "content-security-policy": "default-src 'self' data: https://*.gouv.fr https://openmaptiles.github.io ; font-src 'self' https://cdn.jsdelivr.net; img-src 'self' data: https://*.gouv.fr; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.gouv.fr blob:; style-src 'self' 'unsafe-inline';",
-      "x-content-type-options": "nosniff",
-      "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
-      "permissions-policy": "accelerometer=(), camera=(), geolocation=(self), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()"
+      "transfer-encoding": "chunked"
     }
   },
   "tests": {
     "content-security-policy": {
       "expectation": "csp-implemented-with-no-unsafe",
       "pass": false,
-      "result": "csp-implemented-with-unsafe-inline",
-      "scoreModifier": -20,
-      "data": {
-        "default-src": [
-          "'self'",
-          "data:",
-          "https://*.gouv.fr",
-          "https://openmaptiles.github.io"
-        ],
-        "font-src": [
-          "'self'",
-          "https://cdn.jsdelivr.net"
-        ],
-        "img-src": [
-          "'self'",
-          "data:",
-          "https://*.gouv.fr"
-        ],
-        "object-src": [
-          "'none'"
-        ],
-        "script-src": [
-          "'self'",
-          "'unsafe-eval'",
-          "'unsafe-inline'",
-          "blob:",
-          "https://*.gouv.fr"
-        ],
-        "style-src": [
-          "'self'",
-          "'unsafe-inline'"
-        ]
-      },
-      "http": true,
+      "result": "csp-not-implemented",
+      "scoreModifier": -25,
+      "data": null,
+      "http": false,
       "meta": false,
-      "policy": {
-        "antiClickjacking": false,
-        "defaultNone": false,
-        "insecureBaseUri": true,
-        "insecureFormAction": true,
-        "insecureSchemeActive": false,
-        "insecureSchemePassive": false,
-        "strictDynamic": false,
-        "unsafeEval": true,
-        "unsafeInline": true,
-        "unsafeInlineStyle": true,
-        "unsafeObjects": false
-      },
-      "numPolicies": 1
+      "policy": null,
+      "numPolicies": 0
     },
     "cookies": {
       "expectation": "cookies-secure-with-httponly-sessions",
@@ -103,57 +52,150 @@
     },
     "redirection": {
       "expectation": "redirection-to-https",
-      "pass": true,
-      "result": "redirection-to-https",
-      "scoreModifier": 0,
-      "destination": "https://cartographie.societenumerique.gouv.fr/orientation",
+      "pass": false,
+      "result": "redirection-not-to-https",
+      "scoreModifier": -20,
+      "destination": "http://cartographie.societenumerique.gouv.fr/",
       "redirects": true,
       "route": [
         "http://cartographie.societenumerique.gouv.fr/orientation",
-        "https://cartographie.societenumerique.gouv.fr/orientation"
+        "http://cartographie.societenumerique.gouv.fr/"
       ],
       "statusCode": 200
     },
     "referrer-policy": {
       "expectation": "referrer-policy-private",
       "pass": true,
-      "result": "referrer-policy-private",
-      "scoreModifier": 5,
-      "data": "same-origin",
-      "http": true,
+      "result": "referrer-policy-not-implemented",
+      "scoreModifier": 0,
+      "data": null,
+      "http": false,
       "meta": false
     },
     "strict-transport-security": {
       "expectation": "hsts-implemented-max-age-at-least-six-months",
-      "pass": true,
-      "result": "hsts-implemented-max-age-at-least-six-months",
-      "scoreModifier": 0,
-      "data": "max-age=63072000; includeSubDomains; preload",
-      "includeSubDomains": true,
-      "maxAge": 63072000,
-      "preload": true,
+      "pass": false,
+      "result": "hsts-not-implemented",
+      "scoreModifier": -20,
+      "data": null,
+      "includeSubDomains": false,
+      "maxAge": null,
+      "preload": false,
       "preloaded": false
     },
     "subresource-integrity": {
       "expectation": "sri-implemented-and-external-scripts-loaded-securely",
-      "pass": true,
-      "result": "sri-not-implemented-but-all-scripts-loaded-from-secure-origin",
-      "scoreModifier": 0,
-      "data": {}
+      "pass": false,
+      "result": "sri-not-implemented-but-external-scripts-loaded-securely",
+      "scoreModifier": -5,
+      "data": {
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0s7t8tz2.u785.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0v6s1qmzutu4c.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0bz6csfbh-jj1.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/14igsjh_3.01z.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/turbopack-14hj03xqhzpkw.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0s7j_9snderq7.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0jl099lsl3ba_.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/01qg5odp49a5f.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/16-_8n~m3wl34.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0dpo-aqf7lnqp.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0znaov6giycu~.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/17b8~.sy55fdk.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0bwldu-ro4zsu.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0iur~lzl_2yp3.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0-~952i.63zi7.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/032jlq2ox6ecu.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0ntjui1x3_k3m.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/05bq1pd7di9ir.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/09dse5cg-xsv1.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/10f8jhbkkjhvj.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0pxgz6w~m7rmm.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/03~yq9q893hmn.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0dpz6j51qi4c2.js": {
+          "crossorigin": null,
+          "integrity": null
+        }
+      }
     },
     "x-content-type-options": {
       "expectation": "x-content-type-options-nosniff",
-      "pass": true,
-      "result": "x-content-type-options-nosniff",
-      "scoreModifier": 0,
-      "data": "nosniff"
+      "pass": false,
+      "result": "x-content-type-options-not-implemented",
+      "scoreModifier": -5,
+      "data": null
     },
     "x-frame-options": {
       "expectation": "x-frame-options-sameorigin-or-deny",
-      "pass": true,
-      "result": "x-frame-options-sameorigin-or-deny",
-      "scoreModifier": 0,
-      "data": "DENY"
+      "pass": false,
+      "result": "x-frame-options-not-implemented",
+      "scoreModifier": -20,
+      "data": null
     },
     "cross-origin-resource-policy": {
       "expectation": "corp-implemented-with-same-site",
