@@ -10,7 +10,7 @@
 <pre>
 <span style="font-weight:bold;">
 #####################################################################</span>
-  <span style="font-weight:bold;">testssl.sh</span> version <span style="font-weight:bold;">3.2.2</span> from <a href="https://testssl.sh/" style="font-weight:bold;color:black;text-decoration:none;">https://testssl.sh/</a>
+  <span style="font-weight:bold;">testssl.sh</span> version <span style="font-weight:bold;">3.2.3</span> from <a href="https://testssl.sh/" style="font-weight:bold;color:black;text-decoration:none;">https://testssl.sh/</a>
 <span style="font-weight:bold;">
   This program is free software. Distribution and modification under
   GPLv2 permitted. USAGE w/o ANY WARRANTY. USE IT AT YOUR OWN RISK!</span>
@@ -19,12 +19,12 @@
 <span style="font-weight:bold;">#####################################################################</span>
 
   Using <i>OpenSSL 1.0.2-bad (Mar 28 2025)</i>  [~183 ciphers]
-  on runnervmg1sw1:/home/testssl/bin/openssl.Linux.x86_64
+  on runnervm3jyl0:/home/testssl/bin/openssl.Linux.x86_64
 
-<span style="color:white;background-color:black;"> Start 2025-11-23 02:07:55        --&gt;&gt; 51.159.114.205:443 (agentsenintervention.anct.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Start 2026-06-07 03:29:26        --&gt;&gt; 51.159.25.52:443 (agentsenintervention.anct.gouv.fr) &lt;&lt;--</span>
 
- Further IP addresses:   2001:bc8:710:96:: 
- rDNS (51.159.114.205):  205-114-159-51.instances.scw.cloud.
+ Further IP addresses:   2001:bc8:710:2645:: 
+ rDNS (51.159.25.52):    52-25-159-51.instances.scw.cloud.
  Service detected:       HTTP
 
 <span style="text-decoration:underline;font-weight:bold;"> Testing protocols </span><u>via sockets except NPN+ALPN </u>
@@ -73,6 +73,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 
 <span style="color:#008817;"> FS is offered (OK) </span>          ECDHE-RSA-AES128-GCM-SHA256
                               ECDHE-RSA-AES256-GCM-SHA384 
+<span style="font-weight:bold;"> KEMs offered                 </span><span style="color:#a86437;">None</span>
 <span style="font-weight:bold;"> Elliptic curves offered:     </span><span style="color:#008817;">prime256v1</span> 
 
 <span style="text-decoration:underline;font-weight:bold;"> Testing server defaults (Server Hello) </span>
@@ -84,46 +85,46 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                               &quot;renegotiation info/#65281&quot;
 <span style="font-weight:bold;"> Session Ticket RFC 5077 hint </span>7200 seconds, session tickets keys seems to be rotated &lt; daily
 <span style="font-weight:bold;"> SSL Session ID support       </span>yes
-<span style="font-weight:bold;"> Session Resumption           </span>Tickets no, ID: no
+<span style="font-weight:bold;"> Session Resumption           </span>Tickets no, ID: yes
 <span style="font-weight:bold;"> TLS clock skew</span>               Random values, no fingerprinting possible 
 <span style="font-weight:bold;"> Certificate Compression      </span>none
 <span style="font-weight:bold;"> Client Authentication        </span>none
 <span style="font-weight:bold;"> Signature Algorithm          </span><span style="color:#008817;">SHA256 with RSA</span>
 <span style="font-weight:bold;"> Server key size              </span>RSA 2048 bits (exponent is 65537)
 <span style="font-weight:bold;"> Server key usage             </span>Digital Signature, Key Encipherment
-<span style="font-weight:bold;"> Server extended key usage    </span>TLS Web Server Authentication, TLS Web Client Authentication
-<span style="font-weight:bold;"> Serial                       </span>06089D73EA2C93243744F169277626B6BC0F (OK: length 18)
-<span style="font-weight:bold;"> Fingerprints                 </span>SHA1 7F33474619596D83C20DBD28D8230B965444460B
-                              SHA256 40CDA169CF98B63048C0913C2E577E7CD1FC37810577CD811837837D8464E834
+<span style="font-weight:bold;"> Server extended key usage    </span>TLS Web Server Authentication
+<span style="font-weight:bold;"> Serial                       </span>053E378FE4E35E5648B3BC69925F7B69ABED (OK: length 18)
+<span style="font-weight:bold;"> Fingerprints                 </span>SHA1 2A6A3440A85672BF7DB5EE0C822A7A6994780352
+                              SHA256 431BBEBC60BDE4C052CDA7DE397E041C41DF91FEE0BA70311278CCB99DD4E7B6
 <span style="font-weight:bold;"> Common Name (CN)             </span><i>agentsenintervention.anct.gouv.fr </i> (CN in response to request w/o SNI: <i>*.functions.fnc.fr-par.scw.cloud </i>)
 <span style="font-weight:bold;"> subjectAltName (SAN)         </span><i>agentsenintervention.anct.gouv.fr </i>
 <span style="font-weight:bold;"> Trust (hostname)             </span><span style="color:#008817;">Ok via SAN and CN</span> (SNI mandatory)
                               <span style="color:#a86437;">wildcard certificate</span> could be problematic, see other hosts at
-                              https://search.censys.io/search?resource=hosts&amp;virtual_hosts=INCLUDE&amp;q=40CDA169CF98B63048C0913C2E577E7CD1FC37810577CD811837837D8464E834
+                              https://search.censys.io/search?resource=hosts&amp;virtual_hosts=INCLUDE&amp;q=431BBEBC60BDE4C052CDA7DE397E041C41DF91FEE0BA70311278CCB99DD4E7B6
 <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
 <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">60 &gt;= 30 days</span> (2025-10-24 03:22 --&gt; 2026-01-22 03:22)
+<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">43 &gt;= 30 days</span> (2026-04-22 00:27 --&gt; 2026-07-21 00:27)
 <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
-<span style="font-weight:bold;"> Certificate Revocation List  </span>http://r12.c.lencr.org/16.crl
+<span style="font-weight:bold;"> Certificate Revocation List  </span>http://r13.c.lencr.org/110.crl
 <span style="font-weight:bold;"> OCSP URI                     </span>--
 <span style="font-weight:bold;"> OCSP stapling                </span>not offered
 <span style="font-weight:bold;"> OCSP must staple extension   </span>--
 <span style="font-weight:bold;"> DNS CAA RR</span> (experimental)    <span style="color:#a86437;">not offered</span>
 <span style="font-weight:bold;"> Certificate Transparency     </span><span style="color:#008817;">yes</span> (certificate extension)
 <span style="font-weight:bold;"> Certificates provided</span>        2
-<span style="font-weight:bold;"> Issuer                       </span><i>R12</i> (<i>Let&apos;s Encrypt</i> from <i>US</i>)
-<span style="font-weight:bold;"> Intermediate cert validity   </span>#1: <span style="color:#008817;">ok &gt; 40 days</span> (2027-03-12 23:59). <i>R12</i> &lt;-- <i>ISRG Root X1</i>
+<span style="font-weight:bold;"> Issuer                       </span><i>R13</i> (<i>Let&apos;s Encrypt</i> from <i>US</i>)
+<span style="font-weight:bold;"> Intermediate cert validity   </span>#1: <span style="color:#008817;">ok &gt; 40 days</span> (2027-03-12 23:59). <i>R13</i> &lt;-- <i>ISRG Root X1</i>
 <span style="font-weight:bold;"> Intermediate Bad OCSP</span> (exp.) <span style="color:#008817;">Ok</span>
 
 
 <span style="text-decoration:underline;font-weight:bold;"> Testing HTTP header response @ &quot;/&quot; </span>
 
 <span style="font-weight:bold;"> HTTP Status Code           </span>  200 OK
-<span style="font-weight:bold;"> HTTP clock skew              </span>-2 sec from localtime
+<span style="font-weight:bold;"> HTTP clock skew              </span>-5 sec from localtime
 <span style="font-weight:bold;"> Strict Transport Security    </span><span style="color:#008817;">365 days</span>=31536000 s<span style="color:#168092;">, just this domain</span><span style="color:#008817;">, preload</span>
 <span style="font-weight:bold;"> Public Key Pinning           </span>--
 <span style="font-weight:bold;"> Server banner                </span>envoy&apos;
-<span style="font-weight:bold;"> Application banner           </span>x-powered-by: PHP/<span style="color:#8a7237;">8</span>.<span style="color:#8a7237;">4</span>.<span style="color:#8a7237;">1</span><span style="color:#8a7237;">0</span>&apos;
+<span style="font-weight:bold;"> Application banner           </span>x-powered-by: PHP/<span style="color:#8a7237;">8</span>.<span style="color:#8a7237;">4</span>.<span style="color:#8a7237;">1</span><span style="color:#8a7237;">6</span>&apos;
 <span style="font-weight:bold;"> Cookie(s)                    </span>(none issued at &quot;/&quot;)
 <span style="font-weight:bold;"> Security headers             </span><span style="color:#008817;">X-Frame-Options</span>: DENY
                               <span style="color:#008817;">X-Content-Type-Options</span>: nosniff
@@ -131,8 +132,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                                 https://cdn.by.wonderpush.com
                                 https://matomo.incubateur.anct.gouv.fr/;
                                 base-uri &apos;self&apos;; connect-src &apos;self&apos;
-                                https://api-adresse.data.gouv.fr/
-                                *.wonderpush.com
+                                https://data.geopf.fr/ *.wonderpush.com
                                 https://matomo.incubateur.anct.gouv.fr/
                                 *.sentry.io
                                 https://recherche-entreprises.api.gouv.fr/
@@ -143,14 +143,14 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                                 https://agents-intervention-prod-uploads.s3.fr-par.scw.cloud/ 
                                 ttps://agents-intervention-preprod-uploads.s3.fr-par.scw.cloud 
                                 ttps://agents-intervention-dev-uploads.s3.fr-par.scw.cloud/ 
-                                .jawg.io data:; media-src &apos;self&apos;
-                                https://agents-intervention-prod-uploads.s3.fr-par.scw.cloud; 
-                                cript-src &apos;self&apos; https://cdn.by.wonderpush.com
+                                .jawg.io data: blob:; media-src &apos;self&apos;;
+                                script-src &apos;self&apos; https://cdn.by.wonderpush.com
                                 https://matomo.incubateur.anct.gouv.fr/
                                 https://browser.sentry-cdn.com
                                 https://sentry.anct.cloud-ed.fr
                                 https://cdn.jsdelivr.net &apos;unsafe-inline&apos;
-                                &apos;sha512-z4PhNX7vuL3xVChQ1m2AB9Yg5AULVxXcg/SpIdNs6c5H0NE8XYXysP+DGNKHfuwvY7kxvUdBeoGlODJ6+SfaPg==&apos; 
+                                &apos;sha512-PCzxJx41FYPbeoSjBNxfsI0z3aCKkJM8hSTc7uq/Eu+CbjVItgz1fu2P/j9cK8RqUWti11F0gvf3n1W2icGUxA==&apos; 
+                                sha512-z4PhNX7vuL3xVChQ1m2AB9Yg5AULVxXcg/SpIdNs6c5H0NE8XYXysP+DGNKHfuwvY7kxvUdBeoGlODJ6+SfaPg==&apos; 
                                 sha512-eSaY/d7tBOXiZ4weMYnwJMqdKygoI3iLOtyWxG9jo7N68XJRneVpJKwMw3GpqB7EUOKHL0vabjUKkFp9R4Jtag==&apos; 
                                 sha512-tX6w/3a9vDq9VhLZ4V7mb4hoy0hmMoBaSoCRpOSAzjZS7EbDBCgV90r+QwUgJ6hMugP2O5n/57RYxWwCrI4XIw==&apos;; 
                                 tyle-src &apos;self&apos; https://cdn.by.wonderpush.com
@@ -160,8 +160,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                                 https://cdn.by.wonderpush.com
                                 https://matomo.incubateur.anct.gouv.fr/;
                                 base-uri &apos;self&apos;; connect-src &apos;self&apos;
-                                https://api-adresse.data.gouv.fr/
-                                *.wonderpush.com
+                                https://data.geopf.fr/ *.wonderpush.com
                                 https://matomo.incubateur.anct.gouv.fr/
                                 *.sentry.io
                                 https://recherche-entreprises.api.gouv.fr/
@@ -172,14 +171,14 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                                 https://agents-intervention-prod-uploads.s3.fr-par.scw.cloud/ 
                                 ttps://agents-intervention-preprod-uploads.s3.fr-par.scw.cloud 
                                 ttps://agents-intervention-dev-uploads.s3.fr-par.scw.cloud/ 
-                                .jawg.io data:; media-src &apos;self&apos;
-                                https://agents-intervention-prod-uploads.s3.fr-par.scw.cloud; 
-                                cript-src &apos;self&apos; https://cdn.by.wonderpush.com
+                                .jawg.io data: blob:; media-src &apos;self&apos;;
+                                script-src &apos;self&apos; https://cdn.by.wonderpush.com
                                 https://matomo.incubateur.anct.gouv.fr/
                                 https://browser.sentry-cdn.com
                                 https://sentry.anct.cloud-ed.fr
                                 https://cdn.jsdelivr.net &apos;unsafe-inline&apos;
-                                &apos;sha512-z4PhNX7vuL3xVChQ1m2AB9Yg5AULVxXcg/SpIdNs6c5H0NE8XYXysP+DGNKHfuwvY7kxvUdBeoGlODJ6+SfaPg==&apos; 
+                                &apos;sha512-PCzxJx41FYPbeoSjBNxfsI0z3aCKkJM8hSTc7uq/Eu+CbjVItgz1fu2P/j9cK8RqUWti11F0gvf3n1W2icGUxA==&apos; 
+                                sha512-z4PhNX7vuL3xVChQ1m2AB9Yg5AULVxXcg/SpIdNs6c5H0NE8XYXysP+DGNKHfuwvY7kxvUdBeoGlODJ6+SfaPg==&apos; 
                                 sha512-eSaY/d7tBOXiZ4weMYnwJMqdKygoI3iLOtyWxG9jo7N68XJRneVpJKwMw3GpqB7EUOKHL0vabjUKkFp9R4Jtag==&apos; 
                                 sha512-tX6w/3a9vDq9VhLZ4V7mb4hoy0hmMoBaSoCRpOSAzjZS7EbDBCgV90r+QwUgJ6hMugP2O5n/57RYxWwCrI4XIw==&apos;; 
                                 tyle-src &apos;self&apos; https://cdn.by.wonderpush.com
@@ -209,7 +208,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> FREAK</span> (CVE-2015-0204)                     <span style="color:#008817;font-weight:bold;">not vulnerable (OK)</span>
 <span style="font-weight:bold;"> DROWN</span> (CVE-2016-0800, CVE-2016-0703)      <span style="color:#008817;font-weight:bold;">not vulnerable on this host and port (OK)</span>
                                            make sure you don&apos;t use this certificate elsewhere with SSLv2 enabled services, see
-                                           <a href="https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=40CDA169CF98B63048C0913C2E577E7CD1FC37810577CD811837837D8464E834" style="color:black;text-decoration:none;">https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=40CDA169CF98B63048C0913C2E577E7CD1FC37810577CD811837837D8464E834</a>
+                                           <a href="https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=431BBEBC60BDE4C052CDA7DE397E041C41DF91FEE0BA70311278CCB99DD4E7B6" style="color:black;text-decoration:none;">https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=431BBEBC60BDE4C052CDA7DE397E041C41DF91FEE0BA70311278CCB99DD4E7B6</a>
 <span style="font-weight:bold;"> LOGJAM</span> (CVE-2015-4000), experimental      <span style="color:#008817;">not vulnerable (OK):</span> no DH EXPORT ciphers, no DH key detected with &lt;= TLS 1.2
 <span style="font-weight:bold;"> BEAST</span> (CVE-2011-3389)                     <span style="color:#008817;">not vulnerable (OK)</span>, no SSL3 or TLS1
 <span style="font-weight:bold;"> LUCKY13</span> (CVE-2013-0169), experimental     <span style="color:#008817;font-weight:bold;">not vulnerable (OK)</span>
@@ -268,7 +267,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Final Score                  </span>81
 <span style="font-weight:bold;"> Overall Grade                </span><span style="color:#008817;font-weight:bold;">A+</span>
 
-<span style="color:white;background-color:black;"> Done 2025-11-23 02:08:47 [  54s] --&gt;&gt; 51.159.114.205:443 (agentsenintervention.anct.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Done 2026-06-07 03:30:37 [  73s] --&gt;&gt; 51.159.25.52:443 (agentsenintervention.anct.gouv.fr) &lt;&lt;--</span>
 
 
 </pre>
