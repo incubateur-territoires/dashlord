@@ -3,10 +3,10 @@
   "cookies": [
     {
       "name": "_pk_id.109.b3ed",
-      "value": "f37d6be64e44b87b.1780325894.",
+      "value": "51d1957e19b80fd9.1780802203.",
       "domain": "grist.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1814281094,
+      "expires": 1814757403,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -18,7 +18,7 @@
     },
     {
       "name": "grist_core",
-      "value": "s%3Ag-e7c132dbfd2a1e60b4e73450516fd137f193f2cc561ed0716049d82d06e20acc.DH5gLfR7KsgrqK5C6Pej7a%2F%2FUNb7DwQupag3Ewp8iC0",
+      "value": "s%3Ag-30dd97f6cab8d6e87121bbb0bca58115f84288d81a1120ce0a78b1895747b2ff.zQbU%2F%2BO0EO9dZjE1pJkdFbmzgxQPVNycLGP0hEjfwug",
       "domain": "grist.incubateur.anct.gouv.fr",
       "path": "/",
       "expires": -1,
@@ -36,7 +36,7 @@
       "value": "1",
       "domain": "grist.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1780327694,
+      "expires": 1780804002,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -51,16 +51,16 @@
     "content-language": "en-US",
     "content-length": "7438",
     "content-type": "text/html; charset=utf-8",
-    "date": "Mon, 01 Jun 2026 14:58:11 GMT",
-    "etag": "W/\"1d0e-pHlTt/qdGQYlFKSkGmyoHydojew\"",
-    "set-cookie": "grist_core=s%3Ag-e7c132dbfd2a1e60b4e73450516fd137f193f2cc561ed0716049d82d06e20acc.DH5gLfR7KsgrqK5C6Pej7a%2F%2FUNb7DwQupag3Ewp8iC0; Path=/; HttpOnly; SameSite=Lax",
+    "date": "Sun, 07 Jun 2026 03:16:39 GMT",
+    "etag": "W/\"1d0e-/S+K1c6kX7ymS/DtpsEWQT+0Nks\"",
+    "set-cookie": "grist_core=s%3Ag-30dd97f6cab8d6e87121bbb0bca58115f84288d81a1120ce0a78b1895747b2ff.zQbU%2F%2BO0EO9dZjE1pJkdFbmzgxQPVNycLGP0hEjfwug; Path=/; HttpOnly; SameSite=Lax",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "x-powered-by": "Express"
   },
   "endpoints": [
     {
       "hostname": "grist.incubateur.anct.gouv.fr",
-      "ip": "146.183.5.238",
+      "ip": "142.44.54.115",
       "geoip": {
         "continent": {
           "code": "EU",
