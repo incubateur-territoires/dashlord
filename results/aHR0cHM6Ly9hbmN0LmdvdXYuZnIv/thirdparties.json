@@ -35,12 +35,12 @@
   ],
   "cookies": [
     {
-      "name": "_pk_id.22.6a82",
-      "value": "1f2cfa3c3eba6f0b.1780327016.",
+      "name": "_pk_ses.22.6a82",
+      "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1814282216,
-      "size": 42,
+      "expires": 1780805425,
+      "size": 16,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -50,12 +50,12 @@
       "sameParty": false
     },
     {
-      "name": "_pk_ses.22.6a82",
-      "value": "1",
+      "name": "_pk_id.22.6a82",
+      "value": "fe958bb811054246.1780803625.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1780328815,
-      "size": 16,
+      "expires": 1814758825,
+      "size": 42,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -70,10 +70,10 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Mon, 01 Jun 2026 15:16:54 GMT",
-    "etag": "W/\"1780318303\"",
+    "date": "Sun, 07 Jun 2026 03:40:23 GMT",
+    "etag": "W/\"1780651751\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Mon, 01 Jun 2026 12:51:43 GMT",
+    "last-modified": "Fri, 05 Jun 2026 09:29:11 GMT",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\nCookie",
     "x-content-type-options": "nosniff",
@@ -81,12 +81,12 @@
     "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "c5c7549c-2dc5-45e7-b506-634210271631"
+    "x-request-id": "3968c8f4-10ed-4aaf-83d2-acc511ef5bfa"
   },
   "endpoints": [
     {
       "hostname": "anct.gouv.fr",
-      "ip": "185.21.194.105",
+      "ip": "80.247.13.145",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -142,7 +142,7 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "151.101.193.229",
+      "ip": "151.101.129.229",
       "geoip": {
         "continent": {
           "code": "NA",
