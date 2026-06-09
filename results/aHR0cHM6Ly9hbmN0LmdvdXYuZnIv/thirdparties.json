@@ -39,7 +39,7 @@
       "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1780805425,
+      "expires": 1781025855,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -51,10 +51,10 @@
     },
     {
       "name": "_pk_id.22.6a82",
-      "value": "fe958bb811054246.1780803625.",
+      "value": "5b6f2f0bd9aaeeef.1781024055.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1814758825,
+      "expires": 1814979255,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -70,10 +70,10 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 07 Jun 2026 03:40:23 GMT",
-    "etag": "W/\"1780651751\"",
+    "date": "Tue, 09 Jun 2026 16:54:14 GMT",
+    "etag": "W/\"1781012210\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Fri, 05 Jun 2026 09:29:11 GMT",
+    "last-modified": "Tue, 09 Jun 2026 13:36:50 GMT",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\nCookie",
     "x-content-type-options": "nosniff",
@@ -81,7 +81,7 @@
     "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "3968c8f4-10ed-4aaf-83d2-acc511ef5bfa"
+    "x-request-id": "66dfe333-276e-45cb-92eb-45b9ace7f74c"
   },
   "endpoints": [
     {
@@ -142,42 +142,8 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "151.101.129.229",
+      "ip": "104.17.208.5",
       "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États-Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
