@@ -192,7 +192,7 @@
               "ip"           : "cartographie.societenumerique.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "valid for 7200 seconds only (<daily)"
+              "finding"      : "valid for 7199 seconds only (<daily)"
           }
 ,         {
               "id"           : "SSL_sessionID_support",
@@ -360,7 +360,7 @@
               "ip"           : "cartographie.societenumerique.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "81 >= 30 days"
+              "finding"      : "78 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -563,7 +563,7 @@
               "ip"           : "cartographie.societenumerique.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1780800386"
+              "finding"      : "1781020953"
           }
 ,         {
               "id"           : "ipv4_in_header",
@@ -1120,6 +1120,6 @@
               "ip"           : "cartographie.societenumerique.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "60"
+              "finding"      : "109"
           }
 ]

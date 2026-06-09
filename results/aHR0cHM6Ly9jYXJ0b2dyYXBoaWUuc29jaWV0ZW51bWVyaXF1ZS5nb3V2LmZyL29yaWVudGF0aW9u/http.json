@@ -11,14 +11,14 @@
     "responseHeaders": {
       "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
       "content-type": "text/html; charset=utf-8",
-      "date": "Sun, 07 Jun 2026 02:45:55 GMT",
+      "date": "Tue, 09 Jun 2026 16:01:25 GMT",
       "link": "<https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud>; rel=preconnect, </images/app-logo.svg>; rel=preload; as=\"image\"",
       "server": "envoy",
       "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
       "x-cache-status": "HIT",
       "x-powered-by": "Next.js",
       "x-url": "http://0.0.0.0:3000/",
-      "x-envoy-upstream-service-time": "6",
+      "x-envoy-upstream-service-time": "7",
       "connection": "close",
       "transfer-encoding": "chunked"
     }
