@@ -9,7 +9,7 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Tue, 09 Jun 2026 16:29:52 GMT",
+      "date": "Sun, 14 Jun 2026 03:19:21 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
@@ -24,12 +24,12 @@
       "cache-control": "no-cache",
       "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'unsafe-inline' https://*.crisp.chat https://stats.beta.gouv.fr; connect-src 'self' https: https://*.crisp.chat wss://*.relay.crisp.chat wss://*.relay.rescue.crisp.chat; style-src 'self' https: 'unsafe-inline'; frame-src https://*.crisp.chat https://tally.so https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com; worker-src 'self' blob: https://*.crisp.chat",
       "set-cookie": [
-        "_monstage_session=DPqzQhOlIiCvnr1ymIY8pso9yyQaF5qrHmRFD0P3Qt%2F4%2BQxUjuqt01tBzYEF54ZdrjJuDVwME8N3ulPFu6jwpx9fVjou2ZZAKRAjb%2BKvclzKoP344cXLIDEvTTfiGK8O4287pEj35jdIpmtwSTNW7h7HY%2B9OrzLxYEDZZBELL9ZvKnk5aKrQtOgyQbn4Sfc%2Bij6DfoxaWimyfmj0BLGhwr6%2FNOt%2BhSkU2dez9x70I1bjqC7e2DvpJGJuRXY%2BLlCR%2B%2Flk8hzAKJ15G1FVeKvchcw2sKeHXvIS1Q%3D%3D--N9RmXxHEwNMZ3P7G--Ar7Re%2FQzt0tavlUl8wO30A%3D%3D; path=/; secure; httponly; samesite=lax"
+        "_monstage_session=tB%2B98TZZnlR0i1jr6wX7oGcwgoZs4YaZlc%2Fk9I0LcphmlsSzYpjkn%2B3lO03bgDciTIgBbcZnmwyzrPh%2BUItF2JwZ3l0yvxlD%2FllVKXHH9Zfmiw1ndDVjP8qXJ0iY4oofB2BT%2FJQ38ZUWQQpL3SiBtLia%2BPrMSNeBm%2Bbum54rTVKyAaB6%2BQ4YCAE%2B2EJnN0qGEs%2FdgD02C%2FxNYNrJFYbJ2dhB%2F8Cox%2FB39Av416qYF%2FlxePxexG39%2FVT%2FDGgFXLCm%2BZvNVStuV%2Fj5aLRsvhKzEODm5ygHMB62nw%3D%3D--cW555y9DMRjNxlRi--IlSa9qjJOC8xq0Ok%2FX1TuQ%3D%3D; path=/; secure; httponly; samesite=lax"
       ],
-      "x-request-id": "213619ac-7efd-457a-bd4f-9d37abef779a",
-      "x-runtime": "0.082481",
+      "x-request-id": "998eafe8-94c1-49c4-9bc5-826295fab353",
+      "x-runtime": "0.078519",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
-      "sozu-id": "01KTPKG33JKA69B64MKH476GMJ"
+      "sozu-id": "01KV2286PG7PA58VD1TVT9VYST"
     }
   },
   "tests": {
