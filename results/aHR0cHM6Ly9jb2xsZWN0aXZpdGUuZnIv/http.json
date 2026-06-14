@@ -9,11 +9,11 @@
     "testsPassed": 8,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Tue, 09 Jun 2026 15:28:31 GMT",
+      "date": "Sun, 14 Jun 2026 02:20:24 GMT",
       "content-type": "text/html",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "83268675-79dd-44bb-be7e-b1a555c87316",
+      "x-request-id": "6ceab762-91ba-4448-9480-536583dfef72",
       "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' https://stats.beta.gouv.fr https://*.contentsquare.net https://sentry.anct.cloud-ed.fr; connect-src 'self' https://api.collectivite.fr https://stats.beta.gouv.fr https://*.contentsquare.net https://sentry.anct.cloud-ed.fr https://quotient-familial.numerique.gouv.fr https://datanova.laposte.fr https://data-api.publication-actes.fr https://data-api.megalis.bretagne.bzh; worker-src 'self' blob:;; frame-src 'self' https://data.megalis.bretagne.bzh https://publication-actes.fr https://stats.beta.gouv.fr; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://annuaire-des-collectivites-production-storage.s3.fr-par.scw.cloud https://annuaire-des-collectivites-development-storage.s3.fr-par.scw.cloud https://*.contentsquare.net https://commons.wikimedia.org https://upload.wikimedia.org; font-src 'self' https:; object-src 'none'; upgrade-insecure-requests",
       "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
       "x-content-type-options": "nosniff",
