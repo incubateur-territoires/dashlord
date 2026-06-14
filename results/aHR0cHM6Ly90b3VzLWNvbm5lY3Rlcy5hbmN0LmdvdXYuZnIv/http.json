@@ -9,11 +9,11 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Tue, 09 Jun 2026 16:27:19 GMT",
+      "date": "Sun, 14 Jun 2026 03:17:40 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "8195d3c5-8423-40f0-a1aa-14444631796e",
+      "x-request-id": "00eae805-8792-4eb4-a9a0-b558396db851",
       "content-security-policy": "default-src 'self'; frame-src 'self' https://tube.numerique.gouv.fr https://toutes-tous-connectes-metabase.osc-secnum-fr1.scalingo.io; frame-ancestors 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' blob: https://matomo.incubateur.anct.gouv.fr; script-src-attr 'unsafe-inline'; worker-src 'self' blob:; connect-src 'self' https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.anct.gouv.fr https://api-adresse.data.gouv.fr https://geo.api.gouv.fr https://data.geopf.fr https://openmaptiles.geo.data.gouv.fr https://openmaptiles.github.io https://lannuaire.service-public.fr https://api-lannuaire.service-public.fr https://fcp.integ01.dev-agentconnect.fr https://auth.agentconnect.gouv.fr; img-src 'self' data: blob: https://data.geopf.fr https://openmaptiles.geo.data.gouv.fr https://openmaptiles.github.io https://images.unsplash.com https://matomo.incubateur.anct.gouv.fr; style-src 'self' 'unsafe-inline'; font-src 'self' data:; form-action 'self'; base-uri 'self'; object-src 'none'",
       "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
       "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), interest-cohort=()",
