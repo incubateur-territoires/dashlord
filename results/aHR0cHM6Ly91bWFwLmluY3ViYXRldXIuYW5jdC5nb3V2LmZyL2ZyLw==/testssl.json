@@ -353,7 +353,7 @@
               "ip"           : "umap.incubateur.anct.gouv.fr/142.44.53.109",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "54 >= 30 days"
+              "finding"      : "49 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -514,7 +514,7 @@
               "ip"           : "umap.incubateur.anct.gouv.fr/142.44.53.109",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1781021128"
+              "finding"      : "1781405401"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1077,6 +1077,6 @@
               "ip"           : "umap.incubateur.anct.gouv.fr/142.44.53.109",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "57"
+              "finding"      : "64"
           }
 ]
