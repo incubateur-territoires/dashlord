@@ -3,10 +3,6 @@
     {
       "type": "unknown",
       "url": "https://api-signalement-prod.osc-secnum-fr1.scalingo.io/settings/commune-settings"
-    },
-    {
-      "type": "unknown",
-      "url": "https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-rtl-text/v0.2.3/mapbox-gl-rtl-text.js"
     }
   ],
   "cookies": [],
@@ -14,12 +10,12 @@
     "cache-control": "public, max-age=0",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 14 Jun 2026 02:26:08 GMT",
-    "etag": "W/\"5ce-19ebbd34630\"",
-    "last-modified": "Fri, 12 Jun 2026 12:34:06 GMT",
+    "date": "Sun, 21 Jun 2026 02:29:26 GMT",
+    "etag": "W/\"5ce-19ecf74f080\"",
+    "last-modified": "Tue, 16 Jun 2026 08:03:28 GMT",
     "strict-transport-security": "max-age=31536000",
     "x-powered-by": "Express",
-    "x-request-id": "37033ba2-4bef-40a9-9720-1eb47b60ca6d"
+    "x-request-id": "efb0831d-a0da-42d1-872f-09ffd8e3ff5d"
   },
   "endpoints": [
     {
@@ -80,7 +76,7 @@
     },
     {
       "hostname": "api-signalement-prod.osc-secnum-fr1.scalingo.io",
-      "ip": "185.21.194.105",
+      "ip": "148.253.96.193",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -130,60 +126,6 @@
             "pt-BR": "França",
             "ru": "Франция",
             "zh-CN": "法国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "api.mapbox.com",
-      "ip": "52.85.193.97",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États-Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États-Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
           }
         }
       }
