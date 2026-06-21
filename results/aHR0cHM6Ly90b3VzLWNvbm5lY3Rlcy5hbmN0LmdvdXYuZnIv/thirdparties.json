@@ -1,43 +1,12 @@
 {
   "trackers": [],
-  "cookies": [
-    {
-      "name": "__Secure-authjs.callback-url",
-      "value": "https%3A%2F%2Ftous-connectes.anct.gouv.fr",
-      "domain": "tous-connectes.anct.gouv.fr",
-      "path": "/",
-      "expires": -1,
-      "size": 69,
-      "httpOnly": true,
-      "secure": true,
-      "session": true,
-      "sameSite": "Lax",
-      "priority": "Medium",
-      "sourceScheme": "Secure",
-      "sameParty": false
-    },
-    {
-      "name": "__Host-authjs.csrf-token",
-      "value": "d92eaed134f5333b9feb3e9ebdbb20c25e22bcf33bb68dba06072c0601698b77%7C9407f43bbabf297bc89ab4e902f73e4590e26a350aa77d0c3b874c448cda662a",
-      "domain": "tous-connectes.anct.gouv.fr",
-      "path": "/",
-      "expires": -1,
-      "size": 155,
-      "httpOnly": true,
-      "secure": true,
-      "session": true,
-      "sameSite": "Lax",
-      "priority": "Medium",
-      "sourceScheme": "Secure",
-      "sameParty": false
-    }
-  ],
+  "cookies": [],
   "headers": {
     "cache-control": "s-maxage=31536000",
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self'; frame-src 'self' https://tube.numerique.gouv.fr https://toutes-tous-connectes-metabase.osc-secnum-fr1.scalingo.io; frame-ancestors 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' blob: https://matomo.incubateur.anct.gouv.fr; script-src-attr 'unsafe-inline'; worker-src 'self' blob:; connect-src 'self' https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.anct.gouv.fr https://api-adresse.data.gouv.fr https://geo.api.gouv.fr https://data.geopf.fr https://openmaptiles.geo.data.gouv.fr https://openmaptiles.github.io https://lannuaire.service-public.fr https://api-lannuaire.service-public.fr https://fcp.integ01.dev-agentconnect.fr https://auth.agentconnect.gouv.fr; img-src 'self' data: blob: https://data.geopf.fr https://openmaptiles.geo.data.gouv.fr https://openmaptiles.github.io https://images.unsplash.com https://matomo.incubateur.anct.gouv.fr; style-src 'self' 'unsafe-inline'; font-src 'self' data:; form-action 'self'; base-uri 'self'; object-src 'none'",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 14 Jun 2026 03:15:28 GMT",
+    "date": "Sun, 21 Jun 2026 03:18:39 GMT",
     "etag": "\"2yfu0c0tmv11ku\"",
     "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), interest-cohort=()",
     "referrer-policy": "strict-origin-when-cross-origin",
@@ -49,7 +18,7 @@
     "x-nextjs-prerender": "1\n1",
     "x-nextjs-stale-time": "300",
     "x-powered-by": "Next.js",
-    "x-request-id": "794f848e-5a7f-4506-b412-b68c566fde85"
+    "x-request-id": "9b04490f-7c36-4c16-a103-43f955daf442"
   },
   "endpoints": [
     {
