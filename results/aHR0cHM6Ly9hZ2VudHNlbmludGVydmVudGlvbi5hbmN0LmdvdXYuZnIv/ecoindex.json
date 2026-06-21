@@ -3,7 +3,7 @@
         "width": 1920,
         "height": 1080,
         "url": "https://agentsenintervention.anct.gouv.fr/",
-        "size": 2795.32,
+        "size": 2795.264,
         "nodes": 190,
         "requests": 36,
         "grade": "B",
@@ -11,7 +11,7 @@
         "ges": 1.56,
         "water": 2.34,
         "ecoindex_version": "5.4.2",
-        "date": "2026-06-14 03:25:10.651400",
+        "date": "2026-06-21 03:30:44.011652",
         "page_type": null
     }
 ]
