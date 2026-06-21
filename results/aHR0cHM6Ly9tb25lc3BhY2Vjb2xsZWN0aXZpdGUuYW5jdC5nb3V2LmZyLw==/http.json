@@ -9,11 +9,11 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 14 Jun 2026 03:33:42 GMT",
+      "date": "Sun, 21 Jun 2026 03:39:43 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "a2b6be0a-c31c-4249-9cc2-16ef44ae3ff9",
+      "x-request-id": "b1cf2105-7c3a-4c14-97a8-6c42871ec509",
       "content-security-policy-report-only": "default-src 'self'; script-src 'self' 'unsafe-inline' *.gouv.fr *.beta.gouv.fr https://tally.so; style-src 'self' 'unsafe-inline' *.gouv.fr; img-src 'self' data: blob: *.gouv.fr *.beta.gouv.fr https://communs.cellar-c2.services.clever-cloud.com; font-src 'self' data: *.gouv.fr; connect-src 'self' *.gouv.fr *.beta.gouv.fr; frame-src 'self' *.gouv.fr *.beta.gouv.fr https://aides-territoires.beta.gouv.fr https://tally.so; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; report-uri https://sentry.incubateur.anct.gouv.fr/api/17/security/?sentry_key=ef41e5b2b722872a06e51693d63699cf&sentry_environment=production",
       "x-frame-options": "DENY",
       "x-content-type-options": "nosniff",
