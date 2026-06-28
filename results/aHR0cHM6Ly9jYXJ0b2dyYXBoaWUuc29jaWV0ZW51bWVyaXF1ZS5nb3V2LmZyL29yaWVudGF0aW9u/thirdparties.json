@@ -22,7 +22,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/2yfz9davykq07.js"
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0sfzkbpm9byj0.js"
     },
     {
       "type": "unknown",
@@ -38,7 +38,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/turbopack-1oy7to8j1cqys.js"
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/turbopack-2yk-esftk3edx.js"
     },
     {
       "type": "unknown",
@@ -82,7 +82,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0zxbl2grq3uw-.js"
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/363jx22gkq3w7.js"
     },
     {
       "type": "unknown",
@@ -94,15 +94,15 @@
     },
     {
       "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/1_zbf2mo4h7_o.js"
+    },
+    {
+      "type": "unknown",
       "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/1pe_iii8vcwxt.js"
     },
     {
       "type": "unknown",
       "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/15_7v3x8zwp-u.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/1_zbf2mo4h7_o.js"
     },
     {
       "type": "unknown",
@@ -115,6 +115,10 @@
     {
       "type": "unknown",
       "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/3u48caqwmkarm.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/3yqconloh2ko5.js"
     },
     {
       "type": "unknown",
@@ -135,10 +139,6 @@
     {
       "type": "unknown",
       "url": "https://data.geopf.fr/tms/1.0.0/PLAN.IGN/4/7/6.pbf"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/3yqconloh2ko5.js"
     }
   ],
   "cookies": [],
@@ -146,12 +146,12 @@
     "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 21 Jun 2026 02:50:35 GMT",
+    "date": "Sun, 28 Jun 2026 02:43:19 GMT",
     "link": "<https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud>; rel=preconnect\n</images/app-logo.svg>; rel=preload; as=\"image\"",
     "server": "envoy",
     "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
-    "x-cache-status": "MISS",
-    "x-envoy-upstream-service-time": "158",
+    "x-cache-status": "STALE",
+    "x-envoy-upstream-service-time": "9",
     "x-powered-by": "Next.js",
     "x-url": "http://0.0.0.0:3000/"
   },
@@ -256,7 +256,7 @@
     },
     {
       "hostname": "cartographie-prod-app-static-assets.s3.fr-par.scw.cloud",
-      "ip": "51.159.62.19",
+      "ip": "51.159.62.18",
       "geoip": {
         "city": {
           "geoname_id": 2988507,

@@ -11,14 +11,14 @@
     "responseHeaders": {
       "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
       "content-type": "text/html; charset=utf-8",
-      "date": "Sun, 21 Jun 2026 02:52:59 GMT",
+      "date": "Sun, 28 Jun 2026 02:45:37 GMT",
       "link": "<https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud>; rel=preconnect, </images/app-logo.svg>; rel=preload; as=\"image\"",
       "server": "envoy",
       "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
       "x-cache-status": "HIT",
       "x-powered-by": "Next.js",
       "x-url": "http://0.0.0.0:3000/",
-      "x-envoy-upstream-service-time": "6",
+      "x-envoy-upstream-service-time": "517",
       "connection": "close",
       "transfer-encoding": "chunked"
     }
@@ -97,7 +97,7 @@
           "crossorigin": null,
           "integrity": null
         },
-        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/2yfz9davykq07.js": {
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0sfzkbpm9byj0.js": {
           "crossorigin": null,
           "integrity": null
         },
@@ -113,7 +113,7 @@
           "crossorigin": null,
           "integrity": null
         },
-        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/turbopack-1oy7to8j1cqys.js": {
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/turbopack-2yk-esftk3edx.js": {
           "crossorigin": null,
           "integrity": null
         },
@@ -157,7 +157,7 @@
           "crossorigin": null,
           "integrity": null
         },
-        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0zxbl2grq3uw-.js": {
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/363jx22gkq3w7.js": {
           "crossorigin": null,
           "integrity": null
         },
@@ -169,15 +169,15 @@
           "crossorigin": null,
           "integrity": null
         },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/1_zbf2mo4h7_o.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
         "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/1pe_iii8vcwxt.js": {
           "crossorigin": null,
           "integrity": null
         },
         "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/15_7v3x8zwp-u.js": {
-          "crossorigin": null,
-          "integrity": null
-        },
-        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/1_zbf2mo4h7_o.js": {
           "crossorigin": null,
           "integrity": null
         },
