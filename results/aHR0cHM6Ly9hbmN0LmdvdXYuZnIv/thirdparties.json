@@ -39,7 +39,7 @@
       "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1782015355,
+      "expires": 1782619752,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -51,10 +51,10 @@
     },
     {
       "name": "_pk_id.22.6a82",
-      "value": "84b93c23af3d3457.1782013556.",
+      "value": "8545a7712e4c8d8d.1782617953.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1815968756,
+      "expires": 1816573153,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -70,10 +70,10 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 21 Jun 2026 03:45:54 GMT",
-    "etag": "W/\"1781863900\"",
+    "date": "Sun, 28 Jun 2026 03:39:12 GMT",
+    "etag": "W/\"1782402479\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Fri, 19 Jun 2026 10:11:40 GMT",
+    "last-modified": "Thu, 25 Jun 2026 15:47:59 GMT",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\nCookie",
     "x-content-type-options": "nosniff",
@@ -81,12 +81,12 @@
     "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "e93120de-eb5d-4565-9ead-552416590444"
+    "x-request-id": "c48ce01d-86eb-4166-891c-3c2e44e1135a"
   },
   "endpoints": [
     {
       "hostname": "anct.gouv.fr",
-      "ip": "80.247.13.145",
+      "ip": "148.253.96.193",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -142,42 +142,8 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "151.101.129.229",
+      "ip": "104.17.208.5",
       "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États-Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
