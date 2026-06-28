@@ -3,15 +3,15 @@
         "width": 1920,
         "height": 1080,
         "url": "https://mes-adresses.data.gouv.fr",
-        "size": 921.744,
-        "nodes": 335,
-        "requests": 52,
+        "size": 955.39,
+        "nodes": 375,
+        "requests": 53,
         "grade": "C",
-        "score": 69.0,
-        "ges": 1.62,
-        "water": 2.43,
+        "score": 67.0,
+        "ges": 1.66,
+        "water": 2.49,
         "ecoindex_version": "5.4.2",
-        "date": "2026-06-21 02:26:20.992352",
+        "date": "2026-06-28 02:16:50.382788",
         "page_type": null
     }
 ]
