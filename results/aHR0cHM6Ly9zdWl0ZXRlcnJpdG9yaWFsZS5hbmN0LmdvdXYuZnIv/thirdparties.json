@@ -6,7 +6,7 @@
       "value": "1",
       "domain": "suiteterritoriale.anct.gouv.fr",
       "path": "/",
-      "expires": 1782014672,
+      "expires": 1782619221,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.18.3071",
-      "value": "d55ff9b7db32eb7f.1782012872.",
+      "value": "6020bad5aee74b7e.1782617421.",
       "domain": "suiteterritoriale.anct.gouv.fr",
       "path": "/",
-      "expires": 1815968072,
+      "expires": 1816572621,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -36,12 +36,12 @@
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 21 Jun 2026 03:34:29 GMT",
-    "etag": "\"xsletksql364vy\"",
+    "date": "Sun, 28 Jun 2026 03:30:19 GMT",
+    "etag": "\"edinzb4k8q64vy\"",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "via": "1.1 Caddy",
-    "x-request-id": "2503f352-3c97-4db8-9109-b7d20027099e"
+    "x-request-id": "2f4fb121-c968-42b3-9b2a-eb2d86684ca2"
   },
   "endpoints": [
     {
