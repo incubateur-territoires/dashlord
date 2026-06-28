@@ -4,9 +4,9 @@
   "headers": {
     "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
     "content-encoding": "gzip",
-    "content-security-policy-report-only": "default-src 'self'; script-src 'self' 'unsafe-inline' *.gouv.fr *.beta.gouv.fr https://tally.so; style-src 'self' 'unsafe-inline' *.gouv.fr; img-src 'self' data: blob: *.gouv.fr *.beta.gouv.fr https://communs.cellar-c2.services.clever-cloud.com; font-src 'self' data: *.gouv.fr; connect-src 'self' *.gouv.fr *.beta.gouv.fr; frame-src 'self' *.gouv.fr *.beta.gouv.fr https://aides-territoires.beta.gouv.fr https://tally.so; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; report-uri https://sentry.incubateur.anct.gouv.fr/api/17/security/?sentry_key=ef41e5b2b722872a06e51693d63699cf&sentry_environment=production",
+    "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' *.gouv.fr *.beta.gouv.fr https://tally.so https://matomo.incubateur.anct.gouv.fr; script-src-elem 'self' 'unsafe-inline' *.gouv.fr *.beta.gouv.fr https://tally.so https://matomo.incubateur.anct.gouv.fr; style-src 'self' 'unsafe-inline' *.gouv.fr; img-src 'self' data: blob: *.gouv.fr *.beta.gouv.fr https://communs.cellar-c2.services.clever-cloud.com https://abc.naturefrance.fr https://matomo.incubateur.anct.gouv.fr; font-src 'self' data: *.gouv.fr; connect-src 'self' *.gouv.fr *.beta.gouv.fr https://api.collectivites.beta.gouv.fr https://matomo.incubateur.anct.gouv.fr; frame-src 'self' *.gouv.fr *.beta.gouv.fr https://aides-territoires.beta.gouv.fr https://tally.so; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; report-uri https://sentry.incubateur.anct.gouv.fr/api/17/security/?sentry_key=ef41e5b2b722872a06e51693d63699cf&sentry_environment=production",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 21 Jun 2026 03:37:22 GMT",
+    "date": "Sun, 28 Jun 2026 03:30:38 GMT",
     "link": "</>; rel=preconnect; crossorigin=\"\", </_next/static/media/mec-logo.05caq63ekteqk.svg>; rel=preload; as=\"image\"",
     "permissions-policy": "camera=(), microphone=(), geolocation=()",
     "referrer-policy": "strict-origin-when-cross-origin",
@@ -15,12 +15,12 @@
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
     "x-powered-by": "Next.js",
-    "x-request-id": "2f6d5b90-969e-44f6-806e-5721b29ee0e7"
+    "x-request-id": "c4f5ac3b-8752-47b3-a2f9-d69311d21014"
   },
   "endpoints": [
     {
       "hostname": "monespacecollectivite.anct.gouv.fr",
-      "ip": "185.21.194.105",
+      "ip": "80.247.12.255",
       "geoip": {
         "continent": {
           "code": "EU",
