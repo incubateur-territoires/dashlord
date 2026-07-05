@@ -9,7 +9,7 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 28 Jun 2026 03:18:33 GMT",
+      "date": "Sun, 05 Jul 2026 02:51:10 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
@@ -24,12 +24,12 @@
       "cache-control": "no-cache",
       "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'unsafe-inline' https://*.crisp.chat https://stats.beta.gouv.fr; connect-src 'self' https: https://*.crisp.chat wss://*.relay.crisp.chat wss://*.relay.rescue.crisp.chat; style-src 'self' https: 'unsafe-inline'; frame-src https://*.crisp.chat https://tally.so https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com; worker-src 'self' blob: https://*.crisp.chat",
       "set-cookie": [
-        "_monstage_session=7AbBGlWLK2oChJuJX8uvW1RecRVk40nfSeGMAorCILewDiBEHIBsVj7Ljm8D0Jw7%2B7GVxeLFUT7cEzKJFRwdaQEcgY83GB4D%2FKgkZdncnv3CkVowe7SVsL9A5DL0l0ny35h3k4N2PhyWwPALCtdaj56hdvFzOUZxIFyKaO5F%2FTOXdwg%2Bxnbwpwbt19KH48de8smSaTssc2dpXE6pCg7I3Djvbb6x3rnOuimSF8k5Cw5YUkj0hZyGQ9rH%2BuKGAire2EC8buwqAB%2FWWKiKaupbh50qZHXUfJBGpQ%3D%3D--tJUWg9RVGzi89CFg--ZHoR2is1YF%2BZWl0hr3CzNw%3D%3D; path=/; secure; httponly; samesite=lax"
+        "_monstage_session=De0H6hAdcjTAxwnhxYKb7%2BNUZdmZM1XlY1kXiTcJGMVJHzW7yLBJzzoSDoMPFtpAg4h38S510yWuJIhqGVqN0LjEBpSH1t%2BtaCqXTeOLbCid22T%2BW4gtdixpyXLrBDGm5AdEYNILLsvbI5fEAUy1WILUHDooQr9%2BhbReUfWkvmv12PKMKGNHGvLvessAtcx577qlPZf2HD9XdOZdwbGLp5uAHsgTIJTvn%2FDh1%2FZ0TTyMIC%2BedFIOohankX%2FTTffnD1lwJlkU1ax%2BejRtUlyAy9JD7IfRmkIsRA%3D%3D--4chH49Hy9WS62asJ--fxW40mv6i%2FnvuyD7S5GpRg%3D%3D; path=/; secure; httponly; samesite=lax"
       ],
-      "x-request-id": "308a1380-03e0-4bdb-a2a1-693c4f95aeb4",
-      "x-runtime": "0.024484",
+      "x-request-id": "f51a9f08-71e2-48bf-a7cb-c07163b1662d",
+      "x-runtime": "0.014947",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
-      "sozu-id": "01KW63RSYQMWD1107NMA91CNF7"
+      "sozu-id": "01KWR2ZPHMHP0FBA5W6TTJ1H55"
     }
   },
   "tests": {
