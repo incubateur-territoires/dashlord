@@ -3,15 +3,15 @@
         "width": 1920,
         "height": 1080,
         "url": "https://aides-territoires.beta.gouv.fr/",
-        "size": 1989.369,
-        "nodes": 844,
-        "requests": 68,
+        "size": 1994.015,
+        "nodes": 833,
+        "requests": 69,
         "grade": "D",
         "score": 43.0,
         "ges": 2.14,
         "water": 3.21,
         "ecoindex_version": "5.4.2",
-        "date": "2026-06-28 03:31:54.167924",
+        "date": "2026-07-05 03:04:58.161791",
         "page_type": "website"
     }
 ]
