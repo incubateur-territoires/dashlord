@@ -9,11 +9,11 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 28 Jun 2026 03:33:06 GMT",
+      "date": "Sun, 05 Jul 2026 03:06:00 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "a36fc6d8-b5e4-40ec-9bf0-b554d8491ba7",
+      "x-request-id": "0db84699-a8a6-4cdb-a81a-e119325075ff",
       "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' *.gouv.fr *.beta.gouv.fr https://tally.so https://matomo.incubateur.anct.gouv.fr; script-src-elem 'self' 'unsafe-inline' *.gouv.fr *.beta.gouv.fr https://tally.so https://matomo.incubateur.anct.gouv.fr; style-src 'self' 'unsafe-inline' *.gouv.fr; img-src 'self' data: blob: *.gouv.fr *.beta.gouv.fr https://communs.cellar-c2.services.clever-cloud.com https://abc.naturefrance.fr https://matomo.incubateur.anct.gouv.fr; font-src 'self' data: *.gouv.fr; connect-src 'self' *.gouv.fr *.beta.gouv.fr https://api.collectivites.beta.gouv.fr https://matomo.incubateur.anct.gouv.fr; frame-src 'self' *.gouv.fr *.beta.gouv.fr https://aides-territoires.beta.gouv.fr https://tally.so; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; report-uri https://sentry.incubateur.anct.gouv.fr/api/17/security/?sentry_key=ef41e5b2b722872a06e51693d63699cf&sentry_environment=production",
       "x-frame-options": "DENY",
       "x-content-type-options": "nosniff",
@@ -141,15 +141,12 @@
     "redirection": {
       "expectation": "redirection-to-https",
       "pass": true,
-      "result": "redirection-to-https",
+      "result": "redirection-not-needed-no-http",
       "scoreModifier": 0,
-      "destination": "https://monespacecollectivite.anct.gouv.fr/",
+      "destination": "http://monespacecollectivite.anct.gouv.fr/",
       "redirects": true,
-      "route": [
-        "http://monespacecollectivite.anct.gouv.fr/",
-        "https://monespacecollectivite.anct.gouv.fr/"
-      ],
-      "statusCode": 200
+      "route": [],
+      "statusCode": null
     },
     "referrer-policy": {
       "expectation": "referrer-policy-private",

@@ -6,7 +6,7 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' *.gouv.fr *.beta.gouv.fr https://tally.so https://matomo.incubateur.anct.gouv.fr; script-src-elem 'self' 'unsafe-inline' *.gouv.fr *.beta.gouv.fr https://tally.so https://matomo.incubateur.anct.gouv.fr; style-src 'self' 'unsafe-inline' *.gouv.fr; img-src 'self' data: blob: *.gouv.fr *.beta.gouv.fr https://communs.cellar-c2.services.clever-cloud.com https://abc.naturefrance.fr https://matomo.incubateur.anct.gouv.fr; font-src 'self' data: *.gouv.fr; connect-src 'self' *.gouv.fr *.beta.gouv.fr https://api.collectivites.beta.gouv.fr https://matomo.incubateur.anct.gouv.fr; frame-src 'self' *.gouv.fr *.beta.gouv.fr https://aides-territoires.beta.gouv.fr https://tally.so; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; report-uri https://sentry.incubateur.anct.gouv.fr/api/17/security/?sentry_key=ef41e5b2b722872a06e51693d63699cf&sentry_environment=production",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 28 Jun 2026 03:30:38 GMT",
+    "date": "Sun, 05 Jul 2026 03:03:23 GMT",
     "link": "</>; rel=preconnect; crossorigin=\"\", </_next/static/media/mec-logo.05caq63ekteqk.svg>; rel=preload; as=\"image\"",
     "permissions-policy": "camera=(), microphone=(), geolocation=()",
     "referrer-policy": "strict-origin-when-cross-origin",
@@ -15,12 +15,12 @@
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
     "x-powered-by": "Next.js",
-    "x-request-id": "c4f5ac3b-8752-47b3-a2f9-d69311d21014"
+    "x-request-id": "44c5fa00-d658-43d3-875d-49bb5041b397"
   },
   "endpoints": [
     {
       "hostname": "monespacecollectivite.anct.gouv.fr",
-      "ip": "80.247.12.255",
+      "ip": "80.247.13.145",
       "geoip": {
         "continent": {
           "code": "EU",
