@@ -14,7 +14,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.by.wonderpush.com/config/webkeys/4309edb33d4adbe7da4d89ecdd80f30786f87602b15541bb88b4fce933286ea1?_=1782617129136"
+      "url": "https://cdn.by.wonderpush.com/config/webkeys/4309edb33d4adbe7da4d89ecdd80f30786f87602b15541bb88b4fce933286ea1?_=1783220323823"
     },
     {
       "type": "unknown",
@@ -23,12 +23,12 @@
   ],
   "cookies": [
     {
-      "name": "_pk_id.16.a926",
-      "value": "f1de1f959b621c8e.1782617127.",
+      "name": "_pk_ses.16.a926",
+      "value": "1",
       "domain": "agentsenintervention.anct.gouv.fr",
       "path": "/",
-      "expires": 1816572327,
-      "size": 42,
+      "expires": 1783222121,
+      "size": 16,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -38,12 +38,12 @@
       "sameParty": false
     },
     {
-      "name": "_pk_ses.16.a926",
-      "value": "1",
+      "name": "_pk_id.16.a926",
+      "value": "fd9dfb72d461064d.1783220322.",
       "domain": "agentsenintervention.anct.gouv.fr",
       "path": "/",
-      "expires": 1782618926,
-      "size": 16,
+      "expires": 1817175522,
+      "size": 42,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -58,15 +58,15 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self' https://cdn.by.wonderpush.com https://matomo.incubateur.anct.gouv.fr/; base-uri 'self'; connect-src 'self' https://data.geopf.fr/ *.wonderpush.com https://matomo.incubateur.anct.gouv.fr/ *.sentry.io https://recherche-entreprises.api.gouv.fr/ https://nominatim.openstreetmap.org; font-src 'self' data:; frame-src 'self' https://metabase.agentsenintervention.anct.gouv.fr/; img-src 'self' https://cdn.by.wonderpush.com https://agents-intervention-prod-uploads.s3.fr-par.scw.cloud/ https://agents-intervention-preprod-uploads.s3.fr-par.scw.cloud https://agents-intervention-dev-uploads.s3.fr-par.scw.cloud/ *.jawg.io data: blob:; media-src 'self'; script-src 'self' https://cdn.by.wonderpush.com https://matomo.incubateur.anct.gouv.fr/ https://browser.sentry-cdn.com https://sentry.anct.cloud-ed.fr https://cdn.jsdelivr.net 'unsafe-inline' 'sha512-PCzxJx41FYPbeoSjBNxfsI0z3aCKkJM8hSTc7uq/Eu+CbjVItgz1fu2P/j9cK8RqUWti11F0gvf3n1W2icGUxA==' 'sha512-z4PhNX7vuL3xVChQ1m2AB9Yg5AULVxXcg/SpIdNs6c5H0NE8XYXysP+DGNKHfuwvY7kxvUdBeoGlODJ6+SfaPg==' 'sha512-eSaY/d7tBOXiZ4weMYnwJMqdKygoI3iLOtyWxG9jo7N68XJRneVpJKwMw3GpqB7EUOKHL0vabjUKkFp9R4Jtag==' 'sha512-tX6w/3a9vDq9VhLZ4V7mb4hoy0hmMoBaSoCRpOSAzjZS7EbDBCgV90r+QwUgJ6hMugP2O5n/57RYxWwCrI4XIw=='; style-src 'self' https://cdn.by.wonderpush.com data:; upgrade-insecure-requests; worker-src 'self' *.wonderpush.com blob:",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 28 Jun 2026 03:25:20 GMT",
-    "expires": "Sun, 28 Jun 2026 03:25:20 GMT",
+    "date": "Sun, 05 Jul 2026 02:58:32 GMT",
+    "expires": "Sun, 05 Jul 2026 02:58:32 GMT",
     "referrer-policy": "no-referrer, strict-origin-when-cross-origin",
     "server": "envoy",
     "strict-transport-security": "max-age=31536000; preload",
     "vary": "Accept-Encoding",
     "x-content-security-policy": "default-src 'self' https://cdn.by.wonderpush.com https://matomo.incubateur.anct.gouv.fr/; base-uri 'self'; connect-src 'self' https://data.geopf.fr/ *.wonderpush.com https://matomo.incubateur.anct.gouv.fr/ *.sentry.io https://recherche-entreprises.api.gouv.fr/ https://nominatim.openstreetmap.org; font-src 'self' data:; frame-src 'self' https://metabase.agentsenintervention.anct.gouv.fr/; img-src 'self' https://cdn.by.wonderpush.com https://agents-intervention-prod-uploads.s3.fr-par.scw.cloud/ https://agents-intervention-preprod-uploads.s3.fr-par.scw.cloud https://agents-intervention-dev-uploads.s3.fr-par.scw.cloud/ *.jawg.io data: blob:; media-src 'self'; script-src 'self' https://cdn.by.wonderpush.com https://matomo.incubateur.anct.gouv.fr/ https://browser.sentry-cdn.com https://sentry.anct.cloud-ed.fr https://cdn.jsdelivr.net 'unsafe-inline' 'sha512-PCzxJx41FYPbeoSjBNxfsI0z3aCKkJM8hSTc7uq/Eu+CbjVItgz1fu2P/j9cK8RqUWti11F0gvf3n1W2icGUxA==' 'sha512-z4PhNX7vuL3xVChQ1m2AB9Yg5AULVxXcg/SpIdNs6c5H0NE8XYXysP+DGNKHfuwvY7kxvUdBeoGlODJ6+SfaPg==' 'sha512-eSaY/d7tBOXiZ4weMYnwJMqdKygoI3iLOtyWxG9jo7N68XJRneVpJKwMw3GpqB7EUOKHL0vabjUKkFp9R4Jtag==' 'sha512-tX6w/3a9vDq9VhLZ4V7mb4hoy0hmMoBaSoCRpOSAzjZS7EbDBCgV90r+QwUgJ6hMugP2O5n/57RYxWwCrI4XIw=='; style-src 'self' https://cdn.by.wonderpush.com data:; upgrade-insecure-requests; worker-src 'self' *.wonderpush.com blob:",
     "x-content-type-options": "nosniff",
-    "x-envoy-upstream-service-time": "174",
+    "x-envoy-upstream-service-time": "172",
     "x-frame-options": "DENY",
     "x-powered-by": "PHP/8.4.16"
   },
