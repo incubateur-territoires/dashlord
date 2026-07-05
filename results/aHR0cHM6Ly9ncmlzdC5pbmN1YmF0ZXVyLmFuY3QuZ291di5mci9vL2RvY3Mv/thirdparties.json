@@ -3,10 +3,10 @@
   "cookies": [
     {
       "name": "_pk_id.109.b3ed",
-      "value": "b0fa96d44da6841a.1782616631.",
+      "value": "73249a44a09fb88e.1783219829.",
       "domain": "grist.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1816571831,
+      "expires": 1817175029,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -18,7 +18,7 @@
     },
     {
       "name": "grist_core",
-      "value": "s%3Ag-195581e8a9817948bd84030b795efa611f1bef4c8d0eb65e344295c4d1ef2a1b.Ra9Wlq0wkM%2Bm46lT%2FQozUXrnQZ7qStUrmOIG5lekT3U",
+      "value": "s%3Ag-d3b7337938d81774d025962adb96759693b38b254ec98869e837b2f033c47830.X3GnxB1C2ldf%2BTsJxkC%2FjSuQhack3CilpXgNIvdm2Go",
       "domain": "grist.incubateur.anct.gouv.fr",
       "path": "/",
       "expires": -1,
@@ -36,7 +36,7 @@
       "value": "1",
       "domain": "grist.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1782618430,
+      "expires": 1783221629,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -49,18 +49,18 @@
   ],
   "headers": {
     "content-language": "en-US",
-    "content-length": "7518",
+    "content-length": "7523",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 28 Jun 2026 03:17:08 GMT",
-    "etag": "W/\"1d5e-eyzW+dsyJ4hKBq5KhlaRdJhoJlo\"",
-    "set-cookie": "grist_core=s%3Ag-195581e8a9817948bd84030b795efa611f1bef4c8d0eb65e344295c4d1ef2a1b.Ra9Wlq0wkM%2Bm46lT%2FQozUXrnQZ7qStUrmOIG5lekT3U; Path=/; HttpOnly; SameSite=Lax",
+    "date": "Sun, 05 Jul 2026 02:50:27 GMT",
+    "etag": "W/\"1d63-noQH2df6+wyEeeIjaQg95O8xxR0\"",
+    "set-cookie": "grist_core=s%3Ag-d3b7337938d81774d025962adb96759693b38b254ec98869e837b2f033c47830.X3GnxB1C2ldf%2BTsJxkC%2FjSuQhack3CilpXgNIvdm2Go; Path=/; HttpOnly; SameSite=Lax",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "x-powered-by": "Express"
   },
   "endpoints": [
     {
       "hostname": "grist.incubateur.anct.gouv.fr",
-      "ip": "142.44.51.77",
+      "ip": "142.44.54.115",
       "geoip": {
         "continent": {
           "code": "EU",
