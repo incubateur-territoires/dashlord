@@ -4,8 +4,9 @@
   "attributes": {
     "name": "Suite territoriale",
     "pitch": "Elever le niveau de sécurité numérique des collectivités territoriales",
-    "stats_url": "",
-    "impact_url": "",
+    "stats_url": "https://suiteterritoriale.anct.gouv.fr/cartographie-deploiement",
+    "budget_url": "https://docs.numerique.gouv.fr/docs/77a2fd91-bb2e-4751-9b14-907dd6fa8855/",
+    "impact_url": "https://docs.numerique.gouv.fr/docs/d1cdaea5-7212-4955-b343-c9207fefebfe/",
     "link": "https://suiteterritoriale.anct.gouv.fr/",
     "repository": "https://github.com/suitenumerique/st-home/tree/main",
     "contact": "lasuiteterritoriale@anct.gouv.fr",
