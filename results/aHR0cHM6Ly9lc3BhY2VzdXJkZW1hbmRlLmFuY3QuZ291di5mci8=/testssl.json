@@ -360,7 +360,7 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "50 >= 30 days"
+              "finding"      : "43 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -506,22 +506,22 @@
               "id"           : "HTTP_status_code",
               "ip"           : "espacesurdemande.anct.gouv.fr/212.47.249.134",
               "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "200 OK ('/')"
+              "severity"     : "WARN",
+              "finding"      : "Unexpected 429 Too Many Requests @ '/'"
           }
 ,         {
               "id"           : "HTTP_clock_skew",
               "ip"           : "espacesurdemande.anct.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-6 seconds from localtime"
+              "finding"      : "-3 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "espacesurdemande.anct.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1783215904"
+              "finding"      : "1783819895"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -570,14 +570,14 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 at '/'"
+              "finding"      : "0 at '/' (maybe missed the application)"
           }
 ,         {
               "id"           : "X-Frame-Options",
               "ip"           : "espacesurdemande.anct.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "SAMEORIGIN"
+              "finding"      : "DENY"
           }
 ,         {
               "id"           : "X-Content-Type-Options",
@@ -585,41 +585,6 @@
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "nosniff"
-          }
-,         {
-              "id"           : "Content-Security-Policy",
-              "ip"           : "espacesurdemande.anct.gouv.fr/212.47.249.134",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "base-uri 'none'; font-src 'self' https: data:; form-action 'self'; frame-ancestors 'self'; img-src 'self' data: https://*.tile.openstreetmap.org https://stats.beta.gouv.fr https://s3.fr-par.scw.cloud https://*.cdn.espace-sur-demande.fr https://*.espacesurdemande.anct.gouv.fr; object-src 'none'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; script-src 'self' https: 'unsafe-inline' 'strict-dynamic' 'nonce-bajyrP8MM1gBd7mDz2HPQq7v'; upgrade-insecure-requests; frame-src 'self' https://www.youtube-nocookie.com/ https://espacesurdemande.metabase.donnees.incubateur.anct.gouv.fr/ https://recaptcha.net/recaptcha/;"
-          }
-,         {
-              "id"           : "Permissions-Policy",
-              "ip"           : "espacesurdemande.anct.gouv.fr/212.47.249.134",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "camera=(), display-capture=(), fullscreen=(), geolocation=(), microphone=()"
-          }
-,         {
-              "id"           : "Cross-Origin-Opener-Policy",
-              "ip"           : "espacesurdemande.anct.gouv.fr/212.47.249.134",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "same-origin"
-          }
-,         {
-              "id"           : "Cross-Origin-Resource-Policy",
-              "ip"           : "espacesurdemande.anct.gouv.fr/212.47.249.134",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "same-origin"
-          }
-,         {
-              "id"           : "Cross-Origin-Embedder-Policy",
-              "ip"           : "espacesurdemande.anct.gouv.fr/212.47.249.134",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "unsafe-none"
           }
 ,         {
               "id"           : "X-XSS-Protection",
@@ -640,7 +605,14 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "strict-origin-when-cross-origin"
+              "finding"      : "no-referrer"
+          }
+,         {
+              "id"           : "Cache-Control",
+              "ip"           : "espacesurdemande.anct.gouv.fr/212.47.249.134",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "no-cache"
           }
 ,         {
               "id"           : "banner_reverseproxy",
@@ -1147,6 +1119,6 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "88"
+              "finding"      : "55"
           }
 ]
