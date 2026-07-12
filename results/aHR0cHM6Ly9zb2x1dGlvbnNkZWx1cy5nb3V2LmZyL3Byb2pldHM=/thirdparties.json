@@ -35,12 +35,12 @@
   ],
   "cookies": [
     {
-      "name": "_pk_ses.22.6a82",
-      "value": "1",
+      "name": "_pk_id.22.6a82",
+      "value": "62fd5cd6807b4f00.1783821217.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1783219112,
-      "size": 16,
+      "expires": 1817776417,
+      "size": 42,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -50,12 +50,12 @@
       "sameParty": false
     },
     {
-      "name": "_pk_id.22.6a82",
-      "value": "33d6a3ac0eeac04a.1783217313.",
+      "name": "_pk_ses.22.6a82",
+      "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1817172513,
-      "size": 42,
+      "expires": 1783823016,
+      "size": 16,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -70,10 +70,10 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 05 Jul 2026 02:08:32 GMT",
-    "etag": "W/\"1783091783\"",
+    "date": "Sun, 12 Jul 2026 01:53:36 GMT",
+    "etag": "W/\"1783741200\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Fri, 03 Jul 2026 15:16:23 GMT",
+    "last-modified": "Sat, 11 Jul 2026 03:40:00 GMT",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\nCookie",
     "x-content-type-options": "nosniff",
@@ -81,7 +81,7 @@
     "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "76ef1720-2da0-4c92-9947-34200f50bbea"
+    "x-request-id": "5d65261a-7db5-4d6b-a6a1-13ebcd2c0638"
   },
   "endpoints": [
     {
@@ -184,8 +184,42 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.17.208.5",
+      "ip": "151.101.129.229",
       "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États-Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
