@@ -3,10 +3,10 @@
   "cookies": [
     {
       "name": "sc-sticky-session",
-      "value": "kjkHODpE5U8UyOawNTnPdQVvHLBleo2fw04nw2GqoZ7+X0hVeDGlGh0/u9G03QSdgdqcAxcY7Gw/HdbJsPJHiQ==",
+      "value": "i4skdd6/vCDFeQzeIYVMsb8KARnqKOQ270XbkTJP2HLPuYP97vY4RJEzafkxVmj69RC2AIzUdJSnRzXE/5fJOw==",
       "domain": "aplus.beta.gouv.fr",
       "path": "/",
-      "expires": 1783306292.377604,
+      "expires": 1783910435.823076,
       "size": 105,
       "httpOnly": true,
       "secure": true,
@@ -22,18 +22,18 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' https://code.jquery.com https://administration-plus-zammad.anct.cloud-ed.fr https://stats.beta.gouv.fr; style-src 'self' 'unsafe-inline' https://administration-plus-zammad.anct.cloud-ed.fr data:; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' https://sentry.incubateur.anct.gouv.fr https://administration-plus-zammad.anct.cloud-ed.fr wss://administration-plus-zammad.anct.cloud-ed.fr https://stats.beta.gouv.fr; worker-src 'self' blob:; frame-src 'self' https://statistiques.aplus.beta.gouv.fr; frame-ancestors 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 05 Jul 2026 02:51:31 GMT",
-    "link": "</>; rel=preconnect; crossorigin=\"\", </_next/static/chunks/a0dec6046a98b81f.css>; rel=preload; as=\"style\", </_next/static/chunks/757d93df8030a05c.css>; rel=preload; as=\"style\", </_next/static/chunks/30b76680066fa46c.css>; rel=preload; as=\"style\"",
+    "date": "Sun, 12 Jul 2026 02:40:35 GMT",
+    "link": "</>; rel=preconnect; crossorigin=\"\", </_next/static/chunks/a0dec6046a98b81f.css>; rel=preload; as=\"style\", </_next/static/chunks/e886a3f96393b4b1.css>; rel=preload; as=\"style\", </_next/static/chunks/53e9874a8c49b6ab.css>; rel=preload; as=\"style\"",
     "permissions-policy": "camera=(), microphone=(), geolocation=(), interest-cohort=()",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "set-cookie": "sc-sticky-session=kjkHODpE5U8UyOawNTnPdQVvHLBleo2fw04nw2GqoZ7+X0hVeDGlGh0/u9G03QSdgdqcAxcY7Gw/HdbJsPJHiQ==; Expires=Mon, 06-Jul-26 02:51:31 GMT; Max-Age=86400; Path=/; Secure; HttpOnly; SameSite=None",
+    "set-cookie": "sc-sticky-session=i4skdd6/vCDFeQzeIYVMsb8KARnqKOQ270XbkTJP2HLPuYP97vY4RJEzafkxVmj69RC2AIzUdJSnRzXE/5fJOw==; Expires=Mon, 13-Jul-26 02:40:35 GMT; Max-Age=86400; Path=/; Secure; HttpOnly; SameSite=None",
     "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
     "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-dns-prefetch-control": "on",
     "x-frame-options": "SAMEORIGIN",
     "x-powered-by": "Next.js",
-    "x-request-id": "9899fd4f-f5f3-4221-a84e-0943ece97255"
+    "x-request-id": "7fd587ce-2751-44e2-8095-31caa7fab88d"
   },
   "endpoints": [
     {
