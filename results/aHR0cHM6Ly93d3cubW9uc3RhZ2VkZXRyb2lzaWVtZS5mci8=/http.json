@@ -9,7 +9,7 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 05 Jul 2026 02:51:10 GMT",
+      "date": "Sun, 12 Jul 2026 02:38:35 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
@@ -19,17 +19,17 @@
       "x-download-options": "noopen",
       "x-permitted-cross-domain-policies": "none",
       "referrer-policy": "strict-origin-when-cross-origin",
-      "link": "</packs/css/application-3da6171b.css>; rel=preload; as=style; nopush",
+      "link": "</packs/css/application-5e4c6956.css>; rel=preload; as=style; nopush",
       "vary": "Accept-Encoding",
       "cache-control": "no-cache",
       "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'unsafe-inline' https://*.crisp.chat https://stats.beta.gouv.fr; connect-src 'self' https: https://*.crisp.chat wss://*.relay.crisp.chat wss://*.relay.rescue.crisp.chat; style-src 'self' https: 'unsafe-inline'; frame-src https://*.crisp.chat https://tally.so https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com; worker-src 'self' blob: https://*.crisp.chat",
       "set-cookie": [
-        "_monstage_session=De0H6hAdcjTAxwnhxYKb7%2BNUZdmZM1XlY1kXiTcJGMVJHzW7yLBJzzoSDoMPFtpAg4h38S510yWuJIhqGVqN0LjEBpSH1t%2BtaCqXTeOLbCid22T%2BW4gtdixpyXLrBDGm5AdEYNILLsvbI5fEAUy1WILUHDooQr9%2BhbReUfWkvmv12PKMKGNHGvLvessAtcx577qlPZf2HD9XdOZdwbGLp5uAHsgTIJTvn%2FDh1%2FZ0TTyMIC%2BedFIOohankX%2FTTffnD1lwJlkU1ax%2BejRtUlyAy9JD7IfRmkIsRA%3D%3D--4chH49Hy9WS62asJ--fxW40mv6i%2FnvuyD7S5GpRg%3D%3D; path=/; secure; httponly; samesite=lax"
+        "_monstage_session=gbWwSds1tjW37NB618PzzL31lBXMw4WWL58ukMjnEAHQ09hqmHrkl9%2BHdVPdiXi9N3rgRi1CsxKfjOGZyFe2d5SVCuWeXQUbhqSn5EdFDL2fHQeHGSNCBdaRl0nayQjyM4f5pk5pTgbRmQ8zsViZsIm70%2FRaJKAav0fAhxsgUHT05Qt6xSEAQZj8mOfNlOJXdTJVBkpP04TfoIinxHI2vLTZZ2Bq8b8SgB0IFKSo7ngiSUQAG2dYHzWtC4GP32n8QGuI4dMKpbeXaf%2BlT6ED3Ncw0XpPmDg%2FSQ%3D%3D--UGBRiSqAiFab7yuO--V9Wh2FxZf3hMWPsKNIWm7A%3D%3D; path=/; secure; httponly; samesite=lax"
       ],
-      "x-request-id": "f51a9f08-71e2-48bf-a7cb-c07163b1662d",
-      "x-runtime": "0.014947",
+      "x-request-id": "b1dbd845-8482-458c-bfd6-fbc6203daff8",
+      "x-runtime": "0.068880",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
-      "sozu-id": "01KWR2ZPHMHP0FBA5W6TTJ1H55"
+      "sozu-id": "01KXA31P1NGH3M4NZKAP53M7V5"
     }
   },
   "tests": {
