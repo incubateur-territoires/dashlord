@@ -2,12 +2,12 @@
   "trackers": [],
   "cookies": [
     {
-      "name": "__Secure-authjs.callback-url",
-      "value": "https%3A%2F%2Ftous-connectes.anct.gouv.fr",
+      "name": "__Host-authjs.csrf-token",
+      "value": "ed6b164eabdecbdf9313f9a61fc17b2f0874f26f5f2251370b04b800eb982260%7C130f56bb7e7cfef5d61995d2f42ba5eec6dd79ad7d7a7c0f2a75e94a4b74a1f9",
       "domain": "tous-connectes.anct.gouv.fr",
       "path": "/",
       "expires": -1,
-      "size": 69,
+      "size": 155,
       "httpOnly": true,
       "secure": true,
       "session": true,
@@ -17,12 +17,12 @@
       "sameParty": false
     },
     {
-      "name": "__Host-authjs.csrf-token",
-      "value": "a97ad21620a041baaf15ab26eff6c9cca18a9adb2d4240b6fe123c39722ca3d9%7Cfc393ece9b01f3f627e0fb194e0277945b38e0bb167998da86793f0da892c658",
+      "name": "__Secure-authjs.callback-url",
+      "value": "https%3A%2F%2Ftous-connectes.anct.gouv.fr",
       "domain": "tous-connectes.anct.gouv.fr",
       "path": "/",
       "expires": -1,
-      "size": 155,
+      "size": 69,
       "httpOnly": true,
       "secure": true,
       "session": true,
@@ -37,7 +37,7 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self'; frame-src 'self' https://tube.numerique.gouv.fr https://toutes-tous-connectes-metabase.osc-secnum-fr1.scalingo.io; frame-ancestors 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' blob: https://matomo.incubateur.anct.gouv.fr; script-src-attr 'unsafe-inline'; worker-src 'self' blob:; connect-src 'self' https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.anct.gouv.fr https://api-adresse.data.gouv.fr https://geo.api.gouv.fr https://data.geopf.fr https://openmaptiles.geo.data.gouv.fr https://openmaptiles.github.io https://lannuaire.service-public.fr https://api-lannuaire.service-public.fr https://fcp.integ01.dev-agentconnect.fr https://auth.agentconnect.gouv.fr; img-src 'self' data: blob: https://data.geopf.fr https://openmaptiles.geo.data.gouv.fr https://openmaptiles.github.io https://images.unsplash.com https://matomo.incubateur.anct.gouv.fr; style-src 'self' 'unsafe-inline'; font-src 'self' data:; form-action 'self'; base-uri 'self'; object-src 'none'",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 05 Jul 2026 02:42:38 GMT",
+    "date": "Sun, 12 Jul 2026 02:29:05 GMT",
     "etag": "\"2yfu0c0tmv11ku\"",
     "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), interest-cohort=()",
     "referrer-policy": "strict-origin-when-cross-origin",
@@ -49,7 +49,7 @@
     "x-nextjs-prerender": "1\n1",
     "x-nextjs-stale-time": "300",
     "x-powered-by": "Next.js",
-    "x-request-id": "62f60325-dcd0-4135-ab7a-5bcf5ab73f2a"
+    "x-request-id": "434ef87f-d64d-4ccb-aa17-39e4009d16c3"
   },
   "endpoints": [
     {
