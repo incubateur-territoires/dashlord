@@ -9,18 +9,18 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 05 Jul 2026 03:06:00 GMT",
+      "date": "Sun, 12 Jul 2026 02:51:33 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "0db84699-a8a6-4cdb-a81a-e119325075ff",
+      "x-request-id": "37a886ae-ba6c-4086-8812-da7bd3a1b84c",
       "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' *.gouv.fr *.beta.gouv.fr https://tally.so https://matomo.incubateur.anct.gouv.fr; script-src-elem 'self' 'unsafe-inline' *.gouv.fr *.beta.gouv.fr https://tally.so https://matomo.incubateur.anct.gouv.fr; style-src 'self' 'unsafe-inline' *.gouv.fr; img-src 'self' data: blob: *.gouv.fr *.beta.gouv.fr https://communs.cellar-c2.services.clever-cloud.com https://abc.naturefrance.fr https://matomo.incubateur.anct.gouv.fr; font-src 'self' data: *.gouv.fr; connect-src 'self' *.gouv.fr *.beta.gouv.fr https://api.collectivites.beta.gouv.fr https://matomo.incubateur.anct.gouv.fr; frame-src 'self' *.gouv.fr *.beta.gouv.fr https://aides-territoires.beta.gouv.fr https://tally.so; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; report-uri https://sentry.incubateur.anct.gouv.fr/api/17/security/?sentry_key=ef41e5b2b722872a06e51693d63699cf&sentry_environment=production",
       "x-frame-options": "DENY",
       "x-content-type-options": "nosniff",
       "referrer-policy": "strict-origin-when-cross-origin",
       "permissions-policy": "camera=(), microphone=(), geolocation=()",
       "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
-      "link": "</>; rel=preconnect; crossorigin=\"\", </_next/static/media/mec-logo.05caq63ekteqk.svg>; rel=preload; as=\"image\"",
+      "link": "</>; rel=preconnect; crossorigin=\"\", </_next/static/media/mec-logo.0ha3cih6ek85p.svg>; rel=preload; as=\"image\"",
       "x-powered-by": "Next.js",
       "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
       "strict-transport-security": "max-age=31536000"
@@ -141,12 +141,15 @@
     "redirection": {
       "expectation": "redirection-to-https",
       "pass": true,
-      "result": "redirection-not-needed-no-http",
+      "result": "redirection-to-https",
       "scoreModifier": 0,
-      "destination": "http://monespacecollectivite.anct.gouv.fr/",
+      "destination": "https://monespacecollectivite.anct.gouv.fr/",
       "redirects": true,
-      "route": [],
-      "statusCode": null
+      "route": [
+        "http://monespacecollectivite.anct.gouv.fr/",
+        "https://monespacecollectivite.anct.gouv.fr/"
+      ],
+      "statusCode": 200
     },
     "referrer-policy": {
       "expectation": "referrer-policy-private",
