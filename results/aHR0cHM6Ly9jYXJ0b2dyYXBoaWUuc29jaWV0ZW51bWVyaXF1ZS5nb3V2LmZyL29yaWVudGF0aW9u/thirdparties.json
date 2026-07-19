@@ -114,6 +114,10 @@
     },
     {
       "type": "unknown",
+      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/3wf9-iedb1vzj.js"
+    },
+    {
+      "type": "unknown",
       "url": "https://data.geopf.fr/tms/1.0.0/PLAN.IGN/5/16/11.pbf"
     },
     {
@@ -131,10 +135,6 @@
     {
       "type": "unknown",
       "url": "https://data.geopf.fr/tms/1.0.0/PLAN.IGN/4/7/6.pbf"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/3wf9-iedb1vzj.js"
     }
   ],
   "cookies": [],
@@ -142,12 +142,12 @@
     "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 12 Jul 2026 02:00:54 GMT",
+    "date": "Sun, 19 Jul 2026 01:58:06 GMT",
     "link": "<https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud>; rel=preconnect\n</images/app-logo.svg>; rel=preload; as=\"image\"",
     "server": "envoy",
     "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
     "x-cache-status": "STALE",
-    "x-envoy-upstream-service-time": "9",
+    "x-envoy-upstream-service-time": "8",
     "x-powered-by": "Next.js",
     "x-url": "http://0.0.0.0:3000/"
   },
@@ -252,7 +252,7 @@
     },
     {
       "hostname": "cartographie-prod-app-static-assets.s3.fr-par.scw.cloud",
-      "ip": "51.159.44.242",
+      "ip": "51.159.42.136",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
