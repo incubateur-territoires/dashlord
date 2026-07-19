@@ -9,7 +9,7 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 12 Jul 2026 02:38:35 GMT",
+      "date": "Sun, 19 Jul 2026 02:32:15 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
@@ -19,17 +19,17 @@
       "x-download-options": "noopen",
       "x-permitted-cross-domain-policies": "none",
       "referrer-policy": "strict-origin-when-cross-origin",
-      "link": "</packs/css/application-5e4c6956.css>; rel=preload; as=style; nopush",
+      "link": "</packs/css/application-fa685b30.css>; rel=preload; as=style; nopush",
       "vary": "Accept-Encoding",
       "cache-control": "no-cache",
       "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'unsafe-inline' https://*.crisp.chat https://stats.beta.gouv.fr; connect-src 'self' https: https://*.crisp.chat wss://*.relay.crisp.chat wss://*.relay.rescue.crisp.chat; style-src 'self' https: 'unsafe-inline'; frame-src https://*.crisp.chat https://tally.so https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com; worker-src 'self' blob: https://*.crisp.chat",
       "set-cookie": [
-        "_monstage_session=gbWwSds1tjW37NB618PzzL31lBXMw4WWL58ukMjnEAHQ09hqmHrkl9%2BHdVPdiXi9N3rgRi1CsxKfjOGZyFe2d5SVCuWeXQUbhqSn5EdFDL2fHQeHGSNCBdaRl0nayQjyM4f5pk5pTgbRmQ8zsViZsIm70%2FRaJKAav0fAhxsgUHT05Qt6xSEAQZj8mOfNlOJXdTJVBkpP04TfoIinxHI2vLTZZ2Bq8b8SgB0IFKSo7ngiSUQAG2dYHzWtC4GP32n8QGuI4dMKpbeXaf%2BlT6ED3Ncw0XpPmDg%2FSQ%3D%3D--UGBRiSqAiFab7yuO--V9Wh2FxZf3hMWPsKNIWm7A%3D%3D; path=/; secure; httponly; samesite=lax"
+        "_monstage_session=1rFnC972N9Hb%2BrXoLVrDBtcRnDNiDbUvizQfGGke%2FM5gbgTX3LHmOGqwEX8QAYCbN83AY6i4UU%2FEaxPkz5WenvlQEGGNWhGWPYBzRKObFds1tTOHIFRdxKfKSqolR69MzqvyHTvOORCDIiBdTp%2FT1NuYJKwUhCbLaMfaNyMBIs5DFoloisUjpTGj0aS7FvDClGPvwlPZPjl3DAQZ%2B0IMYtxqKpyKttfxC9DL3ymuvKCbn2XhBaQ3Ul1wBRjrOMlUnzO3KsCuctoCfnJ4fH31S6W30fEO%2BgVuXg%3D%3D--TKmpNWmHvZDqllfH--KXtYcGvhi%2BDTFmBg1kMumQ%3D%3D; path=/; secure; httponly; samesite=lax"
       ],
-      "x-request-id": "b1dbd845-8482-458c-bfd6-fbc6203daff8",
-      "x-runtime": "0.068880",
+      "x-request-id": "cf60cf47-ef6d-4765-b567-4e11b6415462",
+      "x-runtime": "0.065685",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
-      "sozu-id": "01KXA31P1NGH3M4NZKAP53M7V5"
+      "sozu-id": "01KXW3F3W6Q51AXRG0NWV9823M"
     }
   },
   "tests": {
@@ -130,11 +130,12 @@
       "pass": true,
       "result": "redirection-to-https",
       "scoreModifier": 0,
-      "destination": "https://www.monstagedetroisieme.fr/",
+      "destination": "https://www.monstagedetroisieme.fr/maintenance_estivale.html",
       "redirects": true,
       "route": [
         "http://www.monstagedetroisieme.fr/",
-        "https://www.monstagedetroisieme.fr/"
+        "https://www.monstagedetroisieme.fr/",
+        "https://www.monstagedetroisieme.fr/maintenance_estivale.html"
       ],
       "statusCode": 200
     },
