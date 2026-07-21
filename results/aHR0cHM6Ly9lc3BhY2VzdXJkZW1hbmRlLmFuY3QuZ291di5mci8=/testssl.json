@@ -206,7 +206,7 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
@@ -360,7 +360,7 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "36 >= 30 days"
+              "finding"      : "34 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -514,14 +514,14 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-2 seconds from localtime"
+              "finding"      : "-7 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "espacesurdemande.anct.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1784424573"
+              "finding"      : "1784639808"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1119,6 +1119,6 @@
               "ip"           : "espacesurdemande.anct.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "92"
+              "finding"      : "95"
           }
 ]
