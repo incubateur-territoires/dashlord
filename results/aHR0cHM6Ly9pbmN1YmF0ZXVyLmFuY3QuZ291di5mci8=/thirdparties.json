@@ -35,12 +35,12 @@
   ],
   "cookies": [
     {
-      "name": "_pk_ses.22.6a82",
-      "value": "1",
+      "name": "_pk_id.22.6a82",
+      "value": "992c78411cfd26b2.1784638975.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1784425548,
-      "size": 16,
+      "expires": 1818594175,
+      "size": 42,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -50,12 +50,12 @@
       "sameParty": false
     },
     {
-      "name": "_pk_id.22.6a82",
-      "value": "994a28239cc152d7.1784423749.",
+      "name": "_pk_ses.22.6a82",
+      "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1818378949,
-      "size": 42,
+      "expires": 1784640774,
+      "size": 16,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -70,10 +70,10 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 19 Jul 2026 01:15:47 GMT",
-    "etag": "W/\"1783628543\"",
+    "date": "Tue, 21 Jul 2026 13:02:54 GMT",
+    "etag": "W/\"1784624187\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Thu, 09 Jul 2026 20:22:23 GMT",
+    "last-modified": "Tue, 21 Jul 2026 08:56:27 GMT",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\nCookie",
     "x-content-type-options": "nosniff",
@@ -81,12 +81,12 @@
     "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "ee0c0f26-e7d9-4f96-bf73-d602f5a21cfa"
+    "x-request-id": "c884e518-6daf-44bf-98f9-5e78f82c4fcb"
   },
   "endpoints": [
     {
       "hostname": "incubateur.anct.gouv.fr",
-      "ip": "80.247.12.255",
+      "ip": "148.253.96.193",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -142,7 +142,7 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.17.208.5",
+      "ip": "104.17.207.5",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
