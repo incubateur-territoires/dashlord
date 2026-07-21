@@ -1,0 +1,24 @@
+{
+  "links": [
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "barnabe.incubateur.anct.gouv.fr",
+        "port": null,
+        "hostname": "barnabe.incubateur.anct.gouv.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/",
+        "path": "/",
+        "href": "https://barnabe.incubateur.anct.gouv.fr/"
+      },
+      "link": "https://barnabe.incubateur.anct.gouv.fr/",
+      "line": "--2026-07-21 14:48:31--  https://barnabe.incubateur.anct.gouv.fr/",
+      "broken": false
+    }
+  ],
+  "broken": []
+}

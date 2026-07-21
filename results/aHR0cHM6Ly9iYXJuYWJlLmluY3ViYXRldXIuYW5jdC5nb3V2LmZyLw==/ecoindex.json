@@ -1,0 +1,17 @@
+[
+    {
+        "width": 1920,
+        "height": 1080,
+        "url": "https://barnabe.incubateur.anct.gouv.fr/",
+        "size": 369.33,
+        "nodes": 175,
+        "requests": 14,
+        "grade": "A",
+        "score": 86.0,
+        "ges": 1.28,
+        "water": 1.92,
+        "ecoindex_version": "5.4.2",
+        "date": "2026-07-21 14:47:29.466582",
+        "page_type": null
+    }
+]
