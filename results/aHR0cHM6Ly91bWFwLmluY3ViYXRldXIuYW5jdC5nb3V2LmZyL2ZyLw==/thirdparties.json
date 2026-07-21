@@ -83,12 +83,12 @@
   ],
   "cookies": [
     {
-      "name": "_pk_ses.35.8651",
-      "value": "1",
+      "name": "_pk_id.35.8651",
+      "value": "bad51a917b090676.1784641246.",
       "domain": "umap.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1784428044,
-      "size": 16,
+      "expires": 1818596446,
+      "size": 42,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -98,12 +98,12 @@
       "sameParty": false
     },
     {
-      "name": "_pk_id.35.8651",
-      "value": "d8634d209c923eab.1784426244.",
+      "name": "_pk_ses.35.8651",
+      "value": "1",
       "domain": "umap.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1818381444,
-      "size": 42,
+      "expires": 1784643046,
+      "size": 16,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -117,7 +117,7 @@
     "content-encoding": "br",
     "content-language": "fr",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 19 Jul 2026 01:57:22 GMT",
+    "date": "Tue, 21 Jul 2026 13:40:44 GMT",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Accept-Encoding\nCookie"
   },
