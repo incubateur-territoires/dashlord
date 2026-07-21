@@ -360,7 +360,7 @@
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "52 >= 30 days"
+              "finding"      : "50 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -556,14 +556,14 @@
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1784427428"
+              "finding"      : "1784642447"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1154,6 +1154,6 @@
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "109"
+              "finding"      : "60"
           }
 ]
