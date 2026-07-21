@@ -1,12 +1,43 @@
 {
   "trackers": [],
-  "cookies": [],
+  "cookies": [
+    {
+      "name": "__Host-authjs.csrf-token",
+      "value": "988ca0c46183a4c592b8e1ad65f7d84b2db32aaf817c3a32329c6d3c8dfa8183%7C99a177a5b11432c928b3dcfaff7a3d52f31e956bac3ae61d0aabdc4c395e38ff",
+      "domain": "tous-connectes.anct.gouv.fr",
+      "path": "/",
+      "expires": -1,
+      "size": 155,
+      "httpOnly": true,
+      "secure": true,
+      "session": true,
+      "sameSite": "Lax",
+      "priority": "Medium",
+      "sourceScheme": "Secure",
+      "sameParty": false
+    },
+    {
+      "name": "__Secure-authjs.callback-url",
+      "value": "https%3A%2F%2Ftous-connectes.anct.gouv.fr",
+      "domain": "tous-connectes.anct.gouv.fr",
+      "path": "/",
+      "expires": -1,
+      "size": 69,
+      "httpOnly": true,
+      "secure": true,
+      "session": true,
+      "sameSite": "Lax",
+      "priority": "Medium",
+      "sourceScheme": "Secure",
+      "sameParty": false
+    }
+  ],
   "headers": {
     "cache-control": "s-maxage=31536000",
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self'; frame-src 'self' https://tube.numerique.gouv.fr https://toutes-tous-connectes-metabase.osc-secnum-fr1.scalingo.io; frame-ancestors 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' blob: https://matomo.incubateur.anct.gouv.fr; script-src-attr 'unsafe-inline'; worker-src 'self' blob:; connect-src 'self' https://matomo.incubateur.anct.gouv.fr https://sentry.incubateur.anct.gouv.fr https://api-adresse.data.gouv.fr https://geo.api.gouv.fr https://data.geopf.fr https://openmaptiles.geo.data.gouv.fr https://openmaptiles.github.io https://lannuaire.service-public.fr https://api-lannuaire.service-public.fr https://fcp.integ01.dev-agentconnect.fr https://auth.agentconnect.gouv.fr; img-src 'self' data: blob: https://data.geopf.fr https://openmaptiles.geo.data.gouv.fr https://openmaptiles.github.io https://images.unsplash.com https://matomo.incubateur.anct.gouv.fr; style-src 'self' 'unsafe-inline'; font-src 'self' data:; form-action 'self'; base-uri 'self'; object-src 'none'",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 19 Jul 2026 02:27:08 GMT",
+    "date": "Tue, 21 Jul 2026 14:18:13 GMT",
     "etag": "\"2yfu0c0tmv11ku\"",
     "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), interest-cohort=()",
     "referrer-policy": "strict-origin-when-cross-origin",
@@ -18,12 +49,12 @@
     "x-nextjs-prerender": "1\n1",
     "x-nextjs-stale-time": "300",
     "x-powered-by": "Next.js",
-    "x-request-id": "618b3a93-1e51-493f-bc0e-ccb31aceac81"
+    "x-request-id": "e8603f0f-229e-4278-ad0e-6265a9e18f9f"
   },
   "endpoints": [
     {
       "hostname": "tous-connectes.anct.gouv.fr",
-      "ip": "80.247.13.145",
+      "ip": "80.247.12.255",
       "geoip": {
         "continent": {
           "code": "EU",
