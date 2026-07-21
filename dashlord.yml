@@ -130,3 +130,6 @@ urls:
     betaId: services.web.anct
     repositories:
       - https://gitlab.com/incubateur-territoires/startups/site-web-anct/anct.gouv.fr
+  - url: https://barnabe.incubateur.anct.gouv.fr/
+    repositories:
+      - https://gitlab.com/incubateur-territoires/startups/barnabe/barnabe
