@@ -10,7 +10,7 @@
 <pre>
 <span style="font-weight:bold;">
 #####################################################################</span>
-  <span style="font-weight:bold;">testssl.sh</span> version <span style="font-weight:bold;">3.2.3</span> from <a href="https://testssl.sh/" style="font-weight:bold;color:black;text-decoration:none;">https://testssl.sh/</a>
+  <span style="font-weight:bold;">testssl.sh</span> version <span style="font-weight:bold;">3.2.4</span> from <a href="https://testssl.sh/" style="font-weight:bold;color:black;text-decoration:none;">https://testssl.sh/</a>
 <span style="font-weight:bold;">
   This program is free software. Distribution and modification under
   GPLv2 permitted. USAGE w/o ANY WARRANTY. USE IT AT YOUR OWN RISK!</span>
@@ -19,9 +19,9 @@
 <span style="font-weight:bold;">#####################################################################</span>
 
   Using <i>OpenSSL 1.0.2-bad (Mar 28 2025)</i>  [~183 ciphers]
-  on runnervm5mmn9:/home/testssl/bin/openssl.Linux.x86_64
+  on runnervm3jd5f:/home/testssl/bin/openssl.Linux.x86_64
 
-<span style="color:white;background-color:black;"> Start 2026-07-12 01:55:46        --&gt;&gt; 51.159.115.116:443 (solutionsdelus.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Start 2026-07-21 13:42:50        --&gt;&gt; 51.159.115.116:443 (solutionsdelus.gouv.fr) &lt;&lt;--</span>
 
  Further IP addresses:   2001:bc8:711:37dd:: 
  rDNS (51.159.115.116):  116-115-159-51.instances.scw.cloud.
@@ -83,9 +83,9 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                               &quot;extended master secret/#23&quot; &quot;session ticket/#35&quot;
                               &quot;supported versions/#43&quot; &quot;key share/#51&quot;
                               &quot;renegotiation info/#65281&quot;
-<span style="font-weight:bold;"> Session Ticket RFC 5077 hint </span>7200 seconds, session tickets keys seems to be rotated &lt; daily
+<span style="font-weight:bold;"> Session Ticket RFC 5077 hint </span>7199 seconds, session tickets keys seems to be rotated &lt; daily
 <span style="font-weight:bold;"> SSL Session ID support       </span>yes
-<span style="font-weight:bold;"> Session Resumption           </span>Tickets no, ID: no
+<span style="font-weight:bold;"> Session Resumption           </span>Tickets: yes, ID: no
 <span style="font-weight:bold;"> TLS clock skew</span>               Random values, no fingerprinting possible 
 <span style="font-weight:bold;"> Certificate Compression      </span>none
 <span style="font-weight:bold;"> Client Authentication        </span>none
@@ -93,27 +93,28 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Server key size              </span>RSA 2048 bits (exponent is 65537)
 <span style="font-weight:bold;"> Server key usage             </span>Digital Signature, Key Encipherment
 <span style="font-weight:bold;"> Server extended key usage    </span>TLS Web Server Authentication
-<span style="font-weight:bold;"> Serial                       </span>055F37F4CEFBAE9D1D87FAC9FD31B3C79D1A (OK: length 18)
-<span style="font-weight:bold;"> Fingerprints                 </span>SHA1 B16F405836D18C307C06DF9F45BAF1B7BF908906
-                              SHA256 2E6D573922C07ACBFC6BCCCA6491509CE88982957C97394D5467CECF7379D660
+<span style="font-weight:bold;"> Serial                       </span>052D7EF47EEF9128EC46631670E2D4B3DE0E (OK: length 18)
+<span style="font-weight:bold;"> Fingerprints                 </span>SHA1 D7BDDA399D3F5D931C3DF5E2A1FEC7DB1D364252
+                              SHA256 E41D4368B98617702A24B48D7D278C718369B92625A85A09CB67F701D20AAF70
 <span style="font-weight:bold;"> Common Name (CN)             </span><i>solutionsdelus.gouv.fr </i> (CN in response to request w/o SNI: <i>*.functions.fnc.fr-par.scw.cloud </i>)
 <span style="font-weight:bold;"> subjectAltName (SAN)         </span><i>solutionsdelus.gouv.fr </i>
 <span style="font-weight:bold;"> Trust (hostname)             </span><span style="color:#008817;">Ok via SAN and CN</span> (SNI mandatory)
                               <span style="color:#a86437;">wildcard certificate</span> could be problematic, see other hosts at
-                              https://search.censys.io/search?resource=hosts&amp;virtual_hosts=INCLUDE&amp;q=2E6D573922C07ACBFC6BCCCA6491509CE88982957C97394D5467CECF7379D660
+                              https://search.censys.io/search?resource=hosts&amp;virtual_hosts=INCLUDE&amp;q=E41D4368B98617702A24B48D7D278C718369B92625A85A09CB67F701D20AAF70
 <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
 <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">30 &gt;= 30 days</span> (2026-05-13 05:50 --&gt; 2026-08-11 05:49)
+<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">80 &gt;= 30 days</span> (2026-07-12 04:51 --&gt; 2026-10-10 04:51)
 <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
-<span style="font-weight:bold;"> Certificate Revocation List  </span>http://r13.c.lencr.org/27.crl
+<span style="font-weight:bold;"> Certificate Revocation List  </span>http://yr1.c.lencr.org/15.crl
 <span style="font-weight:bold;"> OCSP URI                     </span>--
 <span style="font-weight:bold;"> OCSP stapling                </span>not offered
 <span style="font-weight:bold;"> OCSP must staple extension   </span>--
 <span style="font-weight:bold;"> DNS CAA RR</span> (experimental)    <span style="color:#a86437;">not offered</span>
 <span style="font-weight:bold;"> Certificate Transparency     </span><span style="color:#008817;">yes</span> (certificate extension)
-<span style="font-weight:bold;"> Certificates provided</span>        2
-<span style="font-weight:bold;"> Issuer                       </span><i>R13</i> (<i>Let&apos;s Encrypt</i> from <i>US</i>)
-<span style="font-weight:bold;"> Intermediate cert validity   </span>#1: <span style="color:#008817;">ok &gt; 40 days</span> (2027-03-12 23:59). <i>R13</i> &lt;-- <i>ISRG Root X1</i>
+<span style="font-weight:bold;"> Certificates provided</span>        3
+<span style="font-weight:bold;"> Issuer                       </span><i>YR1</i> (<i>Let&apos;s Encrypt</i> from <i>US</i>)
+<span style="font-weight:bold;"> Intermediate cert validity   </span>#1: <span style="color:#008817;">ok &gt; 40 days</span> (2028-09-02 23:59). <i>YR1</i> &lt;-- <i>Root YR</i>
+                              #2: <span style="color:#008817;">ok &gt; 40 days</span> (2032-09-02 23:59). <i>Root YR</i> &lt;-- <i>ISRG Root X1</i>
 <span style="font-weight:bold;"> Intermediate Bad OCSP</span> (exp.) <span style="color:#008817;">Ok</span>
 
 
@@ -146,7 +147,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> FREAK</span> (CVE-2015-0204)                     <span style="color:#008817;font-weight:bold;">not vulnerable (OK)</span>
 <span style="font-weight:bold;"> DROWN</span> (CVE-2016-0800, CVE-2016-0703)      <span style="color:#008817;font-weight:bold;">not vulnerable on this host and port (OK)</span>
                                            make sure you don&apos;t use this certificate elsewhere with SSLv2 enabled services, see
-                                           <a href="https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=2E6D573922C07ACBFC6BCCCA6491509CE88982957C97394D5467CECF7379D660" style="color:black;text-decoration:none;">https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=2E6D573922C07ACBFC6BCCCA6491509CE88982957C97394D5467CECF7379D660</a>
+                                           <a href="https://search.censys.io/search?resource=hosts&amp;virtual_hosts=INCLUDE&amp;q=E41D4368B98617702A24B48D7D278C718369B92625A85A09CB67F701D20AAF70" style="color:black;text-decoration:none;">https://search.censys.io/search?resource=hosts&amp;virtual_hosts=INCLUDE&amp;q=E41D4368B98617702A24B48D7D278C718369B92625A85A09CB67F701D20AAF70</a>
 <span style="font-weight:bold;"> LOGJAM</span> (CVE-2015-4000), experimental      <span style="color:#008817;">not vulnerable (OK):</span> no DH EXPORT ciphers, no DH key detected with &lt;= TLS 1.2
 <span style="font-weight:bold;"> BEAST</span> (CVE-2011-3389)                     <span style="color:#008817;">not vulnerable (OK)</span>, no SSL3 or TLS1
 <span style="font-weight:bold;"> LUCKY13</span> (CVE-2013-0169), experimental     <span style="color:#008817;font-weight:bold;">not vulnerable (OK)</span>
@@ -205,7 +206,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Final Score                  </span>81
 <span style="font-weight:bold;"> Overall Grade                </span><span style="color:#008817;font-weight:bold;">A+</span>
 
-<span style="color:white;background-color:black;"> Done 2026-07-12 01:56:39 [  55s] --&gt;&gt; 51.159.115.116:443 (solutionsdelus.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Done 2026-07-21 13:44:29 [ 101s] --&gt;&gt; 51.159.115.116:443 (solutionsdelus.gouv.fr) &lt;&lt;--</span>
 
 
 </pre>
