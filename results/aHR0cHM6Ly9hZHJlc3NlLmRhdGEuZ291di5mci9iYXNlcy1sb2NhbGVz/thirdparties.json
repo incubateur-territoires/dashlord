@@ -71,12 +71,12 @@
   ],
   "cookies": [
     {
-      "name": "_pk_id.13.592e",
-      "value": "b95c1d4fccbdbe52.1784424214.",
+      "name": "_pk_ses.13.592e",
+      "value": "1",
       "domain": "adresse.data.gouv.fr",
       "path": "/",
-      "expires": 1818379414,
-      "size": 42,
+      "expires": 1784641259,
+      "size": 16,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -86,12 +86,12 @@
       "sameParty": false
     },
     {
-      "name": "_pk_ses.13.592e",
-      "value": "1",
+      "name": "_pk_id.13.592e",
+      "value": "83e23a2390e6cb1e.1784639459.",
       "domain": "adresse.data.gouv.fr",
       "path": "/",
-      "expires": 1784426014,
-      "size": 16,
+      "expires": 1818594659,
+      "size": 42,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -105,7 +105,7 @@
     "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 19 Jul 2026 01:23:32 GMT",
+    "date": "Tue, 21 Jul 2026 13:10:56 GMT",
     "link": "</>; rel=preconnect; crossorigin=\"\", </_next/static/chunks/01m~nvlw410tf.css>; rel=preload; as=\"style\", </_next/static/chunks/02dxqky5dwyob.css>; rel=preload; as=\"style\", </_next/static/chunks/0xgn_pzqkr1v2.css>; rel=preload; as=\"style\"",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
@@ -170,7 +170,7 @@
     },
     {
       "hostname": "baseadressenationale.github.io",
-      "ip": "185.199.110.153",
+      "ip": "185.199.109.153",
       "geoip": {
         "continent": {
           "code": "NA",
