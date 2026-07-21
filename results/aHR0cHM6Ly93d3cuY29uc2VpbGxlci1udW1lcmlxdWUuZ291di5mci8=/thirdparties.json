@@ -23,7 +23,7 @@
       "value": "1",
       "domain": "www.conseiller-numerique.gouv.fr",
       "path": "/",
-      "expires": 1784428459,
+      "expires": 1784643755,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -35,10 +35,10 @@
     },
     {
       "name": "_pk_id.147.204e",
-      "value": "7ca966eae1edeea9.1784426659.",
+      "value": "6eeffd2367c50341.1784641955.",
       "domain": "www.conseiller-numerique.gouv.fr",
       "path": "/",
-      "expires": 1818381859,
+      "expires": 1818597155,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -56,18 +56,18 @@
     "content-encoding": "gzip",
     "content-length": "1114",
     "content-type": "text/html",
-    "date": "Sun, 19 Jul 2026 02:04:17 GMT",
+    "date": "Tue, 21 Jul 2026 13:52:34 GMT",
     "etag": "\"b61-656a1d22a0320-gzip\"",
     "keep-alive": "timeout=5, max=100",
     "last-modified": "Wed, 15 Jul 2026 08:07:55 GMT",
     "server": "Apache",
-    "sozu-id": "01KXW1VXZ92JF3ZJEPFN01VJ0F",
+    "sozu-id": "01KY2F6871VY9FJ5209RX9B8QC",
     "vary": "Accept-Encoding"
   },
   "endpoints": [
     {
       "hostname": "www.conseiller-numerique.gouv.fr",
-      "ip": "91.208.207.221",
+      "ip": "91.208.207.220",
       "geoip": {
         "continent": {
           "code": "EU",
