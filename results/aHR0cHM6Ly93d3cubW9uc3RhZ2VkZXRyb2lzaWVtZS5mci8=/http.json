@@ -9,7 +9,7 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 19 Jul 2026 02:32:15 GMT",
+      "date": "Tue, 21 Jul 2026 14:23:18 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
@@ -24,12 +24,12 @@
       "cache-control": "no-cache",
       "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'unsafe-inline' https://*.crisp.chat https://stats.beta.gouv.fr; connect-src 'self' https: https://*.crisp.chat wss://*.relay.crisp.chat wss://*.relay.rescue.crisp.chat; style-src 'self' https: 'unsafe-inline'; frame-src https://*.crisp.chat https://tally.so https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com; worker-src 'self' blob: https://*.crisp.chat",
       "set-cookie": [
-        "_monstage_session=1rFnC972N9Hb%2BrXoLVrDBtcRnDNiDbUvizQfGGke%2FM5gbgTX3LHmOGqwEX8QAYCbN83AY6i4UU%2FEaxPkz5WenvlQEGGNWhGWPYBzRKObFds1tTOHIFRdxKfKSqolR69MzqvyHTvOORCDIiBdTp%2FT1NuYJKwUhCbLaMfaNyMBIs5DFoloisUjpTGj0aS7FvDClGPvwlPZPjl3DAQZ%2B0IMYtxqKpyKttfxC9DL3ymuvKCbn2XhBaQ3Ul1wBRjrOMlUnzO3KsCuctoCfnJ4fH31S6W30fEO%2BgVuXg%3D%3D--TKmpNWmHvZDqllfH--KXtYcGvhi%2BDTFmBg1kMumQ%3D%3D; path=/; secure; httponly; samesite=lax"
+        "_monstage_session=E%2BZHud6vSur%2B5SEgIxKyf6Z4psvQIBHRkH%2FRaH6la9PQ%2FkEY%2BztiMnfjjWMr%2Bvc%2B3e%2B20b9AcmLrh%2BO%2B0oPkrQXHZi%2FHshAHbFLhTTYDm1dY%2FmiI49l6AX89cOFc2LuXlDnwf6jK9ZTlGPCSZGWrpRDeYVPONuoyU6bu309BlZsqCmQ2hoVUAMjFoMc3pjnrthdxKIJUZZMYx6Jq9n169IV9o9opcBPJstbfvl4aFrKDoqskvhKehr5V0THPD0RUkmnl7L43cLSAFzCvKpRW0ECQ9Knsm1%2BJYQ%3D%3D--6ToalI9PDPnx8vlQ--1kc4HAzQogBbio9z7ZVafw%3D%3D; path=/; secure; httponly; samesite=lax"
       ],
-      "x-request-id": "cf60cf47-ef6d-4765-b567-4e11b6415462",
-      "x-runtime": "0.065685",
+      "x-request-id": "2d8dd8a2-f842-4bba-8546-49294804988c",
+      "x-runtime": "0.010581",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
-      "sozu-id": "01KXW3F3W6Q51AXRG0NWV9823M"
+      "sozu-id": "01KY2GYH3RWFHTWBBYEZR2DVW1"
     }
   },
   "tests": {
