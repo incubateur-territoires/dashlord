@@ -9,11 +9,11 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 19 Jul 2026 02:37:57 GMT",
+      "date": "Tue, 21 Jul 2026 14:32:31 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "c1779a2c-5aa3-4803-96f8-31204ed18ff2",
+      "x-request-id": "372664ce-2040-4bf5-812c-3eecfdd77047",
       "x-dns-prefetch-control": "on",
       "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
       "x-frame-options": "SAMEORIGIN",
@@ -22,11 +22,11 @@
       "permissions-policy": "camera=(), microphone=(), geolocation=(), interest-cohort=()",
       "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' https://code.jquery.com https://administration-plus-zammad.anct.cloud-ed.fr https://stats.beta.gouv.fr; style-src 'self' 'unsafe-inline' https://administration-plus-zammad.anct.cloud-ed.fr data:; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' https://sentry.incubateur.anct.gouv.fr https://administration-plus-zammad.anct.cloud-ed.fr wss://administration-plus-zammad.anct.cloud-ed.fr https://stats.beta.gouv.fr; worker-src 'self' blob:; frame-src 'self' https://statistiques.aplus.beta.gouv.fr; frame-ancestors 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests",
       "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
-      "link": "</>; rel=preconnect; crossorigin=\"\", </_next/static/chunks/a0dec6046a98b81f.css>; rel=preload; as=\"style\", </_next/static/chunks/9bf2688bfdf50ea7.css>; rel=preload; as=\"style\", </_next/static/chunks/f7e494d527ada9a9.css>; rel=preload; as=\"style\"",
+      "link": "</>; rel=preconnect; crossorigin=\"\", </_next/static/chunks/a0dec6046a98b81f.css>; rel=preload; as=\"style\", </_next/static/chunks/7dc03769fd8ef37e.css>; rel=preload; as=\"style\", </_next/static/chunks/f3dd31d22feeb8c8.css>; rel=preload; as=\"style\"",
       "x-powered-by": "Next.js",
       "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
       "set-cookie": [
-        "sc-sticky-session=g3fTw6vPzyJ12n8MsfRtMcprXv+PgFN8z0Yop28BPBb+9QlonRozt+ej4Vn8+1q7rVsjrdEgKoxai+CR41qQKA==; Expires=Mon, 20-Jul-26 02:37:57 GMT; Max-Age=86400; Path=/; Secure; HttpOnly; SameSite=None"
+        "sc-sticky-session=eovXm7xs/tULv/VbtZB+yADw92X7D2785p2akwx8rEGG49sjP5mrG0nY+o1/UowlxCC5BF9gddpmwiZLaz+Tag==; Expires=Wed, 22-Jul-26 14:32:31 GMT; Max-Age=86400; Path=/; Secure; HttpOnly; SameSite=None"
       ]
     }
   },
@@ -117,7 +117,7 @@
       "data": {
         "sc-sticky-session": {
           "domain": "aplus.beta.gouv.fr",
-          "expires": "2026-07-20T02:37:57.000Z",
+          "expires": "2026-07-22T14:32:31.000Z",
           "httponly": true,
           "max-age": 86400,
           "path": "/",
