@@ -9,11 +9,11 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Tue, 21 Jul 2026 14:41:44 GMT",
+      "date": "Sun, 26 Jul 2026 02:52:54 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "90f612ef-a2b1-4b82-bc74-e410d7a4249c",
+      "x-request-id": "b7ecdecf-3829-4a5d-95e8-88e25e755216",
       "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' *.gouv.fr *.beta.gouv.fr https://tally.so https://matomo.incubateur.anct.gouv.fr; script-src-elem 'self' 'unsafe-inline' *.gouv.fr *.beta.gouv.fr https://tally.so https://matomo.incubateur.anct.gouv.fr; style-src 'self' 'unsafe-inline' *.gouv.fr; img-src 'self' data: blob: *.gouv.fr *.beta.gouv.fr https://communs.cellar-c2.services.clever-cloud.com https://abc.naturefrance.fr https://matomo.incubateur.anct.gouv.fr; font-src 'self' data: *.gouv.fr; connect-src 'self' *.gouv.fr *.beta.gouv.fr https://api.collectivites.beta.gouv.fr https://matomo.incubateur.anct.gouv.fr; frame-src 'self' *.gouv.fr *.beta.gouv.fr https://aides-territoires.beta.gouv.fr https://tally.so; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; report-uri https://sentry.incubateur.anct.gouv.fr/api/17/security/?sentry_key=ef41e5b2b722872a06e51693d63699cf&sentry_environment=production",
       "x-frame-options": "DENY",
       "x-content-type-options": "nosniff",
