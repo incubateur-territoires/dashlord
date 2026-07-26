@@ -71,12 +71,12 @@
   ],
   "cookies": [
     {
-      "name": "_pk_ses.13.592e",
-      "value": "1",
+      "name": "_pk_id.13.592e",
+      "value": "caf182b621bb99d3.1785029568.",
       "domain": "adresse.data.gouv.fr",
       "path": "/",
-      "expires": 1784641259,
-      "size": 16,
+      "expires": 1818984768,
+      "size": 42,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -86,12 +86,12 @@
       "sameParty": false
     },
     {
-      "name": "_pk_id.13.592e",
-      "value": "83e23a2390e6cb1e.1784639459.",
+      "name": "_pk_ses.13.592e",
+      "value": "1",
       "domain": "adresse.data.gouv.fr",
       "path": "/",
-      "expires": 1818594659,
-      "size": 42,
+      "expires": 1785031368,
+      "size": 16,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -105,8 +105,8 @@
     "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Tue, 21 Jul 2026 13:10:56 GMT",
-    "link": "</>; rel=preconnect; crossorigin=\"\", </_next/static/chunks/01m~nvlw410tf.css>; rel=preload; as=\"style\", </_next/static/chunks/02dxqky5dwyob.css>; rel=preload; as=\"style\", </_next/static/chunks/0xgn_pzqkr1v2.css>; rel=preload; as=\"style\"",
+    "date": "Sun, 26 Jul 2026 01:32:46 GMT",
+    "link": "</>; rel=preconnect; crossorigin=\"\", </_next/static/media/Marianne-Regular.0gd-6epr788~~.woff2>; rel=preload; as=\"font\"; crossorigin=\"anonymous\", </_next/static/media/Marianne-Medium.010xidx-yq5i_.woff2>; rel=preload; as=\"font\"; crossorigin=\"anonymous\", </_next/static/media/Marianne-Bold.0nc-z6c8sy8jt.woff2>; rel=preload; as=\"font\"; crossorigin=\"anonymous\", </logo-ban-site.svg>; rel=preload; as=\"image\", </logos/LOGO-MINISTERE-ECOLOGIE.jpg>; rel=preload; as=\"image\", </logos/LOGO-IGN.png>; rel=preload; as=\"image\", </logos/LOGO-ANCT.png>; rel=preload; as=\"image\"",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
     "x-powered-by": "Next.js"
@@ -170,7 +170,7 @@
     },
     {
       "hostname": "baseadressenationale.github.io",
-      "ip": "185.199.109.153",
+      "ip": "185.199.110.153",
       "geoip": {
         "continent": {
           "code": "NA",
