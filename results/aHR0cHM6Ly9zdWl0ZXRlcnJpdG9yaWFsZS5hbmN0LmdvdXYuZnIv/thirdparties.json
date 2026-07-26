@@ -3,10 +3,10 @@
   "cookies": [
     {
       "name": "_pk_id.18.3071",
-      "value": "147e7c1774fd5d0b.1784644545.",
+      "value": "0735f03362ab060f.1785034207.",
       "domain": "suiteterritoriale.anct.gouv.fr",
       "path": "/",
-      "expires": 1818599745,
+      "expires": 1818989407,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -21,7 +21,7 @@
       "value": "1",
       "domain": "suiteterritoriale.anct.gouv.fr",
       "path": "/",
-      "expires": 1784646345,
+      "expires": 1785036006,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -36,12 +36,12 @@
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Tue, 21 Jul 2026 14:35:43 GMT",
+    "date": "Sun, 26 Jul 2026 02:50:04 GMT",
     "etag": "\"65knv0l2mj64vy\"",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "via": "1.1 Caddy",
-    "x-request-id": "9e3f9997-3cec-4d74-bfaa-c73b40e2bfe5"
+    "x-request-id": "478eace0-12ae-492e-a3b7-fc079175eeba"
   },
   "endpoints": [
     {
