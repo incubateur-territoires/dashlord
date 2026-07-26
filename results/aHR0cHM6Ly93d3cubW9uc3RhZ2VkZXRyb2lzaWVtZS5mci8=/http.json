@@ -9,7 +9,7 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Tue, 21 Jul 2026 14:23:18 GMT",
+      "date": "Sun, 26 Jul 2026 02:37:54 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
@@ -19,17 +19,17 @@
       "x-download-options": "noopen",
       "x-permitted-cross-domain-policies": "none",
       "referrer-policy": "strict-origin-when-cross-origin",
-      "link": "</packs/css/application-fa685b30.css>; rel=preload; as=style; nopush",
+      "link": "</packs/css/application-ac35cf18.css>; rel=preload; as=style; nopush",
       "vary": "Accept-Encoding",
       "cache-control": "no-cache",
-      "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'unsafe-inline' https://*.crisp.chat https://stats.beta.gouv.fr; connect-src 'self' https: https://*.crisp.chat wss://*.relay.crisp.chat wss://*.relay.rescue.crisp.chat; style-src 'self' https: 'unsafe-inline'; frame-src https://*.crisp.chat https://tally.so https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com; worker-src 'self' blob: https://*.crisp.chat",
+      "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'unsafe-inline' https://*.crisp.chat https://stats.beta.gouv.fr; connect-src 'self' https: https://*.crisp.chat wss://*.relay.crisp.chat wss://*.relay.rescue.crisp.chat; style-src 'self' https: 'unsafe-inline'; frame-src https://*.crisp.chat https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com; worker-src 'self' blob: https://*.crisp.chat",
       "set-cookie": [
-        "_monstage_session=E%2BZHud6vSur%2B5SEgIxKyf6Z4psvQIBHRkH%2FRaH6la9PQ%2FkEY%2BztiMnfjjWMr%2Bvc%2B3e%2B20b9AcmLrh%2BO%2B0oPkrQXHZi%2FHshAHbFLhTTYDm1dY%2FmiI49l6AX89cOFc2LuXlDnwf6jK9ZTlGPCSZGWrpRDeYVPONuoyU6bu309BlZsqCmQ2hoVUAMjFoMc3pjnrthdxKIJUZZMYx6Jq9n169IV9o9opcBPJstbfvl4aFrKDoqskvhKehr5V0THPD0RUkmnl7L43cLSAFzCvKpRW0ECQ9Knsm1%2BJYQ%3D%3D--6ToalI9PDPnx8vlQ--1kc4HAzQogBbio9z7ZVafw%3D%3D; path=/; secure; httponly; samesite=lax"
+        "_monstage_session=5A6I3VfBZ%2BOSYSgRMZkhevxf0wskJyUXgrXGqjkDrR1Zvj2QoUKalGwFoYsrqnYL1MPybqiSZiXoVLlF%2B3FJ9GIrZAkWjv6cgxfHDunbd9AuMPW8qhyD2zWVrjKvbmDPPcxX2Oek3Eqx11v5asi%2BGjO6Dre3vR7FGRkI847Xg0k%2BW2BqmkqVkuIeKDLp39K5ztNXDg%2FE4Zvx8sdL0rSa4PMqxqKGZLzmCPYbgQ3HhUAdtvHOFMduW1a%2FbQTZBFZwN1D0f6ADIIBm8fg9RHEakfgYZTZMCTcWXA%3D%3D--DpAWQ1oJGF0vuL5C--RXezUoviazMg46ma%2FmzmQQ%3D%3D; path=/; secure; httponly; samesite=lax"
       ],
-      "x-request-id": "2d8dd8a2-f842-4bba-8546-49294804988c",
-      "x-runtime": "0.010581",
+      "x-request-id": "d447917e-b12d-4086-a7f4-d69dd144f01c",
+      "x-runtime": "0.079334",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
-      "sozu-id": "01KY2GYH3RWFHTWBBYEZR2DVW1"
+      "sozu-id": "01KYE4JFZFANGV90CB2QS5VFPJ"
     }
   },
   "tests": {
@@ -75,8 +75,7 @@
         ],
         "frame-src": [
           "https://*.crisp.chat",
-          "https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com",
-          "https://tally.so"
+          "https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com"
         ],
         "worker-src": [
           "'self'",
