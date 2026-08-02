@@ -36,10 +36,10 @@
   "cookies": [
     {
       "name": "_pk_id.22.6a82",
-      "value": "0e9ed46b49d427ef.1785028910.",
+      "value": "4ae7315511f66b01.1785633663.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1818984110,
+      "expires": 1819588863,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -54,7 +54,7 @@
       "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1785030710,
+      "expires": 1785635463,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -70,7 +70,7 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 26 Jul 2026 01:21:49 GMT",
+    "date": "Sun, 02 Aug 2026 01:21:02 GMT",
     "etag": "W/\"1784904624\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "last-modified": "Fri, 24 Jul 2026 14:50:24 GMT",
@@ -81,12 +81,12 @@
     "x-drupal-dynamic-cache": "HIT",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "eb17aeff-e1b4-4285-a51c-743e021efb32"
+    "x-request-id": "330f26c2-0e73-4eb0-b978-00875d329e8f"
   },
   "endpoints": [
     {
       "hostname": "incubateur.anct.gouv.fr",
-      "ip": "185.21.194.105",
+      "ip": "80.247.12.255",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -142,8 +142,42 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.17.208.5",
+      "ip": "151.101.65.229",
       "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États-Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -211,6 +245,9 @@
           "latitude": 47.3983,
           "longitude": 0.7037,
           "time_zone": "Europe/Paris"
+        },
+        "postal": {
+          "code": "37000"
         },
         "registered_country": {
           "geoname_id": 6252001,
