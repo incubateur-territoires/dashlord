@@ -14,12 +14,12 @@
     "cache-control": "public, max-age=0",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 26 Jul 2026 01:39:28 GMT",
+    "date": "Sun, 02 Aug 2026 01:43:44 GMT",
     "etag": "W/\"5ce-19ecf74f080\"",
     "last-modified": "Tue, 16 Jun 2026 08:03:28 GMT",
     "strict-transport-security": "max-age=31536000",
     "x-powered-by": "Express",
-    "x-request-id": "9b04d22a-205c-495a-b78a-b7bba1f57799"
+    "x-request-id": "38f565a1-d3d8-4d0f-9e24-9dc0eb738f06"
   },
   "endpoints": [
     {
@@ -80,7 +80,7 @@
     },
     {
       "hostname": "api-signalement-prod.osc-secnum-fr1.scalingo.io",
-      "ip": "80.247.12.255",
+      "ip": "185.21.194.105",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -136,7 +136,7 @@
     },
     {
       "hostname": "api.mapbox.com",
-      "ip": "52.85.193.96",
+      "ip": "18.173.121.126",
       "geoip": {
         "continent": {
           "code": "NA",
