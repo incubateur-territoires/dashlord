@@ -9,11 +9,11 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 02 Aug 2026 02:48:16 GMT",
+      "date": "Sun, 09 Aug 2026 02:01:56 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "ba62a5b3-b507-4f2a-bee5-4427bb5886b0",
+      "x-request-id": "488f5283-4bd2-44da-ae32-2ac2298c7d1b",
       "x-dns-prefetch-control": "on",
       "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
       "x-frame-options": "SAMEORIGIN",
@@ -26,7 +26,7 @@
       "x-powered-by": "Next.js",
       "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
       "set-cookie": [
-        "sc-sticky-session=IIBLOwIwag+38ISOgNyNjAM6TbQW5D6bFA0/gnV2XGrrUP/JyAlbiVuPY9BBrhN6zCff9cUI7WpiyFgcxnyQRg==; Expires=Mon, 03-Aug-26 02:48:16 GMT; Max-Age=86400; Path=/; Secure; HttpOnly; SameSite=None"
+        "sc-sticky-session=DfG8B0odQAhq9UVSwIW4SoN8OQDAzbuRp5tDTESwq0Uy3IGZ56skh45+DHbA4YqHmh04JfSxZXQzzZXSfvtD+Q==; Expires=Mon, 10-Aug-26 02:01:56 GMT; Max-Age=86400; Path=/; Secure; HttpOnly; SameSite=None"
       ]
     }
   },
@@ -117,7 +117,7 @@
       "data": {
         "sc-sticky-session": {
           "domain": "aplus.beta.gouv.fr",
-          "expires": "2026-08-03T02:48:16.000Z",
+          "expires": "2026-08-10T02:01:56.000Z",
           "httponly": true,
           "max-age": 86400,
           "path": "/",
