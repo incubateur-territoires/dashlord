@@ -36,10 +36,10 @@
   "cookies": [
     {
       "name": "_pk_id.22.6a82",
-      "value": "4ae7315511f66b01.1785633663.",
+      "value": "91b7b7de1e76881a.1786236035.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1819588863,
+      "expires": 1820191235,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -54,7 +54,7 @@
       "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1785635463,
+      "expires": 1786237835,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -70,7 +70,7 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 02 Aug 2026 01:21:02 GMT",
+    "date": "Sun, 09 Aug 2026 00:40:34 GMT",
     "etag": "W/\"1784904624\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "last-modified": "Fri, 24 Jul 2026 14:50:24 GMT",
@@ -81,12 +81,12 @@
     "x-drupal-dynamic-cache": "HIT",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "330f26c2-0e73-4eb0-b978-00875d329e8f"
+    "x-request-id": "fd223891-35f2-435a-ae7e-79ed14b07179"
   },
   "endpoints": [
     {
       "hostname": "incubateur.anct.gouv.fr",
-      "ip": "80.247.12.255",
+      "ip": "148.253.96.193",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -142,7 +142,7 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "151.101.65.229",
+      "ip": "151.101.1.229",
       "geoip": {
         "continent": {
           "code": "NA",
