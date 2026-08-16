@@ -9,7 +9,7 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 09 Aug 2026 01:55:47 GMT",
+      "date": "Sun, 16 Aug 2026 01:43:05 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
@@ -24,12 +24,12 @@
       "cache-control": "no-cache",
       "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'unsafe-inline' https://*.crisp.chat https://stats.beta.gouv.fr; connect-src 'self' https: https://*.crisp.chat wss://*.relay.crisp.chat wss://*.relay.rescue.crisp.chat; style-src 'self' https: 'unsafe-inline'; frame-src https://*.crisp.chat https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com; worker-src 'self' blob: https://*.crisp.chat",
       "set-cookie": [
-        "_monstage_session=3JIOoJwP2RwWIUyRQa7zoygX4rBbnNacXGUjx97BzKvNRKIXhs9uig4BQddcfQAml2vHCkxMv%2BCuekFqfu2hj8vKbDkcpN5YJn3yM8duHFcVHXJREwDKqTHC2jyhiRNIqf8967qOdL6gEcR2IFhJuT6klyViWNEfrXMOdOnStlQ6CEKCj6OnBBtda654KkeB4xOdNtTRlIWOYL9Ixy%2FCl3GppPGPPIgx5Gbp3i0790P83ZB3sy89JHzxcgzy6HiV99OKbAUtIPfx%2B7PfZVTyr%2BJ4wmC0s5iKpg%3D%3D--ZRVaJqPXRsaEBgoz--TJ3m1pov6r0c8jyr3RLH5w%3D%3D; path=/; secure; httponly; samesite=lax"
+        "_monstage_session=QthPYdW1k1Wif39r8KfKEbJWyEzEirvoYXH5O2n0gx7d0Tm4qZ9whZ44oYW6IwmvsqGmFn2odivumO0sCT7N7KQUfZSgjJzjO7BQEiMmReU5SBUUYwW3%2B9ZSTTzY4AJim5IWBcim2mfy1oFcCBd3F6jk1bRGyzlezcJKnQwBv2bjknYr8Ti0J9BTue4MtzkSrlMY4nusWYUnqE7dtB4FezNY%2BhaynFG79JZDqP3NwZy7w0WhxO6yL3ky14md4XLGDu7vwAGr0BrZbECLSb4s%2FVRYgPZB%2F%2BUySw%3D%3D--mgNHxU2kcJbry7xJ--6i3cR3y1m2GJGx5PRxKf6w%3D%3D; path=/; secure; httponly; samesite=lax"
       ],
-      "x-request-id": "aa136f32-b13f-4e62-ba0c-61b8a4a00a49",
-      "x-runtime": "0.010679",
+      "x-request-id": "a5b96153-ecbc-4417-9d1f-a20425100794",
+      "x-runtime": "0.138049",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
-      "sozu-id": "01KZJ3QEZWB5BY158J9QEX1A86"
+      "sozu-id": "01M043S77AA704AK01VQWQ5X40"
     }
   },
   "tests": {
