@@ -276,7 +276,7 @@
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "056DC63C95F529C54752E245F0F8C49C00F9"
+              "finding"      : "05035708F91C5807D91E55E393B2C2C5D1BD"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -290,21 +290,21 @@
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "94B6D623E2C9FF10EDFE6F5A9050BF192FA9F619"
+              "finding"      : "FD39713C0A98CAEB005380188D448104C4C6C9B0"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0BA631BBCF2DD8D5A0674549391316E4F2CF0BBE50A8B329AA113A321B86F554"
+              "finding"      : "820F64E85D64E144BFDD5132CFF35A1009CFADF758B8B65450FE2A5E83A4DF67"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFETCCA/mgAwIBAgISBW3GPJX1KcVHUuJF8PjEnAD5MA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNZUjIwHhcNMjYwNjExMjEwMzE2WhcNMjYwOTA5MjEwMzE1WjAmMSQwIgYDVQQDExtjb29wLW51bWVyaXF1ZS5hbmN0LmdvdXYuZnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCfn/TyuyrEGk48jk30bZWmOXmWiPMTE3J1Z261cMyzzwgwA+v5LtNLvFRV6tcv/L/lN0bAwWLFJZaI0dlksIvcw/yvghhHwFu2ClFNMlufWyKetz6q6smVmLmpmG8xjwvPn5kb164Bts5K+rpordFgBZc/051RtHIPtlK93cH0LLyuWcZZe2NdWGDD0xGcK41x2QCQzTR9PA0Ms1qqDEcYX/fu9GSAO3LsX7p0y1qNEaR2xqMhbw+wwAl0LaVakXEhtgX4Fb0UiUiec89YtKIyROC9LMNeBNoC0toKnvIQz5oT6xizM6J9tK4/MVrT1w33nIiVyRTwpa1Z8/6DVxwtAgMBAAGjggIqMIICJjAOBgNVHQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUltEkOCrlGb9SkdiROBqqLCAwmjEwHwYDVR0jBBgwFoAUQBUtJnntMiCe35pyHdYyH4EMgQwwMwYIKwYBBQUHAQEEJzAlMCMGCCsGAQUFBzAChhdodHRwOi8veXIyLmkubGVuY3Iub3JnLzAmBgNVHREEHzAdghtjb29wLW51bWVyaXF1ZS5hbmN0LmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwLwYDVR0fBCgwJjAkoCKgIIYeaHR0cDovL3lyMi5jLmxlbmNyLm9yZy8xMjIuY3JsMIIBDAYKKwYBBAHWeQIEAgSB/QSB+gD4AHUAr2eIO1ewTt2Pptl+9i6o64EKx3Fg8CReVdYML+eFhzoAAAGeuLSkrAAABAMARjBEAiA6aDeNMqqpfxwPaHHljTfyYjdcHnFZhc91o83XxbDzcwIgEq18gn7jJyLRnyXNFacxvZDyyD4g1VItRBVjkESmUOcAfwBs/lAZQ6heqRa8UtEz5NzJHvFBHH0lhCDRc4CeGBjrOgAAAZ64tKXBAAgAAAUAD/8LBgQDAEgwRgIhAPqxlvZ62aKqEpfBjckQj8FIWqs52XOjwkqJS9F0aq9ZAiEAg1G6bppYPnsgezf7pqSatv0Wh0h6Kp2D6+YgnvJ06mQwDQYJKoZIhvcNAQELBQADggEBACZm1kyB5de+3s8wKVxAp/vdWTC1wfnEsK2suTjwT+9QMHuVYMJuo401SQiCpH2GW7s26Cvyc5HySvWfJmmuKOz4n+LfGSMW9yPykNut/AoDbQFqorWcuiRBcwBmG7kXduXhajbXeyT2KNWHR7/c3MmRdc6ODVe1xLZf1jC9qRjXu84n0aJJqsnSItzvQDILUiw2adNWcKAY+NvZloxOLCk+aB1luB+hJ19c+BvX6aWPecWlpKEcl3BpO/XKvKQP990By+YpMrBFkIPP9dppONPTT311ZvY/TzOFak56K40BTBtH23VwsmRJqbf95PjM9vDepthLpxxnXwlVjuhKgcM=\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFEDCCA/igAwIBAgISBQNXCPkcWAfZHlXjk7LCxdG9MA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNZUjIwHhcNMjYwODEwMjAwNTEwWhcNMjYxMTA4MjAwNTA5WjAmMSQwIgYDVQQDExtjb29wLW51bWVyaXF1ZS5hbmN0LmdvdXYuZnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCvi7Rq08xhRFxrJHsenlP+voriod0eBqpKMRnIx0oHSMpzAE6b5et9+53nFZq5qttr6pS0wjkg7guEAmqzRckKzMAq+wfg/TfayJIj6eBmXu6NDMCGT7wZeU+5eh+zO9tdTBsGjWB8lgkkcSwshvsuYCaWzrZHu+q8gQdsdlavRzOD8txb9m6LOkPLx1WGocMtwtnYDFJvSTp0kDwjAmM1usHpK64HPqwtC6ylFhZD190948NlLoSs6YtdygBIooXfjqmY/dn4pIxolVLIzEdm+LpPwp1XXmY6/gRvOt7+53EPV6LpyrYyTkbvDT2UW2ud8wWE+Jqy/4hK8lHvudxbAgMBAAGjggIpMIICJTAOBgNVHQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUT5l9vsSS/kOP3QD7doyCmZR19AIwHwYDVR0jBBgwFoAUQBUtJnntMiCe35pyHdYyH4EMgQwwMwYIKwYBBQUHAQEEJzAlMCMGCCsGAQUFBzAChhdodHRwOi8veXIyLmkubGVuY3Iub3JnLzAmBgNVHREEHzAdghtjb29wLW51bWVyaXF1ZS5hbmN0LmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwLgYDVR0fBCcwJTAjoCGgH4YdaHR0cDovL3lyMi5jLmxlbmNyLm9yZy82Mi5jcmwwggEMBgorBgEEAdZ5AgQCBIH9BIH6APgAdgCvZ4g7V7BO3Y+m2X72LqjrgQrHcWDwJF5V1gwv54WHOgAAAZ/tfQIXAAAEAwBHMEUCIAj0q9fCZBntFWeOtDBc+A1E4/XlONmDuOiP8f4LuUxVAiEAgDRCZBKEFOMbSb6339mKylabSkcvWB8ad6L+b+ZOsLcAfgBs/lAZQ6heqRa8UtEz5NzJHvFBHH0lhCDRc4CeGBjrOgAAAZ/tfQPAAAgAAAUAG/MWJAQDAEcwRQIhAP1NMm7cUHZbH+8B4CBuEqZ4kiWU8QJW1+5GsVNpQmlpAiAdFJnslrbcxr/sMdPC/SctAl6ZEo5ysoyGCyiE1Uz0WTANBgkqhkiG9w0BAQsFAAOCAQEAFuL99GBdl3RPCj/lyJf1Fx/ooVZke+gHBOKo9+PFggYGu6ThenKCdijp0XlwlpkCnDw9a9FyxyZetDlRjjyyLpsMlNY0IQcsIY96E0yJJlHIKUtl+4xP9EyoQ9Q7DwL5lQpT8Ut205Bs5MhCCbNgV6lUc9rS09Tj/9REI2aB7XapdvbZQE9iOkarCNICmam301F/T5Mb41Iw8sVZEdSLbsdBnKWgbBmIMm+qukNbjF97WM+tioJk5COHNRZsxBl1XjiOCaMxynHSvMtcjJArCfIk2GxtAaJg6nrbvqinu+QWVQuQx0cYbnimkjdu0mWFtfmDPeLWMM56Ib/Sxfj0lQ==\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -360,21 +360,21 @@
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "31 >= 30 days"
+              "finding"      : "84 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2026-06-11 21:03"
+              "finding"      : "2026-08-10 20:05"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2026-09-09 21:03"
+              "finding"      : "2026-11-08 20:05"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -395,7 +395,7 @@
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://yr2.c.lencr.org/122.crl"
+              "finding"      : "http://yr2.c.lencr.org/62.crl"
           }
 ,         {
               "id"           : "cert_ocspURL",
@@ -556,14 +556,14 @@
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-2 seconds from localtime"
+              "finding"      : "-6 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1786239423"
+              "finding"      : "1786843715"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -778,7 +778,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=0BA631BBCF2DD8D5A0674549391316E4F2CF0BBE50A8B329AA113A321B86F554"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=820F64E85D64E144BFDD5132CFF35A1009CFADF758B8B65450FE2A5E83A4DF67"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -1154,6 +1154,6 @@
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "60"
+              "finding"      : "108"
           }
 ]
