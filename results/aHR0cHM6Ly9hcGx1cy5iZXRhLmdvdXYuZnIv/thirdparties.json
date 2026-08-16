@@ -3,10 +3,10 @@
   "cookies": [
     {
       "name": "sc-sticky-session",
-      "value": "DfG8B0odQAhq9UVSwIW4Soc4v77di+RJhZZa8YhajjJueGy3rnXAl8ovl5jqlH0ZNpuNZU1WQ5M5fUy05Ro7LA==",
+      "value": "8MaJxYx8rcxOWuGwNP5IsnwmjVfmn0YVFCALu50GBGr+iXoK2RB470rChTbCBljdctD7Zpl4vO+bdvlwpbYKNg==",
       "domain": "aplus.beta.gouv.fr",
       "path": "/",
-      "expires": 1786327166.234065,
+      "expires": 1786931230.442019,
       "size": 105,
       "httpOnly": true,
       "secure": true,
@@ -22,18 +22,18 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' https://code.jquery.com https://administration-plus-zammad.anct.cloud-ed.fr https://stats.beta.gouv.fr; style-src 'self' 'unsafe-inline' https://administration-plus-zammad.anct.cloud-ed.fr data:; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' https://sentry.incubateur.anct.gouv.fr https://administration-plus-zammad.anct.cloud-ed.fr wss://administration-plus-zammad.anct.cloud-ed.fr https://stats.beta.gouv.fr; worker-src 'self' blob:; frame-src 'self' https://statistiques.aplus.beta.gouv.fr; frame-ancestors 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 09 Aug 2026 01:59:25 GMT",
+    "date": "Sun, 16 Aug 2026 01:47:09 GMT",
     "link": "</>; rel=preconnect; crossorigin=\"\", </_next/static/chunks/a0dec6046a98b81f.css>; rel=preload; as=\"style\", </_next/static/chunks/6a76637c1ab70f0a.css>; rel=preload; as=\"style\", </_next/static/chunks/f3dd31d22feeb8c8.css>; rel=preload; as=\"style\"",
     "permissions-policy": "camera=(), microphone=(), geolocation=(), interest-cohort=()",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "set-cookie": "sc-sticky-session=DfG8B0odQAhq9UVSwIW4Soc4v77di+RJhZZa8YhajjJueGy3rnXAl8ovl5jqlH0ZNpuNZU1WQ5M5fUy05Ro7LA==; Expires=Mon, 10-Aug-26 01:59:25 GMT; Max-Age=86400; Path=/; Secure; HttpOnly; SameSite=None",
+    "set-cookie": "sc-sticky-session=8MaJxYx8rcxOWuGwNP5IsnwmjVfmn0YVFCALu50GBGr+iXoK2RB470rChTbCBljdctD7Zpl4vO+bdvlwpbYKNg==; Expires=Mon, 17-Aug-26 01:47:09 GMT; Max-Age=86400; Path=/; Secure; HttpOnly; SameSite=None",
     "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
     "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-dns-prefetch-control": "on",
     "x-frame-options": "SAMEORIGIN",
     "x-powered-by": "Next.js",
-    "x-request-id": "b0f7ba3d-2a8e-43df-97ee-323873f820f8"
+    "x-request-id": "f70a3eda-0d3b-4bc8-abdf-bc38d94852b9"
   },
   "endpoints": [
     {
