@@ -71,12 +71,12 @@
   ],
   "cookies": [
     {
-      "name": "_pk_ses.13.592e",
-      "value": "1",
+      "name": "_pk_id.13.592e",
+      "value": "3cd5aec0b0eb7e60.1786840756.",
       "domain": "adresse.data.gouv.fr",
       "path": "/",
-      "expires": 1786238306,
-      "size": 16,
+      "expires": 1820795956,
+      "size": 42,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -86,12 +86,12 @@
       "sameParty": false
     },
     {
-      "name": "_pk_id.13.592e",
-      "value": "ca06d03b2a8bd3c7.1786236507.",
+      "name": "_pk_ses.13.592e",
+      "value": "1",
       "domain": "adresse.data.gouv.fr",
       "path": "/",
-      "expires": 1820191707,
-      "size": 42,
+      "expires": 1786842555,
+      "size": 16,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -105,7 +105,7 @@
     "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 09 Aug 2026 00:48:24 GMT",
+    "date": "Sun, 16 Aug 2026 00:39:13 GMT",
     "link": "</>; rel=preconnect; crossorigin=\"\", </_next/static/media/Marianne-Regular.0gd-6epr788~~.woff2>; rel=preload; as=\"font\"; crossorigin=\"anonymous\", </_next/static/media/Marianne-Medium.010xidx-yq5i_.woff2>; rel=preload; as=\"font\"; crossorigin=\"anonymous\", </_next/static/media/Marianne-Bold.0nc-z6c8sy8jt.woff2>; rel=preload; as=\"font\"; crossorigin=\"anonymous\", </logo-ban-site.svg>; rel=preload; as=\"image\", </logos/LOGO-MINISTERE-ECOLOGIE.jpg>; rel=preload; as=\"image\", </logos/LOGO-IGN.png>; rel=preload; as=\"image\", </logos/LOGO-ANCT.png>; rel=preload; as=\"image\"",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
@@ -170,7 +170,7 @@
     },
     {
       "hostname": "baseadressenationale.github.io",
-      "ip": "185.199.111.153",
+      "ip": "185.199.110.153",
       "geoip": {
         "continent": {
           "code": "NA",
