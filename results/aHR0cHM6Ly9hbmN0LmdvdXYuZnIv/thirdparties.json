@@ -1,0 +1,264 @@
+{
+  "trackers": [
+    {
+      "type": "jsdelivr",
+      "url": "https://cdn.jsdelivr.net/npm/tarteaucitronjs@1.10.0/tarteaucitron.min.js",
+      "details": {
+        "id": "jsdelivr",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://sentry.anct.cloud-ed.fr/api/12/envelope/?sentry_version=7&sentry_key=92d1bf2800a14b2609b79ec491f0e041&sentry_client=sentry.javascript.browser%2F10.47.0"
+    },
+    {
+      "type": "unknown",
+      "url": "https://sentry.anct.cloud-ed.fr/api/12/envelope/?sentry_version=7&sentry_key=92d1bf2800a14b2609b79ec491f0e041&sentry_client=sentry.javascript.browser%2F10.47.0"
+    },
+    {
+      "type": "jsdelivr",
+      "url": "https://cdn.jsdelivr.net/npm/tarteaucitronjs@1.10.0/lang/tarteaucitron.fr.min.js?v=20230203",
+      "details": {
+        "id": "jsdelivr",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "jsdelivr",
+      "url": "https://cdn.jsdelivr.net/npm/tarteaucitronjs@1.10.0/tarteaucitron.services.min.js?v=20230203",
+      "details": {
+        "id": "jsdelivr",
+        "message": "Host files locally"
+      }
+    }
+  ],
+  "cookies": [
+    {
+      "name": "_pk_id.22.6a82",
+      "value": "248bbba00c29ed37.1786845894.",
+      "domain": "anct.gouv.fr",
+      "path": "/",
+      "expires": 1820801094,
+      "size": 42,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "priority": "Medium",
+      "sourceScheme": "Secure",
+      "sameParty": false
+    },
+    {
+      "name": "_pk_ses.22.6a82",
+      "value": "1",
+      "domain": "anct.gouv.fr",
+      "path": "/",
+      "expires": 1786847693,
+      "size": 16,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "priority": "Medium",
+      "sourceScheme": "Secure",
+      "sameParty": false
+    }
+  ],
+  "headers": {
+    "cache-control": "max-age=1728000, public",
+    "content-encoding": "gzip",
+    "content-language": "fr",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Sun, 16 Aug 2026 02:04:53 GMT",
+    "etag": "W/\"1784904624\"",
+    "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+    "last-modified": "Fri, 24 Jul 2026 14:50:24 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Accept-Encoding\nCookie",
+    "x-content-type-options": "nosniff",
+    "x-drupal-cache": "HIT",
+    "x-drupal-dynamic-cache": "HIT",
+    "x-frame-options": "SAMEORIGIN",
+    "x-generator": "Drupal 11 (https://www.drupal.org)",
+    "x-request-id": "c0c0505f-1039-4b88-a936-72add030b359"
+  },
+  "endpoints": [
+    {
+      "hostname": "anct.gouv.fr",
+      "ip": "148.253.96.193",
+      "geoip": {
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "cdn.jsdelivr.net",
+      "ip": "104.17.207.5",
+      "geoip": {
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États-Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "sentry.anct.cloud-ed.fr",
+      "ip": "154.41.70.33",
+      "geoip": {
+        "city": {
+          "geoname_id": 2972191,
+          "names": {
+            "de": "Tours",
+            "en": "Tours",
+            "es": "Tours",
+            "fr": "Tours",
+            "ja": "トゥール",
+            "pt-BR": "Tours",
+            "ru": "Тур",
+            "zh-CN": "图尔"
+          }
+        },
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 20,
+          "latitude": 47.3983,
+          "longitude": 0.7037,
+          "time_zone": "Europe/Paris"
+        },
+        "postal": {
+          "code": "37000"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États-Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 3027939,
+            "iso_code": "CVL",
+            "names": {
+              "de": "Centre-Val de Loire",
+              "en": "Centre-Val de Loire",
+              "es": "Centro-Valle de Loira",
+              "fr": "Centre-Val de Loire",
+              "ja": "サントル＝ヴァル・ド・ロワール地域圏",
+              "pt-BR": "Centro",
+              "ru": "Центр — Долина Луары"
+            }
+          },
+          {
+            "geoname_id": 3012804,
+            "iso_code": "37",
+            "names": {
+              "de": "Indre-et-Loire",
+              "en": "Indre-et-Loire",
+              "es": "Indre y Loira",
+              "fr": "Indre-et-Loire",
+              "ja": "アンドル＝エ＝ロワール県",
+              "pt-BR": "Indre-et-Loire",
+              "ru": "Эндр и Луара",
+              "zh-CN": "安德尔-卢瓦尔省"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
