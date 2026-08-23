@@ -6,7 +6,7 @@
       "value": "1",
       "domain": "grist.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1786846240,
+      "expires": 1787452122,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -18,11 +18,11 @@
     },
     {
       "name": "grist_core",
-      "value": "s%3Ag-651b8651469b1f1cc710068b49c0e8ce044d61ba1a265333707eb3e563f0426f.LranMhZBkJA5EYd3hXlxBHg41qGyshfP0h0ntk1rlyk",
+      "value": "s%3Ag-764767ccb4dcca38c072bbe32a03dc4b1663c055ad74daf3c90c520a6235dafb.SDyJFYnjtpPlfJQIpZpvgd%2Fcq%2FVzdZiJaGpf%2BkdYsDE",
       "domain": "grist.incubateur.anct.gouv.fr",
       "path": "/",
       "expires": -1,
-      "size": 124,
+      "size": 130,
       "httpOnly": true,
       "secure": false,
       "session": true,
@@ -33,10 +33,10 @@
     },
     {
       "name": "_pk_id.109.b3ed",
-      "value": "c78700f00e31bf38.1786844441.",
+      "value": "bae2729c44fac3bd.1787450322.",
       "domain": "grist.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1820799641,
+      "expires": 1821405522,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -51,16 +51,16 @@
     "content-language": "en-US",
     "content-length": "7648",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 16 Aug 2026 01:40:39 GMT",
-    "etag": "W/\"1de0-cl9xbanlkQL91x9bDI2osz1kxik\"",
-    "set-cookie": "grist_core=s%3Ag-651b8651469b1f1cc710068b49c0e8ce044d61ba1a265333707eb3e563f0426f.LranMhZBkJA5EYd3hXlxBHg41qGyshfP0h0ntk1rlyk; Path=/; HttpOnly; SameSite=Lax",
+    "date": "Sun, 23 Aug 2026 01:58:39 GMT",
+    "etag": "W/\"1de0-nwafoPx4fC1E51+jFK6Zk1nmxnc\"",
+    "set-cookie": "grist_core=s%3Ag-764767ccb4dcca38c072bbe32a03dc4b1663c055ad74daf3c90c520a6235dafb.SDyJFYnjtpPlfJQIpZpvgd%2Fcq%2FVzdZiJaGpf%2BkdYsDE; Path=/; HttpOnly; SameSite=Lax",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "x-powered-by": "Express"
   },
   "endpoints": [
     {
       "hostname": "grist.incubateur.anct.gouv.fr",
-      "ip": "142.44.51.77",
+      "ip": "146.183.5.238",
       "geoip": {
         "continent": {
           "code": "EU",
