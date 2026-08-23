@@ -9,13 +9,13 @@
     "testsPassed": 8,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 09 Aug 2026 02:10:58 GMT",
+      "date": "Sun, 23 Aug 2026 02:13:57 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "539897b9-e876-405a-a8d2-2f3f5a71dcd8",
+      "x-request-id": "58c30242-07d5-4a05-bd34-baa1d27b45b9",
       "cross-origin-opener-policy": "same-origin",
-      "etag": "\"6aed54oe7i64vy\"",
+      "etag": "\"sbqrhmlysk65wd\"",
       "vary": "Accept-Encoding",
       "via": "1.1 Caddy",
       "strict-transport-security": "max-age=31536000"
@@ -39,8 +39,7 @@
         ],
         "script-src": [
           "'self'",
-          "*.gouv.fr",
-          "false"
+          "*.gouv.fr"
         ],
         "connect-src": [
           "'self'",
