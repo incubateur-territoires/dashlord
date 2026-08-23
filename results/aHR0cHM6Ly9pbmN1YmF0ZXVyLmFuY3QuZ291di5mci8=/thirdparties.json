@@ -1,36 +1,12 @@
 {
   "trackers": [
     {
-      "type": "jsdelivr",
-      "url": "https://cdn.jsdelivr.net/npm/tarteaucitronjs@1.10.0/tarteaucitron.min.js",
-      "details": {
-        "id": "jsdelivr",
-        "message": "Host files locally"
-      }
-    },
-    {
       "type": "unknown",
       "url": "https://sentry.anct.cloud-ed.fr/api/12/envelope/?sentry_version=7&sentry_key=92d1bf2800a14b2609b79ec491f0e041&sentry_client=sentry.javascript.browser%2F10.47.0"
     },
     {
       "type": "unknown",
       "url": "https://sentry.anct.cloud-ed.fr/api/12/envelope/?sentry_version=7&sentry_key=92d1bf2800a14b2609b79ec491f0e041&sentry_client=sentry.javascript.browser%2F10.47.0"
-    },
-    {
-      "type": "jsdelivr",
-      "url": "https://cdn.jsdelivr.net/npm/tarteaucitronjs@1.10.0/lang/tarteaucitron.fr.min.js?v=20230203",
-      "details": {
-        "id": "jsdelivr",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "jsdelivr",
-      "url": "https://cdn.jsdelivr.net/npm/tarteaucitronjs@1.10.0/tarteaucitron.services.min.js?v=20230203",
-      "details": {
-        "id": "jsdelivr",
-        "message": "Host files locally"
-      }
     }
   ],
   "cookies": [
@@ -39,7 +15,7 @@
       "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1786841896,
+      "expires": 1787446741,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -51,10 +27,10 @@
     },
     {
       "name": "_pk_id.22.6a82",
-      "value": "5b58a6ae152b3739.1786840096.",
+      "value": "9a5151959d1d018f.1787444942.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1820795296,
+      "expires": 1821400142,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -70,18 +46,18 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 16 Aug 2026 00:28:15 GMT",
-    "etag": "W/\"1784904624\"",
+    "date": "Sun, 23 Aug 2026 00:29:01 GMT",
+    "etag": "W/\"1787221791\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Fri, 24 Jul 2026 14:50:24 GMT",
+    "last-modified": "Thu, 20 Aug 2026 10:29:51 GMT",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\nCookie",
     "x-content-type-options": "nosniff",
     "x-drupal-cache": "HIT",
-    "x-drupal-dynamic-cache": "HIT",
+    "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "1efa26b6-b021-483f-9623-107d89b5e386"
+    "x-request-id": "cde1e60b-e795-46ab-a7a6-4526d8b84c48"
   },
   "endpoints": [
     {
@@ -136,26 +112,6 @@
             "pt-BR": "França",
             "ru": "Франция",
             "zh-CN": "法国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "cdn.jsdelivr.net",
-      "ip": "104.17.208.5",
-      "geoip": {
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États-Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
           }
         }
       }
