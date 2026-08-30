@@ -19,12 +19,12 @@
   ],
   "cookies": [
     {
-      "name": "_pk_ses.147.204e",
-      "value": "1",
+      "name": "_pk_id.147.204e",
+      "value": "3146056bae034c2e.1788057599.",
       "domain": "www.conseiller-numerique.gouv.fr",
       "path": "/",
-      "expires": 1787450221,
-      "size": 17,
+      "expires": 1822012799,
+      "size": 43,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -34,12 +34,12 @@
       "sameParty": false
     },
     {
-      "name": "_pk_id.147.204e",
-      "value": "5cbe6e68e2e8ab93.1787448422.",
+      "name": "_pk_ses.147.204e",
+      "value": "1",
       "domain": "www.conseiller-numerique.gouv.fr",
       "path": "/",
-      "expires": 1821403622,
-      "size": 43,
+      "expires": 1788059398,
+      "size": 17,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -56,18 +56,18 @@
     "content-encoding": "gzip",
     "content-length": "1115",
     "content-type": "text/html",
-    "date": "Sun, 23 Aug 2026 01:27:00 GMT",
+    "date": "Sun, 30 Aug 2026 02:39:57 GMT",
     "etag": "\"b61-6598eb251d158-gzip\"",
     "keep-alive": "timeout=5, max=100",
     "last-modified": "Fri, 21 Aug 2026 13:34:32 GMT",
     "server": "Apache",
-    "sozu-id": "01M0P3MTD5Q2HX35GB4WHFR4NQ",
+    "sozu-id": "01M188KD7GWXX871RD8W5XW0WX",
     "vary": "Accept-Encoding"
   },
   "endpoints": [
     {
       "hostname": "www.conseiller-numerique.gouv.fr",
-      "ip": "91.208.207.218",
+      "ip": "91.208.207.220",
       "geoip": {
         "continent": {
           "code": "EU",
