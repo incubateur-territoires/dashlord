@@ -2,12 +2,12 @@
   "trackers": [],
   "cookies": [
     {
-      "name": "_pk_ses.109.b3ed",
-      "value": "1",
+      "name": "_pk_id.109.b3ed",
+      "value": "87537c34bb8d1395.1788059215.",
       "domain": "grist.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1787452122,
-      "size": 17,
+      "expires": 1822014415,
+      "size": 43,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -18,11 +18,11 @@
     },
     {
       "name": "grist_core",
-      "value": "s%3Ag-764767ccb4dcca38c072bbe32a03dc4b1663c055ad74daf3c90c520a6235dafb.SDyJFYnjtpPlfJQIpZpvgd%2Fcq%2FVzdZiJaGpf%2BkdYsDE",
+      "value": "s%3Ag-181d0762fea26adccd88882d9a5f57f95807f94483dd852bcffe2a1a87dc080b.drpe10zNs0q8j4qeE%2FpeJF8eTwUM8zZDPR1Vp%2BT6CqM",
       "domain": "grist.incubateur.anct.gouv.fr",
       "path": "/",
       "expires": -1,
-      "size": 130,
+      "size": 128,
       "httpOnly": true,
       "secure": false,
       "session": true,
@@ -32,12 +32,12 @@
       "sameParty": false
     },
     {
-      "name": "_pk_id.109.b3ed",
-      "value": "bae2729c44fac3bd.1787450322.",
+      "name": "_pk_ses.109.b3ed",
+      "value": "1",
       "domain": "grist.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1821405522,
-      "size": 43,
+      "expires": 1788061014,
+      "size": 17,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -51,16 +51,16 @@
     "content-language": "en-US",
     "content-length": "7648",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 23 Aug 2026 01:58:39 GMT",
-    "etag": "W/\"1de0-nwafoPx4fC1E51+jFK6Zk1nmxnc\"",
-    "set-cookie": "grist_core=s%3Ag-764767ccb4dcca38c072bbe32a03dc4b1663c055ad74daf3c90c520a6235dafb.SDyJFYnjtpPlfJQIpZpvgd%2Fcq%2FVzdZiJaGpf%2BkdYsDE; Path=/; HttpOnly; SameSite=Lax",
+    "date": "Sun, 30 Aug 2026 03:06:53 GMT",
+    "etag": "W/\"1de0-ZhFc/CmgwUPS7FstqAGPGeAkC8Q\"",
+    "set-cookie": "grist_core=s%3Ag-181d0762fea26adccd88882d9a5f57f95807f94483dd852bcffe2a1a87dc080b.drpe10zNs0q8j4qeE%2FpeJF8eTwUM8zZDPR1Vp%2BT6CqM; Path=/; HttpOnly; SameSite=Lax",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "x-powered-by": "Express"
   },
   "endpoints": [
     {
       "hostname": "grist.incubateur.anct.gouv.fr",
-      "ip": "146.183.5.238",
+      "ip": "142.44.54.115",
       "geoip": {
         "continent": {
           "code": "EU",
