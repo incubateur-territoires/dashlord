@@ -1,73 +1,23 @@
 {
-  "trackers": [
-    {
-      "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/turnstile/v0/api.js",
-      "details": {
-        "id": "cloudflare",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/turnstile/v0/b/e694063b5082/api.js",
-      "details": {
-        "id": "cloudflare",
-        "message": "Host files locally"
-      }
-    }
-  ],
-  "cookies": [
-    {
-      "name": "_pk_id.147.204e",
-      "value": "3146056bae034c2e.1788057599.",
-      "domain": "www.conseiller-numerique.gouv.fr",
-      "path": "/",
-      "expires": 1822012799,
-      "size": 43,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "priority": "Medium",
-      "sourceScheme": "Secure",
-      "sameParty": false
-    },
-    {
-      "name": "_pk_ses.147.204e",
-      "value": "1",
-      "domain": "www.conseiller-numerique.gouv.fr",
-      "path": "/",
-      "expires": 1788059398,
-      "size": 17,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "priority": "Medium",
-      "sourceScheme": "Secure",
-      "sameParty": false
-    }
-  ],
+  "trackers": [],
+  "cookies": [],
   "headers": {
-    "accept-ranges": "bytes",
-    "cache-control": "max-age=60, private, proxy-revalidate",
-    "connection": "Keep-Alive",
+    "cache-control": "s-maxage=31536000",
     "content-encoding": "gzip",
-    "content-length": "1115",
-    "content-type": "text/html",
-    "date": "Sun, 30 Aug 2026 02:39:57 GMT",
-    "etag": "\"b61-6598eb251d158-gzip\"",
-    "keep-alive": "timeout=5, max=100",
-    "last-modified": "Fri, 21 Aug 2026 13:34:32 GMT",
-    "server": "Apache",
-    "sozu-id": "01M188KD7GWXX871RD8W5XW0WX",
-    "vary": "Accept-Encoding"
+    "content-type": "text/html; charset=utf-8",
+    "date": "Sun, 06 Sep 2026 02:13:03 GMT",
+    "etag": "\"nv5sdm67it2djp\"",
+    "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+    "x-nextjs-cache": "HIT",
+    "x-nextjs-prerender": "1\n1",
+    "x-nextjs-stale-time": "300",
+    "x-powered-by": "Next.js",
+    "x-request-id": "0e7669e4-d1fc-4d27-a6b4-8e0a41260e36"
   },
   "endpoints": [
     {
       "hostname": "www.conseiller-numerique.gouv.fr",
-      "ip": "91.208.207.220",
+      "ip": "148.253.96.193",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -117,26 +67,6 @@
             "pt-BR": "França",
             "ru": "Франция",
             "zh-CN": "法国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "challenges.cloudflare.com",
-      "ip": "104.18.94.41",
-      "geoip": {
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États-Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
           }
         }
       }
