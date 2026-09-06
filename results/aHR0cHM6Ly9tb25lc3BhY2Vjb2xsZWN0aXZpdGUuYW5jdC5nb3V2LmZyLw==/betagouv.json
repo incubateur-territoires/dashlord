@@ -28,6 +28,11 @@
         "name": "construction",
         "start": "2026-04-01",
         "end": ""
+      },
+      {
+        "name": "acceleration",
+        "start": "2026-08-27",
+        "end": ""
       }
     ],
     "sponsors": [
