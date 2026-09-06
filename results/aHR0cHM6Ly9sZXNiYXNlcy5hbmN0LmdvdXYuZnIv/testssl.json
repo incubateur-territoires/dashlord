@@ -206,7 +206,7 @@
               "ip"           : "lesbases.anct.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
@@ -276,7 +276,7 @@
               "ip"           : "lesbases.anct.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "053B5413E00C56BB88A0148BDC21077B6ADC"
+              "finding"      : "05B988C7DCBA6B3C4354E19341A2795EEE63"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -290,21 +290,21 @@
               "ip"           : "lesbases.anct.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "646D89C88B97106AA4E5258BAFCFC89072287FAE"
+              "finding"      : "C651058A5E8029F671D51195B319591A76A128EC"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "lesbases.anct.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2FEEC4E35AF89D25B25429D8D723BB689D7512AA1CA8B39FDE4A429842B9715F"
+              "finding"      : "0128F68A38C6F32D94EC689FE903E82BE0EBAA6B9AB111C889C592004F6F1ACB"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "lesbases.anct.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFAzCCA+ugAwIBAgISBTtUE+AMVruIoBSL3CEHe2rcMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNZUjEwHhcNMjYwNzAyMDIwODQxWhcNMjYwOTMwMDIwODQwWjAgMR4wHAYDVQQDExVsZXNiYXNlcy5hbmN0LmdvdXYuZnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDcPed0wdOWTrZc86tF03gAL7NwI41IG103whmg/+6huexxpO4dlwv5/JXaBU7/dENN/c4ul+jLNkwJQhOT5qcKpZrB/+SFuh7yAv0jLJ8Yeyaq4ha77XNVAQRjwIm/MUcE79Aq/vYBLq5fx+62MVRC4VrRsrx3r6gNrp/X+BBulCqAu/0zA7n7stMNVchh08UuwASpPRFVFt4kL26K64URYzt/R0gxl0z6YHEbZWpcuVD7ghxl/m1RP2damWozsfGqGThzLRqXynX6nsWhn9Nl1Nxm/YoOj2Cs0VRpylSP32KDp1M53yljxatdZpEH5Tp5hFdLsBsjSTbCV458YlwXAgMBAAGjggIiMIICHjAOBgNVHQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUgktL4ri88eupwDK5TASGSxcHURYwHwYDVR0jBBgwFoAUHy81vkYUgs1Asa55LFV4+vfUaPswMwYIKwYBBQUHAQEEJzAlMCMGCCsGAQUFBzAChhdodHRwOi8veXIxLmkubGVuY3Iub3JnLzAgBgNVHREEGTAXghVsZXNiYXNlcy5hbmN0LmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwLgYDVR0fBCcwJTAjoCGgH4YdaHR0cDovL3lyMS5jLmxlbmNyLm9yZy85My5jcmwwggELBgorBgEEAdZ5AgQCBIH8BIH5APcAdgDXbX0Q0af1d8LH6V/XAL/5gskzWmXh0LMBcxfAyMVpdwAAAZ8gy3GmAAAEAwBHMEUCIBq/jTtYeXiaV2UqQx0I77Lj521A4SBJp+R0+ZHPiuNGAiEA5DHMRS4kRfFQymaE4qhKbzzMjD9bfTlFvBf31Yh2+CYAfQBs/lAZQ6heqRa8UtEz5NzJHvFBHH0lhCDRc4CeGBjrOgAAAZ8gy3RrAAgAAAUAExAGlQQDAEYwRAIgQ1BTTFSOvZqtalY+uIot2FO/hueLZtsQsDmzXX52umsCIHU+yReGJOJ5nToKDgkhGs/3WyGYE6c05GqGzab4PNGYMA0GCSqGSIb3DQEBCwUAA4IBAQAyHveGRhURSvSEtxuJN5J40tVPrPXXkDmcVtwoBwpdGAO9aF4ojQhsN/2FT22xJMoDkllvWF4k0f5xsWTr9scAjGijauF7DLccrDI9BimUlMmkz5bw8NHAU6audiUzuhDBZzOeNMzrIuxx9cxkcZvJ+906INnCrkXnjqHbStAsETYarLCoQu0vZcagXcoFUFZCfnlqaCtMzYJ0uW3Ukn1e6EiUPvSYZr9lE/+MjrJLCHdH1eG2ObZ17eTse42rX/Wy1MhXoxCqOuzj5i9q7s4EZwpbMTbx9bAWghPlsMSeD3+bOO5SjnYeZ/Uv2fM1smJF8njymVCYhxwiq7K+EVbe\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFBDCCA+ygAwIBAgISBbmIx9y6azxDVOGTQaJ5Xu5jMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNZUjEwHhcNMjYwODMxMDExMDM3WhcNMjYxMTI5MDExMDM2WjAgMR4wHAYDVQQDExVsZXNiYXNlcy5hbmN0LmdvdXYuZnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDyAMIavNB+Vx5KYRHK9O+wFCL0yHotXLqB6iZKVQ7ymniRB7qpSObNyw2LHfp4hqvjj42FryHhJcdmwOfHfKebMRQQG5mU7pzUMV6VxfPZDBXtjp/WROYwvk4oFhQoQc8bivZT2MVZmClUvC20mA47bOhZJPp/HdNG+1vfpluzcESB0dKFkgLycNubZ1++Cjq6RXYueYP9tfaZnl+i33KpQH4vqGUCJ8OjJ4n+N62R9zxbE6e4vb6xGJPmOagnwXSGopcUnVxok54DKnnbS/SuCBgqsvA+jeXqGRsYPFo++yDRSOeOGYRicLmEVBXuAUz59l62e0Rj26P8RtJTHMzDAgMBAAGjggIjMIICHzAOBgNVHQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUt/3iMwiQS6ejme2CRicg6qFxbTMwHwYDVR0jBBgwFoAUHy81vkYUgs1Asa55LFV4+vfUaPswMwYIKwYBBQUHAQEEJzAlMCMGCCsGAQUFBzAChhdodHRwOi8veXIxLmkubGVuY3Iub3JnLzAgBgNVHREEGTAXghVsZXNiYXNlcy5hbmN0LmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwLwYDVR0fBCgwJjAkoCKgIIYeaHR0cDovL3lyMS5jLmxlbmNyLm9yZy8xMDAuY3JsMIIBCwYKKwYBBAHWeQIEAgSB/ASB+QD3AHUA2AlVO5RPev/IFhlvlE+Fq7D4/F6HVSYPFdEucrtFSxQAAAGgVZPWRAAABAMARjBEAiAEjLqF/CP34+B8rWIIDgyPM+QhP0WxU1+z4Po41xHIPQIgJIXT9wXexIwgUkiG+PVHCSj1sOtBf2ncQaeQqCvfDnAAfgAai51rD/6/gbR5OcbSMQqG1tEC1PBG4hgsneNfXiYl7wAAAaBVk9cvAAgAAAUAOooyJwQDAEcwRQIhAPHJEG0M7/gMDnB03FyEUWnxACmR8a3/w/wMdxev70KsAiBsHBDix4913foHQtaC5q4hBk7cUZbGcWMwGZeO3Q5ZnjANBgkqhkiG9w0BAQsFAAOCAQEALJg2H9hspebQ2naZWs2WhY2z4bAnxy2zm+2qUV7bVLfjfUUEAJ1z6MkitNigC6LD22gld4fLfFZvHxFucTNySzM3DrqS+3dPJoTrCc0KuQZCuvBmC2rDbuq4WJ04U4WekU2NPY7MVik/ySKsO3G8P2L2eJOCeKDXmTFed1T108CkivWiJplPTR21bluaKb1THXfCncLmQcn1xIXccBtAhd9gas9mfzFDc5JkJllekHG7EIQDX5NizRpC3Kkg1q4eBSm4dpo++NYeiCbdiJfdtoJ96zWz3W3R3JJnzHWZsAdzjljKjJh19byoR3vl6YyE9MP9nOkZjHWELt+CRr4Xkw==\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -360,21 +360,21 @@
               "ip"           : "lesbases.anct.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "30 >= 30 days"
+              "finding"      : "83 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "lesbases.anct.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2026-07-02 02:08"
+              "finding"      : "2026-08-31 01:10"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "lesbases.anct.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2026-09-30 02:08"
+              "finding"      : "2026-11-29 01:10"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -395,7 +395,7 @@
               "ip"           : "lesbases.anct.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://yr1.c.lencr.org/93.crl"
+              "finding"      : "http://yr1.c.lencr.org/100.crl"
           }
 ,         {
               "id"           : "cert_ocspURL",
@@ -556,14 +556,14 @@
               "ip"           : "lesbases.anct.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "-5 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "lesbases.anct.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1788058463"
+              "finding"      : "1788661885"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -778,7 +778,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=2FEEC4E35AF89D25B25429D8D723BB689D7512AA1CA8B39FDE4A429842B9715F"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=0128F68A38C6F32D94EC689FE903E82BE0EBAA6B9AB111C889C592004F6F1ACB"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -1154,6 +1154,6 @@
               "ip"           : "lesbases.anct.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "104"
+              "finding"      : "105"
           }
 ]
