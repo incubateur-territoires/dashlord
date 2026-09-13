@@ -3,10 +3,10 @@
   "cookies": [
     {
       "name": "session",
-      "value": "eyJjc3JmX3Rva2VuIjogIjFiNjY2NmJiMDQ2MTljM2Y4MWRhMjAzZDVhZmViYjc0NDcxNGQyZTUwYTY0NDViN2EwYjU3ZmJjZWU0NDkyMzkifQ==.apzYsA.T4CuyhJVCuBOpUHprv8SxQ-vOwQ",
+      "value": "eyJjc3JmX3Rva2VuIjogImJhYWNkYmIyODhkYjc4NWEyODAyMjRiZWYxNjE1MjA5ZDdmZWM4ZTlkYTMwMDA2OTg4ZTkyMDUzOTZkYmZkMWUifQ==.aqYVGQ.Nr4SJz7jdzTS7kwaqPolNM8rlrE",
       "domain": "barnabe.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1789873584.488093,
+      "expires": 1790478873.35714,
       "size": 154,
       "httpOnly": true,
       "secure": false,
@@ -21,12 +21,12 @@
     "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 06 Sep 2026 03:06:23 GMT",
+    "date": "Sun, 13 Sep 2026 03:14:32 GMT",
     "expires": "0",
     "pragma": "no-cache",
-    "set-cookie": "session=eyJjc3JmX3Rva2VuIjogIjFiNjY2NmJiMDQ2MTljM2Y4MWRhMjAzZDVhZmViYjc0NDcxNGQyZTUwYTY0NDViN2EwYjU3ZmJjZWU0NDkyMzkifQ==.apzYrw.k7yLcLv4TXqsrikyuzh50y14vOc; path=/; Max-Age=1209600; httponly; samesite=lax",
+    "set-cookie": "session=eyJjc3JmX3Rva2VuIjogImJhYWNkYmIyODhkYjc4NWEyODAyMjRiZWYxNjE1MjA5ZDdmZWM4ZTlkYTMwMDA2OTg4ZTkyMDUzOTZkYmZkMWUifQ==.aqYVGA.7I3tWuKfRd2DBLqQeLEdN6qTpMg; path=/; Max-Age=1209600; httponly; samesite=lax",
     "strict-transport-security": "max-age=31536000",
-    "x-request-id": "e680736a-0aaa-4cca-ad3a-9056dc1cb55a"
+    "x-request-id": "5560c74d-042e-43cd-bc95-3b7a5d722f56"
   },
   "endpoints": [
     {
