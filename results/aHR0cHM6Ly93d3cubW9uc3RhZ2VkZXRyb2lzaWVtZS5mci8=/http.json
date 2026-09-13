@@ -9,7 +9,7 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 06 Sep 2026 02:44:09 GMT",
+      "date": "Sun, 13 Sep 2026 02:50:36 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
@@ -19,25 +19,25 @@
       "x-download-options": "noopen",
       "x-permitted-cross-domain-policies": "none",
       "referrer-policy": "strict-origin-when-cross-origin",
-      "link": "</packs/css/application-6491bcda.css>; rel=preload; as=style; nopush",
-      "vary": "Accept-Encoding",
-      "cache-control": "no-cache",
-      "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https: 'unsafe-inline' https://*.crisp.chat https://stats.beta.gouv.fr; connect-src 'self' https: https://*.crisp.chat wss://*.relay.crisp.chat wss://*.relay.rescue.crisp.chat; style-src 'self' https: 'unsafe-inline'; frame-src https://*.crisp.chat https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com; worker-src 'self' blob: https://*.crisp.chat",
+      "link": "</packs/css/application-e2342492.css>; rel=preload; as=style; nopush",
+      "etag": "W/\"639219e962948585e27dfe53899cf166\"",
+      "cache-control": "max-age=0, private, must-revalidate",
+      "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https://*.crisp.chat https://unpkg.com https://stats.beta.gouv.fr 'nonce-AVxnAshtGgXnom0bA+nM/A=='; connect-src 'self' https: https://*.crisp.chat wss://*.relay.crisp.chat wss://*.relay.rescue.crisp.chat; style-src 'self' https: 'unsafe-inline'; frame-src https://*.crisp.chat https://chatmd.forge.apps.education.fr https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com; worker-src 'self' blob: https://*.crisp.chat",
       "set-cookie": [
-        "_monstage_session=E0XLlAKpqoW1C%2FZFnA1eqXg7hqE5HjuwH%2FujyrNLpZj9an%2BCKhY5byztxH37vGCxH90OWWQXlMP2l8RIyJX0VpYoOJ5Z%2BzP2N3u1%2FdOBEsQ66U71n2zQ87xUi7YFT1X0W4rM5Ul1OlNMUTpVL%2BMf3B0Kvwaf5NIaP9TLYKfq5N4ZdneDCxp%2Bq903hiz0%2BmXkEh%2FSIhxti7UKiW5tNHEIoqDzYIVCvppaLHnSuYcJonWX%2FOUNHpQQIdtZoTfGlPoB5rSs6Fk3ArJJwYkyMGYQ0Zfjfg65LFarEA%3D%3D--Bxn7DPzPRFtJybR8--Suw0ZbnbD%2B9P73K2D0VPjA%3D%3D; path=/; secure; httponly; samesite=lax"
+        "_monstage_session=6f79ffedd792db697adadf051b2f49f5; path=/; expires=Sun, 13 Sep 2026 14:50:36 GMT; secure; httponly; samesite=lax"
       ],
-      "x-request-id": "74adbbf4-dc9f-4159-8254-ac06f60280cf",
-      "x-runtime": "0.012257",
+      "x-request-id": "1f1a732d-5b1b-425e-9611-72e86b60cc71",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
-      "sozu-id": "01M1T9M48VMX7WZYCE1HBHXZRY"
+      "vary": "Accept-Encoding",
+      "sozu-id": "01M2CARZN8K3C985Z9CCKAXGYN"
     }
   },
   "tests": {
     "content-security-policy": {
       "expectation": "csp-implemented-with-no-unsafe",
-      "pass": false,
-      "result": "csp-implemented-with-unsafe-inline",
-      "scoreModifier": -20,
+      "pass": true,
+      "result": "csp-implemented-with-unsafe-inline-in-style-src-only",
+      "scoreModifier": 0,
       "data": {
         "default-src": [
           "'self'",
@@ -57,10 +57,11 @@
           "'none'"
         ],
         "script-src": [
+          "'nonce-avxnashtggxnom0ba+nm/a=='",
           "'self'",
-          "'unsafe-inline'",
-          "https:",
-          "https://stats.beta.gouv.fr"
+          "https://*.crisp.chat",
+          "https://stats.beta.gouv.fr",
+          "https://unpkg.com"
         ],
         "connect-src": [
           "'self'",
@@ -75,6 +76,7 @@
         ],
         "frame-src": [
           "https://*.crisp.chat",
+          "https://chatmd.forge.apps.education.fr",
           "https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com"
         ],
         "worker-src": [
@@ -94,7 +96,7 @@
         "insecureSchemePassive": false,
         "strictDynamic": false,
         "unsafeEval": false,
-        "unsafeInline": true,
+        "unsafeInline": false,
         "unsafeInlineStyle": true,
         "unsafeObjects": false
       },
@@ -108,6 +110,7 @@
       "data": {
         "_monstage_session": {
           "domain": "www.monstagedetroisieme.fr",
+          "expires": "2026-09-13T14:50:36.000Z",
           "httponly": true,
           "path": "/",
           "port": null,
@@ -126,14 +129,13 @@
     },
     "redirection": {
       "expectation": "redirection-to-https",
-      "pass": true,
-      "result": "redirection-to-https",
-      "scoreModifier": 0,
-      "destination": "https://www.monstagedetroisieme.fr/",
-      "redirects": true,
+      "pass": false,
+      "result": "redirection-missing",
+      "scoreModifier": -20,
+      "destination": "http://www.monstagedetroisieme.fr/",
+      "redirects": false,
       "route": [
-        "http://www.monstagedetroisieme.fr/",
-        "https://www.monstagedetroisieme.fr/"
+        "http://www.monstagedetroisieme.fr/"
       ],
       "statusCode": 200
     },
