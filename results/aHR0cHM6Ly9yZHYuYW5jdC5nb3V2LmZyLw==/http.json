@@ -9,24 +9,24 @@
     "testsPassed": 10,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 06 Sep 2026 02:31:03 GMT",
+      "date": "Sun, 13 Sep 2026 02:35:17 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "60024b35-94fa-4b22-8ce7-40f0912db279, 60024b35-94fa-4b22-8ce7-40f0912db279",
+      "x-request-id": "d6888bec-c64f-48f4-b103-9eb5290d2849, d6888bec-c64f-48f4-b103-9eb5290d2849",
       "x-frame-options": "SAMEORIGIN",
       "x-xss-protection": "0",
       "x-content-type-options": "nosniff",
       "x-permitted-cross-domain-policies": "none",
       "referrer-policy": "strict-origin-when-cross-origin",
-      "link": "</assets/dsfr.min-86ed8c1d.css>; rel=preload; as=style; nopush,</assets/utility/dsfr-utility.min-fa72460a.css>; rel=preload; as=style; nopush,</assets/application-43fa83eb.css>; rel=preload; as=style; nopush,</assets/application-88477f1b.js>; rel=preload; as=script; nopush",
-      "etag": "W/\"da0fb943f6cf3829c3e1a70d4c224c30\"",
+      "link": "</assets/dsfr.min-86ed8c1d.css>; rel=preload; as=style; nopush,</assets/utility/dsfr-utility.min-fa72460a.css>; rel=preload; as=style; nopush,</assets/application-159aeb1c.css>; rel=preload; as=style; nopush,</assets/application-88477f1b.js>; rel=preload; as=script; nopush",
+      "etag": "W/\"9f91a0cb16d295258e8c86bee4652562\"",
       "cache-control": "max-age=0, private, must-revalidate",
       "content-security-policy": "default-src 'self'; font-src 'self' data:; object-src 'none'; worker-src blob:; child-src blob: 'self'; frame-src 'self' rdv-service-public-metabase.osc-secnum-fr1.scalingo.io; img-src 'self' data: blob: tile.openstreetmap.org openmaptiles.data.gouv.fr lasuite.numerique.gouv.fr; style-src 'self' 'unsafe-inline' unpkg.com; connect-src 'self' data.geopf.fr etalab-tiles.fr openmaptiles.data.gouv.fr lasuite.numerique.gouv.fr; script-src 'self' 'sha384-0Zom4D5ryhUWYPBjopSgMAhn3l450eTuFZQypqbSBUPQuS2m2bdUsqi0IYDVgyi6' 'sha384-bLkmUMwRt9nFp2+XvlPOzIkNUx/mnjvxxE7kI6bJWKMz/sfwiK5nra6w+60B9zyF' 'sha256-j4Lx1FqFgvYDBEjW7NQaEY7/HhCi8WVsLWkqC4+wJ3w=' 'sha256-JHKToH7KbGJj6TloPeWnKnbImDel00Whl1rRnBiTYuQ='",
       "set-cookie": [
-        "_rdv_sp_session=mujBEqT1gBi9daqJ7y8uSAEKUhvGev%2FtrG7px9NPDJuy5SFZxbpKI36FJNRFiCmRNhx1bi7nfOvDpeiJEvQLowAE78T0cVT1j13d%2FiB86V4zi3%2B%2Fee4wCa6l0BXTCEkbjmlornyKDooN1l4gFoa%2FqGBynTDwlMCClUAurnE1giZnjEk7wwcwvQvmIpBv0N10AN5sVnNv831Ix8QU8sy9idef7ZT59%2Fl0RQtKuF5bOV6G5%2BOvSILCchRmOrJ56BvOxjYsdtB0QADZZRsVpie5WIcofq7tX3kVklpyRVzGiTEF%2BQWiOjd3drBva52Y--vw1pZuhjO4VD6s9O--0DgAsQuLeEFX8BykVVU%2Bmg%3D%3D; path=/; expires=Sun, 06 Sep 2026 10:31:03 GMT; secure; httponly; samesite=lax"
+        "_rdv_sp_session=%2BWvtLvZwiSrOPoAVoGK1S1JCEC%2F7piorkSqZXXdGT7OCkUl3PXB4mXVlIJJFpujDz3yQTlaebsTdq8UodXbM1ovqpxjDeJUWSQX5EAEHUk2pnGvPi%2BVP3q0QuokqKTrG4mEiscf68s3Kpr0UQTKCpyi%2BrbAIAEtcZT0pOFZYf75XjPM3OEiyjsOXFDF9x5PAkmn%2BJg46%2BGZQgvEm0jSdGsYEFE1Wb1oI1Uqi3z%2F5hT6vLy1SsgO9IuT3qWRtGlUTD9uycwpP3a1HOeZ0cyrs%2FEAUls6aKPpD209vlUaIKf9Zk8K9jlv6Adfyki90--%2BjIY7HB8XdQE8xSG--aX%2FTLaplq0QMmeUW6lKZug%3D%3D; path=/; expires=Sun, 13 Sep 2026 10:35:17 GMT; secure; httponly; samesite=lax"
       ],
-      "x-runtime": "0.011509",
+      "x-runtime": "0.011423",
       "strict-transport-security": "max-age=63072000; includeSubDomains"
     }
   },
@@ -111,7 +111,7 @@
       "data": {
         "_rdv_sp_session": {
           "domain": "rdv.anct.gouv.fr",
-          "expires": "2026-09-06T10:31:03.000Z",
+          "expires": "2026-09-13T10:35:17.000Z",
           "httponly": true,
           "path": "/",
           "port": null,
