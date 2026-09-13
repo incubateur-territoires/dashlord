@@ -11,12 +11,12 @@
   ],
   "cookies": [
     {
-      "name": "_pk_ses.22.6a82",
-      "value": "1",
+      "name": "_pk_id.22.6a82",
+      "value": "a62e9aa821334cc6.1789265390.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1788661967,
-      "size": 16,
+      "expires": 1823220590,
+      "size": 42,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -26,12 +26,12 @@
       "sameParty": false
     },
     {
-      "name": "_pk_id.22.6a82",
-      "value": "51665fc40d5cc5ea.1788660167.",
+      "name": "_pk_ses.22.6a82",
+      "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1822615367,
-      "size": 42,
+      "expires": 1789267190,
+      "size": 16,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -46,10 +46,10 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 06 Sep 2026 02:02:46 GMT",
-    "etag": "W/\"1788531229\"",
+    "date": "Sun, 13 Sep 2026 02:09:48 GMT",
+    "etag": "W/\"1789138570\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Fri, 04 Sep 2026 14:13:49 GMT",
+    "last-modified": "Fri, 11 Sep 2026 14:56:10 GMT",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\nCookie",
     "x-content-type-options": "nosniff",
@@ -57,7 +57,7 @@
     "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "95663f4c-0edd-4861-86d4-df266747da79"
+    "x-request-id": "24634722-b346-4e13-8e7b-0a646afb2d78"
   },
   "endpoints": [
     {
@@ -151,8 +151,8 @@
             "names": {
               "de": "Département Paris",
               "en": "Paris Department",
-              "es": "Departamento de París",
-              "fr": "Département de Paris"
+              "es": "París",
+              "fr": "Paris"
             }
           }
         ]
