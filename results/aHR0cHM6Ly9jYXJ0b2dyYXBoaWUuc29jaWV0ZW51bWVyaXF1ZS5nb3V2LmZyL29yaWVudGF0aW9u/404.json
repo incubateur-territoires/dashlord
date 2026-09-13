@@ -16,7 +16,7 @@
         "href": "https://cartographie.societenumerique.gouv.fr/orientation"
       },
       "link": "https://cartographie.societenumerique.gouv.fr/orientation",
-      "line": "--2026-09-06 02:09:13--  https://cartographie.societenumerique.gouv.fr/orientation",
+      "line": "--2026-09-13 02:17:37--  https://cartographie.societenumerique.gouv.fr/orientation",
       "broken": false
     },
     {
@@ -35,7 +35,7 @@
         "href": "https://cartographie.societenumerique.gouv.fr/"
       },
       "link": "https://cartographie.societenumerique.gouv.fr/",
-      "line": "--2026-09-06 02:09:13--  https://cartographie.societenumerique.gouv.fr/",
+      "line": "--2026-09-13 02:17:37--  https://cartographie.societenumerique.gouv.fr/",
       "broken": false
     },
     {
@@ -54,7 +54,7 @@
         "href": "https://cartographie.societenumerique.gouv.fr/robots.txt"
       },
       "link": "https://cartographie.societenumerique.gouv.fr/robots.txt",
-      "line": "--2026-09-06 02:09:14--  https://cartographie.societenumerique.gouv.fr/robots.txt",
+      "line": "--2026-09-13 02:17:39--  https://cartographie.societenumerique.gouv.fr/robots.txt",
       "broken": false
     },
     {
@@ -73,7 +73,7 @@
         "href": "https://cartographie.societenumerique.gouv.fr/favicon.ico?favicon.0zfc_xdfkxe1s.ico"
       },
       "link": "https://cartographie.societenumerique.gouv.fr/favicon.ico?favicon.0zfc_xdfkxe1s.ico",
-      "line": "--2026-09-06 02:09:14--  https://cartographie.societenumerique.gouv.fr/favicon.ico?favicon.0zfc_xdfkxe1s.ico",
+      "line": "--2026-09-13 02:17:39--  https://cartographie.societenumerique.gouv.fr/favicon.ico?favicon.0zfc_xdfkxe1s.ico",
       "broken": false
     },
     {
@@ -92,7 +92,7 @@
         "href": "https://cartographie.societenumerique.gouv.fr/images/app-logo.svg"
       },
       "link": "https://cartographie.societenumerique.gouv.fr/images/app-logo.svg",
-      "line": "--2026-09-06 02:09:14--  https://cartographie.societenumerique.gouv.fr/images/app-logo.svg",
+      "line": "--2026-09-13 02:17:39--  https://cartographie.societenumerique.gouv.fr/images/app-logo.svg",
       "broken": false
     },
     {
@@ -106,12 +106,12 @@
         "hash": null,
         "search": null,
         "query": null,
-        "pathname": "/declaration-d-accessibilite",
-        "path": "/declaration-d-accessibilite",
-        "href": "https://cartographie.societenumerique.gouv.fr/declaration-d-accessibilite"
+        "pathname": "/accessibilite",
+        "path": "/accessibilite",
+        "href": "https://cartographie.societenumerique.gouv.fr/accessibilite"
       },
-      "link": "https://cartographie.societenumerique.gouv.fr/declaration-d-accessibilite",
-      "line": "--2026-09-06 02:09:14--  https://cartographie.societenumerique.gouv.fr/declaration-d-accessibilite",
+      "link": "https://cartographie.societenumerique.gouv.fr/accessibilite",
+      "line": "--2026-09-13 02:17:39--  https://cartographie.societenumerique.gouv.fr/accessibilite",
       "broken": false
     },
     {
@@ -130,7 +130,7 @@
         "href": "https://cartographie.societenumerique.gouv.fr/mentions-legales"
       },
       "link": "https://cartographie.societenumerique.gouv.fr/mentions-legales",
-      "line": "--2026-09-06 02:09:15--  https://cartographie.societenumerique.gouv.fr/mentions-legales",
+      "line": "--2026-09-13 02:17:39--  https://cartographie.societenumerique.gouv.fr/mentions-legales",
       "broken": false
     },
     {
@@ -149,7 +149,7 @@
         "href": "https://cartographie.societenumerique.gouv.fr/donnees-personnelles"
       },
       "link": "https://cartographie.societenumerique.gouv.fr/donnees-personnelles",
-      "line": "--2026-09-06 02:09:15--  https://cartographie.societenumerique.gouv.fr/donnees-personnelles",
+      "line": "--2026-09-13 02:17:40--  https://cartographie.societenumerique.gouv.fr/donnees-personnelles",
       "broken": false
     },
     {
@@ -168,7 +168,7 @@
         "href": "https://cartographie.societenumerique.gouv.fr/gestion-des-cookies"
       },
       "link": "https://cartographie.societenumerique.gouv.fr/gestion-des-cookies",
-      "line": "--2026-09-06 02:09:15--  https://cartographie.societenumerique.gouv.fr/gestion-des-cookies",
+      "line": "--2026-09-13 02:17:40--  https://cartographie.societenumerique.gouv.fr/gestion-des-cookies",
       "broken": false
     }
   ],
