@@ -3,10 +3,10 @@
   "cookies": [
     {
       "name": "_pk_id.109.b3ed",
-      "value": "092f212fa08570f6.1788662542.",
+      "value": "89a41ff4be27829f.1789267918.",
       "domain": "grist.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1822617742,
+      "expires": 1823223118,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -18,11 +18,11 @@
     },
     {
       "name": "grist_core",
-      "value": "s%3Ag-e86d51175237efe0952f538240d0001502d5c6347900d82895ff3d55ec6ce0de.dLHad0z%2F20qvkWt6%2BHnmgM0VbHSR3Sqd%2Be8DdwT2fs0",
+      "value": "s%3Ag-4da7498bddc2884a5e81448bfb3d80ccbb9f603a4972b4fbfc3186ee32e61e9b.S8fQGTf%2BMHEPt40GI203V4bVkfvJwlhvipH60WvGTq8",
       "domain": "grist.incubateur.anct.gouv.fr",
       "path": "/",
       "expires": -1,
-      "size": 130,
+      "size": 126,
       "httpOnly": true,
       "secure": false,
       "session": true,
@@ -36,7 +36,7 @@
       "value": "1",
       "domain": "grist.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1788664342,
+      "expires": 1789269718,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -49,18 +49,18 @@
   ],
   "headers": {
     "content-language": "en-US",
-    "content-length": "7652",
+    "content-length": "7437",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 06 Sep 2026 02:42:20 GMT",
-    "etag": "W/\"1de4-bzOVmZoV9r3Gwt4nwLpF5Mm80W8\"",
-    "set-cookie": "grist_core=s%3Ag-e86d51175237efe0952f538240d0001502d5c6347900d82895ff3d55ec6ce0de.dLHad0z%2F20qvkWt6%2BHnmgM0VbHSR3Sqd%2Be8DdwT2fs0; Path=/; HttpOnly; SameSite=Lax",
+    "date": "Sun, 13 Sep 2026 02:51:55 GMT",
+    "etag": "W/\"1d0d-DL3zf19sgVz02iC7hgnF5iYwjWI\"",
+    "set-cookie": "grist_core=s%3Ag-4da7498bddc2884a5e81448bfb3d80ccbb9f603a4972b4fbfc3186ee32e61e9b.S8fQGTf%2BMHEPt40GI203V4bVkfvJwlhvipH60WvGTq8; Path=/; HttpOnly; SameSite=Lax",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "x-powered-by": "Express"
   },
   "endpoints": [
     {
       "hostname": "grist.incubateur.anct.gouv.fr",
-      "ip": "146.183.5.238",
+      "ip": "142.44.51.77",
       "geoip": {
         "continent": {
           "code": "EU",
