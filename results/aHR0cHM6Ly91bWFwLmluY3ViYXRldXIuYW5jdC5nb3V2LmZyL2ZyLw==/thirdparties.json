@@ -87,7 +87,7 @@
       "value": "1",
       "domain": "umap.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1788662104,
+      "expires": 1789267232,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -99,10 +99,10 @@
     },
     {
       "name": "_pk_id.35.8651",
-      "value": "e6ee2e8f382c12d7.1788660305.",
+      "value": "d01d9abc4bb11c02.1789265432.",
       "domain": "umap.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1822615505,
+      "expires": 1823220632,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -117,7 +117,7 @@
     "content-encoding": "br",
     "content-language": "fr",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 06 Sep 2026 02:05:03 GMT",
+    "date": "Sun, 13 Sep 2026 02:10:28 GMT",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Accept-Encoding\nCookie"
   },
@@ -493,8 +493,8 @@
             "names": {
               "de": "Département Paris",
               "en": "Paris Department",
-              "es": "Departamento de París",
-              "fr": "Département de Paris"
+              "es": "París",
+              "fr": "Paris"
             }
           }
         ]
