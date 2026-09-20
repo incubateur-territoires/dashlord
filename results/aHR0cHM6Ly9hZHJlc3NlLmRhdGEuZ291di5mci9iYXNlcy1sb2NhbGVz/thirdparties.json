@@ -69,43 +69,12 @@
       "url": "https://baseadressenationale.github.io/bal-widget/dsfr/fonts/Marianne-Regular.woff2"
     }
   ],
-  "cookies": [
-    {
-      "name": "_pk_id.13.592e",
-      "value": "ade8627009cf2c5e.1789263802.",
-      "domain": "adresse.data.gouv.fr",
-      "path": "/",
-      "expires": 1823219002,
-      "size": 42,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "priority": "Medium",
-      "sourceScheme": "Secure",
-      "sameParty": false
-    },
-    {
-      "name": "_pk_ses.13.592e",
-      "value": "1",
-      "domain": "adresse.data.gouv.fr",
-      "path": "/",
-      "expires": 1789265602,
-      "size": 16,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "priority": "Medium",
-      "sourceScheme": "Secure",
-      "sameParty": false
-    }
-  ],
+  "cookies": [],
   "headers": {
     "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 13 Sep 2026 01:43:20 GMT",
+    "date": "Sun, 20 Sep 2026 01:56:30 GMT",
     "link": "</>; rel=preconnect; crossorigin=\"\", </_next/static/media/Marianne-Regular.0gd-6epr788~~.woff2>; rel=preload; as=\"font\"; crossorigin=\"anonymous\", </_next/static/media/Marianne-Medium.010xidx-yq5i_.woff2>; rel=preload; as=\"font\"; crossorigin=\"anonymous\", </_next/static/media/Marianne-Bold.0nc-z6c8sy8jt.woff2>; rel=preload; as=\"font\"; crossorigin=\"anonymous\", </logo-ban-site.svg>; rel=preload; as=\"image\", </logos/LOGO-MINISTERE-ECOLOGIE.jpg>; rel=preload; as=\"image\", </logos/LOGO-IGN.png>; rel=preload; as=\"image\", </logos/LOGO-ANCT.png>; rel=preload; as=\"image\"",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
@@ -170,7 +139,7 @@
     },
     {
       "hostname": "baseadressenationale.github.io",
-      "ip": "185.199.110.153",
+      "ip": "185.199.109.153",
       "geoip": {
         "continent": {
           "code": "NA",
