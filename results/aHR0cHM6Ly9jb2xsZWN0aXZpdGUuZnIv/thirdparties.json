@@ -42,7 +42,7 @@
     },
     {
       "type": "contentsquare",
-      "url": "https://t.contentsquare.net/settings/266388.json?r=1988070",
+      "url": "https://t.contentsquare.net/settings/266388.json?r=1988743",
       "details": {
         "id": "contentsquare",
         "message": "Replace with privacy-first solutions"
@@ -50,7 +50,7 @@
     },
     {
       "type": "contentsquare",
-      "url": "https://c.ba.contentsquare.net/pageview?ex=&dt=36&pvt=n&la=en-US&uc=0&url=https%3A%2F%2Fcollectivite.fr%2F&dr=&dw=800&dh=7737&ww=800&wh=600&sw=800&sh=600&uu=4163ca62-7418-a5a4-e846-242f5665170a&sn=1&hd=1789263160&v=15.250.1&pid=266388&pn=1&ct=0",
+      "url": "https://c.ba.contentsquare.net/pageview?ex=&dt=121&pvt=n&la=en-US&uc=0&url=https%3A%2F%2Fcollectivite.fr%2F&dr=&dw=800&dh=7655&ww=800&wh=600&sw=800&sh=600&uu=de1c2274-7418-a9e1-aaae-b400335ba46f&sn=1&hd=1789868956&v=15.250.1%2Bfix-e9190a67&pid=266388&pn=1&ct=0",
       "details": {
         "id": "contentsquare",
         "message": "Replace with privacy-first solutions"
@@ -63,11 +63,26 @@
   ],
   "cookies": [
     {
-      "name": "_cs_s",
-      "value": "1.0.U.9.1789264960602",
+      "name": "_pk_id.118.88ba",
+      "value": "b79264999e642b57.1789868957.",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1789264960,
+      "expires": 1823824157,
+      "size": 43,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "priority": "Medium",
+      "sourceScheme": "Secure",
+      "sameParty": false
+    },
+    {
+      "name": "_cs_s",
+      "value": "1.0.U.9.1789870756499",
+      "domain": "collectivite.fr",
+      "path": "/",
+      "expires": 1789870756,
       "size": 26,
       "httpOnly": false,
       "secure": true,
@@ -82,7 +97,7 @@
       "value": "0",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1823427160,
+      "expires": 1824032956,
       "size": 6,
       "httpOnly": false,
       "secure": true,
@@ -94,10 +109,10 @@
     },
     {
       "name": "_cs_id",
-      "value": "4163ca62-7418-a5a4-e846-242f5665170a.1789263160.1.1789263160.1789263160.1.1822427160591.0.x",
+      "value": "de1c2274-7418-a9e1-aaae-b400335ba46f.1789868956.1.1789868956.1789868956.1.1823032956484.0.x",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1822427160,
+      "expires": 1823032956,
       "size": 97,
       "httpOnly": false,
       "secure": true,
@@ -112,23 +127,8 @@
       "value": "1",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1789264961,
+      "expires": 1789870757,
       "size": 17,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "priority": "Medium",
-      "sourceScheme": "Secure",
-      "sameParty": false
-    },
-    {
-      "name": "_pk_id.118.88ba",
-      "value": "addadd4ca6dff07b.1789263161.",
-      "domain": "collectivite.fr",
-      "path": "/",
-      "expires": 1823218361,
-      "size": 43,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -142,13 +142,13 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' https://stats.beta.gouv.fr https://*.contentsquare.net https://sentry.anct.cloud-ed.fr; connect-src 'self' https://api.collectivite.fr https://stats.beta.gouv.fr https://*.contentsquare.net https://sentry.anct.cloud-ed.fr https://quotient-familial.numerique.gouv.fr https://datanova.laposte.fr https://data-api.publication-actes.fr https://data-api.megalis.bretagne.bzh; worker-src 'self' blob:;; frame-src 'self' https://data.megalis.bretagne.bzh https://publication-actes.fr https://stats.beta.gouv.fr; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://annuaire-des-collectivites-production-storage.s3.fr-par.scw.cloud https://annuaire-des-collectivites-development-storage.s3.fr-par.scw.cloud https://*.contentsquare.net https://commons.wikimedia.org https://upload.wikimedia.org; font-src 'self' https:; object-src 'none'; upgrade-insecure-requests",
     "content-type": "text/html",
-    "date": "Sun, 13 Sep 2026 01:32:38 GMT",
+    "date": "Sun, 20 Sep 2026 01:49:15 GMT",
     "permissions-policy": "geolocation=(), microphone=(), camera=()",
     "referrer-policy": "strict-origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "85605dde-97c0-44d8-82d0-7203390d927a",
+    "x-request-id": "fbfaf0a4-21bb-40b9-8f13-06997ab993aa",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -210,7 +210,7 @@
     },
     {
       "hostname": "annuaire-des-collectivites-production-storage.s3.fr-par.scw.cloud",
-      "ip": "62.210.223.66",
+      "ip": "51.159.217.178",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
@@ -255,7 +255,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 500,
+          "accuracy_radius": 20,
           "latitude": 48.8558,
           "longitude": 2.3494,
           "time_zone": "Europe/Paris"
@@ -308,7 +308,7 @@
     },
     {
       "hostname": "static.hj.contentsquare.net",
-      "ip": "65.8.20.4",
+      "ip": "18.172.134.107",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -362,7 +362,7 @@
     },
     {
       "hostname": "t.contentsquare.net",
-      "ip": "18.238.109.15",
+      "ip": "3.167.163.115",
       "geoip": {
         "continent": {
           "code": "NA",
