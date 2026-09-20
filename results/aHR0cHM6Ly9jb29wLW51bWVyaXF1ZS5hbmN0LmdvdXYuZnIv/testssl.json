@@ -1,5 +1,12 @@
 [
          {
+              "id"           : "cmdline_fast_depreciation",
+              "ip"           : "coop-numerique.anct.gouv.fr/",
+              "port"         : "443",
+              "severity"     : "WARN",
+              "finding"      : "'--fast' can have some undesired side effects thus it is not recommended to use anymore"
+          }
+,         {
               "id"           : "service",
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
@@ -192,7 +199,7 @@
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "valid for 7199 seconds only (<daily)"
+              "finding"      : "valid for 7200 seconds only (<daily)"
           }
 ,         {
               "id"           : "SSL_sessionID_support",
@@ -360,7 +367,7 @@
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "56 >= 30 days"
+              "finding"      : "49 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -556,14 +563,14 @@
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-1 seconds from localtime"
+              "finding"      : "-6 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1789266643"
+              "finding"      : "1789872166"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1154,6 +1161,6 @@
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "102"
+              "finding"      : "94"
           }
 ]
