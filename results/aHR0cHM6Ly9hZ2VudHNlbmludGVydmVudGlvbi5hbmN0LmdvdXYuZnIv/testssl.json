@@ -199,7 +199,7 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.25.52",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "valid for 7200 seconds only (<daily)"
+              "finding"      : "valid for 7199 seconds only (<daily)"
           }
 ,         {
               "id"           : "SSL_sessionID_support",
@@ -213,7 +213,7 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.25.52",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
@@ -367,7 +367,7 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.25.52",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "58 >= 30 days"
+              "finding"      : "51 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -563,14 +563,14 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.25.52",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-88 seconds from localtime"
+              "finding"      : "-5 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.25.52",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1789874082"
+              "finding"      : "1790479664"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -612,7 +612,7 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.25.52",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "x-powered-by: PHP/8.4.16"
+              "finding"      : "x-powered-by: PHP/8.4.25"
           }
 ,         {
               "id"           : "cookie_count",
@@ -1168,6 +1168,6 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.25.52",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "62"
+              "finding"      : "85"
           }
 ]
