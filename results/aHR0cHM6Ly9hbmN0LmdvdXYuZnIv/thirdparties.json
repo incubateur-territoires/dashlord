@@ -2,11 +2,7 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://sentry.anct.cloud-ed.fr/api/12/envelope/?sentry_version=7&sentry_key=92d1bf2800a14b2609b79ec491f0e041&sentry_client=sentry.javascript.browser%2F10.47.0"
-    },
-    {
-      "type": "unknown",
-      "url": "https://sentry.anct.cloud-ed.fr/api/12/envelope/?sentry_version=7&sentry_key=92d1bf2800a14b2609b79ec491f0e041&sentry_client=sentry.javascript.browser%2F10.47.0"
+      "url": "https://sentry.anct.cloud-ed.fr/api/12/envelope/?sentry_version=7&sentry_key=92d1bf2800a14b2609b79ec491f0e041&sentry_client=sentry.javascript.browser%2F10.69.0"
     }
   ],
   "cookies": [
@@ -15,7 +11,7 @@
       "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1789876539,
+      "expires": 1790481901,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -27,10 +23,10 @@
     },
     {
       "name": "_pk_id.22.6a82",
-      "value": "01391033116129ae.1789874740.",
+      "value": "26be712446deb4bb.1790480101.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1823829940,
+      "expires": 1824435301,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -46,10 +42,10 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 20 Sep 2026 03:25:38 GMT",
-    "etag": "W/\"1789747802\"",
+    "date": "Sun, 27 Sep 2026 03:35:00 GMT",
+    "etag": "W/\"1790258414\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Fri, 18 Sep 2026 16:10:02 GMT",
+    "last-modified": "Thu, 24 Sep 2026 14:00:14 GMT",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\nCookie",
     "x-content-type-options": "nosniff",
@@ -57,12 +53,12 @@
     "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "16757d31-c50c-4c13-866c-75588f1ffd6f"
+    "x-request-id": "f2b167f7-9b64-447a-9616-e6079f4d1cf9"
   },
   "endpoints": [
     {
       "hostname": "anct.gouv.fr",
-      "ip": "185.21.194.105",
+      "ip": "80.247.13.145",
       "geoip": {
         "continent": {
           "code": "EU",
