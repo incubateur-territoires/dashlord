@@ -283,7 +283,7 @@
               "ip"           : "cartographie.societenumerique.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "06B8C4B3244BE9FEADAF19B499ACBEF9AB56"
+              "finding"      : "064A8C1D4A3AD61306AF523143F170B1DD6E"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -297,21 +297,21 @@
               "ip"           : "cartographie.societenumerique.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "4F1C3938F553EA61CA33BAC5ED83D7B37A204BB6"
+              "finding"      : "F564050B05A1A592F839F5A5E5BE087DBFB90306"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "cartographie.societenumerique.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "5C274236CF2222AEDF5C4D89FB8BC6CCBE387287F5FDD556A452ECF51FED84AE"
+              "finding"      : "9AE20BD6274A8A85970B707C1F103FE4D8458E0C7A8556E1A115C0C1E4103682"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "cartographie.societenumerique.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFJTCCBA2gAwIBAgISBrjEsyRL6f6trxm0may++atWMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNZUjEwHhcNMjYwNzI4MTAzNzU4WhcNMjYxMDI2MTAzNzU3WjAwMS4wLAYDVQQDEyVjYXJ0b2dyYXBoaWUuc29jaWV0ZW51bWVyaXF1ZS5nb3V2LmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq1+9HbCfxhb8eaIr3vo2zEPDfjURWVPqgmb8GkcU5hffpnws+zO0eIwIuPO0xFvZLFDAxgfUbFwYNiZBRq3ovZekeksA3UjAB37DvNmk7j6mXfwtpnnckYAQe41T0Kyo/VvABpZ0Cz00qM1/XsW8BVUFDtD3IwJZ+mBKe+UPhkPW9Zg46ImcdYaHHWdfMDOH3A0LkVNmRxGZCfcxR6ixtRkKI9yF1rwSIqhIb01J14P9wtcR/DKH/Q5/sU6mtsnx8rg6zlPpftZQ1QOKCqcoj2p3qda4ognEtkc7U/UrMJCiOgUK4DgxuNFeR8USDYkKSiXLrSWtm0boYCre0iJ7xwIDAQABo4ICNDCCAjAwDgYDVR0PAQH/BAQDAgWgMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFMhZVcVJJ/A+ypm+I6cXNVMCoLVzMB8GA1UdIwQYMBaAFB8vNb5GFILNQLGueSxVePr31Gj7MDMGCCsGAQUFBwEBBCcwJTAjBggrBgEFBQcwAoYXaHR0cDovL3lyMS5pLmxlbmNyLm9yZy8wMAYDVR0RBCkwJ4IlY2FydG9ncmFwaGllLnNvY2lldGVudW1lcmlxdWUuZ291di5mcjATBgNVHSAEDDAKMAgGBmeBDAECATAuBgNVHR8EJzAlMCOgIaAfhh1odHRwOi8veXIxLmMubGVuY3Iub3JnLzg3LmNybDCCAQ0GCisGAQQB1nkCBAIEgf4EgfsA+QB2AMIxfldFGaNF7n843rKQQevHwiFaIr9/1bWtdprZDlLNAAABn6iDC8sAAAQDAEcwRQIhALfnON+KbSvVpz6oMZ8w0uHnfwDicGRDNy91Ngh7PTBjAiAl9uuCFon/m+FzxvX6YFWIIluPY5GT0tbNlNHDKcmiIwB/AGz+UBlDqF6pFrxS0TPk3Mke8UEcfSWEINFzgJ4YGOs6AAABn6iDDkAACAAABQAYC2+fBAMASDBGAiEA4/0p1jGUBs06EKNdCSUfdNW9EXoqHhh3FfhH3cn0UEYCIQC31//DFJpmMJEBvUKBUBOi+bRtKXWk9dHwi8i97EjWATANBgkqhkiG9w0BAQsFAAOCAQEAIuX8/9/nAyBuflaiJoGvSdD4kqb53svce2pi0ld3GidE+aOHBR5yJgUIARuJ43EmjuGi4RR2bSnPMjS2aD+kONSyl13T5Xy7XB05DESCalBmFD+6bGTOCqwI2EvefAtzCWlCRUwjOIvmAS/cyn/MCLdLahLRwupNwmDd2GCKe35Xhw9ZIh2jFomiP47uisEUQ4ar71he2Bki/7tbd8H9wxLG6ugmi0sS845qFGWUydtqaY7q637vMp6o78wnq0//A4D9d09ZoPfrUql0wNDTnBmxOSsuE4vNOk4xenn1RDI1WXnyv5DFujHsZCc98X0PGOLHWoCM+zbT+oCs+o6wug==\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFJjCCBA6gAwIBAgISBkqMHUo61hMGr1IxQ/Fwsd1uMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNZUjEwHhcNMjYwOTI2MDkzOTU2WhcNMjYxMjI1MDkzOTU1WjAwMS4wLAYDVQQDEyVjYXJ0b2dyYXBoaWUuc29jaWV0ZW51bWVyaXF1ZS5nb3V2LmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApX3fHQLG5FlZWXtvI1RDtcxHkRcvY/zANzcfAbOldKl9cRScQQnRQbrMXSJTeI4oLD82EVXiICUSXXTjMABN2uN/hH7l8X4mA/YIwICCn2NSUrWt1GB8lUfeH2uMLltXEcEaOx0argo+jmP+fxV0TwUxx3QbLusrjxEvp/1a8AqunG6doWs/2efkglPkIBJ1deq2ZieLghEUBnTC4Sg26Spq1ECCquzlnhMiW4hEqt7YkoQOeHRoO0DTYlZi2KpsN0pHof3n/rRunlWKqe5dDpzAW60vfvlcQt81bL9gWjAlkOF1qXAGiVAZISXfWyVkGv1HmYR3+Dnk77hXTou7cQIDAQABo4ICNTCCAjEwDgYDVR0PAQH/BAQDAgWgMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFKqrqCtRi+0JHWSFEuU/7Yc9TwMaMB8GA1UdIwQYMBaAFB8vNb5GFILNQLGueSxVePr31Gj7MDMGCCsGAQUFBwEBBCcwJTAjBggrBgEFBQcwAoYXaHR0cDovL3lyMS5pLmxlbmNyLm9yZy8wMAYDVR0RBCkwJ4IlY2FydG9ncmFwaGllLnNvY2lldGVudW1lcmlxdWUuZ291di5mcjATBgNVHSAEDDAKMAgGBmeBDAECATAvBgNVHR8EKDAmMCSgIqAghh5odHRwOi8veXIxLmMubGVuY3Iub3JnLzExMS5jcmwwggENBgorBgEEAdZ5AgQCBIH+BIH7APkAdgDYCVU7lE96/8gWGW+UT4WrsPj8XodVJg8V0S5yu0VLFAAAAaDdS3q6AAAEAwBHMEUCIHf7izJSMgG6YESURGYCCAlurVmnJQ3EegIW7BNZXt/1AiEApqt9df88K6EvyaNOpn9+t10QCCvNOUbam4rA9GR8Cw8AfwCigQAYc04Xbh1H4JVA84G6VGaXzWOoQ1BxbrgJTtrxDQAAAaDdS3teAAgAAAUAFbNnVAQDAEgwRgIhAJjyvMFwFlLy+a+uM+5PpgJ7yJMmJ+1/WZExkuqgrSkWAiEAiHwrLligMHpM8+9OqgRUJHSjb+K+Ih1CWJ6gF2y/5v8wDQYJKoZIhvcNAQELBQADggEBAHHEscBgtJoKvoWoniooiK1OX2OlwIzK6awCyhERz3xUbo8nT6I0R5d8BLqMWiM0/cPbKKqaaYYONwIa0K1AeBq3y8qi1WI9sEdI99vplfcT3Cuol6RUy9NBZf3ApJPrBUJxaV7r1LO/3lEUrs6p6V3GZhxEX5xy/mm4b5wP95fTWIkjFJp7PysmBqQj931FWRMXBzmRx8a4mDxVf6b9AHieMK52dMh8y1Kt1fHUMKV3+ok8peqDXm/L7cNr2NeSScGpvuHBMumuE0EkVaGcOWqrRGnH0GZpZRCFkgJM2FzmJ+1l41JkE62p05C4T/YSOdPdJ1RUW1eEnTVUG4AUDY8=\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -367,21 +367,21 @@
               "ip"           : "cartographie.societenumerique.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "36 >= 30 days"
+              "finding"      : "89 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "cartographie.societenumerique.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2026-07-28 10:37"
+              "finding"      : "2026-09-26 09:39"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "cartographie.societenumerique.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2026-10-26 10:37"
+              "finding"      : "2026-12-25 09:39"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -402,7 +402,7 @@
               "ip"           : "cartographie.societenumerique.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://yr1.c.lencr.org/87.crl"
+              "finding"      : "http://yr1.c.lencr.org/111.crl"
           }
 ,         {
               "id"           : "cert_ocspURL",
@@ -570,7 +570,7 @@
               "ip"           : "cartographie.societenumerique.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1789871579"
+              "finding"      : "1790477062"
           }
 ,         {
               "id"           : "ipv4_in_header",
@@ -751,7 +751,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=5C274236CF2222AEDF5C4D89FB8BC6CCBE387287F5FDD556A452ECF51FED84AE"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=9AE20BD6274A8A85970B707C1F103FE4D8458E0C7A8556E1A115C0C1E4103682"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -1127,6 +1127,6 @@
               "ip"           : "cartographie.societenumerique.gouv.fr/212.47.249.134",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "96"
+              "finding"      : "73"
           }
 ]
