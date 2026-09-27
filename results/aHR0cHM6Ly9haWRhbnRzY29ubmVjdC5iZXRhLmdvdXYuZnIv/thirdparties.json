@@ -47,12 +47,12 @@
   ],
   "cookies": [
     {
-      "name": "_pk_id.98.2d29",
-      "value": "c13d2ea1a86ecfd4.1789871190.",
+      "name": "_pk_ses.98.2d29",
+      "value": "1",
       "domain": "aidantsconnect.beta.gouv.fr",
       "path": "/",
-      "expires": 1823826390,
-      "size": 42,
+      "expires": 1790478517,
+      "size": 16,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -62,12 +62,12 @@
       "sameParty": false
     },
     {
-      "name": "_pk_ses.98.2d29",
-      "value": "1",
+      "name": "_pk_id.98.2d29",
+      "value": "203d96704ff661c2.1790476718.",
       "domain": "aidantsconnect.beta.gouv.fr",
       "path": "/",
-      "expires": 1789872990,
-      "size": 16,
+      "expires": 1824431918,
+      "size": 42,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -79,21 +79,22 @@
   ],
   "headers": {
     "content-encoding": "gzip",
-    "content-security-policy": "script-src 'self' https://unpkg.com/stimulus@3.2.2/dist/stimulus.js https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.min.js https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0 https://unpkg.com/easymde/dist/easymde.min.js https://forms.sbc29.com/form.js https://unpkg.com/tarteaucitronjs@1.15.0/tarteaucitron.js https://unpkg.com/tarteaucitronjs@1.15.0/lang/tarteaucitron.fr.js https://unpkg.com/tarteaucitronjs@1.15.0/tarteaucitron.services.js https://code.jquery.com/jquery-3.6.1.js https://code.jquery.com/ui/1.13.1/jquery-ui.js https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/autoComplete.min.js https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/autoComplete.min.js https://stats.beta.gouv.fr/matomo.js https://stats.beta.gouv.fr/piwik.js 'nonce-2ZI11xzLosbb6tfjVXkEqQ=='; style-src-attr 'unsafe-hashes' 'sha256-I/4Jcdrg5KNFrU0X4p2nNmjeGh9aI+9ac0cUllI5SwY=' 'sha256-vYd+FsML43MBXhP+pXOhW9h0Cdq43hkCe4Im/yyvhss='; connect-src 'self' https://stats.beta.gouv.fr/matomo.php https://stats.beta.gouv.fr/piwik.php https://api.sarbacane.com/v1/forms/contacts/upsert https://api-adresse.data.gouv.fr/search/; style-src 'self' https://unpkg.com/easymde/dist/easymde.min.css 'nonce-2ZI11xzLosbb6tfjVXkEqQ=='; frame-src 'none'; img-src 'self' data: https://www.service-public.fr/resources/v-5cf79a7acf/web/css/img/png/; object-src 'none'; default-src 'self'",
+    "content-security-policy": "style-src-attr 'unsafe-hashes' 'sha256-I/4Jcdrg5KNFrU0X4p2nNmjeGh9aI+9ac0cUllI5SwY=' 'sha256-vYd+FsML43MBXhP+pXOhW9h0Cdq43hkCe4Im/yyvhss='; script-src 'self' https://unpkg.com/stimulus@3.2.2/dist/stimulus.js https://cdn.jsdelivr.net/npm/@gouvfr/dsfr-chart@2.1.1/dist/DSFRChart/DSFRChart.js https://unpkg.com/easymde/dist/easymde.min.js https://forms.sbc29.com/form.js https://unpkg.com/tarteaucitronjs@1.15.0/tarteaucitron.js https://unpkg.com/tarteaucitronjs@1.15.0/lang/tarteaucitron.fr.js https://unpkg.com/tarteaucitronjs@1.15.0/tarteaucitron.services.js https://code.jquery.com/jquery-3.6.1.js https://code.jquery.com/ui/1.13.1/jquery-ui.js https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/autoComplete.min.js https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/autoComplete.min.js https://stats.beta.gouv.fr/matomo.js https://stats.beta.gouv.fr/piwik.js 'nonce-2qyKwqwRW7tuYgSsD5Zerw=='; img-src 'self' data: https://www.service-public.fr/resources/v-5cf79a7acf/web/css/img/png/; default-src 'self'; connect-src 'self' https://stats.beta.gouv.fr/matomo.php https://stats.beta.gouv.fr/piwik.php https://api.sarbacane.com/v1/forms/contacts/upsert https://api-adresse.data.gouv.fr/search/; frame-src 'none'; object-src 'none'; style-src 'self' https://unpkg.com/easymde/dist/easymde.min.css https://cdn.jsdelivr.net/npm/@gouvfr/dsfr-chart@2.1.1/dist/DSFRChart/DSFRChart.css 'nonce-2qyKwqwRW7tuYgSsD5Zerw=='",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 20 Sep 2026 02:26:28 GMT",
+    "date": "Sun, 27 Sep 2026 02:38:35 GMT",
     "referrer-policy": "strict-origin",
     "strict-transport-security": "max-age=60",
     "vary": "Cookie",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "227ad316-2462-446b-96a3-98519a68829d"
+    "x-request-id": "f3e5c98c-9d34-480a-96a1-3c7b71778638",
+    "x-robots-tag": "noindex, nofollow"
   },
   "endpoints": [
     {
       "hostname": "aidantsconnect.beta.gouv.fr",
-      "ip": "148.253.96.193",
+      "ip": "80.247.13.145",
       "geoip": {
         "continent": {
           "code": "EU",
