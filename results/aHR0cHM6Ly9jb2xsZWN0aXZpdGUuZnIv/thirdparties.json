@@ -42,7 +42,7 @@
     },
     {
       "type": "contentsquare",
-      "url": "https://t.contentsquare.net/settings/266388.json?r=1989416",
+      "url": "https://t.contentsquare.net/settings/266388.json?r=1990091",
       "details": {
         "id": "contentsquare",
         "message": "Replace with privacy-first solutions"
@@ -59,7 +59,7 @@
       "value": "1",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1790476230,
+      "expires": 1791084484,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -71,10 +71,10 @@
     },
     {
       "name": "_pk_id.118.88ba",
-      "value": "736ea34d6588748f.1790474430.",
+      "value": "cb992d5f3e3e51f9.1791082685.",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1824429630,
+      "expires": 1825037885,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -89,19 +89,19 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' https://stats.beta.gouv.fr https://*.contentsquare.net https://sentry.anct.cloud-ed.fr; connect-src 'self' https://api.collectivite.fr https://stats.beta.gouv.fr https://*.contentsquare.net https://sentry.anct.cloud-ed.fr https://quotient-familial.numerique.gouv.fr https://datanova.laposte.fr https://data-api.publication-actes.fr https://data-api.megalis.bretagne.bzh; worker-src 'self' blob:;; frame-src 'self' https://data.megalis.bretagne.bzh https://publication-actes.fr https://stats.beta.gouv.fr; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://annuaire-des-collectivites-production-storage.s3.fr-par.scw.cloud https://annuaire-des-collectivites-development-storage.s3.fr-par.scw.cloud https://*.contentsquare.net https://commons.wikimedia.org https://upload.wikimedia.org; font-src 'self' https:; object-src 'none'; upgrade-insecure-requests",
     "content-type": "text/html",
-    "date": "Sun, 27 Sep 2026 02:00:28 GMT",
+    "date": "Sun, 04 Oct 2026 02:58:02 GMT",
     "permissions-policy": "geolocation=(), microphone=(), camera=()",
     "referrer-policy": "strict-origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "e99fa0a7-b909-4b40-8ac4-edbc7e20cac7",
+    "x-request-id": "633c80f8-3fe7-4638-a136-cf3dbbc5bce0",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
     {
       "hostname": "collectivite.fr",
-      "ip": "148.253.96.193",
+      "ip": "185.21.194.105",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -157,7 +157,7 @@
     },
     {
       "hostname": "annuaire-des-collectivites-production-storage.s3.fr-par.scw.cloud",
-      "ip": "51.159.42.163",
+      "ip": "51.159.50.179",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
@@ -309,7 +309,7 @@
     },
     {
       "hostname": "t.contentsquare.net",
-      "ip": "108.138.159.49",
+      "ip": "108.138.159.39",
       "geoip": {
         "continent": {
           "code": "NA",

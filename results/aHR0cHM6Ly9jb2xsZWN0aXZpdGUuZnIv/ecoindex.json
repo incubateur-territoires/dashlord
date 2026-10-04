@@ -3,7 +3,7 @@
         "width": 1920,
         "height": 1080,
         "url": "https://collectivite.fr/",
-        "size": 1039.835,
+        "size": 1043.006,
         "nodes": 395,
         "requests": 50,
         "grade": "C",
@@ -11,7 +11,7 @@
         "ges": 1.66,
         "water": 2.49,
         "ecoindex_version": "5.4.2",
-        "date": "2026-09-27 02:00:06.644858",
+        "date": "2026-10-04 02:57:40.670735",
         "page_type": null
     }
 ]
