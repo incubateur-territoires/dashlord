@@ -1,5 +1,12 @@
 [
          {
+              "id"           : "engine_problem",
+              "ip"           : "coop-numerique.anct.gouv.fr/",
+              "port"         : "443",
+              "severity"     : "WARN",
+              "finding"      : "No engine or GOST support via engine with your /home/testssl/bin/openssl.Linux.x86_64"
+          }
+,         {
               "id"           : "cmdline_fast_depreciation",
               "ip"           : "coop-numerique.anct.gouv.fr/",
               "port"         : "443",
@@ -199,7 +206,7 @@
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "valid for 7199 seconds only (<daily)"
+              "finding"      : "valid for 7200 seconds only (<daily)"
           }
 ,         {
               "id"           : "SSL_sessionID_support",
@@ -213,7 +220,7 @@
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
@@ -367,7 +374,7 @@
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "42 >= 30 days"
+              "finding"      : "35 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -563,14 +570,14 @@
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-1 seconds from localtime"
+              "finding"      : "-3 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1790477689"
+              "finding"      : "1791085975"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1161,6 +1168,6 @@
               "ip"           : "coop-numerique.anct.gouv.fr/51.158.118.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "100"
+              "finding"      : "109"
           }
 ]
