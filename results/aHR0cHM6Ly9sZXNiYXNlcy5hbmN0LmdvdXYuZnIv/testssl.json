@@ -1,5 +1,12 @@
 [
          {
+              "id"           : "engine_problem",
+              "ip"           : "lesbases.anct.gouv.fr/",
+              "port"         : "443",
+              "severity"     : "WARN",
+              "finding"      : "No engine or GOST support via engine with your /home/testssl/bin/openssl.Linux.x86_64"
+          }
+,         {
               "id"           : "cmdline_fast_depreciation",
               "ip"           : "lesbases.anct.gouv.fr/",
               "port"         : "443",
@@ -367,7 +374,7 @@
               "ip"           : "lesbases.anct.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "62 >= 30 days"
+              "finding"      : "55 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -563,14 +570,14 @@
               "ip"           : "lesbases.anct.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-38 seconds from localtime"
+              "finding"      : "-3 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "lesbases.anct.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1790478014"
+              "finding"      : "1791086250"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1161,6 +1168,6 @@
               "ip"           : "lesbases.anct.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "105"
+              "finding"      : "62"
           }
 ]
