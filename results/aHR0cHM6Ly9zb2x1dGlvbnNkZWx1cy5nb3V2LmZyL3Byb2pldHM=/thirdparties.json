@@ -3,10 +3,6 @@
     {
       "type": "unknown",
       "url": "https://sentry.anct.cloud-ed.fr/api/12/envelope/?sentry_version=7&sentry_key=92d1bf2800a14b2609b79ec491f0e041&sentry_client=sentry.javascript.browser%2F10.69.0"
-    },
-    {
-      "type": "unknown",
-      "url": "https://sentry.anct.cloud-ed.fr/api/12/envelope/?sentry_version=7&sentry_key=92d1bf2800a14b2609b79ec491f0e041&sentry_client=sentry.javascript.browser%2F10.69.0"
     }
   ],
   "cookies": [
@@ -15,7 +11,7 @@
       "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1790478169,
+      "expires": 1791086446,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -27,10 +23,10 @@
     },
     {
       "name": "_pk_id.22.6a82",
-      "value": "b0f8556409181a46.1790476369.",
+      "value": "76713ca049831864.1791084646.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1824431569,
+      "expires": 1825039846,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -46,10 +42,10 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 27 Sep 2026 02:32:47 GMT",
-    "etag": "W/\"1790360237\"",
+    "date": "Sun, 04 Oct 2026 03:30:45 GMT",
+    "etag": "W/\"1790952426\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Fri, 25 Sep 2026 18:17:17 GMT",
+    "last-modified": "Fri, 02 Oct 2026 14:47:06 GMT",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\nCookie",
     "x-content-type-options": "nosniff",
@@ -57,7 +53,7 @@
     "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "07b3fc4f-c9dc-4139-b8c4-af7452289f23"
+    "x-request-id": "1ce718fc-c132-4b8f-bcd4-29b872ae1b0d"
   },
   "endpoints": [
     {
