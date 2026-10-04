@@ -20,10 +20,10 @@
   Please file bugs @ <a href="https://testssl.sh/bugs/" style="font-weight:bold;color:black;text-decoration:none;">https://testssl.sh/bugs/</a>
 <span style="font-weight:bold;">#####################################################################</span>
 
-  Using <i>OpenSSL 1.0.2-bad (Mar 28 2025)</i>  [~183 ciphers]
-  on runnervmtr4k5:/home/testssl/bin/openssl.Linux.x86_64
+  Using <i>OpenSSL 1.0.2-bad (Mar 28 2025)</i>  [~179 ciphers]
+  on runnervm8df0l:/home/testssl/bin/openssl.Linux.x86_64
 
-<span style="color:white;background-color:black;"> Start 2026-09-27 02:13:02        --&gt;&gt; 212.47.249.134:443 (espacesurdemande.anct.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Start 2026-10-04 03:09:35        --&gt;&gt; 212.47.249.134:443 (espacesurdemande.anct.gouv.fr) &lt;&lt;--</span>
 
  Further IP addresses:   2001:bc8:710:2f:: 
  rDNS (212.47.249.134):  134-249-47-212.instances.scw.cloud.
@@ -87,7 +87,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                               &quot;renegotiation info/#65281&quot;
 <span style="font-weight:bold;"> Session Ticket RFC 5077 hint </span>7200 seconds, session tickets keys seems to be rotated &lt; daily
 <span style="font-weight:bold;"> SSL Session ID support       </span>yes
-<span style="font-weight:bold;"> Session Resumption           </span>Tickets no, ID: yes
+<span style="font-weight:bold;"> Session Resumption           </span>Tickets no, ID: no
 <span style="font-weight:bold;"> TLS clock skew</span>               Random values, no fingerprinting possible 
 <span style="font-weight:bold;"> Certificate Compression      </span>none
 <span style="font-weight:bold;"> Client Authentication        </span>none
@@ -105,7 +105,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                               https://search.censys.io/search?resource=hosts&amp;virtual_hosts=INCLUDE&amp;q=55F67ED983F7E97C1DD1861F63A1396F4F073408B7CCE8B63F13B079F4F95D14
 <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
 <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">86 &gt;= 30 days</span> (2026-09-23 20:31 --&gt; 2026-12-22 20:31)
+<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">79 &gt;= 30 days</span> (2026-09-23 20:31 --&gt; 2026-12-22 20:31)
 <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
 <span style="font-weight:bold;"> Certificate Revocation List  </span>http://yr2.c.lencr.org/107.crl
 <span style="font-weight:bold;"> OCSP URI                     </span>--
@@ -122,19 +122,41 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 
 <span style="text-decoration:underline;font-weight:bold;"> Testing HTTP header response @ &quot;/&quot; </span>
 
-<span style="font-weight:bold;"> HTTP Status Code           </span>  429 Too Many Requests<span style="color:#cd00cd;">. Oh, didn&apos;t expect &quot;429 Too Many Requests&quot;</span>
-<span style="font-weight:bold;"> HTTP clock skew              </span>0 sec from localtime
+<span style="font-weight:bold;"> HTTP Status Code           </span>  200 OK
+<span style="font-weight:bold;"> HTTP clock skew              </span>-3 sec from localtime
 <span style="font-weight:bold;"> Strict Transport Security    </span><span style="color:#008817;">730 days</span>=63072000 s<span style="color:#008817;">, includeSubDomains</span><span style="color:#008817;">, preload</span>
 <span style="font-weight:bold;"> Public Key Pinning           </span>--
 <span style="font-weight:bold;"> Server banner                </span>envoy&apos;
 <span style="font-weight:bold;"> Application banner           </span>--
-<span style="font-weight:bold;"> Cookie(s)                    </span>(none issued at &quot;/&quot;) -- HTTP status 429 signals you maybe missed the web application
-<span style="font-weight:bold;"> Security headers             </span><span style="color:#008817;">X-Frame-Options</span>: DENY
+<span style="font-weight:bold;"> Cookie(s)                    </span>(none issued at &quot;/&quot;)
+<span style="font-weight:bold;"> Security headers             </span><span style="color:#008817;">X-Frame-Options</span>: SAMEORIGIN
                               <span style="color:#008817;">X-Content-Type-Options</span>: nosniff
+                              <span style="color:#008817;">Content-Security-Policy</span>: base-uri &apos;none&apos;;
+                                font-src &apos;self&apos; https: data:; form-action
+                                &apos;self&apos;; frame-ancestors &apos;self&apos;; img-src &apos;self&apos;
+                                data: https://*.tile.openstreetmap.org
+                                https://stats.beta.gouv.fr
+                                https://s3.fr-par.scw.cloud
+                                https://*.cdn.espace-sur-demande.fr
+                                https://*.espacesurdemande.anct.gouv.fr;
+                                object-src &apos;none&apos;; script-src-attr &apos;none&apos;;
+                                style-src &apos;self&apos; https: &apos;unsafe-inline&apos;;
+                                script-src &apos;self&apos; https: &apos;unsafe-inline&apos;
+                                &apos;strict-dynamic&apos;
+                                &apos;nonce-KJLfuhUs6h83W77h49LS8rtB&apos;;
+                                upgrade-insecure-requests; frame-src &apos;self&apos;
+                                https://www.youtube-nocookie.com/
+                                https://espacesurdemande.metabase.donnees.incubateur.anct.gouv.fr/ 
+                                ttps://recaptcha.net/recaptcha/;
+                              <span style="color:#008817;">Permissions-Policy</span>: camera=(),
+                                display-capture=(), fullscreen=(),
+                                geolocation=(), microphone=()
+                              Cross-Origin-Opener-Policy: same-origin
+                              Cross-Origin-Resource-Policy: same-origin
+                              Cross-Origin-Embedder-Policy: unsafe-none
                               X-XSS-Protection: 0
                               Access-Control-Allow-Origin: *
-                              Referrer-Policy: no-referrer
-                              Cache-Control: no-cache
+                              Referrer-Policy: strict-origin-when-cross-origin
 <span style="font-weight:bold;"> Reverse Proxy banner         </span>--
 
 
@@ -213,7 +235,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Final Score                  </span>81
 <span style="font-weight:bold;"> Overall Grade                </span><span style="color:#008817;font-weight:bold;">A+</span>
 
-<span style="color:white;background-color:black;"> Done 2026-09-27 02:14:35 [  95s] --&gt;&gt; 212.47.249.134:443 (espacesurdemande.anct.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Done 2026-10-04 03:11:05 [  92s] --&gt;&gt; 212.47.249.134:443 (espacesurdemande.anct.gouv.fr) &lt;&lt;--</span>
 
 
 </pre>
