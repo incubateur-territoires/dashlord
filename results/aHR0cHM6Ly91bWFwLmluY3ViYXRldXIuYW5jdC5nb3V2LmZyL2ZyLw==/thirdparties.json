@@ -34,6 +34,14 @@
     },
     {
       "type": "unknown",
+      "url": "https://oos.cloudgouv-eu-west-1.outscale.com/peertube-medias-prd/hls/hls/ea5438ee-bfe0-40ea-980c-9a8dec2d8419/ebf2cf80-82e2-42d7-9c02-27eac88f9f93-master.m3u8"
+    },
+    {
+      "type": "unknown",
+      "url": "https://oos.cloudgouv-eu-west-1.outscale.com/peertube-medias-prd/hls/hls/7e54bb5d-d551-4791-a2ba-958d4d5e9a4e/7e4231d5-7ccf-4386-8179-6594cbe19580-master.m3u8"
+    },
+    {
+      "type": "unknown",
       "url": "https://www.terresdesconfluences.fr/sites/default/files/aerodrome.svg"
     },
     {
@@ -84,10 +92,10 @@
   "cookies": [
     {
       "name": "_pk_id.35.8651",
-      "value": "516def5deaaa7851.1791084761.",
+      "value": "721355bbc90ad834.1791687556.",
       "domain": "umap.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1825039961,
+      "expires": 1825642756,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -102,7 +110,7 @@
       "value": "1",
       "domain": "umap.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1791086560,
+      "expires": 1791689355,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -117,7 +125,7 @@
     "content-encoding": "br",
     "content-language": "fr",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 04 Oct 2026 03:32:38 GMT",
+    "date": "Sun, 11 Oct 2026 02:59:14 GMT",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Accept-Encoding\nCookie"
   },
@@ -349,6 +357,62 @@
     {
       "hostname": "c.forte.tiles.quaidorsay.fr",
       "ip": "193.19.209.27",
+      "geoip": {
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "oos.cloudgouv-eu-west-1.outscale.com",
+      "ip": "185.21.195.135",
       "geoip": {
         "continent": {
           "code": "EU",
