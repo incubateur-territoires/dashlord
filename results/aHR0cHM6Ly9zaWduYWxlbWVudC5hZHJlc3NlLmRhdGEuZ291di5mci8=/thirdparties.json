@@ -14,17 +14,17 @@
     "cache-control": "public, max-age=0",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 04 Oct 2026 03:19:10 GMT",
-    "etag": "W/\"5ce-1a0a9424258\"",
-    "last-modified": "Wed, 16 Sep 2026 08:08:07 GMT",
+    "date": "Sun, 11 Oct 2026 02:41:46 GMT",
+    "etag": "W/\"5ce-1a11fffa8b8\"",
+    "last-modified": "Fri, 09 Oct 2026 09:30:11 GMT",
     "strict-transport-security": "max-age=31536000",
     "x-powered-by": "Express",
-    "x-request-id": "456ef619-f4fd-4369-8168-7a1afd7d38e4"
+    "x-request-id": "7e9735c9-040f-4645-adc4-4efbb9932028"
   },
   "endpoints": [
     {
       "hostname": "signalement.adresse.data.gouv.fr",
-      "ip": "80.247.13.145",
+      "ip": "148.253.96.193",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -136,7 +136,7 @@
     },
     {
       "hostname": "api.mapbox.com",
-      "ip": "52.85.193.49",
+      "ip": "3.168.51.52",
       "geoip": {
         "continent": {
           "code": "NA",

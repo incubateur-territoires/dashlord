@@ -3,15 +3,15 @@
         "width": 1920,
         "height": 1080,
         "url": "https://signalement.adresse.data.gouv.fr/",
-        "size": 3555.281,
+        "size": 3558.578,
         "nodes": 137,
-        "requests": 61,
+        "requests": 62,
         "grade": "C",
         "score": 67.0,
         "ges": 1.66,
         "water": 2.49,
         "ecoindex_version": "5.4.2",
-        "date": "2026-10-04 03:18:50.955263",
+        "date": "2026-10-11 02:41:30.798563",
         "page_type": null
     }
 ]
