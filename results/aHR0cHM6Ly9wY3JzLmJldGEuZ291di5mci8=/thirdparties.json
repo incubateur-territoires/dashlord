@@ -3,10 +3,10 @@
   "cookies": [
     {
       "name": "_pk_id.119.cb50",
-      "value": "0171a1c58c7303a0.1791688634.",
+      "value": "08d3881c9e0ea1a5.1792291568.",
       "domain": "pcrs.beta.gouv.fr",
       "path": "/",
-      "expires": 1825643834,
+      "expires": 1826246768,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -21,7 +21,7 @@
       "value": "1",
       "domain": "pcrs.beta.gouv.fr",
       "path": "/",
-      "expires": 1791690433,
+      "expires": 1792293368,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -35,12 +35,12 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 11 Oct 2026 03:17:11 GMT",
+    "date": "Sun, 18 Oct 2026 02:46:06 GMT",
     "etag": "\"uaraf6p4p3svz\"",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-powered-by": "Next.js",
-    "x-request-id": "db0c0525-d733-4144-8235-a4fb42cd0167"
+    "x-request-id": "4be4e6b5-a041-4876-b8ed-b287f730cf4c"
   },
   "endpoints": [
     {
