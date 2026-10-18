@@ -11,7 +11,7 @@
       "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1791692652,
+      "expires": 1792295392,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -23,10 +23,10 @@
     },
     {
       "name": "_pk_id.22.6a82",
-      "value": "0f70b0a71a075498.1791690852.",
+      "value": "dc63d3544d782718.1792293593.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1825646052,
+      "expires": 1826248793,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -42,23 +42,23 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 11 Oct 2026 03:54:11 GMT",
-    "etag": "W/\"1791533045\"",
+    "date": "Sun, 18 Oct 2026 03:19:51 GMT",
+    "etag": "W/\"1792167135\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Fri, 09 Oct 2026 08:04:05 GMT",
+    "last-modified": "Fri, 16 Oct 2026 16:12:15 GMT",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\nCookie",
     "x-content-type-options": "nosniff",
     "x-drupal-cache": "HIT",
-    "x-drupal-dynamic-cache": "HIT",
+    "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "ccf34978-c1a1-431a-be74-1a7480fe619f"
+    "x-request-id": "159ddd60-688f-47b3-8e98-cc2e59bf74df"
   },
   "endpoints": [
     {
       "hostname": "anct.gouv.fr",
-      "ip": "185.21.194.105",
+      "ip": "80.247.13.145",
       "geoip": {
         "continent": {
           "code": "EU",
