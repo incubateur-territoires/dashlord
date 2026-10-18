@@ -6,7 +6,7 @@
       "value": "1",
       "domain": "deveco.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1791688515,
+      "expires": 1792290975,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.15.1d54",
-      "value": "d8a92f0a6ff8f1db.1791686716.",
+      "value": "eb974e827f9c5227.1792289175.",
       "domain": "deveco.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1825641916,
+      "expires": 1826244375,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -36,16 +36,16 @@
     "cache-control": "public, max-age=0",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 11 Oct 2026 02:45:13 GMT",
+    "date": "Sun, 18 Oct 2026 02:06:13 GMT",
     "etag": "W/\"519f-19f536b97e0\"",
     "last-modified": "Sat, 11 Jul 2026 23:03:08 GMT",
     "strict-transport-security": "max-age=31536000",
-    "x-request-id": "8adb2e05-df34-464d-bc3e-543547007f92\n8adb2e05-df34-464d-bc3e-543547007f92"
+    "x-request-id": "5aad02ad-d9c1-4311-8e83-a4f53d5cc487\n5aad02ad-d9c1-4311-8e83-a4f53d5cc487"
   },
   "endpoints": [
     {
       "hostname": "deveco.incubateur.anct.gouv.fr",
-      "ip": "148.253.96.193",
+      "ip": "185.21.194.105",
       "geoip": {
         "continent": {
           "code": "EU",
