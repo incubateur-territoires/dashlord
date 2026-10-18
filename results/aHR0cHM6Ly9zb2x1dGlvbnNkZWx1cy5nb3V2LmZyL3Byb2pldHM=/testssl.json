@@ -220,7 +220,7 @@
               "ip"           : "solutionsdelus.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
@@ -374,7 +374,7 @@
               "ip"           : "solutionsdelus.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "59 >= 30 days"
+              "finding"      : "52 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -577,7 +577,7 @@
               "ip"           : "solutionsdelus.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1791687411"
+              "finding"      : "1792289850"
           }
 ,         {
               "id"           : "HSTS",
@@ -1126,6 +1126,6 @@
               "ip"           : "solutionsdelus.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "95"
+              "finding"      : "99"
           }
 ]
