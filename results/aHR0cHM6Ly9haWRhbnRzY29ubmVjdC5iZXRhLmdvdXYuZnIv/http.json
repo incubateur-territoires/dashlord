@@ -9,12 +9,12 @@
     "testsPassed": 8,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 18 Oct 2026 02:24:30 GMT",
+      "date": "Sun, 25 Oct 2026 02:30:55 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "x-request-id": "2b8505dd-7bc3-4ad2-a92e-5bb350291f2a",
-      "content-security-policy": "connect-src 'self' https://stats.beta.gouv.fr/matomo.php https://stats.beta.gouv.fr/piwik.php https://api.sarbacane.com/v1/forms/contacts/upsert https://api-adresse.data.gouv.fr/search/; object-src 'none'; script-src 'self' https://unpkg.com/stimulus@3.2.2/dist/stimulus.js https://cdn.jsdelivr.net/npm/@gouvfr/dsfr-chart@2.1.1/dist/DSFRChart/DSFRChart.js https://unpkg.com/easymde/dist/easymde.min.js https://forms.sbc29.com/form.js https://unpkg.com/tarteaucitronjs@1.15.0/tarteaucitron.js https://unpkg.com/tarteaucitronjs@1.15.0/lang/tarteaucitron.fr.js https://unpkg.com/tarteaucitronjs@1.15.0/tarteaucitron.services.js https://code.jquery.com/jquery-3.6.1.js https://code.jquery.com/ui/1.13.1/jquery-ui.js https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/autoComplete.min.js https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/autoComplete.min.js https://stats.beta.gouv.fr/matomo.js https://stats.beta.gouv.fr/piwik.js 'nonce-mMCqOG78o0aE3/hZBrs4Ig=='; default-src 'self'; style-src 'self' https://unpkg.com/easymde/dist/easymde.min.css https://cdn.jsdelivr.net/npm/@gouvfr/dsfr-chart@2.1.1/dist/DSFRChart/DSFRChart.css 'nonce-mMCqOG78o0aE3/hZBrs4Ig=='; style-src-attr 'unsafe-hashes' 'sha256-I/4Jcdrg5KNFrU0X4p2nNmjeGh9aI+9ac0cUllI5SwY=' 'sha256-vYd+FsML43MBXhP+pXOhW9h0Cdq43hkCe4Im/yyvhss='; img-src 'self' data: https://www.service-public.fr/resources/v-5cf79a7acf/web/css/img/png/; frame-src 'none'",
+      "x-request-id": "1eb1b900-c389-44f2-a41c-a112805d9b85",
+      "content-security-policy": "connect-src 'self' https://stats.beta.gouv.fr/matomo.php https://stats.beta.gouv.fr/piwik.php https://api.sarbacane.com/v1/forms/contacts/upsert https://api-adresse.data.gouv.fr/search/; script-src 'self' https://unpkg.com/stimulus@3.2.2/dist/stimulus.js https://cdn.jsdelivr.net/npm/@gouvfr/dsfr-chart@2.1.1/dist/DSFRChart/DSFRChart.js https://unpkg.com/easymde/dist/easymde.min.js https://forms.sbc29.com/form.js https://unpkg.com/tarteaucitronjs@1.15.0/tarteaucitron.js https://unpkg.com/tarteaucitronjs@1.15.0/lang/tarteaucitron.fr.js https://unpkg.com/tarteaucitronjs@1.15.0/tarteaucitron.services.js https://code.jquery.com/jquery-3.6.1.js https://code.jquery.com/ui/1.13.1/jquery-ui.js https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/autoComplete.min.js https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/autoComplete.min.js https://stats.beta.gouv.fr/matomo.js https://stats.beta.gouv.fr/piwik.js 'nonce-+77aqHSP0ZVGBrfECIzaMA=='; style-src-attr 'unsafe-hashes' 'sha256-I/4Jcdrg5KNFrU0X4p2nNmjeGh9aI+9ac0cUllI5SwY=' 'sha256-vYd+FsML43MBXhP+pXOhW9h0Cdq43hkCe4Im/yyvhss='; default-src 'self'; object-src 'none'; style-src 'self' https://unpkg.com/easymde/dist/easymde.min.css https://cdn.jsdelivr.net/npm/@gouvfr/dsfr-chart@2.1.1/dist/DSFRChart/DSFRChart.css 'nonce-+77aqHSP0ZVGBrfECIzaMA=='; frame-src 'none'; img-src 'self' data: https://www.service-public.fr/resources/v-5cf79a7acf/web/css/img/png/",
       "referrer-policy": "strict-origin",
       "x-frame-options": "DENY",
       "vary": "Cookie",
@@ -37,11 +37,8 @@
           "https://stats.beta.gouv.fr/matomo.php",
           "https://stats.beta.gouv.fr/piwik.php"
         ],
-        "object-src": [
-          "'none'"
-        ],
         "script-src": [
-          "'nonce-mmcqog78o0ae3/hzbrs4ig=='",
+          "'nonce-+77aqhsp0zvgbrfecizama=='",
           "'self'",
           "https://cdn.jsdelivr.net/npm/@gouvfr/dsfr-chart@2.1.1/dist/dsfrchart/dsfrchart.js",
           "https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/autocomplete.min.js",
@@ -56,27 +53,30 @@
           "https://unpkg.com/tarteaucitronjs@1.15.0/tarteaucitron.js",
           "https://unpkg.com/tarteaucitronjs@1.15.0/tarteaucitron.services.js"
         ],
-        "default-src": [
-          "'self'"
-        ],
-        "style-src": [
-          "'nonce-mmcqog78o0ae3/hzbrs4ig=='",
-          "'self'",
-          "https://cdn.jsdelivr.net/npm/@gouvfr/dsfr-chart@2.1.1/dist/dsfrchart/dsfrchart.css",
-          "https://unpkg.com/easymde/dist/easymde.min.css"
-        ],
         "style-src-attr": [
           "'sha256-i/4jcdrg5knfru0x4p2nnmjegh9ai+9ac0culli5swy='",
           "'sha256-vyd+fsml43mbxhp+pxohw9h0cdq43hkce4im/yyvhss='",
           "'unsafe-hashes'"
         ],
+        "default-src": [
+          "'self'"
+        ],
+        "object-src": [
+          "'none'"
+        ],
+        "style-src": [
+          "'nonce-+77aqhsp0zvgbrfecizama=='",
+          "'self'",
+          "https://cdn.jsdelivr.net/npm/@gouvfr/dsfr-chart@2.1.1/dist/dsfrchart/dsfrchart.css",
+          "https://unpkg.com/easymde/dist/easymde.min.css"
+        ],
+        "frame-src": [
+          "'none'"
+        ],
         "img-src": [
           "'self'",
           "data:",
           "https://www.service-public.fr/resources/v-5cf79a7acf/web/css/img/png/"
-        ],
-        "frame-src": [
-          "'none'"
         ]
       },
       "http": true,
