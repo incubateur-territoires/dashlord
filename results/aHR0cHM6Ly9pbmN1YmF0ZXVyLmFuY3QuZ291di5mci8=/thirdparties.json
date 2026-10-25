@@ -7,12 +7,12 @@
   ],
   "cookies": [
     {
-      "name": "_pk_id.22.6a82",
-      "value": "bce55e39419c1066.1792287578.",
+      "name": "_pk_ses.22.6a82",
+      "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1826242778,
-      "size": 42,
+      "expires": 1792894945,
+      "size": 16,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -22,12 +22,12 @@
       "sameParty": false
     },
     {
-      "name": "_pk_ses.22.6a82",
-      "value": "1",
+      "name": "_pk_id.22.6a82",
+      "value": "be291e4016d7c3d4.1792893145.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1792289377,
-      "size": 16,
+      "expires": 1826848345,
+      "size": 42,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -42,10 +42,10 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 18 Oct 2026 01:39:36 GMT",
-    "etag": "W/\"1792167135\"",
+    "date": "Sun, 25 Oct 2026 01:52:24 GMT",
+    "etag": "W/\"1792660808\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Fri, 16 Oct 2026 16:12:15 GMT",
+    "last-modified": "Thu, 22 Oct 2026 09:20:08 GMT",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\nCookie",
     "x-content-type-options": "nosniff",
@@ -53,12 +53,12 @@
     "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "2059a4d4-8521-4522-aec2-7c6859244620"
+    "x-request-id": "78245600-7654-4611-b78f-c36ad1f45758"
   },
   "endpoints": [
     {
       "hostname": "incubateur.anct.gouv.fr",
-      "ip": "80.247.12.255",
+      "ip": "80.247.13.145",
       "geoip": {
         "continent": {
           "code": "EU",
