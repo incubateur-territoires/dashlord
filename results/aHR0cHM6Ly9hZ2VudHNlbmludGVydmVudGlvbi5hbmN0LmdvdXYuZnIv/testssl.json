@@ -227,7 +227,7 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.25.52",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -290,7 +290,7 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.25.52",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "06DBAED4DDAD5154903455A1DA6A35231786"
+              "finding"      : "05E9E3C037564B845D97F2B10A609A4B5FB8"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -304,21 +304,21 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.25.52",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "E3F973E8CA69B2DD220AC0975F2BAC432EB78792"
+              "finding"      : "BCB728F0D899DB164029B7B59C3066A2DBCDE3DC"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.25.52",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0B408159F9EB6DBAD93733FF769E47628B3859C8FADAC6EF3C4B902C1AD1AC2D"
+              "finding"      : "9A7F8868D1FA2446AD252CF8571BE075968C412A62BB05F0F4CB50CDFCFF2F7C"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.25.52",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFGjCCBAKgAwIBAgISBtuu1N2tUVSQNFWh2mo1IxeGMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNZUjEwHhcNMjYwODE5MjIzMTQxWhcNMjYxMTE3MjIzMTQwWjAsMSowKAYDVQQDEyFhZ2VudHNlbmludGVydmVudGlvbi5hbmN0LmdvdXYuZnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC8w1xhwwcatoNsLQpZkvSE7AQNRq5Coo8/eWR8sua/0+hD0lxeTQ1pQlWYHabLKkqK/VSMvMsWQFfxePKskkNzsnczLEHGbXphw2TmcBYjE2J3HP3FRCqvGsWzaVP+JkRMHjtvJWmdthbeI40hxMpeuqKuNEx1291xvfrnBNtGzYFqWY7Y8ps4ojpbsGKx4S7+CRnQinxhQnHA5/Q2INg3qe0raNbcDn4fjwyT3LRJ/lR/9amube4t/OnR4um6dODayspibznoBsTdYfK6skXVDNulaxFKhZX/afTScibkSrxT9OrzC54SFGhFS2xzPxk7WtNnL3mY3FrQ8vWoO1T5AgMBAAGjggItMIICKTAOBgNVHQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUIj1Y55ht0W+5/kRkanmD2PnZAhcwHwYDVR0jBBgwFoAUHy81vkYUgs1Asa55LFV4+vfUaPswMwYIKwYBBQUHAQEEJzAlMCMGCCsGAQUFBzAChhdodHRwOi8veXIxLmkubGVuY3Iub3JnLzAsBgNVHREEJTAjgiFhZ2VudHNlbmludGVydmVudGlvbi5hbmN0LmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwLQYDVR0fBCYwJDAioCCgHoYcaHR0cDovL3lyMS5jLmxlbmNyLm9yZy83LmNybDCCAQsGCisGAQQB1nkCBAIEgfwEgfkA9wB1AMs49xWJfIShRF9bwd37yW7ymlnNRwppBYWwyxTDFFjnAAABoBxcYBcAAAQDAEYwRAIgPK3SgWFEtb2ssptlBmQ2i/utJUX2Pv0lgdWx0XfcYhgCIDPfISEAhGSEy2ydLYVazPxw+CmNwzVbV19MjZKA4+1IAH4AqCbL4wrGNRJGUz/gZfFPGdluGQgTxB3ZbXkAsxI8VScAAAGgHFxjIwAIAAAFAB69bq8EAwBHMEUCIQCntOF+xkbEo52pPKjLM6EGU3BWwoigbJkk1qYA3GQTXAIgBNbskib9Q/zda9dlJLLjOFqLBkakPaXuMhiZwPqSSMswDQYJKoZIhvcNAQELBQADggEBAAiEnY0CydhFNdoPgHf+XIxQtCRNtqxkyd37rCxSXGWnpmihpE0gukwcdmOLKiev7qj+ieTdjUbjuwwe50k6TBkZp7UMEfrKq/KilCFzZe3Fzr8/htTswLyzt6yg/uByhOI17vYh4za6l9xM/CPPTQ0CqtxQWUA8S1btXEaOdSJEV+hKXWXro3lRA0WpRxfNVS6OY3OD1QEejjTboC7zw7fKao79mKEa3dN7F2MtwWhHmFQ/lFppe6a6+nTac0BM2cQppHs0s2RYDGj7jmjo0jTYBh9cJAM4VS8LhBCttDDX3VSZ9Otv7LdsCSGERPNy8CB4+CA8v+iVgdqaLLXueaA=\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFGzCCBAOgAwIBAgISBenjwDdWS4Rdl/KxCmCaS1+4MA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNZUjEwHhcNMjYxMDE4MjEzMzM1WhcNMjcwMTE2MjEzMzM0WjAsMSowKAYDVQQDEyFhZ2VudHNlbmludGVydmVudGlvbi5hbmN0LmdvdXYuZnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDOmcWpVYa/yxZbU1oxYhIjDMGQU02KzQZew0hopidVfK1Com5t79x1om1rAY/APN/BcWlUgrc9vSmARI0PCmH6fSUORGkhfth/C4fBLe8YtHdjaD9xfceq8N/U9I5mpE+Skod/O3OPbgkiZrA99pUHPdaZPB9D8K7L/GkfBhk9xqPZcoAJi5S+2dJlf6LSqYxWd48fSpVc3JlQJ/gbbxhkHwWi26qunO2ESgY9pSehNUyYol2neQUgP8mQzBogSZLmTB1W3I7IQh8d746Dfd5s7CEHjSBohPyoJYeYLarLYp0sr6GmiKRZgxFyvpQ8O2vT+5KKm0LXSetHyTLi2qHdAgMBAAGjggIuMIICKjAOBgNVHQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUJR5Mz/Q0Urq05ptegnhn+WsgFKswHwYDVR0jBBgwFoAUHy81vkYUgs1Asa55LFV4+vfUaPswMwYIKwYBBQUHAQEEJzAlMCMGCCsGAQUFBzAChhdodHRwOi8veXIxLmkubGVuY3Iub3JnLzAsBgNVHREEJTAjgiFhZ2VudHNlbmludGVydmVudGlvbi5hbmN0LmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwLgYDVR0fBCcwJTAjoCGgH4YdaHR0cDovL3lyMS5jLmxlbmNyLm9yZy81Ny5jcmwwggELBgorBgEEAdZ5AgQCBIH8BIH5APcAdgBEwr0M6RQOZKXJSgGTClqhuzWXDgDuERaJaCocRNe1ZgAAAaFRJMBsAAAEAwBHMEUCIQDkLljfo9nqGdUWwPddOkPumDebDOkfz2Mb6F/PDmsX5gIgMtoKqh6qldHRvWV0+nEicf2rliay5cGTEls/z+6cmfsAfQCOykcLrN5q86IGsKR6hLdG/h/Gv5U+JeabTuQCSPPG6AAAAaFRJMFcAAgAAAUAJ6hbPAQDAEYwRAIgBeIOxOwvs1T6erQacdTSGcHJDRf1BaA0CGDk2Gp70eUCIF2gxdbB5hF67Fd3IBn8SLGLC24D0zcmwfV+VOrCcmT5MA0GCSqGSIb3DQEBCwUAA4IBAQAj3SFJ0R/1nUxT7L3X3BqSxJQAbGw+eSwA+34iCKHV3pfG1T38MJ54Q3wNN0er8qUjOYZU26svE2zpkDf/KYDh6stP77A5iL8wmaW6tsVmTcMSJ/C77zyIVCoGU4HdnYXzSulQM5Ji0MhQh5lLyMVVYZ/vDDn5D94lZ4HL1R2WvTXMAwd900BOYWx7zul2mX3H8T2gGu0SSVeevWs1fkFlCmztqS3/wWct8J84FKP/8/6Fd3e0clVVg5vXBTi2gLowVPWDupuLk+dkQk1HQHadyOtMd2mFsixIR94BrSf0GTyYBoUx6t5cL3UO3XialsKtCre3hKtl6NhE3/Svn3Mp\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -374,21 +374,21 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.25.52",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "30 >= 30 days"
+              "finding"      : "83 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.25.52",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2026-08-19 22:31"
+              "finding"      : "2026-10-18 21:33"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.25.52",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2026-11-17 22:31"
+              "finding"      : "2027-01-16 21:33"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -409,7 +409,7 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.25.52",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://yr1.c.lencr.org/7.crl"
+              "finding"      : "http://yr1.c.lencr.org/57.crl"
           }
 ,         {
               "id"           : "cert_ocspURL",
@@ -570,14 +570,14 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.25.52",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-3 seconds from localtime"
+              "finding"      : "-4 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.25.52",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1792292851"
+              "finding"      : "1792897969"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -619,7 +619,7 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.25.52",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "x-powered-by: PHP/8.4.25"
+              "finding"      : "No application banner found"
           }
 ,         {
               "id"           : "cookie_count",
@@ -799,7 +799,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=0B408159F9EB6DBAD93733FF769E47628B3859C8FADAC6EF3C4B902C1AD1AC2D"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=9A7F8868D1FA2446AD252CF8571BE075968C412A62BB05F0F4CB50CDFCFF2F7C"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -1175,6 +1175,6 @@
               "ip"           : "agentsenintervention.anct.gouv.fr/51.159.25.52",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "58"
+              "finding"      : "109"
           }
 ]
