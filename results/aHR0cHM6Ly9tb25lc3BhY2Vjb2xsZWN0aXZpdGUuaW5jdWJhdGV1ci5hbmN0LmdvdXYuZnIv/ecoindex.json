@@ -3,7 +3,7 @@
         "width": 1920,
         "height": 1080,
         "url": "https://monespacecollectivite.incubateur.anct.gouv.fr/",
-        "size": 4553.068,
+        "size": 4553.544,
         "nodes": 220,
         "requests": 49,
         "grade": "C",
@@ -11,7 +11,7 @@
         "ges": 1.68,
         "water": 2.52,
         "ecoindex_version": "5.4.2",
-        "date": "2026-10-18 02:11:26.735780",
+        "date": "2026-10-25 02:19:50.609382",
         "page_type": null
     }
 ]
