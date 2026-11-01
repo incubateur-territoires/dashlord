@@ -1,25 +1,24 @@
 {
   "scan": {
     "algorithmVersion": 4,
-    "grade": "C-",
+    "grade": "F",
     "error": null,
-    "score": 45,
+    "score": 10,
     "statusCode": 200,
-    "testsFailed": 4,
-    "testsPassed": 6,
+    "testsFailed": 5,
+    "testsPassed": 5,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 25 Oct 2026 03:00:04 GMT",
-      "content-type": "text/html; charset=utf-8",
-      "content-length": "7437",
-      "connection": "close",
       "x-powered-by": "Express",
       "content-language": "en",
-      "etag": "W/\"1d0d-3FfjYooafNDcDXhyc3qmGS8TGCQ\"",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "7437",
+      "etag": "W/\"1d0d-WQEnVihtZiHNVcnBdpbDDKQNsKk\"",
       "set-cookie": [
-        "grist_core=s%3Ag-3e02da781cb6b28485a0f5c3a17e8c3b9b7406967c03ff6c9338e9927a4c251d.hQPHadhJjXfp5IHQ%2Bp0a%2FLYgzEzt%2FWoNKRzomc%2Bn1r0; Path=/; HttpOnly; SameSite=Lax"
+        "grist_core=s%3Ag-ebbbae851180144d243b87f15f4c139a3acb916ce2f82ee751b0ea115c4faceb.9U7ytt4er4Qo%2Bq%2FzfJEWKeHOyXSrh7Hea4ZRrAkhHdY; Path=/; HttpOnly; SameSite=Lax"
       ],
-      "strict-transport-security": "max-age=31536000; includeSubDomains"
+      "date": "Sun, 01 Nov 2026 04:01:11 GMT",
+      "connection": "close"
     }
   },
   "tests": {
@@ -37,8 +36,8 @@
     "cookies": {
       "expectation": "cookies-secure-with-httponly-sessions",
       "pass": false,
-      "result": "cookies-without-secure-flag-but-protected-by-hsts",
-      "scoreModifier": -5,
+      "result": "cookies-without-secure-flag",
+      "scoreModifier": -20,
       "data": {
         "grist_core": {
           "domain": "grist.incubateur.anct.gouv.fr",
@@ -62,11 +61,11 @@
       "pass": true,
       "result": "redirection-to-https",
       "scoreModifier": 0,
-      "destination": "https://grist.incubateur.anct.gouv.fr/o/docs",
+      "destination": "https://grist.incubateur.anct.gouv.fr/o/docs/",
       "redirects": true,
       "route": [
         "http://grist.incubateur.anct.gouv.fr/o/docs/",
-        "https://grist.incubateur.anct.gouv.fr/o/docs"
+        "https://grist.incubateur.anct.gouv.fr/o/docs/"
       ],
       "statusCode": 200
     },
@@ -81,12 +80,12 @@
     },
     "strict-transport-security": {
       "expectation": "hsts-implemented-max-age-at-least-six-months",
-      "pass": true,
-      "result": "hsts-implemented-max-age-at-least-six-months",
-      "scoreModifier": 0,
-      "data": "max-age=31536000; includeSubDomains",
-      "includeSubDomains": true,
-      "maxAge": 31536000,
+      "pass": false,
+      "result": "hsts-not-implemented",
+      "scoreModifier": -20,
+      "data": null,
+      "includeSubDomains": false,
+      "maxAge": null,
       "preload": false,
       "preloaded": false
     },
