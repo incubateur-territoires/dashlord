@@ -374,7 +374,7 @@
               "ip"           : "adresse.data.gouv.fr/51.68.84.201",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "62 >= 30 days"
+              "finding"      : "55 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -570,14 +570,14 @@
               "ip"           : "adresse.data.gouv.fr/51.68.84.201",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-1 seconds from localtime"
+              "finding"      : "0 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "adresse.data.gouv.fr/51.68.84.201",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1793502581"
+              "finding"      : "1794107669"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1140,6 +1140,6 @@
               "ip"           : "adresse.data.gouv.fr/51.68.84.201",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "159"
+              "finding"      : "105"
           }
 ]
