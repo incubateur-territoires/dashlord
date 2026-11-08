@@ -9,7 +9,7 @@
     "testsPassed": 9,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 01 Nov 2026 03:54:24 GMT",
+      "date": "Sun, 08 Nov 2026 04:00:03 GMT",
       "content-type": "text/html; charset=utf-8",
       "transfer-encoding": "chunked",
       "connection": "close",
@@ -19,17 +19,17 @@
       "x-download-options": "noopen",
       "x-permitted-cross-domain-policies": "none",
       "referrer-policy": "strict-origin-when-cross-origin",
-      "link": "</packs/css/application-537c7a16.css>; rel=preload; as=style; nopush",
-      "etag": "W/\"f4fbe28fea5be7797802e613b30b59da\"",
+      "link": "</packs/css/application-b83cdbc3.css>; rel=preload; as=style; nopush",
+      "etag": "W/\"18441cbc8c0a9e2171c7dada8fe7cf0c\"",
       "cache-control": "max-age=0, private, must-revalidate",
-      "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https://*.crisp.chat https://unpkg.com https://stats.beta.gouv.fr 'nonce-0RwWPziuseup0tKgijpkBw=='; connect-src 'self' https: https://*.crisp.chat wss://*.relay.crisp.chat wss://*.relay.rescue.crisp.chat; style-src 'self' https: 'unsafe-inline'; frame-src https://*.crisp.chat https://chatmd.forge.apps.education.fr https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com; worker-src 'self' blob: https://*.crisp.chat",
+      "content-security-policy": "default-src 'self' https:; font-src 'self' https: data:; img-src 'self' https: data:; object-src 'none'; script-src 'self' https://*.crisp.chat https://unpkg.com https://stats.beta.gouv.fr 'nonce-1LSxJR5SqE7k5WxzlUP1qQ=='; connect-src 'self' https: https://*.crisp.chat wss://*.relay.crisp.chat wss://*.relay.rescue.crisp.chat; style-src 'self' https: 'unsafe-inline'; frame-src https://*.crisp.chat https://chatmd.forge.apps.education.fr https://djynrmvomfteevbyhwyx-metabase.services.clever-cloud.com; worker-src 'self' blob: https://*.crisp.chat",
       "set-cookie": [
-        "_monstage_session=55f7315c7b63789e3b1af945ad023939; path=/; expires=Sun, 01 Nov 2026 15:54:24 GMT; secure; httponly; samesite=lax"
+        "_monstage_session=481c11b0561f89d8b639a9e860222f3f; path=/; expires=Sun, 08 Nov 2026 16:00:03 GMT; secure; httponly; samesite=lax"
       ],
-      "x-request-id": "27940067-8795-4684-a506-63d1c0db24a6",
+      "x-request-id": "16654b76-b4b0-4941-b566-687ad5d8c80d",
       "strict-transport-security": "max-age=63072000; includeSubDomains",
       "vary": "Accept-Encoding",
-      "sozu-id": "01M6AKX0NCT067JKP6KC1TR5D1"
+      "sozu-id": "01M6WN0CXFRCYMXYCHVRT3PW6W"
     }
   },
   "tests": {
@@ -57,7 +57,7 @@
           "'none'"
         ],
         "script-src": [
-          "'nonce-0rwwpziuseup0tkgijpkbw=='",
+          "'nonce-1lsxjr5sqe7k5wxzlup1qq=='",
           "'self'",
           "https://*.crisp.chat",
           "https://stats.beta.gouv.fr",
@@ -110,7 +110,7 @@
       "data": {
         "_monstage_session": {
           "domain": "www.monstagedetroisieme.fr",
-          "expires": "2026-11-01T15:54:24.000Z",
+          "expires": "2026-11-08T16:00:03.000Z",
           "httponly": true,
           "path": "/",
           "port": null,
