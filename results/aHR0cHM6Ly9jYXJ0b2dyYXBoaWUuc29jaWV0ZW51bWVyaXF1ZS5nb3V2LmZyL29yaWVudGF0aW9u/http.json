@@ -11,14 +11,14 @@
     "responseHeaders": {
       "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
       "content-type": "text/html; charset=utf-8",
-      "date": "Sun, 01 Nov 2026 03:28:10 GMT",
+      "date": "Sun, 08 Nov 2026 03:31:56 GMT",
       "link": "<https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud>; rel=preconnect, </images/app-logo.svg>; rel=preload; as=\"image\"",
       "server": "envoy",
       "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
       "x-cache-status": "HIT",
       "x-powered-by": "Next.js",
       "x-url": "http://0.0.0.0:3000/",
-      "x-envoy-upstream-service-time": "8",
+      "x-envoy-upstream-service-time": "7",
       "connection": "close",
       "transfer-encoding": "chunked"
     }
@@ -89,83 +89,95 @@
       "result": "sri-not-implemented-but-external-scripts-loaded-securely",
       "scoreModifier": -5,
       "data": {
-        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/14anibvzgw0a5.js": {
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/20_owmqb36lez.js": {
           "crossorigin": null,
           "integrity": null
         },
-        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0j_gfjtfs4cys.js": {
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/2wb7djy512d8-.js": {
           "crossorigin": null,
           "integrity": null
         },
-        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0mml7he4syfki.js": {
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/11g3we11ev-lk.js": {
           "crossorigin": null,
           "integrity": null
         },
-        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/1lr506d3wnx_u.js": {
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/06f_l1k_3_3ok.js": {
           "crossorigin": null,
           "integrity": null
         },
-        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/2tpjny3wju4pc.js": {
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/2ia3huh-7xsxj.js": {
           "crossorigin": null,
           "integrity": null
         },
-        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/turbopack-43mscowusuecq.js": {
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/turbopack-1md0j3f9yg5o_.js": {
           "crossorigin": null,
           "integrity": null
         },
-        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0tdbfq1jrebb4.js": {
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0bd3up005f8gs.js": {
           "crossorigin": null,
           "integrity": null
         },
-        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/1xa-eqmvmzl5n.js": {
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/1olprohplduqo.js": {
           "crossorigin": null,
           "integrity": null
         },
-        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/0zm0g_9mb7vuo.js": {
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/131cq68oq79qc.js": {
           "crossorigin": null,
           "integrity": null
         },
-        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/3bnie037gtigz.js": {
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/18_ocf7xu1dhr.js": {
           "crossorigin": null,
           "integrity": null
         },
-        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/1n9p1k1q-pi_z.js": {
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/3w0duudcx9rhz.js": {
           "crossorigin": null,
           "integrity": null
         },
-        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/2feitmnda3j-d.js": {
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/1snid4iogvj_6.js": {
           "crossorigin": null,
           "integrity": null
         },
-        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/185izhlapthq6.js": {
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/2x6lg--dprl4y.js": {
           "crossorigin": null,
           "integrity": null
         },
-        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/1w6hlj-exmjy0.js": {
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/2m5a4b7tqrnjm.js": {
           "crossorigin": null,
           "integrity": null
         },
-        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/25qvmgbyqmtbs.js": {
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/08-5c3w6kz_i7.js": {
           "crossorigin": null,
           "integrity": null
         },
-        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/1su6sxobpf7bq.js": {
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/1h2lgfw9pj2km.js": {
           "crossorigin": null,
           "integrity": null
         },
-        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/33fxx1f7r0fqp.js": {
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/27b4ziwo-lusx.js": {
           "crossorigin": null,
           "integrity": null
         },
-        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/25w_p-fvm6t9i.js": {
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/3kt1ovnbu8whp.js": {
           "crossorigin": null,
           "integrity": null
         },
-        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/00k_81xs3vwuk.js": {
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/1a1k4g046g1g2.js": {
           "crossorigin": null,
           "integrity": null
         },
-        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/30c6jx-_xrz1i.js": {
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/33x37b8dpogkb.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/19v_4qp6mfetj.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/1e9odhrrusgjj.js": {
+          "crossorigin": null,
+          "integrity": null
+        },
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/28v25k6gyus4a.js": {
           "crossorigin": null,
           "integrity": null
         },
@@ -173,7 +185,7 @@
           "crossorigin": null,
           "integrity": null
         },
-        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/3-impc1erh9oe.js": {
+        "https://cartographie-prod-app-static-assets.s3.fr-par.scw.cloud/_next/static/chunks/3rfumblf8nroj.js": {
           "crossorigin": null,
           "integrity": null
         }
