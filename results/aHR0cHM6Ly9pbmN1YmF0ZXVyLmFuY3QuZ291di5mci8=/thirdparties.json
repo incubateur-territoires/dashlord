@@ -7,12 +7,12 @@
   ],
   "cookies": [
     {
-      "name": "_pk_id.22.6a82",
-      "value": "5c66e7848285e67d.1793501079.",
+      "name": "_pk_ses.22.6a82",
+      "value": "1",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1827456279,
-      "size": 42,
+      "expires": 1794108035,
+      "size": 16,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -22,12 +22,12 @@
       "sameParty": false
     },
     {
-      "name": "_pk_ses.22.6a82",
-      "value": "1",
+      "name": "_pk_id.22.6a82",
+      "value": "d124fa70623810f8.1794106235.",
       "domain": "anct.gouv.fr",
       "path": "/",
-      "expires": 1793502878,
-      "size": 16,
+      "expires": 1828061435,
+      "size": 42,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -42,10 +42,10 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 01 Nov 2026 02:44:38 GMT",
-    "etag": "W/\"1793289607\"",
+    "date": "Sun, 08 Nov 2026 02:50:34 GMT",
+    "etag": "W/\"1794055883\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Thu, 29 Oct 2026 16:00:07 GMT",
+    "last-modified": "Sat, 07 Nov 2026 12:51:23 GMT",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding\nCookie",
     "x-content-type-options": "nosniff",
@@ -53,12 +53,12 @@
     "x-drupal-dynamic-cache": "MISS",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-request-id": "d51d83d3-9cf0-47b4-b4a5-751cfe3b7b38"
+    "x-request-id": "0f40bb8f-67b9-4161-8850-a3895412c97d"
   },
   "endpoints": [
     {
       "hostname": "incubateur.anct.gouv.fr",
-      "ip": "185.21.194.105",
+      "ip": "148.253.96.193",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -192,7 +192,8 @@
               "fr": "Centre-Val de Loire",
               "ja": "サントル＝ヴァル・ド・ロワール地域圏",
               "pt-BR": "Centro",
-              "ru": "Центр — Долина Луары"
+              "ru": "Центр — Долина Луары",
+              "zh-CN": "中央-卢瓦尔河谷大区"
             }
           },
           {
