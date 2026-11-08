@@ -42,7 +42,7 @@
     },
     {
       "type": "contentsquare",
-      "url": "https://t.contentsquare.net/settings/266388.json?r=1992778",
+      "url": "https://t.contentsquare.net/settings/266388.json?r=1993451",
       "details": {
         "id": "contentsquare",
         "message": "Replace with privacy-first solutions"
@@ -55,12 +55,12 @@
   ],
   "cookies": [
     {
-      "name": "_pk_ses.118.88ba",
-      "value": "1",
+      "name": "_pk_id.118.88ba",
+      "value": "df326be74edc5208.1794106240.",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1793502887,
-      "size": 17,
+      "expires": 1828061440,
+      "size": 43,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -70,12 +70,12 @@
       "sameParty": false
     },
     {
-      "name": "_pk_id.118.88ba",
-      "value": "2b3e4ec7c131fbfd.1793501087.",
+      "name": "_pk_ses.118.88ba",
+      "value": "1",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1827456287,
-      "size": 43,
+      "expires": 1794108039,
+      "size": 17,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -89,13 +89,13 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' https://stats.beta.gouv.fr https://*.contentsquare.net https://sentry.anct.cloud-ed.fr; connect-src 'self' https://api.collectivite.fr https://stats.beta.gouv.fr https://*.contentsquare.net https://sentry.anct.cloud-ed.fr https://quotient-familial.numerique.gouv.fr https://datanova.laposte.fr https://data-api.publication-actes.fr https://data-api.megalis.bretagne.bzh; worker-src 'self' blob:;; frame-src 'self' https://data.megalis.bretagne.bzh https://publication-actes.fr https://stats.beta.gouv.fr; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://annuaire-des-collectivites-production-storage.s3.fr-par.scw.cloud https://annuaire-des-collectivites-development-storage.s3.fr-par.scw.cloud https://*.contentsquare.net https://commons.wikimedia.org https://upload.wikimedia.org; font-src 'self' https:; object-src 'none'; upgrade-insecure-requests",
     "content-type": "text/html",
-    "date": "Sun, 01 Nov 2026 02:44:45 GMT",
+    "date": "Sun, 08 Nov 2026 02:50:37 GMT",
     "permissions-policy": "geolocation=(), microphone=(), camera=()",
     "referrer-policy": "strict-origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "f8cf57df-478f-453e-9286-dd6244968dcc",
+    "x-request-id": "de83231f-6aec-4867-a71a-d8eb87537a48",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -157,7 +157,7 @@
     },
     {
       "hostname": "annuaire-des-collectivites-production-storage.s3.fr-par.scw.cloud",
-      "ip": "51.159.217.178",
+      "ip": "51.159.42.138",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
@@ -255,7 +255,7 @@
     },
     {
       "hostname": "static.hj.contentsquare.net",
-      "ip": "18.172.134.23",
+      "ip": "3.163.24.123",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -309,7 +309,7 @@
     },
     {
       "hostname": "t.contentsquare.net",
-      "ip": "3.167.163.10",
+      "ip": "143.204.1.108",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -441,7 +441,8 @@
               "fr": "Centre-Val de Loire",
               "ja": "サントル＝ヴァル・ド・ロワール地域圏",
               "pt-BR": "Centro",
-              "ru": "Центр — Долина Луары"
+              "ru": "Центр — Долина Луары",
+              "zh-CN": "中央-卢瓦尔河谷大区"
             }
           },
           {
