@@ -12,12 +12,12 @@
       "x-powered-by": "Express",
       "content-language": "en",
       "content-type": "text/html; charset=utf-8",
-      "content-length": "7437",
-      "etag": "W/\"1d0d-WQEnVihtZiHNVcnBdpbDDKQNsKk\"",
+      "content-length": "7392",
+      "etag": "W/\"1ce0-XoOVDQDVXPokD4k5WfH/hs1DZ+E\"",
       "set-cookie": [
-        "grist_core=s%3Ag-ebbbae851180144d243b87f15f4c139a3acb916ce2f82ee751b0ea115c4faceb.9U7ytt4er4Qo%2Bq%2FzfJEWKeHOyXSrh7Hea4ZRrAkhHdY; Path=/; HttpOnly; SameSite=Lax"
+        "grist_core=s%3Ag-86869e8ceccd8de7575b97b077bd978aff45f2c99468b06e8b7b083f4bd8018d.B0JjAhIwZGQXu33rJ%2BSz8xOSETZC1dhitl95JjYzrMc; Path=/; HttpOnly; SameSite=Lax"
       ],
-      "date": "Sun, 01 Nov 2026 04:01:11 GMT",
+      "date": "Sun, 08 Nov 2026 03:57:54 GMT",
       "connection": "close"
     }
   },
