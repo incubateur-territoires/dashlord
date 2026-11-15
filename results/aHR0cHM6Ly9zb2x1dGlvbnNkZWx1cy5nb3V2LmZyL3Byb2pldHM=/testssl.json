@@ -220,7 +220,7 @@
               "ip"           : "solutionsdelus.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
@@ -290,7 +290,7 @@
               "ip"           : "solutionsdelus.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "065167FF17782A88322F544A843D8EB4BF1F"
+              "finding"      : "05A58C7937B21F2CDE41BE72A281DFF0B29B"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -304,21 +304,21 @@
               "ip"           : "solutionsdelus.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "49FEBB6BDCEDF6D815FF228D3B87B666FB08AC5E"
+              "finding"      : "D7551028613D13ECB2A3C6404F108CDDBE8C6BDF"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "solutionsdelus.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "76FC62756A19B09105F51A3A8F7D4AD4F5457CAC726EE611D318101F433D2B28"
+              "finding"      : "8A7F2C26241D59B0D3B4710A3C079ED007472C9223CA3D42A3D883835310EF6D"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "solutionsdelus.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFBTCCA+2gAwIBAgISBlFn/xd4KogyL1RKhD2OtL8fMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNZUjIwHhcNMjYwOTEwMDM1MzUyWhcNMjYxMjA5MDM1MzUxWjAhMR8wHQYDVQQDExZzb2x1dGlvbnNkZWx1cy5nb3V2LmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyePojM/xpeue5HnnHPMWWK2FfarSS9KjxgaKdtCCSAUDlKvwAm2mb4vYUDnKYeSWOtq8NKmvHk5/duaA+yJpuIvcTovtZZti2skWKfg2n8xErJ5dVVpBEtNYYjxdYJtkwWe38jDID0fmKL5cKtVqTvVQgg+qaBXC08okZajks+Iof6CuuABlPud1z0nBMj8/fWhrNr0fqBROS8xiR+6hUr8wKq7ckvKoHGRx5Q9iSBFJZhYA39XXzVN2FYdyCNShAcsHNyV8BY6FhuTwZv7NHprfrM4Y/COhDsugDftmqRx5s1IewdR9oRP2O13NoFsn41YYsI1SUEDmi7mqGwCySwIDAQABo4ICIzCCAh8wDgYDVR0PAQH/BAQDAgWgMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFPlaWgcU5/FJ01iWA0mY3QQtReDTMB8GA1UdIwQYMBaAFEAVLSZ57TIgnt+ach3WMh+BDIEMMDMGCCsGAQUFBwEBBCcwJTAjBggrBgEFBQcwAoYXaHR0cDovL3lyMi5pLmxlbmNyLm9yZy8wIQYDVR0RBBowGIIWc29sdXRpb25zZGVsdXMuZ291di5mcjATBgNVHSAEDDAKMAgGBmeBDAECATAuBgNVHR8EJzAlMCOgIaAfhh1odHRwOi8veXIyLmMubGVuY3Iub3JnLzMyLmNybDCCAQsGCisGAQQB1nkCBAIEgfwEgfkA9wB2ANdtfRDRp/V3wsfpX9cAv/mCyTNaZeHQswFzF8DIxWl3AAABoImo5REAAAQDAEcwRQIgC5k8mHvtuvGDJoMRIWuI5O5z/80nIzCA+XjIYOLXzsMCIQDetNkZTk66iLeYkIclmXWtfZkOqeJdMiwbHgA4wArl7AB9AKgmy+MKxjUSRlM/4GXxTxnZbhkIE8Qd2W15ALMSPFUnAAABoImo54gACAAABQAwH7R+BAMARjBEAiAFvBkpItd9x0FwAqHhDqVE442RFifVv73clM0BLQ/QTAIgIunH/Xsk2uhV+zuCjCTqscPvP72cG90W/sbF0WLmr14wDQYJKoZIhvcNAQELBQADggEBAFVBIMoH1Ckss/NMmzMgpvHjAW6WFrRw8pJaCtU1Uv9rkDnRnjnV4qVI1rCXwnyD5MwOio4yMWyYVlf79i7u3KUTKdkW+Dg0TpEJZmLlJlx9ElVCCt/bUPKGgOOhKQX24d//GpI0JkWeYZ8rZ+EyJVzzovuvrMMweEIxR80sTZNFBmofAtjAfD02RJTj6+m9AZ7j6FtUzcR1OK05Z3MrOQoQk4NLnLtL+Sp6UunxxG1hepsDVA7ux+ElbQOnXRhV7OB3EuQhsrv+HuMCmJM6PSpDNrMpKgqZbA1AgEugzByGYfYtx6euPKZAplOf8wOU1MmP2NgLHX94nX5wDyLbkJw=\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFBjCCA+6gAwIBAgISBaWMeTeyHyzeQb5yooHf8LKbMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNZUjIwHhcNMjYxMTA5MDI1NTQ5WhcNMjcwMjA3MDI1NTQ4WjAhMR8wHQYDVQQDExZzb2x1dGlvbnNkZWx1cy5nb3V2LmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvnaK69yxEbtBGVOODfre73ouQMk1SmBMa0dRTLYKNJtP6XPXrgDsvt0rbDnGGbkemjsThYIdB5QUOpXQj5YNI8th14fAFBLDBaclqGZr/vo1T6cQxr67aW1K8EiuVw9ii5cZOdL2uPl8o6WyKRrBS6gHrHuDyEVotB/7D1COLx/yNDKP89c4dvpdwSpfUppTW2ns9DpbkAvCt9I8tCCn66a6/XxXyxH7xTM/olbmwSouzxZRCKbAunlvIMKDfvnyRyoqwqBrbdZckFhl0PMcnO5Q3ZiX0OQ/rL1tUHTMy2lbf3dKU0To5vvZg/vmniB5SuQ9lxxBy/MiTwMan16kiQIDAQABo4ICJDCCAiAwDgYDVR0PAQH/BAQDAgWgMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFPTb6Nup890QR/FsINBEHhvDz4P2MB8GA1UdIwQYMBaAFEAVLSZ57TIgnt+ach3WMh+BDIEMMDMGCCsGAQUFBwEBBCcwJTAjBggrBgEFBQcwAoYXaHR0cDovL3lyMi5pLmxlbmNyLm9yZy8wIQYDVR0RBBowGIIWc29sdXRpb25zZGVsdXMuZ291di5mcjATBgNVHSAEDDAKMAgGBmeBDAECATAuBgNVHR8EJzAlMCOgIaAfhh1odHRwOi8veXIyLmMubGVuY3Iub3JnLzI4LmNybDCCAQwGCisGAQQB1nkCBAIEgf0EgfoA+AB2AETCvQzpFA5kpclKAZMKWqG7NZcOAO4RFoloKhxE17VmAAABob5xT1oAAAQDAEcwRQIhAOFpwTfJlny/fMtHVpr75V7JeyYv/Jgje4qr331CPbh2AiB6PX0dAGLAoh4LduAOmClobbkJ/mh6KijRaVtg/QDMwAB+AI7KRwus3mrzogawpHqEt0b+H8a/lT4l5ptO5AJI88boAAABob5xUngACAAABQA/zBGMBAMARzBFAiEA5JoI7eAbmR//IXPGoZsSaTmInir2qVIgDae+wIsQalUCIEOGLVaZ8u3QICQTJ2w+jN7FHWxCN6athFl56MAn7dhlMA0GCSqGSIb3DQEBCwUAA4IBAQCfbQmBcNtnnvZ7/7bcda1befNK5uk+DAuUsvtZ9xj9tZbyLsvOPRlIg8MCluA4qNYK9FwSsMvAOkYTJ1ECqQIxtXjR4VTr6gQ/zx7wYBQ/sJpU0mkIlHnFcYlXLC1/QJo9aZybBAPJR8OX4emtbTFeBU8wPT3qZHU5x8zsganjfd3/+N6XZAxw9MU5EmibZYD+W0vwN01bcUwXJBo6KOas8rHZKeGrD4+mxiCl0QqBUbEJDiYTAYFxBMRmqHT1t+WPo8AS/nMonuNB7moi6H3nSS+TxFVq+2+PZ0MKKgtBlaZB4ERUG+AMQ4JY1+b1z6TkuIhLOe2z7u2TPNrrjeji\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -374,21 +374,21 @@
               "ip"           : "solutionsdelus.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "31 >= 30 days"
+              "finding"      : "83 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "solutionsdelus.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2026-09-10 03:53"
+              "finding"      : "2026-11-09 02:55"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "solutionsdelus.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2026-12-09 03:53"
+              "finding"      : "2027-02-07 02:55"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -409,7 +409,7 @@
               "ip"           : "solutionsdelus.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://yr2.c.lencr.org/32.crl"
+              "finding"      : "http://yr2.c.lencr.org/28.crl"
           }
 ,         {
               "id"           : "cert_ocspURL",
@@ -577,7 +577,7 @@
               "ip"           : "solutionsdelus.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1794108292"
+              "finding"      : "1794714579"
           }
 ,         {
               "id"           : "HSTS",
@@ -750,7 +750,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=76FC62756A19B09105F51A3A8F7D4AD4F5457CAC726EE611D318101F433D2B28"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=8A7F2C26241D59B0D3B4710A3C079ED007472C9223CA3D42A3D883835310EF6D"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -1126,6 +1126,6 @@
               "ip"           : "solutionsdelus.gouv.fr/51.159.115.116",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "62"
+              "finding"      : "82"
           }
 ]
