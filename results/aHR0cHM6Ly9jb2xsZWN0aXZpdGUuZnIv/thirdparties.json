@@ -42,7 +42,7 @@
     },
     {
       "type": "contentsquare",
-      "url": "https://t.contentsquare.net/settings/266388.json?r=1994125",
+      "url": "https://t.contentsquare.net/settings/266388.json?r=1994798",
       "details": {
         "id": "contentsquare",
         "message": "Replace with privacy-first solutions"
@@ -50,7 +50,15 @@
     },
     {
       "type": "contentsquare",
-      "url": "https://c.ba.contentsquare.net/pageview?ex=&dt=112&pvt=n&la=en-US&uc=0&url=https%3A%2F%2Fcollectivite.fr%2F&dr=&dw=800&dh=7491&ww=800&wh=600&sw=800&sh=600&uu=2806e7c3-7418-a7f4-e550-2fe825d78bf4&sn=1&hd=1794712672&v=15.284.4&pid=266388&pn=1&ct=0",
+      "url": "https://c.ba.contentsquare.net/pageview?ex=&dt=18&pvt=n&la=en-US&uc=0&url=https%3A%2F%2Fcollectivite.fr%2F&dr=&dw=800&dh=7491&ww=800&wh=600&sw=800&sh=600&uu=2ae0ec30-7418-aa57-b015-c9a12a468e42&sn=1&hd=1795318692&v=15.285.0&pid=266388&pn=1&ct=0",
+      "details": {
+        "id": "contentsquare",
+        "message": "Replace with privacy-first solutions"
+      }
+    },
+    {
+      "type": "contentsquare",
+      "url": "https://k.ba.contentsquare.net/v2/recording?rt=5&v=15.285.0&pid=266388&pn=1&sn=1&uu=2ae0ec30-7418-aa57-b015-c9a12a468e42&let=1795318692380&rst=1795318692378&ri=1&ct=2",
       "details": {
         "id": "contentsquare",
         "message": "Replace with privacy-first solutions"
@@ -59,6 +67,14 @@
     {
       "type": "unknown",
       "url": "https://sentry.anct.cloud-ed.fr/api/10/envelope/?sentry_version=7&sentry_key=1617453a3c8412511a677cb699a44f5c&sentry_client=sentry.javascript.astro%2F11.1.0"
+    },
+    {
+      "type": "contentsquare",
+      "url": "https://k.ba.contentsquare.net/v2/recording?rt=5&v=15.285.0&pid=266388&pn=1&sn=1&uu=2ae0ec30-7418-aa57-b015-c9a12a468e42&let=1795318692452&rst=1795318692378&hlm=true&ct=0",
+      "details": {
+        "id": "contentsquare",
+        "message": "Replace with privacy-first solutions"
+      }
     },
     {
       "type": "unknown",
@@ -67,11 +83,26 @@
   ],
   "cookies": [
     {
-      "name": "_cs_s",
-      "value": "1.0.U.9.1794714472043",
+      "name": "_pk_id.118.88ba",
+      "value": "865c5a6e74fb6eb8.1795318693.",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1794714472,
+      "expires": 1829273893,
+      "size": 43,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "priority": "Medium",
+      "sourceScheme": "Secure",
+      "sameParty": false
+    },
+    {
+      "name": "_cs_s",
+      "value": "1.5.U.9.1795320492376",
+      "domain": "collectivite.fr",
+      "path": "/",
+      "expires": 1795320492,
       "size": 26,
       "httpOnly": false,
       "secure": true,
@@ -86,7 +117,7 @@
       "value": "0",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1828876672,
+      "expires": 1829482692,
       "size": 6,
       "httpOnly": false,
       "secure": true,
@@ -98,10 +129,10 @@
     },
     {
       "name": "_cs_id",
-      "value": "2806e7c3-7418-a7f4-e550-2fe825d78bf4.1794712672.1.1794712672.1794712672.1.1827876672030.0.x",
+      "value": "2ae0ec30-7418-aa57-b015-c9a12a468e42.1795318692.1.1795318692.1795318692.1.1828482692361.0.x",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1827876672,
+      "expires": 1828482692,
       "size": 97,
       "httpOnly": false,
       "secure": true,
@@ -116,23 +147,8 @@
       "value": "1",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1794714472,
+      "expires": 1795320493,
       "size": 17,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "priority": "Medium",
-      "sourceScheme": "Secure",
-      "sameParty": false
-    },
-    {
-      "name": "_pk_id.118.88ba",
-      "value": "1f9e91462207862e.1794712672.",
-      "domain": "collectivite.fr",
-      "path": "/",
-      "expires": 1828667872,
-      "size": 43,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -146,19 +162,19 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' https://stats.beta.gouv.fr https://*.contentsquare.net https://sentry.anct.cloud-ed.fr; connect-src 'self' https://api.collectivite.fr https://stats.beta.gouv.fr https://*.contentsquare.net https://sentry.anct.cloud-ed.fr https://quotient-familial.numerique.gouv.fr https://datanova.laposte.fr https://data-api.publication-actes.fr https://data-api.megalis.bretagne.bzh; worker-src 'self' blob:;; frame-src 'self' https://data.megalis.bretagne.bzh https://publication-actes.fr https://stats.beta.gouv.fr; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://annuaire-des-collectivites-production-storage.s3.fr-par.scw.cloud https://annuaire-des-collectivites-development-storage.s3.fr-par.scw.cloud https://*.contentsquare.net https://commons.wikimedia.org https://upload.wikimedia.org; font-src 'self' https:; object-src 'none'; upgrade-insecure-requests",
     "content-type": "text/html",
-    "date": "Sun, 15 Nov 2026 03:17:51 GMT",
+    "date": "Sun, 22 Nov 2026 03:38:11 GMT",
     "permissions-policy": "geolocation=(), microphone=(), camera=()",
     "referrer-policy": "strict-origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "8fe80ce6-c4eb-42fd-a192-a9cf1bc57825",
+    "x-request-id": "ff46bd27-e886-4c94-b2a5-3cc699321caf",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
     {
       "hostname": "collectivite.fr",
-      "ip": "80.247.13.145",
+      "ip": "148.253.96.193",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -214,7 +230,7 @@
     },
     {
       "hostname": "annuaire-des-collectivites-production-storage.s3.fr-par.scw.cloud",
-      "ip": "51.159.42.197",
+      "ip": "51.159.42.146",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
@@ -312,21 +328,8 @@
     },
     {
       "hostname": "static.hj.contentsquare.net",
-      "ip": "18.160.41.112",
+      "ip": "65.8.54.101",
       "geoip": {
-        "city": {
-          "geoname_id": 5809844,
-          "names": {
-            "de": "Seattle",
-            "en": "Seattle",
-            "es": "Seattle",
-            "fr": "Seattle",
-            "ja": "シアトル",
-            "pt-BR": "Seattle",
-            "ru": "Сиэтл",
-            "zh-CN": "西雅图"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -356,14 +359,10 @@
           }
         },
         "location": {
-          "accuracy_radius": 20,
-          "latitude": 47.6109,
-          "longitude": -122.3303,
-          "metro_code": 819,
-          "time_zone": "America/Los_Angeles"
-        },
-        "postal": {
-          "code": "98101"
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -378,28 +377,12 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5815135,
-            "iso_code": "WA",
-            "names": {
-              "de": "Washington",
-              "en": "Washington",
-              "es": "Washington",
-              "fr": "Washington",
-              "ja": "ワシントン州",
-              "pt-BR": "Washington",
-              "ru": "Вашингтон",
-              "zh-CN": "华盛顿州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "t.contentsquare.net",
-      "ip": "3.167.88.49",
+      "ip": "18.173.121.56",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -454,6 +437,93 @@
     {
       "hostname": "c.ba.contentsquare.net",
       "ip": "34.253.163.93",
+      "geoip": {
+        "city": {
+          "geoname_id": 2964574,
+          "names": {
+            "de": "Dublin",
+            "en": "Dublin",
+            "es": "Dublín",
+            "fr": "Dublin",
+            "ja": "ダブリン",
+            "pt-BR": "Dublin",
+            "ru": "Дублин",
+            "zh-CN": "都柏林"
+          }
+        },
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 2963597,
+          "is_in_european_union": true,
+          "iso_code": "IE",
+          "names": {
+            "de": "Irland",
+            "en": "Ireland",
+            "es": "Irlanda",
+            "fr": "Irlande",
+            "ja": "アイルランド",
+            "pt-BR": "Irlanda",
+            "ru": "Ирландия",
+            "zh-CN": "爱尔兰"
+          }
+        },
+        "location": {
+          "accuracy_radius": 20,
+          "latitude": 53.3354,
+          "longitude": -6.252,
+          "time_zone": "Europe/Dublin"
+        },
+        "postal": {
+          "code": "D02"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États-Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 7521314,
+            "iso_code": "L",
+            "names": {
+              "de": "Leinster",
+              "en": "Leinster",
+              "es": "Leinster",
+              "fr": "Leinster",
+              "ja": "レンスター",
+              "pt-BR": "Leinster",
+              "ru": "Ленстер",
+              "zh-CN": "伦斯特省"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "k.ba.contentsquare.net",
+      "ip": "63.34.172.74",
       "geoip": {
         "city": {
           "geoname_id": 2964574,
